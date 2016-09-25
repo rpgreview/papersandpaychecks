@@ -221,11 +221,13 @@ Keep in mind that these are an metagame award to the players, not just to the ch
 
 Characteristics are the basic attribitues of a "Papers and Paychecks" character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 roll in order for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (CON), and Charisma (CHA). 
 
-Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. Characters in "Papers and Paychecks" are assumed to be of their age of majority. Whilst actual starting will depend on profession, the practical effect is that they will begin with the same range of characteristic values. 
+Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. "Papers and Paychecks" is "realistic" insofar that characteristics are random, but "narrativist", in the sense that players can intervene to ensure that they have the sort of character they want. 
+
+Characters in "Papers and Paychecks" are assumed to be of their age of majority. Whilst actual starting age will depend on profession, the practical effect is that they will begin with the same range of characteristic values. Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this is abstracted to a penalty of -2 points for female characters for their Strength, but a bonus of +1 for their Dexterity and Constitution. 'Racial' differences are not considered, as cladistics indicates gradual change throughout the species, although a player may choose to select an geographical origin based on their characteristic scores.
 
 The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked:
  
-|Value 	| Bonus |
+| Value | Bonus |
 --------|-------|
 | 1	| -5    |
 | 2-3	| -4    |
@@ -241,42 +243,51 @@ The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses 
 
 In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
-Strength: Strength represents the both the musculture of the character and their knowledge of how to use it effectively. As a result the characteristic bonus is app 
-
-
- By itself Strength doesn't contribute much in terms of skills, but it does include a number of secondary characteristics.  
-
-A character's capacity to carry things is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. Characters can lift and push even more than this - see sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details.
+Strength: Strength represents the both the musculture of the character and their knowledge of how to use it effectively.  By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details.
 
 The average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic; a character with a high Strength and low Constitution will be tall but thin, a character with a low Strength and high Constitition will be short and stout. 
 
-Intelligence 
+The average of a character's Strength and Dexterity multiplied by five provides the character's Move. This secondary characteristic defines how many metres per ten-second tactical round a character can move unencumbered. 
 
-Wisdom
+A character's capacity to carry things, their Encumbrance rating, is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. 
 
-Dexterity
+Intelligence: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. 
 
-Consitution
+Wisdom: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself.
 
-Charisma
+Dexterity: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests.
 
+Consitution: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging).
 
+As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
 
-
-
-
-
+Charisma: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills.
 
 
 ## 1.4 Professions
 
 - Labourer (muscle): STR
+
+Starts young. Rapid initial gain in income, but then flattens.
+
 - Scientist (facts and reasons): INT
+
+Starts older. Low income, medium at high levels.
+
 - Administrator (paperwork and policy): WIS
+
+Starts young. Low to medium income.
+
 - Tradesperson (hand-eye): DEX
+
+Starts average. High income.
+
 - Researcher (reading and more reading): CON
+
+Starts older. Low income, medium at high levels.
 - Manager (people skills): CHA
 
+Starts average age. High income and ever increasing.
 
 ## 1.5 Skills
 
