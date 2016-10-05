@@ -263,8 +263,17 @@ As mentioned under Strength, the average of a character's Strength and Constitut
 
 Charisma: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills.
 
-
 ## 1.4 Professions
+
+"Papers and Paychecks" has six character professions, each of which has a related primary characteristic. The player chooses which character profession they belong to and in most cases will select the profession with that primary characterstic. Not only are many of the character's activities most successful with that related value, but they will also receive a pay bonus.
+
+The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Constitution)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strenth of 18, would receive a 40% bonus in their paycheck.
+
+As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
+
+This is also a "class and level" game. The "classes" are, of course, represented by the various professions. Unlike however traditional games, the "class" is not a straight-jacket which restricts the character, in "Papers and Paychecks" the profession is a flexible set of options. Characters may also change their profession as they wish, and often a character will have multiple professions representing a change in employment (e.g., a level 4 Labourer and level 6 Tradesperson). The character will receive the payrate according to the work that they are currently doing. If this sounds unfair, ask a migrant cleaner with a PhD in nuclear physics how they feel about it.
+
+Each character has a level, representing their pay band and the base net wages that they receive. This level is determined by how many "projects" that they have completed, a "project" being the equivalent of a "scenario" in a fantasy RPG. On average, a character can expect to participate in one project per annum. Different professions have different starting ages, different rates of pay, and different rates of advancement.
 
 - Labourer (muscle): STR
 
@@ -285,13 +294,83 @@ Starts average. High income.
 - Researcher (reading and more reading): CON
 
 Starts older. Low income, medium at high levels.
+
 - Manager (people skills): CHA
 
 Starts average age. High income and ever increasing.
 
 ## 1.5 Skills
 
+Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number of 8.
+
+The degree that the result is relative to 8 equals the degree of success or failure. There are no "natural" successes or failures from rolling a '2' or '12' for example. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
+
+Skills are defined by their associated characteristic, the default value, and the encumbrance penalty. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acument alone. Finally different skills have an encumbrance penalty modifier. 
+
+Skills are categorised according to characteristic
+
+### Strength Based Skills
+
+Climb, Jump, Swim
+
+### Intelligence Based Skills
+
+Computing, Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual art), Craft (writing), Demolitions, Disable Device, Forgery, Investigate, Knowledge, Language (various), Navigate, Repair
+
+### Wisdom Based Skills
+
+Gamble, Listen, Profession, Sense Motive, Spot, Survival
+
+### Dexterity Based Skills
+
+Balance, Drive, Escape Artist, Hide, Pilot, Ride, Sleight, Stalk, Tumble
+
+### Constitution Based Skills
+
+Concentration, Hiking, Perception
+
+### Charisma Based Skills
+
+Acting, Intimidate, Persuasion, Seduction
+
 ## 1.6 Personality
 
 ## 1.7 Starting Equipment
+
+In a general sense the price of a good equals the price of the good in the location of the game, around 2016-2017. In "Papers and Paychecks" characters have a starting wealth along with the income that they receive according to their level. Starting wealth is entirely random, based on a 2d6 roll, times $1000. This random roll also determines the net value of the character's inheritence, which occurs in the character's (2d6*2) + 20th year.
+
+# 2.0 Actions and The Environment
+## 2.1 Time and Core Mechanic
+## 2.2 The Resistentialist Environment
+## 2.3 Tactical Task Resolution
+## 2.4 Strategic Task Resolution
+## 2.5 Damage and Healing
+## 2.6 Equipment in Detail
+
+# 3.0 Non-Player Characters
+## 3.1 Labourers
+## 3.2 Scientists
+## 3.3 Administrators
+## 3.4 Technicians
+## 3.5 Researchers
+## 3.6 Managers
+
+# 4.0 The Boss Book
+## 4.1 Being The Boss
+## 4.2 Running The Session
+## 4.3 Season and Episode Design
+
+# 5.0 Scenarios
+## 5.1 Season 1, Episode 1
+## 5.2 Season 1, Episode 2
+## 5.3 Season 1, Episode 3
+## 5.4 Season 1, Episode 4
+## 5.5 Season 1, Episode 5
+
+# 6.0 Appendicies
+## 6.1 Source Material
+## 6.2 Charts and Tables
+## 6.3 Business Organisation Chart
+## 6.4 Dramatis Personae
+## 6.5 Résumé
 
