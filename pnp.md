@@ -373,20 +373,20 @@ In a general sense the price of a good equals the price of the good in the locat
 ## 6.3 Business Organisation Chart
 ## 6.4 Dramatis Personae
 ## 6.5 Résumé
-| Title   | Content   |
+|` Title   `|` Content   `|
 |-----------------------|-----------------|
-| Character Name   |   |
-| Player Name  |   |
-| Luck  |   |
+|` Character Name   `|   |
+|` Player Name  `|   |
+|` Luck  `|   |
 
-| Characteristic   | Bonus   |   |   |   |
+| `Characteristic   `| `Bonus   `|   |   |   |
 |--------|-----|-------|---|-----|
-| Strength  |   |   | Levels  |   |
-| Intelligence  |   |   | Experience (Projects)  |   |
-| Wisdom  |   |   |  Current Wage |   |
-| Dexterity  |   |   | Wounds (Physical)  |   |
-| Constitution  |   |   | Wounds (Mental)   |   |
-| Charisma  |   |   | Wounds (Social)  |   |
+|` Strength  `|   |   |` Levels  `|   |
+|` Intelligence  `|   |   |` Experience (Projects)  `|   |
+|` Wisdom  `|   |   |`  Current Wage `|   |
+|` Dexterity  `|   |   |` Wounds (Physical)  `|   |
+|` Constitution  `|   |   |` Wounds (Mental)   `|   |
+|` Charisma  `|   |   |` Wounds (Social)  `|   |
 
 | Skill  | Attribute   | Training  |  Equipment  | Total  |
 |--------|-----|-----|-----|-----|
