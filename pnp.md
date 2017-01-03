@@ -452,32 +452,68 @@ Profession Skills: Language (own), Profession (own)
 
 ## 1.6 Skills
 
-Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number of 8.
-
-The degree that the result is relative to the target number of 11 equals the degree of success or failure. There are no "natural" successes or failures from rolling a '2' or '12' for example. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
+Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number 8, 11, or 14 for degrees of narrative success, but with the raw value representing an absolute degree of raw success. There are no "natural" successes or failures from rolling a '2' or '12' for example as a result. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
 
 Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone.
 
 ### Strength Based Skills
 
-There are few Strength based skills, but they have a wide application. Strength-based skills have a default of Str-2, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Strength based skills, but they have a wide application. Strength-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
 **Brawl**
 
 **Climb**
 
-A climb check is necessary whenever a character is required to move along a steep incline, defined as 45 degrees or more. There is a modifier to the climb check depending on the angle of the incline:
+A Climb check is necessary every round whenever a character is required to move along a steep incline, defined as 50 degrees or more. Encumbrance penalties apply to Climb checks.
 
-45 degrees to 59 degrees: +2
+There is a modifier to the climb check depending on the angle of the incline. Handholds are *required* for any incline of 90 degrees or more.
+
+50 degrees to 59 degrees: +2
 60 degrees to 69 degrees: +1
 70 degrees to 79 degrees: +0
 80 degrees to 89 degrees: -1
-90 degrees: -3, and handholds required.
+90 degrees to 109 degrees: -2 
+110 degrees to 139 degrees: -3
+140 degrees to 180 degrees: -4
 
-If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall. Each second after that they may attempt to stabilise themselves and grab onto something (i.e., at 5m, 20m, 125m). That 'something' may very well be the big and friendly ground. Being attached to by a rope to something stable is advisable when climbing any significant distance. 
+There are also modifiers on the type of surface:
 
+Smooth worked material with no handholds: -4
+Rough surface, such as a crumbling building or natural rock: -2
+Very rough surface with handholds and footholds (e.g., rope, etc): +0
+Normal climbable surface (e.g., rigging, tree etc): +2
+A ladder on a stable surface: +4 
+
+A character with one limb missing or unavailable has a penalty of -2 for climbing, and -4 for two limbs missing (it is difficult, but far from impossible for a paraplegic to climb). 
+
+If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall. 
+
+If a character falls each second after that they may attempt at a -5 DEX test to stabilise themselves and grab onto something (i.e., at 5m, 20m, 125m). That 'something' will probably be the big and friendly ground. Being attached by a rope to something stable is advisable when climbing any significant distance. 
+
+A character's Dexterity for the purpose of avoiding physical damage, is equal to the movement modifiers given above (e.g., a character who is moving at 1/4 of their normal Speed will have 1/4 of their normal Dexterity; this will usually mean that they are quite an easy target).
+
+A character may attempt to catch an falling object (e.g., another character) whilst climbing. This requires a successful Brawl action against the Dexterity-based velocity of the falling object and its size as elaborated in the physical combat rules. However if the total weight exceeds the Encumbrance limit of the character they will also require a Climb check.
+
+If a character takes physical damage whilst climbing, they will need to make a Concentration skill roll with a modifier equal to the damage taken. If the roll is failed another Climb skill roll is required for that round.
+
+If the equipment is availble, a character may attempt to improve the surface they are climbing by making additional handholds. For every six rounds of using hammer and pitons, or ice-picks, or similar, they may improve the bonus by +1 for every metre of movement. 
 
 **Jump**
+
+A Jump check is necessary when a player dictates that the character will attempt to leap without touching an intervening surface. Encumbrance penalties apply to Jump checks. The distance covered will depend on the type of Jump attempted, with modifiers according to the conditions. 
+
+Jump is heavily modified by the velocity of the character from the round prior to jumping. A velocity of 0m/round equates with a standing jump.
+
+0m/round: -4
+4m/round: -2
+8m/round: +0
+12m/round: +2
+16m/round: +4
+etc 
+
+For a long jump, a horizontal move, the distance is equal to the result in metres. At the midpoint of the jump, the character will have a vertical height of equal to one-quarter of the horizontal distance. For a high jump, a verticle move, the distance jumped is equal to one quarter of the result in meters. 
+
+
 
 
 **Swim**
@@ -485,7 +521,7 @@ If the character has a critical success they can move up to 1/2 their normal spe
 
 ### Intelligence Based Skills
 
-There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of Int-6, for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
+There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
 
 Computing (specialisation), 
 Craft (chemical), 
@@ -502,7 +538,7 @@ Language (various)
 
 ### Wisdom Based Skills
 
-There are a moderate number of Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of Wis-4, for the unksilled, existing in the middle of influence of natural ability and training.
+There are a moderate number of Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
 
 Administration, 
 Gamble, 
@@ -514,7 +550,7 @@ Survival
 
 ### Dexterity Based Skills
 
-There are many Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of Dex-4, for the unksilled, existing in the middle of influence of natural ability and training.
+There are many Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
 
 Balance, 
 Drive, 
@@ -529,7 +565,7 @@ Tumble
 
 ### Constitution Based Skills
 
-There are few Constitution based skills, but they have a wide application. Costitution-based skills have a default of Con-2, for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Constitution based skills, but they have a wide application. Costitution-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
 Concentration, 
 Hiking, 
@@ -537,7 +573,7 @@ Perception
 
 ### Charisma Based Skills
 
-There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of Cha-2, for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the natural ability of the character.
 
 Acting, 
 Intimidate, 
@@ -547,7 +583,7 @@ Seduction
 
 ## 1.7 Perks and Flaws
 
-
+Athletic feat, you get a +2 bonus on Climb checks.
 
 
 # 2.0 Actions and The Environment
