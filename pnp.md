@@ -131,97 +131,97 @@ Luck: A metagame value that players may use to alter the result of a die-roll th
 
 The following is the opening scene of four players of "Papers and Paperchecks". 'The Boss', has set the game with a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
  
-The Boss: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
+> The Boss: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
 
-Everyone: *groans*.
+> Everyone: *groans*.
 
-Gerald: "OK everyone, stand back. The technician is here". What's wrong with it?
+> Gerald: "OK everyone, stand back. The technician is here". What's wrong with it?
 
-The Boss: The machine displays 'Dredgedrawer is full'.
+> The Boss: The machine displays 'Dredgedrawer is full'.
 
-Gerald: Easy enough. I take the dredgedrawer out, empty it, give it a clean and put it back in.
+> Gerald: Easy enough. I take the dredgedrawer out, empty it, give it a clean and put it back in.
 
-The Boss: Now it says 'Dredgedrawer missing'.
+> The Boss: Now it says 'Dredgedrawer missing'.
  
-Gerald: Oh come now. I wriggle it around a bit. I open and close the service door.
+> Gerald: Oh come now. I wriggle it around a bit. I open and close the service door.
 
-The Boss: OK, make an 'Electrical Technician' roll at +2.
+> The Boss: OK, make an 'Electrical Technician' roll at +2.
 
-(Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their adding their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences", which the player chooses).
+> (Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their adding their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences".
 
-The Boss: Congratulations, the machine roars into action. Except now it says 'Refill Beans'.
+> The Boss: Congratulations, the machine roars into action. Except now it says 'Refill Beans'. (Note that the consequence is proportional to the success)
 
-Mary: That's part of my job! 
+> Mary: That's part of my job! 
 
-The Boss: Well, we'd better check that you ordered some. An Administration check for office supplies please.
+> The Boss: Well, we'd better check that you ordered some. An Administration check for office supplies please.
 
-Mary: It never ends. 
+> Mary: It never ends. 
 
-(Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
+> (Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
 
-Mary: Just as well that was one of main skills. Now please let us have a coffee!
+> Mary: Just as well that was one of main skills. Now please let us have a coffee!
 
-(The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
+> (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
 
-The Boss: Well now you all have coffee according to your preferred tastes. You are in the meeting room preparing the activities for the week. Walter's phone rings. It's the head of department, Professor Fleur Power.
+> The Boss: Well now you all have coffee according to your preferred tastes. You are in the meeting room preparing the activities for the week. Walter's phone rings. It's the head of department, Professor Fleur Power.
 
-Walter: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
+> Walter: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
 
-The Boss: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
+> The Boss: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
 
-Walter: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
+> Walter: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
 
-The Boss: (Playing Professor Power) "No, the Minister does not know that and nor does the university marketing department. Marketing thinks we need to make the claim so we get additional funding. So get some models up and running that match some empirical tests and show that a certain activity leads to reduced blood pressure. You have until four pm" Professor Power hangs up. 
+> The Boss: (Playing Professor Power) "No, the Minister does not know that and nor does the university marketing department. Marketing thinks we need to make the claim so we get additional funding. So get some models up and running that match some empirical tests and show that a certain activity leads to reduced blood pressure. You have until four pm" Professor Power hangs up. 
 
-Walter: Well, I'll relay the news to the rest of the team and try to inspire them. I'll roll against my "Inspire Team" skill; a 12, bringing the total to 18! (The player stands from the table and gesticulates wildly addressing the others) "Come on now team, we know the drill. At the end of the day we need to action this, so let's think outside the box, and have an idea shower. We'll look under the bonnet and get all our ducks in a row."
+> Walter: Well, I'll relay the news to the rest of the team and try to inspire them. I'll roll against my "Inspire Team" skill; a 12, bringing the total to 18! (The player stands from the table and gesticulates wildly addressing the others) "Come on now team, we know the drill. At the end of the day we need to action this, so let's think outside the box, and have an idea shower. We'll look under the bonnet and get all our ducks in a row."
 
-(Groans from other players who have actually heard these phrases at their workplace, even as mixed metaphors) 
+> (Groans from other players who have actually heard these phrases at their workplace, even as mixed metaphors) 
 
-The Boss: Very good! You get a Luck point for that truly cringeworthy performance.
+> The Boss: Very good! You get a Luck point for that truly cringeworthy performance.
 
-(A Luck point allows the player to modify a rolled result to whatever value they desire)
+> (A Luck point allows the player to modify a rolled result to whatever value they desire)
 
-Seth: Well, what do we have? Isn't there some lab rats or something on campus that are used for such studies?
+> Seth: Well, what do we have? Isn't there some lab rats or something on campus that are used for such studies?
 
-The Boss: Sure is; very well known too. Make a Science (biology) roll with a +2 bonus.
+> The Boss: Sure is; very well known too. Make a Science (biology) roll with a +2 bonus.
 
-Seth: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
+> Seth: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
 
-The Boss: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
+> The Boss: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
 
-Mary: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
+> Mary: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
 
-Seth: "It doesn't matter, this is great news! We can bring up the dataset, run the simulation, and correlate the results with our loyal rodent allies who we can use to provide empirical evidence to the Minister!"
+> Seth: "It doesn't matter, this is great news! We can bring up the dataset, run the simulation, and correlate the results with our loyal rodent allies who we can use to provide empirical evidence to the Minister!"
 
-(The Boss smiles inwardly thinking of the enormous variety of things that could go wrong with lab rats with hypertension meeting a Minister of Health. Perhaps a biting incident is in order.)
+> (The Boss smiles inwardly thinking of the enormous variety of things that could go wrong with lab rats with hypertension meeting a Minister of Health. Perhaps a biting incident is in order.)
 
-Ingrid: Sounds like my cue. I bring up the database on the cluster. How long will the simulation take?
+> Ingrid: Sounds like my cue. I bring up the database on the cluster. How long will the simulation take?
 
-The Boss: About three hours. However the system is unusually sluggish. Looks like the storage array is full.
+> The Boss: About three hours. However the system is unusually sluggish. Looks like the storage array is full.
 
-Ingrid: It never just rains, does it? OK, I do make a 'Computer (Operating Systems)' check. Total roll of 7. Ugh, what a terrible result. I spend a Luck Point and turn the failure into a success. 
+> Ingrid: It never just rains, does it? OK, I do make a 'Computer (Operating Systems)' check. Total roll of 7. Ugh, what a terrible result. I spend a Luck Point and turn the failure into a success. 
 
-The Boss: Indeed, the disk is full. You've had a good look around and 'luckily' worked out where the most prominent directories are located, and with that now successful roll, you've discovered that there is a large directory of - how do I put this delicately - 'adult entertainment movies' and judging by the titles, some would make your eyes weep. They're in Professor Power's home directory.
+> The Boss: Indeed, the disk is full. You've had a good look around and 'luckily' worked out where the most prominent directories are located, and with that now successful roll, you've discovered that there is a large directory of - how do I put this delicately - 'adult entertainment movies' and judging by the titles, some would make your eyes weep. They're in Professor Power's home directory.
 
-Ingrid: What? Don't we have quotas on these directories? Isn't this sort of, ummm, 'private material' against university policy?
+> Ingrid: What? Don't we have quotas on these directories? Isn't this sort of, ummm, 'private material' against university policy?
 
-The Boss: You want a quota on the head of department? Do you you want to report them? 
+> The Boss: You want a quota on the head of department? Do you you want to report them? 
 
-Walter: No, no, no. We can't do that! Professor Power controls the funding to our group and without her support, we're out on the streets and its game over for us. Maybe it's not hers? Maybe it was hackers!
+> Walter: No, no, no. We can't do that! Professor Power controls the funding to our group and without her support, we're out on the streets and its game over for us. Maybe it's not hers? Maybe it was hackers!
 
-Ingrid: But if we don't free up some space, we'll never be able to run the simulation in time. We should just delete that directory.
+> Ingrid: But if we don't free up some space, we'll never be able to run the simulation in time. We should just delete that directory.
 
-Gerald: I'm not sure that will make the head of department very happy.
+> Gerald: I'm not sure that will make the head of department very happy.
 
-Seth: Maybe if we just temporarily move somebody else's directory? What else is there?
+> Seth: Maybe if we just temporarily move somebody else's directory? What else is there?
 
-The Boss: Well there's a large dataset of the early detection of schizophrenia in adolescents...
+> The Boss: Well there's a large dataset of the early detection of schizophrenia in adolescents...
 
-Mary: You can move that data to one of the local drives - here on my personal computer.
+> Mary: You can move that data to one of the local drives - here on my personal computer.
 
-The Boss: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
+> The Boss: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
 
-(Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
+> (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
 ## 1.2 Luck Rating
 
