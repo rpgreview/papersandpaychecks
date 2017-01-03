@@ -266,7 +266,6 @@ The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses 
 
 For example, a character with a Strength of 18 will receive a +4 bonus for all Strength-related skill tests. If the same character is a Labourer they will receive a bonus of 40% to their average weekly wage.
  
-|---------------|
 | Value | Bonus |
 |-------|-------|
 | 1	| -5    |
@@ -280,7 +279,6 @@ For example, a character with a Strength of 18 will receive a +4 bonus for all S
 | 16-17	| +3    |
 | 18-19	| +4    |
 | etc	| etc   |
-|-------|-------|
 
 In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
@@ -318,7 +316,6 @@ Each character has a level, representing their pay band and the base net wages t
 
 The abstract level rate of advancedment is however the same, depending on the number of projects completed. Papers & Paychecks assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
 
-|------------------|
 | Level | Projects |
 |-------|----------|
 | 1	| 0        |
@@ -331,7 +328,6 @@ The abstract level rate of advancedment is however the same, depending on the nu
 | 8	| 21       |
 | 9	| 34       |
 | 10	| 65       |
-|-------|----------|
 
 Note that there is no level after 10. By this stage, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
 
@@ -345,7 +341,6 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 
 Starting at first level, and for every level thereafter, a labourer gains +1 to either Strength, Dexterity, or Constitution, accoding to the player's choice.
 
-|------------------|
 | Level | Wage     |
 |-------|----------|
 | 1	| $700     |
@@ -358,7 +353,6 @@ Starting at first level, and for every level thereafter, a labourer gains +1 to 
 | 8	| $1250    |
 | 9	| $1300    |
 | 10	| $1350    |
-|-------|----------|
 
 ### 1.5.2 Scientist
 
@@ -366,7 +360,6 @@ Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Language (own), Profession (own)
 
-|------------------|
 | Level | Wage     |
 |-------|----------|
 | 1	| $500     |
@@ -379,7 +372,6 @@ Profession Skills: Language (own), Profession (own)
 | 8	| $1500    |
 | 9	| $1750    |
 | 10	| $2050    |
-|-------|----------|
 
 ### 1.5.3 Administrator
 
@@ -387,7 +379,6 @@ Prime Requisite: Wisdom
 Starting Age: 15+1d6
 Profession Skills: Language (own), Profession (own)
 
-|------------------|
 | Level | Wage     |
 |-------|----------|
 | 1	| $500     |
@@ -400,7 +391,6 @@ Profession Skills: Language (own), Profession (own)
 | 8	| $1200    |
 | 9	| $1300    |
 | 10	| $1400    |
-|-------|----------|
 
 ### 1.5.4 Tradesperson
 
@@ -408,7 +398,6 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d6
 Profession Skills: Language (own), Profession (own)
 
-|------------------|
 | Level | Wage     |
 |-------|----------|
 | 1	| $400     |
@@ -421,7 +410,6 @@ Profession Skills: Language (own), Profession (own)
 | 8	| $1700    |
 | 9	| $2000    |
 | 10	| $2300    |
-|-------|----------|
 
 ### 1.5.5 Researcher
 
@@ -429,7 +417,6 @@ Prime Requisite: Dexterity
 Starting Age: 15+2d4
 Profession Skills: Language (own), Profession (own)
 
-|------------------|
 | Level | Wage     |
 |-------|----------|
 | 1	| $500     |
@@ -442,7 +429,6 @@ Profession Skills: Language (own), Profession (own)
 | 8	| $1350    |
 | 9	| $1500    |
 | 10	| $1750    |
-|-------|----------|
 
 ### 1.5.6 Manager
 
@@ -450,7 +436,6 @@ Prime Requisite: Dexterity
 Starting Age: 15+3d4
 Profession Skills: Language (own), Profession (own)
 
-|------------------|
 | Level | Wage     |
 |-------|----------|
 | 1	| $600     |
@@ -463,42 +448,102 @@ Profession Skills: Language (own), Profession (own)
 | 8	| $1900    |
 | 9	| $2200    |
 | 10	| $2500    |
-|-------|----------|
 
 
 ## 1.6 Skills
 
 Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number of 8.
 
-The degree that the result is relative to 8 equals the degree of success or failure. There are no "natural" successes or failures from rolling a '2' or '12' for example. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
+The degree that the result is relative to the target number of 11 equals the degree of success or failure. There are no "natural" successes or failures from rolling a '2' or '12' for example. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
 
-Skills are defined by their associated characteristic, the default value, and the encumbrance penalty. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acument alone. Finally different skills have an encumbrance penalty modifier. 
-
-Skills are categorised according to characteristic
+Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone.
 
 ### Strength Based Skills
 
-Brawl, Climb, Jump, Swim
+There are few Strength based skills, but they have a wide application. Strength-based skills have a default of Str-2, recognising that these skills are heavily influenced by the physical ability of the character.
+
+**Brawl**
+
+**Climb**
+
+A climb check is necessary whenever a character is required to move along a steep incline, defined as 45 degrees or more. There is a modifier to the climb check depending on the angle of the incline:
+
+45 degrees to 59 degrees: +2
+60 degrees to 69 degrees: +1
+70 degrees to 79 degrees: +0
+80 degrees to 89 degrees: -1
+90 degrees: -3, and handholds required.
+
+If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall. Each second after that they may attempt to stabilise themselves and grab onto something (i.e., at 5m, 20m, 125m). That 'something' may very well be the big and friendly ground. Being attached to by a rope to something stable is advisable when climbing any significant distance. 
+
+
+**Jump**
+
+
+**Swim**
+
 
 ### Intelligence Based Skills
 
-Computing (specialisation), Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual art), Craft (writing), Demolitions, Investigate, Knowledge (various), Language (various)
+There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of Int-6, for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
+
+Computing (specialisation), 
+Craft (chemical), 
+Craft (electronic), 
+Craft (mechanical), 
+Craft (pharmaceutical), 
+Craft (structural), 
+Craft (visual art), 
+Craft (writing), 
+Demolitions, 
+Investigate, 
+Knowledge (various), 
+Language (various)
 
 ### Wisdom Based Skills
 
-Administration, Gamble, Listen, Profession (specialisation), Sense Motive, Spot, Survival
+There are a moderate number of Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of Wis-4, for the unksilled, existing in the middle of influence of natural ability and training.
+
+Administration, 
+Gamble, 
+Listen, 
+Profession (specialisation), 
+Sense Motive, 
+Spot, 
+Survival
 
 ### Dexterity Based Skills
 
-Balance, Drive, Escape Artist, Hide, Pilot, Ride, Sleight, Stalk, Tumble
+There are many Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of Dex-4, for the unksilled, existing in the middle of influence of natural ability and training.
+
+Balance, 
+Drive, 
+Escape 
+Artist, 
+Hide, 
+Pilot, 
+Ride, 
+Sleight, 
+Stalk, 
+Tumble
 
 ### Constitution Based Skills
 
-Concentration, Hiking, Perception
+There are few Constitution based skills, but they have a wide application. Costitution-based skills have a default of Con-2, for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+
+Concentration, 
+Hiking, 
+Perception
 
 ### Charisma Based Skills
 
-Acting, Intimidate, Inspire, Persuasion, Seduction
+There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of Cha-2, for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+
+Acting, 
+Intimidate, 
+Inspire, 
+Persuasion, 
+Seduction
 
 ## 1.7 Perks and Flaws
 
