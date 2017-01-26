@@ -14,7 +14,8 @@
 1.4 Characteristics
 1.5 Professions
 1.6 Skills and Knowledges
-1.6 Perks and Flaws
+1.7 Perks and Flaws
+1.8 Personality
 
 2.0 Actions and The Environment
 2.1 Time and Core Mechanic
@@ -32,6 +33,7 @@
 3.5 Researchers
 3.6 Managers
 3.7 Bestiary
+3.8 Monsters
 
 4.0 The Boss Book
 4.1 Being The Boss
@@ -55,6 +57,8 @@
 # 0.0 Introduction
 
 ## 0.1 Foreword
+
+Jonathon Tweet?
 
 ## 0.2 Preface
 
@@ -86,9 +90,9 @@ The book concludes with a set of supplementary appendicies; a collection of sour
 
 At the end of the day however, the main purpose of "Papers and Paychecks" is enjoyment. This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or vermissildtude. If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play.
 
-By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances will not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and slightly inebriated co-worker at an office party. 
+By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and slightly inebriated co-worker at an office party. 
 
-This game has been published by the RPG Review Cooperative, an incorporated and non-profit association. Nobody is making any money from this - all proceeds go to the association for the benefit of promoting our shared hobby - and as such we are particularly grateful for the genorsity of our backers on Kickstarter. We are also deeply honoured to have the artistic skills of Dan 'Smif' Smith for the cover art. Special thanks is also given to the playtesters, who reviewed and tested the game, pulled it apart and put it back together again into the working product you see before you. 
+This game has been published by the RPG Review Cooperative, an incorporated and non-profit association. Nobody associated with the Cooperative is making any money from this - all proceeds go to the association for the benefit of promoting our shared hobby - and as such we are particularly grateful for the genorsity of our backers on Kickstarter. We are also deeply honoured to have the artistic skills of Dan 'Smif' Smith for the cover art. Special thanks is also given to the playtesters, who reviewed and tested the game, pulled it apart and put it back together again into the working product you see before you. 
 
 Have fun and remember: "Les choses sont contre nous"!
 
@@ -107,19 +111,34 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 ## 0.4 Core Mechanic
 
-The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll versus a target number of 11, for success without consequences. Usually this die roll will receive a bonus from characteristics and skills, and an environment bonus or penalty. The results are as follows:
+The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. 
 
-Critical Success 14+ (success with benefits) 
-Success: 11+ (success, no consequences)
-Marginal success: 8-10 (optional success but with consequences)
-Marginal failure 5-7 (failure with no consequences)
-Critical failure 1-3 (failure with consequences)
+Very easy	5
+Easy	7
+Average	9
+Tough	11
+Challenging	13
+Formidable 	15
+Heroic	17
+Nearly impossible	19
 
-The 'marginal success' allows the player to choose whether the character succeeded or failed. If they choose success, the Boss will apply a proportional failure either immediately or at a later date. With a 'critical success', the player may choose an additional benefit equal to a successful skill or other check, subject to the Boss's discretion.
+The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, the have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
+
+If the success is just equal to the value they receive a marginal success, but with consequences, determined by The Boss. If the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. The player may decide to forgo the success and have a failure without consequences.
+
+Cheap, Good, on Time (pick two)
+http://www.sixside.com/fast_good_cheap.asp
+https://en.wikipedia.org/wiki/Project_management_triangle
+
+If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
+
+The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average Taks), a further consequnce is applied in addition to the failure.
 
 In most cases, modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
 
 ## 0.5 Glossary
+
+Action: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
 
 Characteristic: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHA).
 
@@ -132,100 +151,57 @@ Luck: A metagame value that players may use to alter the result of a die-roll th
 The following is the opening scene of four players of "Papers and Paperchecks". 'The Boss', has set the game with a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
  
 > The Boss: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
-
 > Everyone: *groans*.
-
 > Gerald: "OK everyone, stand back. The technician is here". What's wrong with it?
-
 > The Boss: The machine displays 'Dredgedrawer is full'.
-
 > Gerald: Easy enough. I take the dredgedrawer out, empty it, give it a clean and put it back in.
-
 > The Boss: Now it says 'Dredgedrawer missing'.
- 
 > Gerald: Oh come now. I wriggle it around a bit. I open and close the service door.
-
 > The Boss: OK, make an 'Electrical Technician' roll at +2.
-
 > (Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their adding their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences".
-
 > The Boss: Congratulations, the machine roars into action. Except now it says 'Refill Beans'. (Note that the consequence is proportional to the success)
-
 > Mary: That's part of my job! 
-
 > The Boss: Well, we'd better check that you ordered some. An Administration check for office supplies please.
-
 > Mary: It never ends. 
-
 > (Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
-
 > Mary: Just as well that was one of main skills. Now please let us have a coffee!
-
 > (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
-
 > The Boss: Well now you all have coffee according to your preferred tastes. You are in the meeting room preparing the activities for the week. Walter's phone rings. It's the head of department, Professor Fleur Power.
-
 > Walter: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
-
 > The Boss: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
-
 > Walter: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
-
 > The Boss: (Playing Professor Power) "No, the Minister does not know that and nor does the university marketing department. Marketing thinks we need to make the claim so we get additional funding. So get some models up and running that match some empirical tests and show that a certain activity leads to reduced blood pressure. You have until four pm" Professor Power hangs up. 
-
 > Walter: Well, I'll relay the news to the rest of the team and try to inspire them. I'll roll against my "Inspire Team" skill; a 12, bringing the total to 18! (The player stands from the table and gesticulates wildly addressing the others) "Come on now team, we know the drill. At the end of the day we need to action this, so let's think outside the box, and have an idea shower. We'll look under the bonnet and get all our ducks in a row."
-
 > (Groans from other players who have actually heard these phrases at their workplace, even as mixed metaphors) 
-
 > The Boss: Very good! You get a Luck point for that truly cringeworthy performance.
-
 > (A Luck point allows the player to modify a rolled result to whatever value they desire)
-
 > Seth: Well, what do we have? Isn't there some lab rats or something on campus that are used for such studies?
-
 > The Boss: Sure is; very well known too. Make a Science (biology) roll with a +2 bonus.
-
 > Seth: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
-
 > The Boss: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
-
 > Mary: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
-
 > Seth: "It doesn't matter, this is great news! We can bring up the dataset, run the simulation, and correlate the results with our loyal rodent allies who we can use to provide empirical evidence to the Minister!"
-
 > (The Boss smiles inwardly thinking of the enormous variety of things that could go wrong with lab rats with hypertension meeting a Minister of Health. Perhaps a biting incident is in order.)
-
 > Ingrid: Sounds like my cue. I bring up the database on the cluster. How long will the simulation take?
-
 > The Boss: About three hours. However the system is unusually sluggish. Looks like the storage array is full.
-
 > Ingrid: It never just rains, does it? OK, I do make a 'Computer (Operating Systems)' check. Total roll of 7. Ugh, what a terrible result. I spend a Luck Point and turn the failure into a success. 
-
 > The Boss: Indeed, the disk is full. You've had a good look around and 'luckily' worked out where the most prominent directories are located, and with that now successful roll, you've discovered that there is a large directory of - how do I put this delicately - 'adult entertainment movies' and judging by the titles, some would make your eyes weep. They're in Professor Power's home directory.
-
 > Ingrid: What? Don't we have quotas on these directories? Isn't this sort of, ummm, 'private material' against university policy?
-
 > The Boss: You want a quota on the head of department? Do you you want to report them? 
-
 > Walter: No, no, no. We can't do that! Professor Power controls the funding to our group and without her support, we're out on the streets and its game over for us. Maybe it's not hers? Maybe it was hackers!
-
 > Ingrid: But if we don't free up some space, we'll never be able to run the simulation in time. We should just delete that directory.
-
 > Gerald: I'm not sure that will make the head of department very happy.
-
 > Seth: Maybe if we just temporarily move somebody else's directory? What else is there?
-
 > The Boss: Well there's a large dataset of the early detection of schizophrenia in adolescents...
-
 > Mary: You can move that data to one of the local drives - here on my personal computer.
-
 > The Boss: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
-
 > (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
 ## 1.2 Luck Rating
 
 All player characters start with a Luck rating of 3 points. As a meta-game characteristic this is established prior to anything else. It represents the ability of the players to change the result of a random roll that is under their control within the story. For example. a player, during character generation, has their heart set on taking up the Scientist character class. Alas, the genetic die is not with them and they roll a paltry 7 from 3d6 to determine their Intelligence characteristic. A moment is spent as the player considers the possibility of playing a fairly dim scientist, but they decide against it spending one of their three Luck points to change the score of 7 to 18, the maximum that could be rolled.
+
+[EDIT: Reference other games]
 
 During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
 
@@ -239,7 +215,7 @@ In a general sense the price of a good equals the price of the good in the locat
 
 ## 1.4 Characteristics
 
-Characteristics are the basic attribitues of a "Papers and Paychecks" character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 roll in order for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (CON), and Charisma (CHA). 
+Characteristics are the basic attribitues of a "Papers and Paychecks" character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times, which can be distributed to Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (CON), and Charisma (CHA). 
 
 Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. "Papers and Paychecks" is "realistic" insofar that characteristics are random, but "narrativist", in the sense that players can intervene if they so choose to ensure that they have the sort of character they want. 
 
@@ -266,17 +242,17 @@ The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses 
 
 For example, a character with a Strength of 18 will receive a +4 bonus for all Strength-related skill tests. If the same character is a Labourer they will receive a bonus of 40% to their average weekly wage.
  
-| Value | Bonus |
+| Value | Bonus | Other Benefits
 |-------|-------|
 | 1	| -5    |
 | 2-3	| -4    |
-| 4-5	| -3    |
-| 6-7	| -2    |
+| 4-5	| -3    | 
+| 6-7	| -2    | 
 | 8-9	| -1    |
 | 10-11	| 0     |
 | 12-13	| +1    |
 | 14-15	| +2    |
-| 16-17	| +3    |
+| 16-17	| +3    | 
 | 18-19	| +4    |
 | etc	| etc   |
 
@@ -294,7 +270,7 @@ Intelligence: Intelligence is a combination of a character's memory, reasoning, 
 
 Wisdom: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself.
 
-Dexterity: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests.
+Dexterity: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc.
 
 Consitution: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging).
 
@@ -335,18 +311,20 @@ Note that there is no level after 10. By this stage, having completed over 65 pr
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Athletics, Brawl, Language (own), Profession (own)
+Profession Skills: Brawl, Intimidate, Language (own), Profession (own)
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
 Starting at first level, and for every level thereafter, a labourer gains +1 to either Strength, Dexterity, or Constitution, accoding to the player's choice.
 
-| Level | Wage     |
-|-------|----------|
-| 1	| $700     |
-| 2	| $800     |
-| 3	| $900     |
-| 4	| $1000    |
+[EDIT Resources]
+
+| Level | Wage     | Resources | Perks
+|-------|----------|-----------|------
+| 1	| $700     |           | Union Membership
+| 2	| $800     |           | +1 to STR, DEX, or CON
+| 3	| $900     |           | 
+| 4	| $1000    |           |
 | 5	| $1100    |
 | 6	| $1150    |
 | 7	| $1200    |
@@ -358,10 +336,10 @@ Starting at first level, and for every level thereafter, a labourer gains +1 to 
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: Language (own), Profession (own)
+Profession Skills: Language (own), Profession (own), 
 
-| Level | Wage     |
-|-------|----------|
+| Level | Wage     | Resources | Perks
+|-------|----------|-----------|------
 | 1	| $500     |
 | 2	| $600     |
 | 3	| $700     |
@@ -379,9 +357,12 @@ Prime Requisite: Wisdom
 Starting Age: 15+1d6
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     |
-|-------|----------|
-| 1	| $500     |
+*"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.*
+David Wiegleb, Jan 24, 2017
+
+| Level | Wage     | Resources | Perks
+|-------|----------|-----------|------
+| 1	| $500     |           | File system knowledge
 | 2	| $600     |
 | 3	| $700     |
 | 4	| $800     |
@@ -398,10 +379,10 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d6
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     |
-|-------|----------|
-| 1	| $400     |
-| 2	| $500     |
+| Level | Wage     | Resources | Perks
+|-------|----------|-----------|------
+| 1	| $400     |           | Union membership
+| 2	| $500     |           | Security Access
 | 3	| $650     |
 | 4	| $800     |
 | 5	| $1000    |
@@ -413,13 +394,13 @@ Profession Skills: Language (own), Profession (own)
 
 ### 1.5.5 Researcher
 
-Prime Requisite: Dexterity
+Prime Requisite: Constitution
 Starting Age: 15+2d4
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     |
-|-------|----------|
-| 1	| $500     |
+| Level | Wage     | Resources | Perks
+|-------|----------|-----------|------
+| 1	| $500     |           | Library access
 | 2	| $600     |
 | 3	| $700     |
 | 4	| $800     |
@@ -432,13 +413,13 @@ Profession Skills: Language (own), Profession (own)
 
 ### 1.5.6 Manager
 
-Prime Requisite: Dexterity
+Prime Requisite: Charisma
 Starting Age: 15+3d4
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     |
-|-------|----------|
-| 1	| $600     |
+| Level | Wage     | Resources | Perks
+|-------|----------|-----------|------
+| 1	| $600     |           | 
 | 2	| $700     |
 | 3	| $850     |
 | 4	| $1000    |
@@ -464,35 +445,59 @@ There are few Strength based skills, but they have a wide application. Strength-
 
 **Brawl**
 
+A Brawl check is applied each round that a character is attempting to hit something with the fists, kick them, head-butt them, and even engage in close-combat hand-to-hand weapons such as knives and daggers. The Brawl check is contested against the defense of the opponent and the difference is used to determine the damage caused. 
+
 **Climb**
 
 A Climb check is necessary every round whenever a character is required to move along a steep incline, defined as 50 degrees or more. Encumbrance penalties apply to Climb checks.
 
+**Intimidate**
+
+An Intimidate check is used when a character wishes to make another character comply to their wishes through use of a physical threat.
 
 **Jump**
 
 A Jump check is necessary when a player dictates that the character will attempt to leap without touching an intervening surface. Encumbrance penalties apply to Jump checks. The distance covered will depend on the type of Jump attempted, with modifiers according to the conditions. 
 
-
 **Swim**
 
+A Swim check is necessary each round that a character is in water, with a successful check allowing quarter normal moving rate. A character who fails a Swim check may find themselves drowning.
 
 ### Intelligence Based Skills
 
 There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
 
-Computing (specialisation), 
-Craft (chemical), 
-Craft (electronic), 
-Craft (mechanical), 
-Craft (pharmaceutical), 
-Craft (structural), 
-Craft (visual art), 
-Craft (writing), 
-Demolitions, 
-Investigate, 
-Knowledge (various), 
-Language (various)
+**Computing**
+
+A Computing check is needed for sophisticated user, file operations, networking, hardware modifications, and programming. Major tasks which contain a degree of uniqueness (everything from building a high performance computing system or even formatting a new roleplaying game) should be classified as projects, and need to be carried out in strategic time.
+
+**Craft (chemical)**
+
+A Craft (chemical) check is used when a character is mixing chemicals. In most cases this will be for benign purposes, however a test is typically required when the character is engaging in dangerous admixture, whether at the time of production, or of application. This includes the production of acids, strong bases, drugs, and poisons. Note that this skill is the laboratory activity of producing chemicals, that is, the ability to use apparatus and follow a recipe. For the science of chemistry, see Knowledge (chemistry).
+
+**Craft (electronic)**
+
+A Craft (electronic) check is used to build and repair electronic equipment assuming component materials (vacuum tubes, transistors, diodes, integrated circuits etc),  including audio-visual equipment, timers, radio and television equipment, information processing switches, and signal processing.
+
+**Craft (mechanical)**
+
+A Craft (mechanic) check is used to build and repair mechanical equipment, that is, machinery based on the behaviour of physical bodies when subjected to forces and displacements. This includes automatic machinery, boilers, air conditioning and refrigeration, aircraft, and various mills.
+
+**Craft (pharmaceutical)**
+
+A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective doseages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
+
+**Craft (structural)**
+
+**Craft (visual art)**
+
+**Craft (writing)**
+
+**Investigate**
+
+**Knowledge (various)** 
+
+**Language (various)**
 
 ### Wisdom Based Skills
 
@@ -502,8 +507,6 @@ Administration,
 Gamble, 
 Listen, 
 Profession (specialisation), 
-Sense Motive, 
-Spot, 
 Survival
 
 ### Dexterity Based Skills
@@ -533,15 +536,69 @@ Perception
 
 There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the natural ability of the character.
 
-Acting, 
-Intimidate, 
-Inspire, 
-Persuasion, 
-Seduction
+**Act**
+
+An Act check is required when a character attempts to take on a role and pretend to be someone with different motivations and interests than what is truly their own. This is often a professional skill in its own right, and is usually applied strategically rather than tactically (which differentiates it from Lie). An check against Act, if necessary, is carried out as a contested skills against a [EDIT] check of the opponent.
+ 
+**Bully**
+
+A Bully check is required when a character attempts to make another character or characters comply with threats, stated or implied. A Bully check is applied tactically and is carried out as an opposed test against the target's [EDIT]. Bullying is significantly more difficult if the bullier lacks social position or is attempted against a group of people.
+
+**Inspire**
+
+**Lie**
+
+A Lie is an attempt to mislead whether by emphasis, omission, or contradiction of the facts, and is contested by a [EDIT] check of the target. The more believable the lie is, based on plausibility and consistency, the more likely it is to succeed. The reputation and previous experience of a character to the liar also modifies their chance to succeed. A character who has personally suffered at the hands of a liar due to one of their lies (i.e., has taken physical, social, or mental damage in the past) will be "deeply suspicious" of the liar.
+
+**Seduce**
 
 ## 1.7 Perks and Flaws
 
-Athletic feat, you get a +2 bonus on Climb checks.
+Feats? EDIT
+
+## 1.8 Personality
+
+*"Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie"*
+Robert Hogan
+
+Like much of the corporate world, *Papers & Paychecks* uses the Myers-Briggs Type Indicator as a summary of a character's personality, and mapped to the Keirsey Temperament Sorter. In other games this is the equivalent of their "alignment". As a roleplaying game, a player should play according to the role of their character. 
+
+Whilst the player is given a choice about the personality values of their Type, within the range of 3-18, and option is designed for random generation on 3d6. Note that contrary to original expectations the four dichotomies of MBTI tend towards a more normal distribution rather than a bipolar distribution. In addition the formal MBTI uses absolute values rather than a continuum.
+
+**Favorite world: Extraversion/Introversion**
+
+Extraversion and Introversion are preferences in MBTI, which may not map to actual activities. In a general sense, Extraverted characters are outward-focussed by preference, whereas Intraverted characters are inward-focussed by preference. This does not mean that extraverted characters necessarily prefer action to thought (or vice-versa for introverts), but rather their actions have different reasons; the extravert will think in order to engage with the extrernal world, the introvert will act in order to engage with their inner world. 
+
+Socially, extraverted characters are often engaged in the company of others, and are energised by social interactions, especially with a wide variety of individuals and ideas. Introverted characters prefer smaller close-knit groups, or even their own company. This should not be confused with social anxiety issues; an extraverted character could suffer from stage fright, just as an introverted person could be perfectly fine with other people; they would just *prefer* to bury their nose in a book.
+
+**Information: Sensing/Intuition***
+
+Sensing and Intuition are information-gathering functions in the MBTI. Again, it is a preferential model. In a general sense, Sensing characters are orientated towards giving credence to information that is immediate, empirical, and tangible, coming from their senses. In contrast Intuition characters 
+are more trusting of information that is contextual, rational, and abstract. 
+
+A Sensing character will prefer to recall events as a set of facts, whereas the Intuitive character will recall them as contexts and flow. Sensing characters will solve problems but each step in a serial and linear manner, whereas an Intuition character will solve problems by taking in ideas, interpretations, and possibilities from a variety of sources. Sensing and Intuition must be understood as information-gathering traits, rather than a sensual response. An Intuitive character can still be a person who enjoys physical sensation, just a Sensing character could dislike physical sensations.
+
+**Thinking/Feeling**
+
+Decisions: When making decisions, do you prefer to first look at logic and consistency or first look at the people and special circumstances? This is called Thinking (T) or Feeling (F). 
+
+Thinking and feeling are the decision-making (judging) functions. The thinking and feeling functions are both used to make rational decisions, based on the data received from their information-gathering functions (sensing or intuition). Those who prefer thinking tend to decide things from a more detached standpoint, measuring the decision by what seems reasonable, logical, causal, consistent, and matching a given set of rules. Those who prefer feeling tend to come to decisions by associating or empathizing with the situation, looking at it 'from the inside' and weighing the situation to achieve, on balance, the greatest harmony, consensus and fit, considering the needs of the people involved. Thinkers usually have trouble interacting with people who are inconsistent or illogical, and tend to give very direct feedback to others. They are concerned with the truth and view it as more important.
+
+As noted already, people who prefer thinking do not necessarily, in the everyday sense, "think better" than their feeling counterparts, in the common sense; the opposite preference is considered an equally rational way of coming to decisions (and, in any case, the MBTI assessment is a measure of preference, not ability). Similarly, those who prefer feeling do not necessarily have "better" emotional reactions than their thinking counterparts.
+
+**Judging/perception**
+
+Myers and Briggs added another dimension to Jung's typological model by identifying that people also have a preference for using either the judging function (thinking or feeling) or their perceiving function (sensing or intuition) when relating to the outside world (extraversion).
+
+Myers and Briggs held that types with a preference for judging show the world their preferred judging function (thinking or feeling). So TJ types tend to appear to the world as logical and FJ types as empathetic. According to Myers,[1]:75 judging types like to "have matters settled".
+
+Those types who prefer perception show the world their preferred perceiving function (sensing or intuition). So SP types tend to appear to the world as concrete and NP types as abstract. According to Myers,[1]:75 perceptive types prefer to "keep decisions open".
+
+For extraverts, the J or P indicates their dominant function; for introverts, the J or P indicates their auxiliary function[citation needed]. Introverts tend to show their dominant function outwardly only in matters "important to their inner worlds".[1]:13 For example:
+
+Because the ENTJ type is extraverted, the J indicates that the dominant function is the preferred judging function (extraverted thinking). The ENTJ type introverts the auxiliary perceiving function (introverted intuition). The tertiary function is sensing and the inferior function is introverted feeling.
+
+Because the INTJ type is introverted, however, the J instead indicates that the auxiliary function is the preferred judging function (extraverted thinking). The INTJ type introverts the dominant perceiving function (introverted intuition). The tertiary function is feeling and the inferior function is extraverted sensing.
 
 
 # 2.0 Actions and The Environment
@@ -556,9 +613,51 @@ Marginal success: 8-10 (success but with consequences)
 Marginal failure 5-7 (failure with no consequences)
 Critical failure 1-3 (failure with consequences)
 
+[EDIT: Strategic time, 3 hours (morning 3, lunch 1, afternoon 3)]
+
 ## 2.2 The Resistentialist Environment
 
+**Drowning and Suffocation**
+
+A character's capacity to hold their breath is equal to twice their Constitution score; if they engage in any actions whilst in this situation that counts as an additional round's worth (so an active character can only hold their breath for half as long), exertion is four times the at-rest consumption, and maximun exertion is eight times. Once the character is out of breath, they must make a Constitution characteristic test with a target number of 5, and increasing one per round. If the Constitution check is failed, they fall unconscious (dropping to zero hit points immediately), and will lose one hit point every round from then on. Water is not the only substance a character can drown in. A character can drown in sand, mud, snow, grain etc. Most appropriately, circumstances may occur where a character drowns in paperwork. *Wouldn't that be ironic?*
+
+Gradual suffocation uses similar rules to drowning. If there is no availability of air, use the same rules as above. If the body is in an enclosed space the process will be slower. A person trapped in a coffin or a sealed stationary cabinet for example will use up their oxygen supply in approximately five and a half hours. The boot of a car is not sealed so suffocation would not apply, unless the boot has been especially designed to be airtight, and cars themselves are not airtight either. For places that are airtight, multiple the example of the stationary cabinet according to volume. An alternative is the replacement of the existing air supply in a vehicle or other enclosed space (e.g., supplying carbon monoxide to a car). This typically takes several minutes, then apply the general rules for drowning. 
+
+**Falling**
+
+If a character falls each second after that they may attempt at a -5 DEX test to stabilise themselves and grab onto something (i.e., at 5m, 20m, 125m). That 'something' will probably be the big and friendly ground. Being attached by a rope to something stable is advisable when climbing any significant distance. 
+
 ## 2.3 Tactical Task Resolution
+
+A tactical round is a period of six seconds. It is used for physically dramatic actions where immediate time as of the essence which includes, as per the great time-honoured tradition of roleplaying games, of physical combat. Each tactical round's activity begins with the character with the highest physical initiative score, based on their Dexterity, and then proceeds in order to the lowest. A tactical round should be perceived as an abstract method for organising time and the sequence of action declarations when, of course, activity occurs in a continuous rate.
+
+A character typically may take two 'standard actions' in a tactical round. A standard action usually means make a skill roll or a move. In addition to standard actions there are short actions. A 'short action' is something that is performed quickly and can be combined with a standard action (e.g., get a something out of your pocket). A character is limited to two short actions per standard action, plus the character's DEX bonus. If the DEX bonus reduces this quantity to less to 0 or less then the character may has to count short actions as standard actions; all other things being equal this would only occur if the character has a DEX of 5 or less. Finally, there is a small number of actions (('free actions') which effectively take no time at all (e.g., drop an item).
+
+**Bully**
+
+A successful Bully check, contested by an opponent's Wisdom check, persuades another character to attempt to behave in a certain way by use of real or implied threats. The ability to Bully is significantly altered by the quantity of people that the attempt is applied against (individuals in a group get their own check and a bonus for being part of a group), the demanded action, and the position of the attacker. An interesting aspect of the Bully skill is that whilst it is tactical, the effects are strategic and ablative; an additional Wisdom check, at +1 per strategic turn of work, is allowed, until the bullied target succeed. A single check is made for the number of consective standard actions taken on a Bully check.
+
+1 standard action of Bullying -2 
+2 standard actions of Bullying -1
+4 standard actions of Bullying +0
+6 standard actions of Bullying +1
+8 standard actions of Bullying +2
+10 standard actions of Bullying +3
+12 standard actions of Bullying +4
+
+Single target +0
+Two targets -1
+Three targets -2
+Four targets -3
+etc
+
+Bully in superior position in organisation +0
+Bully in direct managerial position over target +2
+Bully in inferior position in organisation -4
+Bully not in organisation +0 (must use external threats)
+Bully in a position to use or threaten violence +4
+
+**Brawl**
 
 **Climb**
 
@@ -580,19 +679,42 @@ Very rough surface with handholds and footholds (e.g., rope, etc): +0
 Normal climbable surface (e.g., rigging, tree etc): +2
 A ladder on a stable surface: +4 
 
+The width of the surface that the character is climbing also modifies the chance.
+
+More than 30cm wide: +0
+More than 10cm, less than 30cm: -2
+Less than 10cm: -4
+
 A character with one limb missing or unavailable has a penalty of -2 for climbing, and -4 for two limbs missing (it is difficult, but far from impossible for a paraplegic to climb). 
 
-If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall. 
+If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall (see Falling, EDIT). 
 
-If a character falls each second after that they may attempt at a -5 DEX test to stabilise themselves and grab onto something (i.e., at 5m, 20m, 125m). That 'something' will probably be the big and friendly ground. Being attached by a rope to something stable is advisable when climbing any significant distance. 
-
-A character's Dexterity for the purpose of avoiding physical damage, is equal to the movement modifiers given above (e.g., a character who is moving at 1/4 of their normal Speed will have 1/4 of their normal Dexterity; this will usually mean that they are quite an easy target).
+A character's Dexterity whilst climbing for the purpose of avoidance (such as dodging), is equal to the movement modifiers given above (e.g., a character who is moving at 1/4 of their normal Speed will have 1/4 of their normal Dexterity; this will usually mean that they are quite an easy target).
 
 A character may attempt to catch an falling object (e.g., another character) whilst climbing. This requires a successful Brawl action against the Dexterity-based velocity of the falling object and its size as elaborated in the physical combat rules. However if the total weight exceeds the Encumbrance limit of the character they will also require a Climb check.
 
 If a character takes physical damage whilst climbing, they will need to make a Concentration skill roll with a modifier equal to the damage taken. If the roll is failed another Climb skill roll is required for that round.
 
 If the equipment is availble, a character may attempt to improve the surface they are climbing by making additional handholds. For every six rounds of using hammer and pitons, or ice-picks, or similar, they may improve the bonus by +1 for every metre of movement. 
+
+**Computing**
+
+The difficulty of a Computing check depends on the activity being carried out.
+
+Very easy	5 Use a word processor effectively, use simple commands, attach a peripheral,
+Easy	7 Basic use of spreadsheet, simple use of a database, use options to commands, insert a internal card
+Average	9 Apply simple formulae in a spreadsheet or database, write a simple script, use complex commands, compile a simple program, troubleshoot a failed network connection, bypass an insecure computer system
+Tough	11 Write a complex spreadsheet or database query, write a complex script, compile a program with depedencies, network an office and peripherals, build a PC from components, determine basic security flaws in an unpatched operating system. 
+Challenging	13 exploit basic security flaws, identity complex security flaws 
+Formidable 	15 exploit complex security flaws
+Heroic	17 
+Nearly impossible	19
+
+The number of standard actions taken to carry out an activity very much depends on the scale and complexity of the task. For example, finding a file or keyphrase in a collection of files is either very easy or easy, and will remain of that difficulty regardless of the scale; it is the time that may be of an issue. Conducting such a search on a personal computer (laptop or desktop) will take 3 standard actions, on a small office network of it would take several standard actions, for a large corporate network anywhere up to 1000 standard actions or more. Note however that just a single roll is required; the time taken is the processsing of the search; assume two standard actions to type the command, and then one standard action per personal directory for the processing of a command.
+
+Another common activity, especially from player characters, is attempts to bypass computer security. This can be achieved through two basic methods. The first, heavily emulated in various roleplaying games, is to find flaws in the operating system which can be exploited. Whilst it depends on the operating system and how regularly it is patched, the general level of difficulty is quite high. The second, an easier method in many ways, is various forms of social engineering and trickery against users. In this case the exploit depends on how careful the user in question is. Typically user passwords can be obtained from either through brute force, educated guesses, or a well-timed wrench-blow to sensitive areas of their anatomy.
+
+[[img src=https://xkcd.com/538/]]
 
 **Jump**
 
@@ -607,9 +729,54 @@ etc
 
 For a long jump, a horizontal move, the distance is equal to the result in metres. At the midpoint of the jump, the character will have a vertical height of equal to one-quarter of the horizontal distance. For a high jump, a verticle move, the distance jumped is equal to one quarter of the result in meters. 
 
+**Lie**
+
+"He offered alternative facts"
+Kellyanne Conway denies Trump press secretary lied
+https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternative-facts-lies
+
+> **Where's My Sense Motive?** In certain games a Sense Motive or similar skill can be used as an opposed test against similar skills (e.g., Bluff, Fast Talk, Chutzpah). This is terribly unrealistic and no much fun, so it isn't used in *Papers and Paychecks*. A handful of people have the perceptive ability to truly pick up on the unconscious nonverbal communication (kinesics) when one is being told a lie, it is not something that one can *learn*. This ability is incorporated into the Wisdom score. 
+
+Plausibility
+The lie is believable and doesn't affect the target. 	+0
+The lie is a little hard to believe or puts the target at risk. 	-2
+The lie is implausible or is very risky for the target. 	-4
+The lie is extremely implausible, almost impossible 	-6
+
+Gullibility
+The target wants to believe the liar. +2
+The target is suspicious of the liar. -2
+The target is deeply suspicious of the liar. -4
+
+Cleverly applied, a Lie can be used in physical, social, or mental combat. A successful lie against a wisdom check means that the next combat action by the character will 
+
+
+**Swim**
+
+A character must make a Swim check each round while they are in water. A successful check will allow the character to move at one quarter of their normal rate. A failure without consequences means that they have made no progress, and a failure with consequences means that they are beginning to drown.
+
+Target numbers for Swim checks depend on the ferocity of the water, which is measured by the Douglas Scale. This is  also called the "international sea and swell scale", and was devised in the 1920s by Captain H.P. Douglas of the Royal Navy, who knew a little bit about the subject. The Target Number starts with a  base of 5, and increases by an additional +2 per level on the Scale.
+
+5	0 	no wave 	Calm (Glassy)
+7	1 	0–0.10 		Calm (rippled)
+9	2 	0.10–0.50 	Smooth
+11	3 	0.50–1.25 	Slight
+13	4 	1.25–2.50 	Moderate
+15	5 	2.50–4.00 	Rough
+17	6 	4.00–6.00 	Very rough
+19	7 	6.00–9.00 	High
+21	8 	9.00–14.00 	Very high
+23	9 	14.00+ 		Phenomenal
+
+If a character's head is underwater they begin to drown. See Section 2.2 for the unfortunate effects of Drowning. Note for Boss; if the weather is right, water roughness is known to change quite quickly, especially at sea. 
 
 
 ## 2.4 Strategic Task Resolution
+
+**Act**
+
+
+
 
 ## 2.5 Damage and Healing
 
@@ -633,7 +800,7 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 
 3. Injuries
 - Physical wounds are applied against CON-base HP (0 is unconscious and out-of-project and negative is dead and out-of-game)
-- Mental wounds are applied against INT-base HP (0 is breakdown and out-of-project, and negative is permanently insane)
+- Mental wounds are applied against WIS-base HP (0 is breakdown and out-of-project, and negative is permanently insane)
 - Social wounds are applied against CHA-base HP (0 is loss of reputation and out-of-project, negative is incarcerated)
 
 ## 2.6 Equipment in Detail
@@ -645,21 +812,428 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 ## 3.4 Technicians
 ## 3.5 Researchers
 ## 3.6 Managers
+## 3.7 Bestiary
+## 3.8 Monsters
+[EDIT: Apply resistentialism]
 
 # 4.0 The Boss Book
 ## 4.1 Being The Boss
 ## 4.2 Running The Session
 ## 4.3 Season and Episode Design
 
+http://tau-iota-mu-c.livejournal.com/130071.html
+
+Fairpoll - Balanced Results
+Consquence for Simon -  Forgets about new necklace in photo to edit.
+Consequence for Simon - Charge you $2000.
+
+In 2005, 31 years after Nixon's resignation and 11 years after Nixon's death, a family attorney stated that former Federal Bureau of Investigation Associate Director Mark Felt was Deep Throat. Felt was battling dementia at the time, and had previously denied being Deep Throat, but Woodward and Bernstein confirmed his claim.
+
+Dgt Sgt Ulhmann: Simon passes everything on to Ricky Bateman
+
+
 # 5.0 Scenarios : Fear and Loathing in Wellington
 ## 5.1 Setting
+
+MY LIFE WITH BOSS 
+by Dan LEstrange
+“The life of a executive is a hard one. The horrific things you do make it difficult to feel good about yourself. If only  someone loved you. 
+
+A dysfunctional relationship with your Boss in the high powered life of Corporate Executives for Newsprint Limited. A  game of modern horror and self loathing set with a backdrop of life at the top of the Journalism field.  
+
+My Life with the Boss is a corporate adaptation of Paul Czege's award winning game My Life with Master. 
+
+Prepare to  serve a most ambitious sociopath and eventually be his undoing.
+
+My Life with the Boss was run at KapCon  XIX in Wellington, New Zealand, in January 2010.
+
+There are six playable characters in My Life with the Boss. Forest Deacon, Chief Financial Officer, John Goines, Marketing Manager, Julia Wright, Chief of Visual Media, Verity Williams, Chief Editor, Jason Schuster, Chief Journalist, Rebekah Caulfield, Director of Human Resources Each character has been pre­created to fit convention play. Characters are detailed at the end of this document.
+
+Each character has a more than human trait  and a less than human trait listed on their character sheets. These traits are, in practice, used as colour for the characters, yet they can do things to the flow of the game. Take notes of each more than human / less than human, anything that falls under these traits should be considered an automatic success (or failure).
+
+Each character has two connections from the following: Petra Daniels (local Shortland Street actress) , Henry Dunant (local leader of Red Cross Orphans Charity) , Paul Reynolds (Jr Accountant of Newsprint Limited) , Yousef Ramoud (Routers Co – competitor Journalist) , “Open Wound” (Government Insider) . These connections provide both victims and moral support to the characters and each is used to inspire emotive responses from the characters. As they are tied to successfully resisting the Boss, the characters should want to assist and not harm their own connections and be reluctant to harm connections of other characters. 
+
+**In detail – Petra Daniels (Local Celebrity)**
+
+Petra is a local actress from a daily New Zealand soap – Shortland Street. She is has a ethereal beauty and her character suffers tragedy after tragedy during the soap which means that she inspires pity. Petra is however, rather new to the media scene, she could also be called naïve in respect to handling the media.
+
+Petra is the target of the first commands for Julia Wright, Chief of Visual Media. As Julia is instructed to get raunchy pictures of Petra for page three of the Newspaper. This is a big step for the actress (if she is willing) as this will dash her current media image of homely goodness.
+
+Petra has connections with John Goines (Marketing), whom she used to date before getting a media profile, Verity Williams (HR) whom she has had business dealings with and Jason Schuster (Chief Journalist) who has been stalking her for many years (although Petra is unaware of the infatuation).
+
+Petra should inspire pity from the characters, as a personality who being abused by the media (and by extension the Boss) which will eventually result in her meltdown.  For inspiration to play her, look to Susan Boyle (UK Idol runner up), Lindsay Lohan (from before she became a media sensation to her current state) and Brittney Spears (with her public meltdown).
+
+**In detail – Henry Dunant (Red Cross worker)**
+Henry Dunant runs the local (struggling) Red Cross orphanage, just out of town. The orphanage is currently on a “campout” – as much from necessity as from choice – and Henry and his volunteers are doing the best that they can to ensure the orphans are well taken care of. Henry is aware of the media scene, although places little value on its worth. 
+
+He is a campaigner for a better world through hard work, honest donations and good intentions.
+Henry is the target of John Goines first command, and John Goines has been instructed to “woo” Henry to support a marketing campaign and generate a good public perception of Newsprint Limited. Henry has connections with Rebekah Caulfield (who has been siphoning funds to the Red Cross for years), Verity Williams (who he dates and has a relationship with), and Forest Deacon (old mate and drinking buddy).
+Henry should inspire admiration, or a difficult struggle. Henry is doing the good work under a good cause, a complete opposite of the characters own plight. Henry is inspired by real world characters like Fred Hollows (Australian Eye specialist who used to work in the Philippines), Mother Teresa and Princess Diana.
+
+**In detail – Paul Reynolds (Jr Accountant)**
+Paul works for Newsprint Limited as a Junior Accountant, a job he got through his uncle (and connection) Forest Deacon. Paul is one of the linesmen of Newsprint Limited and is excited about his opportunity to work with Newsprint as all young employees are. Paul is unaware of the media scene, although is excited to learn. He is eager to do what his superiors ask of him and is generally unaware of the consequences of his actions.
+
+Paul has connections with Forest Deacon (his Uncle) and Jason Schuster (a good mate).
+
+Paul is the target of the first command of Verity Williams (Chief Editor), and Verity is instructed to send Paul into a potentially deadly situation because the Boss is disparaging of Paul’s letter to management. Paul is indirectly affected by Rebekah Caulfield’s first command as well, as Paul falls under the group that the Boss instructs Rebekah to cull from the company ranks.
+
+Paul should inspire hope from the Characters, he represents what the characters may have felt when they began at Newsprint and what they may be feeling at the start of the game (a wish to do well for the Boss). Only the character increasing self loathing and realisation that the Boss is a tyrant differentiates Paul from the characters. Paul is inspired by any who has recently joined the job market, a person willing to go the extra step in order to cement their career in a 
+new industry.
+
+**In detail – Yousef Ramoud (Competitor Journalist)**
+Yousef works for a rival company to Newsprint Limited; however he should represent the idea of a friendly rivalry rather than a hostile one. Yousef should give no reason for the characters to dislike him, other than the instructions of the Boss – he is meant to represent a healthy competition in the workplace. Yousef is also an Arab, and thus highlights the unfair racial bigotry that can arise in the media’s interpretation of public perception of Arabs and those from the middle east.
+
+Yousef is well aware of the media’s capabilities and will fight back – targeting the organisation of Newsprint rather than the individual – if attacked by the characters. Yousef has connections with John Goines (old school mate) and Julia Wright (professional colleagues). Yousef is the target of the first command of Forest Deacon, Forest is instructed to “find dirt” on Yousef and discredit him as a journalist.
+
+Yousef should inspire respect from the players, while the media industry can be considered to be a cutthroat business (especially in the Boss’s eyes), Yousef should seem to rise above it and still fight fairly. Yousef is inspired by the overwhelming majority of investigative journalists in the media industry to date. A real passion for getting the truth of the story and no love of the sensationalist practices of some papers in order to sell more.
+
+**In detail – “Open Wound” (Government Insider)**
+“Open Wound” is the codename for a Government insider. He represents the myriad of contacts that the journalistic community has to allow them to get the inside scoop on operations by the government. “Open Wound” also represents the shadier side of investigative journalism, where a no­questions­asked policy is still in place. “Open Wound” is the least at risk by the activities of the characters, his identity is a secret, his background shrouded in mystery. He will willingly go along with the characters if they chose to misdirect the activities of “Open Wound” to another connection.
+
+“Open Wound” has connections with Julia Wright (Chief of Visual media) and Verity Williams (Chief Editor) as an informant and verifier of information. “Open Wound” is the target of the first command of Jason Schuster (Chief Journalist), and Jason is instructed to expose him to the Boss and find out everything that Jason is able to.“Open Wound” is inspired by Deep Throat (the insider from X­files and the Watergate scandal).
+
+**The Boss**
+Central to the success of My Life with the Boss, is the Boss. The aspects of the Boss are below (as per My Life with Master rules)
+
+Aspect: Boss/CEO
+Type:  Teacher
+Needs:
+Wants: Domination
+More Money, More Readers, to be proven right in all things
+Some aspects of the Boss
+The following are some of the characteristics that the Boss will (or may) display during the game.
+Ruthlessness., Uncaring., Profiteer., Driven., Racist., Rich., Uncharitable., Environmental Terrorist.,  Sensationalist., 
+Bureaucratic., Overbearing., Pedantic., Favouritism., Ambiguous expectations/Goals., Loud/Rude/Talks over staff., 
+Takes credit from staff.,  Discuss negative events continually and searches for faults in staff.,  Lacks integrity, breaks 
+promises, and is dishonest., Unethical., Belittling., Micromanaging
+
+**Playing the Boss**
+
+Firstly, it must be said that the Boss is should not be treated like a normal character. The Boss should played more like considered a nature or a driving motivator to get the characters into a position where they feel that there is nothing more that they can do but resist the 
+
+Boss’s commands.
+When playing the Boss, it is useful to have a trigger – in my case it was a cigar – that highlights that the GM is playing the Boss to the players and allows the GM to get into character to say and do the things that the Boss wants to do.
+
+The Boss is bigoted, racist, nasty and ruthless – however the Boss can not complete his objectives without the characters involvement (the Boss is also lazy). He has a confidence that his minions will attempt to complete the tasks as instructed, however lacks confidence in their ability to actually complete those tasks.
+
+The Boss is misunderstood, the Boss wants to be liked, the Boss wants to be appreciated, and the Boss wants to be respected. However when the characters show that they “like” the Boss, or appreciate the Boss or even respect the Boss, the Boss can see through their guile and realises that it is just a grab for power of the Boss’s assets. 
+
+The Boss has an extremely powerful position in the game, at least initially the characters will be unable to resist the Boss’s commands, the Boss should however begin with commands that allow the players to get into character, and continually escalate those commands until the characters realise that the Boss’s power is hollow and the characters have no choice but to resist. The Boss must be memorable if this game is to succeed. Be prepared to be flamboyant, loud, outspoken and to make a performance of the times that the Boss is centre stage.
+
+The Boss is not the GM, nor is the GM the Boss. 
+
+The Boss is just a motivator for the players, a source of information on what impossible task they should attempt to complete. The Boss should be an obstacle for the characters to overcome, not a cherished NPC who can escape any conflict.
+
+**Introduction of the Game**
+Always introduce yourself and the game, explain the rules and take your time about this. Be familiar with the rules as written of My Life with Master.
+
+My conventions that are not listed in the rules as written for My Life with Master.
+• Desperation, Intimacy and Sincerity dice are the domain of both the players and the GM. This will need to be  introduced at the start of play with the importance of the dice to success strenuously stressed.
+• No more than 1 overture action in a row for any character.
+• End Game and Horror Revealed scenes happen at set times. These will be extra scenes. Horror Revealed 
+scenes are slightly re jigged to fit the game within the convention time frames.
+• Bring each scene to its conflict as quickly as possible, the answer “yes, and...” should be the only one the GM requires until a conflict is declared (by either the player or GM). On average you will only have about 5 minutes to complete a scene.
+
+**Horror Revealed**
+In a slight change about the Horror Revealed, unfortunately in a convention setting you do not have the time to “waste” a scene with a character describing the horror revealed as opposed to generating Love or Self Loathing.
+ 
+Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to the activities of the characters thus far.
+
+I would begin by answering an open question relevant to the current events in the game – for example – “given that Henry Dunant has been vilified in the media, how does the public react to further fundraising by the Red Cross?”, and allowing the player to describe the response.
+Opening Statement / Setting the scene
+The scene: Characters are all sitting at the board room table, the Boss is hidden behind a large chair. He’s on the phone.
+"Look here, you snivelling little turd, when I say I want those pictures ­ I want those pictures, I don't care if your 
+halfwit mother wants to have a white xmas, you ain't getting any leave until those pictures hit MY desk. In fact, fuck it, 
+you ain't getting any leave period ­ sit your arse down in the park outside that dumb bitch Petra Daniels house and wait 
+for the picture you god damned lazy shit."
+He turns to the characters
+"Right, for Christ sake ­ hire a bloody Jew to do a job and you need to give them god damned road map just so they can 
+find their own chopped up prick. This fucking company would go down the tubes if it wasn't for strong leadership and 
+direction ­ MINE ­ I don't know why I hired you lot either ­ right lot of useless pricks you are."
+"Who’s up first?"
+
+Whomever chooses to take the first command will be your starting character, travel left from that player until you 
+return to that player a second time (i.e. all characters have had two scenes, usually a command and an overture or 
+attempting to complete a command). 
+At that second return, you should be able to do an End Game or Horror Revealed check.
+
+**First Run of Commands and player actions**
+
+The following is the initial commands given to each character, note that with the exception of the first command (the 
+player who responded to the opening statement) each character can choose to take a command, do an overture or act out 
+a command.
+Players should be able to set the scene for what ever action they choose to take, the GM should provide suggestions 
+based on the background material, but the players should have most of the narrative control.
+The players are likely to take the narrative outside the boardroom, or to other unusual places, the GM’s best answer to 
+any suggestion or request by the players is “yes, and...” The game is currently set in Wellington, New Zealand (feel 
+free to change as relevant). 
+Each player should have the opportunity twice to perform an action (within the first round it is extremely likely that 
+everyone gets at least one command). To keep to the time line, this should only take about 50 minutes to complete.
+
+
+Forest Deacon
+"The sodding bean counter huh? Keeping your retirement fund clean are you? ­ Yes I know about your tucked away 
+savings ­ be thankful that I haven't turned you in to the IRD. Right, I have a job for you, simple enough for even you to 
+do. Our reader numbers are down, and the competition is getting nasty. Time to buy them out. Routers Co is within the 
+price range, but I want to buy it for a steal ­ their head journalist ­ Ramoud ­ he supplies all the integrity for the 
+company ­ defame him. Destroy him. Make him nothing in the readers’ eyes. I want scandal; I want to know that he’s a 
+gay loving, neo­fascist, terrorism supporting Arab. Make it happen!"
+John Goines
+"Oh Christ its you. You sold your own mother yet? My lord man I ain't seen such a dirty leech since my time in 
+Malaysia ­ god damned Malaysians ­ suck your blood they do. Steal the shirt from your back they will. So... what can I 
+have you do for me huh? Something you won't fuck up hopefully, but I'm not holding my breath. I need a new 
+corporate face of Newsprint limited, something bullshit and squishy, light­hearted yet.... heart­warming to the stupid 
+masses. Something.... charities... charities are good. There is a Red Cross orphans camp up near Trentham way, sign a 
+deal ­ get them to advocate buying Newsprint publications. Get their boss up here for a photo shot ­ shaking hands and 
+that sort of bullshit rubbish ­ but make sure they are presentable... I want sympathetic, not pathetic."
+Julia Wright
+"How are you doing honey? Liking the good life down in that library of yours? You know you could make VP one day; 
+you'd just need to pop those tits out once and a while and do a dance for the rest of the team. The boys here would be 
+salivating over you in no time. Your job is a simple one baby, time for Newsprint to get glossy ­ and I mean sexy. I 
+need hot pics... and I mean HOT. Get me my nude shot of Petra Daniels ­ you know the one ­ the slut from Shorty 
+Street. That'll bring the readers in, everyone likes a bit of arse on page 2! and would it hurt to wear a low cut top from 
+time to time! Its like looking at a slate wall every time you walk in here..."
+
+Verity Williams
+"Verity ­ my overpaid, under qualified, waste of time editor. What do you do when not trying to screw up my paper? 
+
+pull the wings off flies? Steal candy from children? Christ if I was a father I would get the child to run 10 miles to get 
+away from your ugly mug ­ the wicked witch of the west you are! Well its time to earn your keep, accounting have a 
+new boy ­ Paul something... Reynolds I think. He sent me a bloody letter "Dear Sir, I very much enjoy being part of 
+your fine company and would like to express my gratitude about granting me this opportunity to help build Newsprint 
+to the best that it can be" ­ fucking brown noser if any I thought so. Time to teach him a lesson ­ there is a Gang HQ out 
+in Newtown, tell him that the boss needs something special from the Gang leader ­ something that would make the 
+Boss even more grateful that we hired this snivelling shit... convince Paul to go get me a Daddie fresh from the pen!... 
+ha ha!... should come back bow legged he will!"
+(FYI – “Daddie fresh from the Pen” is a recently release Sexual Offender)
+
+Jason Schuster
+"I thought we fired you? God Damn I need to talk to HR. Right, as we have you we should bloody well use you. There 
+is a secret government agent ­ "Open Wound" is what they call him. He needs to be exposed ­ my friends in the 
+Beehive are getting might pissed off at the info he is spreading around ­ and I need my friends to be happy. I need to 
+know his name, his department, his fucking favourite position and I need it recorded. Bring me that recording!"
+Rebekah Caulfield
+"Still stalking all the office hotties are we Beks? I know your secret. Looking up files is just another form of a peep 
+show to you isn't it? Okay, I have jobs for you. I am getting sick and tired of all the bloody slackers that we have 
+hired... fucking ugly women with kids, Jews and Malay. Slackers all of them. Fire them. All. I want all their contracts 
+terminated by the end of the week ­ and hire me some new people ­ attractive women, Aryan men ­ business men, real 
+workers ­ none with kids. Call it a restructure or something, and make it look nice in the press."
+
+
+Check for End Game / Horror Revealed
+After each player has had a turn twice, go around the table and do a check for End Game or Horror Revealed. This is 
+also a good time to summarise what is happening in the game world (the Horror Revealed is a good way to allow the 
+players to do the summarising).
+N.B. Horror Revealed:
+In a slight change about the Horror Revealed, unfortunately in a convention setting you do not have the time to “waste” 
+a scene with a character describing the horror revealed as opposed to generating Love or Self Loathing. 
+Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before 
+the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to 
+the activities of the characters thus far.
+I would begin by answering an open question relevant to the current events in the game – for example – “given that 
+Henry Dunant has been vilified in the media, how does the public react to further fundraising by the Red Cross?”, and 
+allowing the player to describe the response.
+Second Round commands and player actions
+The second commands the characters received are partially dependent on the results of their first command (if they 
+have or haven’t completed it), and partially dependent on the actions of the other characters. Guides to the characters 
+
+
+for orders follow.
+As a loose guide follow the below instructions, however always escalate.
+Forest Deacon
+If successful ­ Ramoud should be disgraced. Townsfolk should become more cynical about life, morose and depressed. 
+Anti­monopoly or anti­globalisation protests are starting to rise and often they stop at the Newsprint Limited head 
+office. While Newsprint haven't yet brought Routers (although CFO could do it), it is obvious to the population that this 
+is what it intends. Newsprint limited reader numbers remain unchanged. CFO next task could be to FIRE all the 
+workers from Routers and set it up as a shell company for Newsprint to launder money ­ Paul would be “volunteered” 
+to oversee this operation.
+If unsuccessful ­ Routers (and Ramoud) runs a campaign against monopolies and greedy corporations with their 
+wealthy benefactors. The boss is not impressed. Orders CFO to start laundering money (with a fall guy ­ Paul) hiding it 
+as donations to the Red Cross. 
+The key to Forest’s escalation is either through his connections (putting Paul or Henry Dunant into trouble or dire 
+straights), or using his money (his “more than human”) for increasingly nefarious deeds. Order Forest to buy things – 
+like the Red Cross and then destroy them, order Forest to cut funding to things – like staff members superannuation or 
+leave payouts – order him to use that money for the Boss’s benefit.
+
+Eventually Forest will crack, and that really is the idea.
+
+John Goines
+
+If successful ­ Henry Dunant should be ready for photo shoot/publicity stunt with the Boss ­ Townsfolk should laud 
+Henry Dunant as reaching one of the big corporations ­ Henry is nominated for Wellingtonian of the Year (for his 
+charity work and stuff). Newsprint reader numbers remain the same. The boss is not impressed, in fact, he’s angry. 
+DCC next task should be to put Petra Daniels (naked) and Henry Dunant in the same room. Time to disgrace him.
+
+If unsuccessful, the boss is not impressed and above remains.
+John Goines is often played as a suave media marketeer, so attack him were it hurts. He generally needs orders that are 
+leading others into trouble, not trouble for himself directly – for example, bringing Petra Daniels to the Boss’s room 
+and ordered to remain outside, or creating situations where Yousef could be confused as a terrorist (i.e. “mistakenly” 
+putting a story out with a picture of Yousef about potential terrorism in Wellington).
+
+
+Julia Wright
+If successful ­ Petra Daniels should be "exposed" in the media ­ Townsfolk start to hunger for more sensationalist press 
+­ reality TV shows start to rise, the porn industry in Wellington reports record growth. Newsprint reader numbers 
+increase, the boss wants more. CVM next task would be to photograph government officials in compromising positions. 
+Get the scandal.
+If unsuccessful, the Boss is not impressed, his page 2 doesn't have a story ­ orders CVM to get insider story pronto. 
+Either that or lose her job!!
+Julia can be attacked through her connections, “Open Wound” or Yousef, although generally they do not hold a lot of 
+weight with the players. Julia is often portrayed as a confident worker, successful in her own right, and further attacks 
+
+on her legitimacy as a photojournalist has worked in escalation with Julia. Order Julia to take photos of prominent 
+connections in the game and then have the Newspaper print outright lies about what the photo is attempting to portray 
+(or lies about what the situation was in the first place). Order Julia to then begin doctoring photos to match scandalous 
+stories.
+Verity Williams
+If successful Paul should be harmed ­ Violence and riots are more common by the townsfolk, violence seems "verified" 
+as a valid course of action. Sexual assaults and rape on the rise. The boss doesn't care Newsprint readership declines 
+(which doesn't make the boss happy). Orders CE to blame the Red Cross for the rise in violence (it harbours criminals), 
+to get proof that this is happening, and to bring the Red Cross to justice. Also Paul is brought to the office and CE 
+blamed for his plight.
+If unsuccessful, Paul unharmed, bosses "fun" was inhibited, he’s not happy. Orders CE to verify a government 
+conspiracy (that the Govt is bankrupt, John Key is a puppet to the US, and the RBA is about to go under) with her 
+"contact" and rival company Routers Co.
+
+Verity’s first instruction is the one that brings violence into the game, and thus escalation of Verity’s orders in practice 
+tends to be quite natural. Order her to allow stories of Paul Reynolds (lies all) to go to print, have the Boss order her to 
+obey the “Boys Club” and step aside for another editor (who doesn’t do any editing) and then order her to take the fall 
+when he fails. Verity in practice also tends to get out there and attempt to stop others from completing their orders (in 
+particular re Henry Dunant).
+Jason Schuster
+If successful ­ "Open Wound" should be compromised but either way ­ Townsfolk want to know more about the 
+Governments dealings, racial attacks on the rise as the Boss slants the story to the fact that he is a Jew (or Malay, or an 
+ugly woman). Newsprint Readership rises, the Boss wants more. Needs more proof that the Jews are responsible for all 
+things wrong in this world. Orders DOO out to get proof that Henry Dunant (another Jew) is a corrupt cheat, and if they 
+can't find the info ­ to make it up! 
+
+Jason is a true journalist, so continue to order him to “get the story”. And if he can’t get the story to “make the story”. 
+This can be useful for the players to keep track of the activities of the game if Jason is ordered to track and report. 
+Eventually the Boss will order Jason to get the story on the assassination of one of the connections, or rather hands 
+Jason a Gun.
+ 
+Rebekah Caulfield
+If successful, all Jews/ugly women/Malays should be fired ­ including Paul Reynolds, and new employees hired.
+Townsfolk accept the "restructure" or whatever it was called without comment, racial attacks on the rise. No change in 
+Newsprint readership. Paul Reynolds starts a lawsuit for illegal dismissal and Boss orders DHR to justify the dismissals 
+or bribe the courts to throw the case out ­ Open Wound could be useful there. (either mentioned by boss or others)
+If unsuccessful, Boss not happy. Orders DHR to cut costs in other ways, cut everyone’s pay by 50% (except the boss) 
+and her own by 75%. Initiate a performance reviews on all senior staff and report back.
+Rebekah’s escalation tends to go towards ordering her to strip other characters of their benefits (listed on the character 
+sheets), or Ordering Rebekah to oversee further cutbacks in Newsprint. Attacking Rebekahs connections Petra Daniels 
+or Henry Dunant tends also to stir Rebekah into action.
+
+As MacKenzie's layout was seen by more and more people, a collective shudder ran through the office (but) MacKenzie's dominance was so total there was nobody left in the organisation who could rein him in except Murdoch. (Everyone in the office) seemed paralysed ­ "looking like rabbits in the headlights" ­ as one hack described them. The error staring them in the face was too glaring. It obviously wasn't a silly mistake; nor was it a simple oversight. Nobody really had any comment on it—they just took one look and went away shaking their heads in wonder at the enormity of it. It was a 'classic smear'.
+Quote by Peter Chippendale and Chris Horrie on The Sun's reporting of  the 1989 Hillsborough Disaster
+
+Hints, Tips and Advice
+The following are some final hints, tips and advice before we get to the End Game.
+1. Keep the game moving, don’t stop
+2. Escalate, Escalate, Escalate
+3.
+4.
+5.
+6.
+
+Watch your time, if necessary award “Self­Loathing” or “Love” to characters outside their turn if the actions 
+seem warranted and your time is low
+“Yes and...” is your greatest tool as a GM.
+You have 5 minutes to bring each scene to a conflict point, know the My Life With Master system intuitively 
+to bring out what the players need to roll as soon as they ask.
+Continue to encourage the players to award sincerity, intimacy or desperation dice. Lead by example.
+It is quite possible that you have a troublesome player or two; usually these are quickly identified as a player who is 
+enjoying the depraved requests of the Boss and is asking for more, thus not resisting the Boss (and thus not being able 
+to complete the game).
+There are a couple of strategies for this sort of player, the first is to escalate the commands given by the Boss until the 
+player is in a situation where they can do nothing but resist. This is fraught with difficulty as it may result in the GM 
+breaking the rules set down in the disclaimer.
+
+The second strategy is to give the character commands that are impossible to complete. One of my examples was 
+ordering the character to go around to all of the shops in the Wellington region and replace the front page with a new 
+one; this was an action that the character had no chance of completing. Further escalation of these sorts of commands 
+eventually leads the player to the believe that the Boss is really just a nasty person and should be resisted.
+End Game
+
+The End Game possibilities are as wild as the players you will have, however a couple of points the GM should be 
+aware of at the End Game stage.
+The character will always “win” the End Game, and the Boss knows this, he will attempt to go all out to defend or fight 
+or attempt to convince the character that going against the Boss is not the best way. The Boss will beg, he will make 
+lewd remarks, he will insult, he will cry, he will scream. As the GM it is your responsibility to make this happen, stand 
+up and take it too the players – this is the Boss’s last hurrah.
+Conclusions
+Know the background of the game, know the rules of My Life with Master, and portray the Boss as wild as you can. 
+These three elements will ensure that you have a unique and fun experience when playing My Life with the Boss.
+In the two times I ran My Life with the Boss at KapCon, both ended very differently and took very different tracks. 
+This is to be expected, some characters will fixate on protecting their connections and growing Love, others will 
+attempt to satisfy the Boss (growing their Self Loathing) and others again will attempt to disrupt the actions of the other 
+characters. 
+Ultimately however, and this is what My Life with Master is about, it will return to resisting the Boss and completing 
+the End Game.
+As I have suggested, play the Boss to the hilt, this is one of the ways that the players will remember this game and get 
+enjoyment from it, the second point in which the players will have enjoyment is the relative freedom they have from a 
+GM that says “yes, and ...” to all of their requests.
+Game Tools / Devices
+Organisational Chart
+This is the lose organisational c
+
+Organisational Chart
+This is the lose organisational chart I used for My Life with the Boss. While not completely necessary it did help the 
+characters get a feel for what their character was responsible for. This is deliberately convoluted.
+The Boss
+Heads: Newsprint Limited
+Reports to: None
+Reported to by: Heads of all departments
+Forest Deacon, Chief Financial Officer
+Heads: Finance Department
+Reports to: Human Resources, The Boss
+Reported to by: Editing Department, Human Resources, Journalists, Archivists & Photojournalists, Marketing 
+Department
+
+John Goines, Marketing Manager
+Heads: Marketing Department
+Reports to: Finance Department, Human Resources, The Boss
+Reported to by: None
+
+Julia Wright, Chief of Visual Media
+Heads: Archivists & Photojournalists
+Reports to: Editing Department, Finance Department, Human Resources, The Boss
+Reported to by: None
+Verity Williams, Chief Editor
+Heads: Editing Department
+Reports to: Finance Department, Human Resources, The Boss
+Reported to by: Archivists & Photojournalists, Journalists
+Jason Schuster, Chief Journalist
+Heads: Journalists
+Reports to: Editing Department, Finance Department, Human Resources, The Boss
+Reported to by: None
+Rebekah Caulfield, Director of Human Resources
+Heads: Human Resources
+Reports to: Finance Department, The Boss
+Reported to by: Finance Department, Archivists & Photojournalists, Journalists, Editing Department
+
+
+Corporate Values
+The following is the corporate values for Newsprint Limited. At the very least this should be in the hands of the player 
+playing Rebekah Caulfield (her Less than human relies on this). 
+Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
+
+
 ## 5.2 Season 1, Episode 1
+
 ## 5.3 Season 1, Episode 2
 ## 5.4 Season 1, Episode 3
 ## 5.5 Season 1, Episode 4
 
 # 6.0 Appendicies
 ## 6.1 Source Material
+
+**Reality Checking**
+
+Cecil Adams, The Straight Dope. http://www.straightdope.com/ 
+
+Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., Geo Stone, Suicide and Attempted Suicide, 1999.
+
+
 ## 6.2 Charts and Tables
 ## 6.3 Business Organisation Chart
 ## 6.4 Dramatis Personae
@@ -671,12 +1245,12 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 | Luck  |   |
 
 | Characteristic   | Value	|Bonus   |   |   |   |
-| Strength  |   |	|
-| Intelligence  |	|   |
-| Wisdom  |   |	|
-| Dexterity  |   |	|   | Wounds (Physical)  |   |
-| Constitution  |	|   |   | Wounds (Mental)   |   |
-| Charisma  |   |	|   | Wounds (Social)  |   |
+| Strength	|  |   |	|
+| Intelligence	|  |	|   |
+| Wisdom 	| |   |	|
+| Dexterity	|  |   |	|   | Wounds (Physical)  |   |
+| Constitution	|  |	|   |   | Wounds (Mental)   |   |
+| Charisma	|  |   |	|   | Wounds (Social)  |   |
 
 | Profession   | Projects and Level   |
 |-----------------------|-----------------|
@@ -729,3 +1303,9 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 |   |   |
 |   |   |
 |   |   |
+
+
+=======================================================================
+
+
+
