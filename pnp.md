@@ -151,71 +151,128 @@ Luck: A metagame value that players may use to alter the result of a die-roll th
 The following is the opening scene of four players of "Papers and Paperchecks". 'The Boss', has set the game with a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
  
 > The Boss: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
+
 > Everyone: *groans*.
+
 > Gerald: "OK everyone, stand back. The technician is here". What's wrong with it?
+
 > The Boss: The machine displays 'Dredgedrawer is full'.
+
 > Gerald: Easy enough. I take the dredgedrawer out, empty it, give it a clean and put it back in.
+
 > The Boss: Now it says 'Dredgedrawer missing'.
+
 > Gerald: Oh come now. I wriggle it around a bit. I open and close the service door.
+
 > The Boss: OK, make an 'Electrical Technician' roll at +2.
+
 > (Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their adding their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences".
+
 > The Boss: Congratulations, the machine roars into action. Except now it says 'Refill Beans'. (Note that the consequence is proportional to the success)
+
 > Mary: That's part of my job! 
+
 > The Boss: Well, we'd better check that you ordered some. An Administration check for office supplies please.
+
 > Mary: It never ends. 
+
 > (Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
+
 > Mary: Just as well that was one of main skills. Now please let us have a coffee!
+
 > (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
+
 > The Boss: Well now you all have coffee according to your preferred tastes. You are in the meeting room preparing the activities for the week. Walter's phone rings. It's the head of department, Professor Fleur Power.
+
 > Walter: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
+
 > The Boss: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
+
 > Walter: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
-> The Boss: (Playing Professor Power) "No, the Minister does not know that and nor does the university marketing department. Marketing thinks we need to make the claim so we get additional funding. So get some models up and running that match some empirical tests and show that a certain activity leads to reduced blood pressure. You have until four pm" Professor Power hangs up. 
+
+> The Boss: (Playing Professor Power) "No, the Minister does not know that and nor does the university marketing department. Marketing thinks we need to make the claim so we get additional funding. So get some models up and running that match some empirical tests and show that a certain activity leads to reduced blood pressure. You have until four pm". Professor Power hangs up. 
+
 > Walter: Well, I'll relay the news to the rest of the team and try to inspire them. I'll roll against my "Inspire Team" skill; a 12, bringing the total to 18! (The player stands from the table and gesticulates wildly addressing the others) "Come on now team, we know the drill. At the end of the day we need to action this, so let's think outside the box, and have an idea shower. We'll look under the bonnet and get all our ducks in a row."
+
 > (Groans from other players who have actually heard these phrases at their workplace, even as mixed metaphors) 
+
 > The Boss: Very good! You get a Luck point for that truly cringeworthy performance.
+
 > (A Luck point allows the player to modify a rolled result to whatever value they desire)
+
 > Seth: Well, what do we have? Isn't there some lab rats or something on campus that are used for such studies?
+
 > The Boss: Sure is; very well known too. Make a Science (biology) roll with a +2 bonus.
+
 > Seth: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
+
 > The Boss: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
+
 > Mary: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
+
 > Seth: "It doesn't matter, this is great news! We can bring up the dataset, run the simulation, and correlate the results with our loyal rodent allies who we can use to provide empirical evidence to the Minister!"
+
 > (The Boss smiles inwardly thinking of the enormous variety of things that could go wrong with lab rats with hypertension meeting a Minister of Health. Perhaps a biting incident is in order.)
+
 > Ingrid: Sounds like my cue. I bring up the database on the cluster. How long will the simulation take?
+
 > The Boss: About three hours. However the system is unusually sluggish. Looks like the storage array is full.
+
 > Ingrid: It never just rains, does it? OK, I do make a 'Computer (Operating Systems)' check. Total roll of 7. Ugh, what a terrible result. I spend a Luck Point and turn the failure into a success. 
+
 > The Boss: Indeed, the disk is full. You've had a good look around and 'luckily' worked out where the most prominent directories are located, and with that now successful roll, you've discovered that there is a large directory of - how do I put this delicately - 'adult entertainment movies' and judging by the titles, some would make your eyes weep. They're in Professor Power's home directory.
+
 > Ingrid: What? Don't we have quotas on these directories? Isn't this sort of, ummm, 'private material' against university policy?
+
 > The Boss: You want a quota on the head of department? Do you you want to report them? 
+
 > Walter: No, no, no. We can't do that! Professor Power controls the funding to our group and without her support, we're out on the streets and its game over for us. Maybe it's not hers? Maybe it was hackers!
+
 > Ingrid: But if we don't free up some space, we'll never be able to run the simulation in time. We should just delete that directory.
+
 > Gerald: I'm not sure that will make the head of department very happy.
+
 > Seth: Maybe if we just temporarily move somebody else's directory? What else is there?
+
 > The Boss: Well there's a large dataset of the early detection of schizophrenia in adolescents...
+
 > Mary: You can move that data to one of the local drives - here on my personal computer.
+
 > The Boss: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
+
 > (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
 ## 1.2 Luck Rating
 
 All player characters start with a Luck rating of 3 points. As a meta-game characteristic this is established prior to anything else. It represents the ability of the players to change the result of a random roll that is under their control within the story. For example. a player, during character generation, has their heart set on taking up the Scientist character class. Alas, the genetic die is not with them and they roll a paltry 7 from 3d6 to determine their Intelligence characteristic. A moment is spent as the player considers the possibility of playing a fairly dim scientist, but they decide against it spending one of their three Luck points to change the score of 7 to 18, the maximum that could be rolled.
 
-[EDIT: Reference other games]
+> Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as the wish - even for or against other characters.
 
 During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
 
 Keep in mind that these are an metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
 
+Note that for certain NPCs or items of equipment, the Boss may allocate Luck points to such characters reflecting their importance in the wider story. Unlike points for PCs, these will not improve.
+
 ## 1.3 Background
 
-Class is literal, determining background features (wealth and contacts). Profession is what the character does. 
+The Background of a character in *Papers & Paychecks* initially consists of their starting wealth. In a general sense the price of a good equals the price of the good in the location of the game's setting, around 2016-2017 which is presumed to be in a advanced economy (e.g., North America, Europe, Australia, New Zealand, Japan, Republic of Korea). In "Papers and Paychecks" characters have a starting wealth along with the income that they receive according to their level and profession. Starting wealth is random, based on a 2d6 roll, times $1000. This random roll also determines the net value of the character's inheritence. The value of this inheritence will be ten times the character's starting wealth.
 
-In a general sense the price of a good equals the price of the good in the location of the game, around 2016-2017. In "Papers and Paychecks" characters have a starting wealth along with the income that they receive according to their level. Starting wealth is entirely random, based on a 2d6 roll, times $1000. This random roll also determines the net value of the character's inheritence, which occurs in the character's (2d6*2) + 20th year.
+The time that this inheritence is received will be on the (2d6*2) + 20th year of the character. This value will typically be kept in secret by the The Boss as part of the character's development. Note that a player may spend a Luck Point to determine exactly what age they will receive their inheritence and, in some cases, this may even occur before the start of play.
+
+> Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritence received, which make a total of 24 years when I receive a cool $1.2 million."
+
+> "You are *cold*", responds the Boss.
+
+> "But only for the greater good!", the player retorts.
+
+Other background features should be derived from the initial wealth roll. Characters with a high initial wealth, for example, will typically come from good neighbourhoods with a stable family life. At the other end of the scale are the poor in their tenement housing in their rough neighbourhoods with above average incidence of petty drug problems, violence and property crimes. As the distribution would indicate, most people fit around the middle.
+
+Whilst it is rarely necessary when a player initially generates their character, over time a player may develop a complex background and current history for their character, including relations with immediate family, close friends, intimate associations, rivals and enemies and so forth. Such a background can provide a rich resource for The Boss to develop scenarios and a well-developed and probable background will receive rewards in the form of having such associated characters being part of the project scenarios and with the reward of Luck Points.
 
 ## 1.4 Characteristics
 
-Characteristics are the basic attribitues of a "Papers and Paychecks" character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times, which can be distributed to Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (CON), and Charisma (CHA). 
+Characteristics are the basic attribitues of a "Papers and Paychecks" character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (CON), and Charisma (CHA). 
 
 Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. "Papers and Paychecks" is "realistic" insofar that characteristics are random, but "narrativist", in the sense that players can intervene if they so choose to ensure that they have the sort of character they want. 
 
@@ -475,21 +532,10 @@ A Computing check is needed for sophisticated user, file operations, networking,
 
 A Craft (chemical) check is used when a character is mixing chemicals. In most cases this will be for benign purposes, however a test is typically required when the character is engaging in dangerous admixture, whether at the time of production, or of application. This includes the production of acids, strong bases, drugs, and poisons. Note that this skill is the laboratory activity of producing chemicals, that is, the ability to use apparatus and follow a recipe. For the science of chemistry, see Knowledge (chemistry).
 
-**Craft (electronic)**
-
-A Craft (electronic) check is used to build and repair electronic equipment assuming component materials (vacuum tubes, transistors, diodes, integrated circuits etc),  including audio-visual equipment, timers, radio and television equipment, information processing switches, and signal processing.
-
-**Craft (mechanical)**
-
-A Craft (mechanic) check is used to build and repair mechanical equipment, that is, machinery based on the behaviour of physical bodies when subjected to forces and displacements. This includes automatic machinery, boilers, air conditioning and refrigeration, aircraft, and various mills.
-
 **Craft (pharmaceutical)**
 
 A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective doseages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
 
-**Craft (structural)**
-
-**Craft (visual art)**
 
 **Craft (writing)**
 
@@ -512,6 +558,23 @@ Survival
 ### Dexterity Based Skills
 
 There are many Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
+
+**Craft (electronic)**
+
+A Craft (electronic) check is used to build and repair electronic equipment assuming component materials (vacuum tubes, transistors, diodes, integrated circuits etc),  including audio-visual equipment, timers, radio and television equipment, information processing switches, and signal processing.
+
+**Craft (mechanical)**
+
+A Craft (mechanic) check is used to build and repair mechanical equipment, that is, machinery based on the behaviour of physical bodies when subjected to forces and displacements. This includes automatic machinery, boilers, air conditioning and refrigeration, aircraft, and various mills.
+
+**Craft (structural)**
+
+A Craft (structural) check is used when a character is producing various items related to the home, building and construction industry from various materials including wood, metal, or concrete. It includes various furnishings and fittings, structural painting, plastering, tiling, cement laying, plumbing, and building electrics.
+
+**Craft (art)**
+
+A Craft (visual art) check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video.
+
 
 Balance, 
 Drive, 
@@ -563,7 +626,7 @@ Robert Hogan
 
 Like much of the corporate world, *Papers & Paychecks* uses the Myers-Briggs Type Indicator as a summary of a character's personality, and mapped to the Keirsey Temperament Sorter. In other games this is the equivalent of their "alignment". As a roleplaying game, a player should play according to the role of their character. 
 
-Whilst the player is given a choice about the personality values of their Type, within the range of 3-18, and option is designed for random generation on 3d6. Note that contrary to original expectations the four dichotomies of MBTI tend towards a more normal distribution rather than a bipolar distribution. In addition the formal MBTI uses absolute values rather than a continuum.
+Whilst the player is given a choice about the personality values of their Type, within the range of 3-18, and an option is designed for random generation on 3d6. Note that contrary to original expectations the four dichotomies of MBTI tend towards a more normal distribution rather than a bipolar distribution. In addition the formal MBTI uses absolute values rather than a continuum.
 
 **Favorite world: Extraversion/Introversion**
 
@@ -573,16 +636,16 @@ Socially, extraverted characters are often engaged in the company of others, and
 
 **Information: Sensing/Intuition***
 
-Sensing and Intuition are information-gathering functions in the MBTI. Again, it is a preferential model. In a general sense, Sensing characters are orientated towards giving credence to information that is immediate, empirical, and tangible, coming from their senses. In contrast Intuition characters 
-are more trusting of information that is contextual, rational, and abstract. 
+Sensing and Intuition are information-gathering functions in the MBTI. Again, it is a preferential model. In a general sense, Sensing characters are orientated towards giving credence to information that is immediate, empirical, and tangible, coming from their senses. In contrast Intuition characters are more trusting of information that is contextual, rational, and abstract. 
 
 A Sensing character will prefer to recall events as a set of facts, whereas the Intuitive character will recall them as contexts and flow. Sensing characters will solve problems but each step in a serial and linear manner, whereas an Intuition character will solve problems by taking in ideas, interpretations, and possibilities from a variety of sources. Sensing and Intuition must be understood as information-gathering traits, rather than a sensual response. An Intuitive character can still be a person who enjoys physical sensation, just a Sensing character could dislike physical sensations.
 
 **Thinking/Feeling**
 
-Decisions: When making decisions, do you prefer to first look at logic and consistency or first look at the people and special circumstances? This is called Thinking (T) or Feeling (F). 
+Thinking and Feeling are preferential choices when making decisions. Characters with a Thinking preference tend to look towards internal consistency as their primary source with a degree of detachement, whereas characters with a Feeling preference tend towards the particular circumstances of the people involved.
 
-Thinking and feeling are the decision-making (judging) functions. The thinking and feeling functions are both used to make rational decisions, based on the data received from their information-gathering functions (sensing or intuition). Those who prefer thinking tend to decide things from a more detached standpoint, measuring the decision by what seems reasonable, logical, causal, consistent, and matching a given set of rules. Those who prefer feeling tend to come to decisions by associating or empathizing with the situation, looking at it 'from the inside' and weighing the situation to achieve, on balance, the greatest harmony, consensus and fit, considering the needs of the people involved. Thinkers usually have trouble interacting with people who are inconsistent or illogical, and tend to give very direct feedback to others. They are concerned with the truth and view it as more important.
+
+Those who prefer feeling tend to come to decisions by associating or empathizing with the situation, looking at it 'from the inside' and weighing the situation to achieve, on balance, the greatest harmony, consensus and fit, considering the needs of the people involved. Thinkers usually have trouble interacting with people who are inconsistent or illogical, and tend to give very direct feedback to others. They are concerned with the truth and view it as more important.
 
 As noted already, people who prefer thinking do not necessarily, in the everyday sense, "think better" than their feeling counterparts, in the common sense; the opposite preference is considered an equally rational way of coming to decisions (and, in any case, the MBTI assessment is a measure of preference, not ability). Similarly, those who prefer feeling do not necessarily have "better" emotional reactions than their thinking counterparts.
 
@@ -802,6 +865,135 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 - Physical wounds are applied against CON-base HP (0 is unconscious and out-of-project and negative is dead and out-of-game)
 - Mental wounds are applied against WIS-base HP (0 is breakdown and out-of-project, and negative is permanently insane)
 - Social wounds are applied against CHA-base HP (0 is loss of reputation and out-of-project, negative is incarcerated)
+
+
+
+Code of Cthulhu
+
+Originally by David Cameron Staples
+
+> A roleplaying game of eldritch investigations into secrets of which man was not meant to know. Where Call of Cthulhu meets Kult meets System Administration.
+
+> GM You are happily sitting at your desk after a pleasant Friday lunch, when you see a notification of an email.
+
+> Player I groan and open the mail.
+
+> It is a Nagios ticket. CPU warning on a server. You don't recognise what the server actually does.
+
+> Sigh. I log in and run "top".
+
+> It's pretty slow to log you on. Top line of top shows "java" using 249% of the CPU. Load's at 93. Roll 1d10 SAN loss.
+
+> Shit. Um... press "c".
+
+> You can see the full details of the Java invocation. (d6 SAN) And you can see the fateful curse "tomcat" mixed in with the strange moon language. Roll another d10 SAN loss.
+
+> Dammit. Um, do I have any service owner contact details?
+
+> What do you think?
+
+> I think I should ignore it and see if it'll sort itself out.
+
+> You go and get a cup of coffee. It's good. Recover 3 SAN.
+
+> Suddenly you realise there's a Client Relationship Manager standing right behind your chair, breathing heavily. You didn't even hear him approach. d6 SAN loss. He tells you that some critical service is unresponsive, and he's already escalated to your supervisor's boss that you haven't fixed it yet.
+
+> Is he the service owner?
+
+> No, he's the guy who promised the customer that this service would never fall over. He also golfs with the head of the IT services department.
+
+> Shit. I ask him if I have his permission to restart the service.
+
+> "What, you want to break it more? Why do we pay you people to break things? You have to fix it now, there are millions of dollars at stake!"
+
+> Does he know who is the service owner?
+
+> Guess.
+
+> Does he know where there's any documentation?
+
+> Seriously?
+
+> Right. Um. Fuck it. "# service tomcat restart"
+
+> tomcat: unrecognised service
+
+> Fuck. "# chkconfig --list"
+
+> You see only one service which looks like it might be what you're looking for. It's called "data_sqafxz".
+
+> "# service data_sqafxz restart"
+
+> "Usage: /etc/init.d/data_sqafxz {start|stop|import}"
+
+> "Import" WTF? No restart function. OK: "# service data_sqafxz stop"
+
+> "Stopping SQaFXZ data service ... ... [OK]"
+
+> Right. "# service data_sqafxz start"
+
+> "Starting SQaFXZ data service ... ... ... ... ... ... ... ... [FAILED]"
+The CRM behind you has started shouting. "What did you do? Did you just break it? Why did you break it?" His phone starts ringing. Another CRM arrives and starts yelling at the first one, then they both yell at you. Your INT is effectively -20 while they're doing this.
+
+> Fuck. Logs. There have to be logs, right?
+"cd /var/log/; ls -l"
+
+> There is a SQaFXZ directory.
+
+> "cd SQaFXZ; ls -l"
+
+> It appears this package does its own log rotation. Meaning in practice that there is a date stamped log file for each day this service has been operating, and none have been deleted.
+
+> What? Why??
+
+> One of the CRMs shouts something about "auditing" and "security". The other screams "Access Control!".
+
+> How far back do these logs go?
+
+> ls -l pipe though wc -l... divide by 365... about four and a half years.
+
+> How big is this disk?
+
+df -h says "... 100GB  57%  /var/log/SQaFXZ". Go ahead and roll another d6 SAN.
+
+> That's ... what, 30+ megs of log a day, every day for four and a half years?
+
+> Yep.
+
+> tail(1) today's.
+
+> Ten lines isn't nearly enough. You can see that it's all Java error and warning logs, and you can see that something dropped its clogs, but you will need to go further back to see what.
+Another CRM has turned up, and he brought your supervisor's boss. They are all yelling at each other and at you. Lose another 10 INT while they're doing it, and have a d10 SAN hit.
+
+> less(1) today's log.
+
+> Start making INT checks.
+
+> Fail.
+
+> You see a reference to a failure related to a service not being accessible, but you don't think that's the immediate problem, because that service was turned off three years ago and the hardware taken away by a metaphysical hazmat team.
+
+> Hey, pass!
+
+> You find a reference to a server not responding, and lots of errors after that where it went crazy trying to reconnect. That's probably where the CPU load went.
+
+> I'd better have a look at that other server, then.
+
+> ^A^C on screen(1), and you're good to go. This server is up, but also taking its time. It's running Solaris.
+
+> Yeah, I'll just go ahead and roll ... d6?--
+
+> d6
+
+> -- d6 SAN loss now. OK, what's making it slow? I run top.
+
+> At the top of the screen you see the command "oracle", and a series of dread runes and forbidden incantations taking up the rest of the commands on the page. Take 10d10 SAN loss. ... Oh dear, that takes you negative. Very negative. So negative that you suffer a contagious psychotic break: your madness cuts holes in reality itself, and faceless daemons from unknown realms emerge to plague a yet unknowing mankind. The CRMs greet one as "Doug". You weep tears of blood and gibber quietly as the veil shreds and you realise that you sit in the cubicle by the toilet door in the fluorescent cube hell of Gehenna.
+
+> It is now five forty-seven, Friday afternoon.
+
+
+
+
 
 ## 2.6 Equipment in Detail
 
