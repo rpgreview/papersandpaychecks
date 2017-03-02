@@ -24,6 +24,7 @@
 2.4 Strategic Task Resolution
 2.5 Damage and Healing
 2.6 Equipment in Detail
+2.7 Special Equipment
 
 3.0 Non-Player Characters
 3.1 Labourers
@@ -97,7 +98,6 @@ This game has been published by the RPG Review Cooperative, an incorporated and 
 Have fun and remember: "Les choses sont contre nous"!
 
 
-
 Lev Lafayette
 Melbourne, 2016
 
@@ -113,14 +113,14 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. 
 
-Very easy	5
-Easy	7
-Average	9
-Tough	11
-Challenging	13
-Formidable 	15
-Heroic	17
-Nearly impossible	19
+Very easy		5
+Easy			7
+Average			9
+Tough			11
+Challenging		13
+Formidable 		15
+Heroic			17
+Nearly Impossible	19
 
 The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, the have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
 
@@ -279,12 +279,12 @@ Players are reminded of their Luck Rating (1.2) and may wish to take the opportu
 Characters in "Papers and Paychecks" have level one starting age based on their profession. However as the age category for all level one characters is based on the "young adult" age category the practical effect is that they will begin with the same range of characteristic values. Again, as a "realistic" game there is significant modifications according to age. The effects of each aging step are non-cumulative.
 
 Starting Age
-15+1d4 Labourers
-15+3d4 Scientists
-15+1d6 Administrators
-15+1d6 Technicians
-15+2d4 Researchers
-15+3d4 Managers
+15+1d4 (average 17-18) Labourers
+15+3d4 (average 22-23) Scientists
+15+1d6 (average 18-19) Administrators
+15+1d6 (average 18-19) Technicians
+15+2d4 (average 20) Researchers
+15+3d4 (average 22-23) Managers
 
 Infant (0 to 3): -75% to all characteristics
 Child (4 to 15): -50% to all characteristics
@@ -295,45 +295,39 @@ Venerable (80+): -50% to Dex, -30% to Str, Con, +30% to Wis, Cha
 
 Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 20% less, but a bonus to Constitution and Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPCs. Player-characters may, of course, choose whatever sex or ethnic background that they desire according to the die-roll results.
 
-The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay. 
+The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay for relevant professions and for Wisdom to represent their prudent expenditures and investments. 
 
-For example, a character with a Strength of 18 will receive a +4 bonus for all Strength-related skill tests. If the same character is a Labourer they will receive a bonus of 40% to their average weekly wage.
+For example, a character with a Strength of 18 will receive a +4 bonus for all Strength-related skill tests. If the same character is a Labourer they will receive a bonus of +40% to their average weekly wage. If they also had a Wisdom of 12, the character would receive a bonus of +50%!
  
-| Value | Bonus | Other Benefits
-|-------|-------|
-| 1	| -5    |
-| 2-3	| -4    |
-| 4-5	| -3    | 
-| 6-7	| -2    | 
-| 8-9	| -1    |
-| 10-11	| 0     |
-| 12-13	| +1    |
-| 14-15	| +2    |
-| 16-17	| +3    | 
-| 18-19	| +4    |
-| etc	| etc   |
+| Value | Skill Bonus | Wage Bonus | 
+|-------|-------------|------------|
+| 1	|       -5    |    -50%    |
+| 2-3	|       -4    |    -40%    |
+| 4-5	|       -3    |    -30%    |
+| 6-7	|       -2    |    -20%    | 
+| 8-9	|       -1    |    -10%    |
+| 10-11	|        0    |      0%    |
+| 12-13	|       +1    |    -10%    |
+| 14-15	|       +2    |    -20%    |
+| 16-17	|       +3    |    -30%    | 
+| 18-19	|       +4    |    +40%    |
+| etc	|       etc   |    etc     |
 
 In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
-Strength: Strength represents the both the musculture of the character and their knowledge of how to use it effectively.  By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details.
+**Strength**: Strength represents the both the musculture of the character and their knowledge of how to use it effectively.  By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details.
 
-The average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic; a character with a high Strength and low Constitution will be tall but thin, a character with a low Strength and high Constitition will be short and stout. 
+The average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic; a character with a high Strength and low Constitution will be tall but thin, a character with a low Strength and high Constitition will be short and stout. The average of a character's Strength and Dexterity multiplied by five provides the character's Move. This secondary characteristic defines how many metres per ten-second tactical round a character can move unencumbered. A character's capacity to carry things, their Encumbrance rating, is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. 
 
-The average of a character's Strength and Dexterity multiplied by five provides the character's Move. This secondary characteristic defines how many metres per ten-second tactical round a character can move unencumbered. 
+**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence sets a hard limit to the number of skill points that a character can invest. At five time their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
 
-A character's capacity to carry things, their Encumbrance rating, is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. 
+**Wisdom**: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself. An important exception is that a character's Wisdom bonus times 10% directly contributes as a wage bonus, representing both prudent investments and expenditure, plus performance bonuses. This applies to all professions, and effectively doubles the bonus for Administrators.
 
-Intelligence: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. 
+**Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc.
 
-Wisdom: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself.
+**Consitution**: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging). As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
 
-Dexterity: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc.
-
-Consitution: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging).
-
-As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
-
-Charisma: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills.
+**Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills.
 
 ## 1.5 Professions
 
@@ -349,20 +343,22 @@ Each character has a level, representing their pay band and the base net wages t
 
 The abstract level rate of advancedment is however the same, depending on the number of projects completed. Papers & Paychecks assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
 
-| Level | Projects |
-|-------|----------|
-| 1	| 0        |
-| 2	| 1        |
-| 3	| 2        |
-| 4	| 3        |
-| 5	| 5        |
-| 6	| 8        |
-| 7	| 13       |
-| 8	| 21       |
-| 9	| 34       |
-| 10	| 65       |
+| Level | Projects | Average Age | [EDIT]
+|-------|----------|-------------|
+| 1	| 0        |     20      |
+| 2	| 1        |     21      |
+| 3	| 2        |     22      |
+| 4	| 3        |     23      |
+| 5	| 5        |     25      |
+| 6	| 8        |     28      |
+| 7	| 13       |     33      |
+| 8	| 21       |     41      |
+| 9	| 34       |     50      |
+| 10	| 65       |     58      |
 
-Note that there is no level after 10. By this stage, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
+[EDIT] Each level brings improvements to a character based on their profession. To represent character development, players can change their MBTI personality value (see EDIT) by one value. 
+
+Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
 
 ### 1.5.1 Labourer
 
@@ -397,7 +393,7 @@ Profession Skills: Language (own), Profession (own),
 
 | Level | Wage     | Resources | Perks
 |-------|----------|-----------|------
-| 1	| $500     |
+| 1	| $500     |           | Free conference 
 | 2	| $600     |
 | 3	| $700     |
 | 4	| $850     |
@@ -458,9 +454,9 @@ Profession Skills: Language (own), Profession (own)
 | Level | Wage     | Resources | Perks
 |-------|----------|-----------|------
 | 1	| $500     |           | Library access
-| 2	| $600     |
-| 3	| $700     |
-| 4	| $800     |
+| 2	| $600     |           | Bonus Language
+| 3	| $700     |           | Special access
+| 4	| $800     |           | 
 | 5	| $900     |
 | 6	| $1050    |
 | 7	| $1200    |
@@ -476,7 +472,7 @@ Profession Skills: Language (own), Profession (own)
 
 | Level | Wage     | Resources | Perks
 |-------|----------|-----------|------
-| 1	| $600     |           | 
+| 1	| $600     |           | Social damage reduction
 | 2	| $700     |
 | 3	| $850     |
 | 4	| $1000    |
@@ -490,7 +486,7 @@ Profession Skills: Language (own), Profession (own)
 
 ## 1.6 Skills and Knowledges
 
-Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number 8, 11, or 14 for degrees of narrative success, but with the raw value representing an absolute degree of raw success. There are no "natural" successes or failures from rolling a '2' or '12' for example as a result. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
+Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number 8, 11, or 14 for degrees of narrative success, but with the raw value representing an absolute degree of raw success. There are no "natural" successes or failures from rolling a '2' or '12', for example, as a result; a character *could* succeed with a natural roll of '2' if their bonuses are high enough or fail with a '12' if their penalties are sufficiently severe. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
 
 Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone.
 
@@ -524,26 +520,46 @@ A Swim check is necessary each round that a character is in water, with a succes
 
 There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
 
-**Computing**
+**Craft (Computing)**
 
 A Computing check is needed for sophisticated user, file operations, networking, hardware modifications, and programming. Major tasks which contain a degree of uniqueness (everything from building a high performance computing system or even formatting a new roleplaying game) should be classified as projects, and need to be carried out in strategic time.
 
 **Craft (chemical)**
 
-A Craft (chemical) check is used when a character is mixing chemicals. In most cases this will be for benign purposes, however a test is typically required when the character is engaging in dangerous admixture, whether at the time of production, or of application. This includes the production of acids, strong bases, drugs, and poisons. Note that this skill is the laboratory activity of producing chemicals, that is, the ability to use apparatus and follow a recipe. For the science of chemistry, see Knowledge (chemistry).
+A Craft (chemical) check is used when a character is mixing chemicals. In most cases this will be for benign purposes, however a test is typically required when the character is engaging in dangerous admixture, whether at the time of production, or of application. This includes the production of acids, strong bases, drugs, and poisons. Note that this skill is the laboratory activity of producing chemicals, that is, the ability to use apparatus and follow a recipe. For the science of chemistry, see Knowledge (science - chemistry).
 
 **Craft (pharmaceutical)**
 
 A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective doseages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
 
-
 **Craft (writing)**
+
+A Craft (writing) skill check is typically used when a character is composing an *important* email, 'blog, media release, advertisement, business report, research paper, as well as forms of creative fiction such as poetry, screenplays, novels etc.
 
 **Investigate**
 
+An Investigate skill is used to apply forensics, discover clues, and engage in analysis, removing improbable speculations by the availability of evidence. This skill also includes the ability to use a crime laboratory which can enhance the scope of available clues.
+
+> It is a great idea for a character to make use of their Luck characteristic with the use of the Investigate skill. The need for investigation is usually is only applied when the situation and scene is sufficiently important. 
+
 **Knowledge (various)** 
 
+A Knowledge skill check is used against any critical application of a theoretical knowledge. Mant other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are many knowledge skills (like Craft skills) and each have an optional specialisation. 
+
+**Knowledge (Arts)** 
+
+A Knowledge (Arts) check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, stores, galleries), and people (artists, agents, collectors, academics)
+
+**Knowledge (Laws)** 
+
+A Knowledge (Laws) check is used whenever a character wishees to evaluate normative regulations. This includes legal principles and systems (natural law, torts, contracts, criminal), political ideologies (socialism, liberalism, conservativism, fascism), institutions (courts, assemblies), and people (lawyers, politicians, police, academics).
+
+**Knowledge (Sciences)**
+
+
+
 **Language (various)**
+
 
 ### Wisdom Based Skills
 
@@ -575,7 +591,6 @@ A Craft (structural) check is used when a character is producing various items r
 
 A Craft (visual art) check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video.
 
-
 Balance, 
 Drive, 
 Escape 
@@ -603,6 +618,9 @@ There are few Charisma based skills, but they have a wide application. Charisma-
 
 An Act check is required when a character attempts to take on a role and pretend to be someone with different motivations and interests than what is truly their own. This is often a professional skill in its own right, and is usually applied strategically rather than tactically (which differentiates it from Lie). An check against Act, if necessary, is carried out as a contested skills against a [EDIT] check of the opponent.
  
+**Blather**
+
+
 **Bully**
 
 A Bully check is required when a character attempts to make another character or characters comply with threats, stated or implied. A Bully check is applied tactically and is carried out as an opposed test against the target's [EDIT]. Bullying is significantly more difficult if the bullier lacks social position or is attempted against a group of people.
@@ -624,7 +642,7 @@ Feats? EDIT
 *"Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie"*
 Robert Hogan
 
-Like much of the corporate world, *Papers & Paychecks* uses the Myers-Briggs Type Indicator as a summary of a character's personality, and mapped to the Keirsey Temperament Sorter. In other games this is the equivalent of their "alignment". As a roleplaying game, a player should play according to the role of their character. 
+Like much of the corporate world, *Papers & Paychecks* uses the Myers-Briggs Type Indicator as a summary of a character's personality, and mapped to the Keirsey Temperament Sorter, both of which are derived from Jungian psychology. Like most aspects of roleplaying games, this is expressed in the simplified form, without auxiliary functions for example. In other games this is the equivalent of their "alignment". As a roleplaying game, a player should play according to the role of their character. 
 
 Whilst the player is given a choice about the personality values of their Type, within the range of 3-18, and an option is designed for random generation on 3d6. Note that contrary to original expectations the four dichotomies of MBTI tend towards a more normal distribution rather than a bipolar distribution. In addition the formal MBTI uses absolute values rather than a continuum.
 
@@ -640,28 +658,69 @@ Sensing and Intuition are information-gathering functions in the MBTI. Again, it
 
 A Sensing character will prefer to recall events as a set of facts, whereas the Intuitive character will recall them as contexts and flow. Sensing characters will solve problems but each step in a serial and linear manner, whereas an Intuition character will solve problems by taking in ideas, interpretations, and possibilities from a variety of sources. Sensing and Intuition must be understood as information-gathering traits, rather than a sensual response. An Intuitive character can still be a person who enjoys physical sensation, just a Sensing character could dislike physical sensations.
 
-**Thinking/Feeling**
+**Decision: Thinking/Feeling**
 
-Thinking and Feeling are preferential choices when making decisions. Characters with a Thinking preference tend to look towards internal consistency as their primary source with a degree of detachement, whereas characters with a Feeling preference tend towards the particular circumstances of the people involved.
+Thinking and Feeling are preferential choices when making decisions in the MBTI. Characters with a Thinking preference tend to look towards internal consistency as their primary source with a degree of detached fairness, whereas characters with a Feeling preference tend towards the particular circumstances and feelings of the people involved.
 
+Characters who prefer Thinking for decision making are not necessarily "thinkers" or more intelligent or rational, and likewise people who have Feeling for decision making are not necessarily more sensate, or even more empathic. The MBTI eveluates preferences, not ability. 
 
-Those who prefer feeling tend to come to decisions by associating or empathizing with the situation, looking at it 'from the inside' and weighing the situation to achieve, on balance, the greatest harmony, consensus and fit, considering the needs of the people involved. Thinkers usually have trouble interacting with people who are inconsistent or illogical, and tend to give very direct feedback to others. They are concerned with the truth and view it as more important.
+**Orientation: Judging/Perception**
 
-As noted already, people who prefer thinking do not necessarily, in the everyday sense, "think better" than their feeling counterparts, in the common sense; the opposite preference is considered an equally rational way of coming to decisions (and, in any case, the MBTI assessment is a measure of preference, not ability). Similarly, those who prefer feeling do not necessarily have "better" emotional reactions than their thinking counterparts.
+Judging and Perception are perferential choices when orientating one's self to the external world. Characters with a Judging preference prefer an organized and planned approach to life that has a high degree of structure so they can be make contingencies. A Perceiving character has a preference of living that has a higher degree of flexibility and spontaneity so they can adapt to new circumstances.
 
-**Judging/perception**
+Characters who prefer Judging are not necessarily judgemental, and characters who prefer Perceiving are not necessarily more perceptive. It is an expresssion of how one prefers to organise their interactions with the external world.
 
-Myers and Briggs added another dimension to Jung's typological model by identifying that people also have a preference for using either the judging function (thinking or feeling) or their perceiving function (sensing or intuition) when relating to the outside world (extraversion).
+**Game Use**
 
-Myers and Briggs held that types with a preference for judging show the world their preferred judging function (thinking or feeling). So TJ types tend to appear to the world as logical and FJ types as empathetic. According to Myers,[1]:75 judging types like to "have matters settled".
+With an assignment or from random determination, characters will have MBTI values for the four paired values. From here, a bonus is derived in the same manner that is done for characteristics, based on the dominant value of the pair or for the first value if the bonus is +0. When a situation arises when a preference is called (e.g., a matter of world preference, of information gathering, of decision making, of world orientation) the player may optionally roll 2d6 against a target number of 7 (easy) to *guide* their approach, adding the appropriate bonuse. The degree of 'success' above the target number establishes a commitment to a particular approach to the dominant pair, and likewise the degree of 'failure' represents a commitment to the opposite pair.
 
-Those types who prefer perception show the world their preferred perceiving function (sensing or intuition). So SP types tend to appear to the world as concrete and NP types as abstract. According to Myers,[1]:75 perceptive types prefer to "keep decisions open".
+For example: Russel Wrench, a mild mannered computer programmer, has randomly determined the paired characteristics: Extraversion 6 (-2) which becomes Introversion (+2), Sensing 9 which becomes Intuition (+1), Thinking 12 (+1), and Judging 14 (+2). The player marks in the character sheet under personality I+2,N+1,T+1,J+2
 
-For extraverts, the J or P indicates their dominant function; for introverts, the J or P indicates their auxiliary function[citation needed]. Introverts tend to show their dominant function outwardly only in matters "important to their inner worlds".[1]:13 For example:
+**Keirsey Temperament Sorter**
 
-Because the ENTJ type is extraverted, the J indicates that the dominant function is the preferred judging function (extraverted thinking). The ENTJ type introverts the auxiliary perceiving function (introverted intuition). The tertiary function is sensing and the inferior function is introverted feeling.
+The Keirsey Temperament Sorter provides roles which can be mapped to MBTI values. These are provided here as a shortcut for players to make an "at a glance" overall decision of a character's behaviour. Kersey assessed characters on whether they were orientated by preference towards the concrete and the abstract, then whether they were cooperative or utilitarian, then informative or directive, and finally expressive or attentive. This provides multi-level temperament, role, and role variants.
 
-Because the INTJ type is introverted, however, the J instead indicates that the auxiliary function is the preferred judging function (extraverted thinking). The INTJ type introverts the dominant perceiving function (introverted intuition). The tertiary function is feeling and the inferior function is extraverted sensing.
+MBTI	Kiersey Role Variant	Kiersey Descriptives
+ESFJ	Provider	Concrete, Logistical, Supporting, Supplying
+ISFJ	Protector	Concrete, Logistical, Supporting, Securing
+ESTJ	Supervisor	Concrete, Logistical, Regulating, Enforcing
+ISTJ	Inspector	Concrete, Logistical, Regulating, Certifying
+ESFP	Performer	Concrete, Tactical, Improvising, Demonstrating
+ISFP	Composer	Concrete, Tactical, Improvising, Synthesizing
+ESTP	Promoter	Concrete, Tactical, Expediating, Persuading
+ISTP	Crafter  	Concrete, Tactical, Expediating, Instrumenting
+ENFP	Champion	Abstract, Diplomatic, Mediating, Motivating
+INFP	Healer		Abstract, Diplomatic, Mediating, Concilliating
+ENFJ	Teacher		Abstract, Diplomatic, Developing, Educating
+INFJ	Counsellor	Abstract, Diplomatic, Developing, Guiding
+ENTP	Inventor	Abstract, Rational, Costructing, Devising
+INTP	Architect	Abstract, Rational, Constructing, Designing
+ENTJ	Fieldmarshal	Abstract, Rational,  Arranging, Mobilizing
+INTJ	Mastermind	Abstract, Rational, Arranging, Entailing
+
+For example, Russel Wrench is a "Mastermind", and that is added in the the character sheet next to the personality values.
+
+The Boss should show interest in how players use these results as it represents playing according to the character's psychological preferences. A consistent use of such character preferences by a player, especially when it is contrary to the character's interests at the time should result in a Luck Point reward.
+
+> Boss: OK, you're in for the big technical meeting. The manager and the team are there, all NPCs except you. Everyone's really pumped out and excited about this new roll-out of a massive new storage system for the company, with a new operating system and storage protocol. Everyone's talking over one another, scribbling on white boards and debating what tasks they're going to do. Rodney, what's your character, Russell Wrench, up to?
+
+> Rodney: My character has Introversion at +2, I make a check and roll a ... ahh, an 11. Russell will pull out his laptop and start reading through some technical specifications for operating system and storage protocol.
+
+> Boss: Whoa, the manager is not impressed with that at all, "This is a *team* meeting Russell, your input is appreciated. A *lot* of money is being spent on this project, including a lot of money on *your* wages. We expect value for money", he says tersely.
+
+> Rodney: Russell ignores the manager for several seconds and finally mutters something about going over the technical details.
+
+> Boss: Ha! That's excellent. Give yourself a Luck Point for playing in character even when the character is under threat. The manager explodes at you, "When ask you to participate, Mr. Wrench, I am giving an *order*, not an *option*. We have come here for a team meeting to determine the roll-out of a two million dollar project, and here you are wasting company time playing around on your laptop. Either you contribute or get out of here!". The room falls silent and everyone turns looking at you. Your move.
+
+> Rodney: Huh, attack is the best defense. I initiate a social attack against the manager. I'll make a Computer roll, and spend my Luck Point to make it a 12. That's my best skill and brings it to a total of 18. What's the manager's defense?
+
+> Boss: Er, well, he's really set himself up for this, so I guess it's a counter-attack with Bully! His bonus is +5 total and he rolls a, ahh, 5, for a total of 10. You win by 8 points, that's a huge loss to his Charisma, even with his professional defense it'll take him months to recover. OK, what do you do?
+
+> Rodney: Russell closes the lid of his laptop, gets up, and says, "The operating system and the storage protocol are incompatible". He glares at the manager. "I've just saved the company two million dollars - and saved your job", and then walks out the door.
+
+> Boss: Drops mic, eh?
+
+> Rodney: *nods* Drops mic.
 
 
 # 2.0 Actions and The Environment
@@ -676,9 +735,13 @@ Marginal success: 8-10 (success but with consequences)
 Marginal failure 5-7 (failure with no consequences)
 Critical failure 1-3 (failure with consequences)
 
-[EDIT: Strategic time, 3 hours (morning 3, lunch 1, afternoon 3)]
+[EDIT: Strategic time, 3.5 hours (morning 3.5, lunch .5, afternoon 3.5)]
 
 ## 2.2 The Resistentialist Environment
+
+**Drinking Alcohol**
+
+If the number of standard doses equals a quarter of the character's CON, they must make a CON characteristic test with a target number of 11. If they fail, they will feel nauseous, but with no additio
 
 **Drowning and Suffocation**
 
@@ -868,9 +931,9 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 
 
 
-Code of Cthulhu
+> **Code of Cthulhu**
 
-Originally by David Cameron Staples
+> *Originally by David Cameron Staples*
 
 > A roleplaying game of eldritch investigations into secrets of which man was not meant to know. Where Call of Cthulhu meets Kult meets System Administration.
 
@@ -992,10 +1055,37 @@ Another CRM has turned up, and he brought your supervisor's boss. They are all y
 > It is now five forty-seven, Friday afternoon.
 
 
-
-
-
 ## 2.6 Equipment in Detail
+
+## 2.7 Special Equipment
+
+**Potion of Socialability**
+
+*I drink when I have occasion, and sometimes when I have no occasion.*
+Miguel de Cervantes, *Don Quixote de la Mancha* (1605–1615) Part II (1615), Book III, Ch. 33.
+
+The capacity of alcoholic drinks to provide sociability is well known. A standard dose is either one medium glass of beer, a small glass of wine, or a shot of spirit. Each standard dose reduces all physical skill rolls by 2, and apparently increases the CHA of others interacting with the character by 1. Follow the rules for drinking under section 2.2.
+
+**Ring of The Significant Other**
+
+*Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*
+Ambrose Bierce, *The Devil's Dictionary*, 1967.
+
+This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each with a neglible weight.
+
+**Knuth's The Art of Computing Programming**
+
+*On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*
+Charles Babbage, *Passages from the life of a philosopher*, 1864
+
+These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume weighs 1.5 kilograms and costs $1000 for the set. 
+
+**Charles Atlas Manual of Bodily Strength**
+
+"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength weighs 2.0 kilograms and costs $2000.
+
+**Bracelet of Friendship**
+
 
 # 3.0 Non-Player Characters
 ## 3.1 Labourers
@@ -1198,6 +1288,8 @@ in Newtown, tell him that the boss needs something special from the Gang leader 
 Boss even more grateful that we hired this snivelling shit... convince Paul to go get me a Daddie fresh from the pen!... 
 ha ha!... should come back bow legged he will!"
 (FYI – “Daddie fresh from the Pen” is a recently release Sexual Offender)
+
+https://en.wikipedia.org/wiki/King_Cobras_%28gang%29
 
 Jason Schuster
 "I thought we fired you? God Damn I need to talk to HR. Right, as we have you we should bloody well use you. There 
@@ -1423,7 +1515,7 @@ Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 
 Cecil Adams, The Straight Dope. http://www.straightdope.com/ 
 
-Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., Geo Stone, Suicide and Attempted Suicide, 1999.
+Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., and Geo Stone, "Suicide and Attempted Suicide", 1999.
 
 
 ## 6.2 Charts and Tables
