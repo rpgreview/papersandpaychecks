@@ -113,30 +113,36 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 ## 0.4 Core Mechanic
 
-The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. 
+The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
 
-Very easy		5
-Easy			7
-Average			9
-Tough			11
-Challenging		13
-Formidable 		15
-Heroic			17
-Nearly Impossible	19
+> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the 'quick and dirty' method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages rats by a trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the jump should also have the same difficulty. Don't forget it, and don't hand-wave it!
+
+
+| Difficulty		| Rating	|
+|-----------------------|---------------|
+| Very easy		| 5		|
+| Easy			| 7		|
+| Average		| 9		|
+| Tough			| 11		|
+| Challenging		| 13		|
+| Formidable	 	| 15		|
+| Heroic		| 17		|
+| Nearly Impossible	| 19		|
+|-----------------------|---------------|
 
 The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, the have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
 
-If the success is just equal to the value they receive a marginal success, but with consequences, determined by The Boss. If the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. The player may decide to forgo the success and have a failure without consequences.
+If the success is just equal to the value they receive a marginal success, but with consequences, determined by The Boss. If the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. The player may decide to forgo the success and have a failure without consequences. If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
 
-Cheap, Good, on Time (pick two)
-http://www.sixside.com/fast_good_cheap.asp
-https://en.wikipedia.org/wiki/Project_management_triangle
-
-If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
+> "Wait, every marginal success is also a failure?"
+> "Yes, welcome to *Papers & Paychecks*, a world where... things are against us!
 
 The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average Taks), a further consequnce is applied in addition to the failure.
 
-In most cases, modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
+Note the initial sentence that the die roll is to be used "used in dramatic circumstances". If a character is sufficiently unhurried or has sufficient resources they can opt to ignore the die roll at take a flat 7 plus modifiers result instead; these are 'prosaic circumstances'. By 'prosaic' this means that the character has at least twice the time to take than what would be required for a dramatic action, or in the case of financial transactions, they are able to pay twice the cost. In a sense, characters are caught in the famous project management trilemma; good, cheap, or fast - pick two.
+
+Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
+
 
 ## 0.5 Glossary
 
