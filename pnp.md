@@ -148,9 +148,19 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 Action: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
 
+Boss, The: A special type of player who manages the world, the actions of Non-Player Characters, who sets the scene, scenario, and challenges for Player-Characters. The Boss acts as both a narrator and referree.
+
+Character: A *natural* person (as opposed to a *legal* person, which includes companies and associations) in the *Papers & Paychecks* world. Characters are of two broad types, "Player-Characters" (PCs), those whose actions are primarily determined by a player (c.f.,), and "Non-Player Characters" (NPCs), whose actions are determined by The Boss. 
+
 Characteristic: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHA).
 
+Dramatic Action: Any check that requires a roll of the dice to simulate a degree of uncertainty and narrative tension. The core mechanic of Dramatic Action in "Papers & Paychecks" is a 2d6 die roll against a target number, which can result in success with benefits, success, success with consequences, failure, failure with consequences.
+
 Luck: A metagame value that players may use to alter the result of a die-roll that they are unhappy with. Luck is awarded by the GM for particularly impressive contributions to the game experience, and may also be subtracted for negative contributions. Luck is a player characteristic, not a character characteristic, and may be transferred by a player between different characters within the same gaming group.
+
+Player: A real-life participant in the game. Players either manage the behaviour of Player-Characters in the game (c.f.,) or, in a particular case, take up the special role of The Boss. All players have a 'social contract' with other players to help keep the game enjoyable and interesting for everyone. Also known as "Rule 0.5", it is famously expressed by roleplayer Will Wheaton during his keynote speech at the Penny Arcade Expo (PAX) in August 2007: "Don't be a dick".
+
+Prosaic Action: Any check that does not require a roll of the dice, and does not represent a situation where the character is vexed by uncertainity or narrative tension. The character opts for an average result instead of a normal die roll, but undergoes the same scope of results as a 'Dramatic Action'.
 
 # 1.0 Character Generation
 
