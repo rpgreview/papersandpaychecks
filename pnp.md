@@ -360,7 +360,7 @@ Each character has a level, representing their pay band and the base net wages t
 
 The abstract level rate of advancedment is however the same, depending on the number of projects completed. Papers & Paychecks assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
 
-| Level | Projects | Average Age | [EDIT]
+| Level | Projects | Average Age |
 |-------|----------|-------------|
 | 1	| 0        |     20      |
 | 2	| 1        |     21      |
@@ -373,7 +373,7 @@ The abstract level rate of advancedment is however the same, depending on the nu
 | 9	| 34       |     50      |
 | 10	| 65       |     58      |
 
-[EDIT] Each level brings improvements to a character based on their profession. To represent character development, players can change their MBTI personality value (see EDIT) by one value. 
+Each level brings improvements to a character based on their profession. To represent character development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
 
 Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
 
@@ -389,11 +389,11 @@ Starting at first level, and for every level thereafter, a labourer gains +1 to 
 
 [EDIT Resources]
 
-| Level | Wage     | Resources | Perks
-|-------|----------|-----------|------
-| 1	| $700     |           | Union Membership
-| 2	| $800     |           | +1 to STR, DEX, or CON
-| 3	| $900     |           | 
+| Level | Wage     | Resources | Perks				|
+|-------|----------|-----------|--------------------------------|
+| 1	| $700     |           | Union Membership		|
+| 2	| $800     |           | +1 to STR, DEX, or CON		|
+| 3	| $900     |           |
 | 4	| $1000    |           |
 | 5	| $1100    |
 | 6	| $1150    |
