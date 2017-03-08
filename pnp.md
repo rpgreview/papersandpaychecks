@@ -561,36 +561,52 @@ An Investigate skill is used to apply forensics, discover clues, and engage in a
 
 **Knowledge (various)** 
 
-A Knowledge skill check is used against any critical application of a theoretical knowledge. Mant other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are many knowledge skills (like Craft skills) and each have an optional specialisation. 
+A Knowledge skill check is used against any critical application of a theoretical knowledge. Mant other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are many knowledge skills (like Craft skills) and each have an *required* specialisation. 
 
 **Knowledge (Arts)** 
 
-A Knowledge (Arts) check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, stores, galleries), and people (artists, agents, collectors, academics)
+A Knowledge (Arts - specialisation) check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, suppliers, galleries), and people (artists, agents, collectors, academics)
 
 **Knowledge (Laws)** 
 
-A Knowledge (Laws) check is used whenever a character wishees to evaluate normative regulations. This includes legal principles and systems (natural law, torts, contracts, criminal), political ideologies (socialism, liberalism, conservativism, fascism), institutions (courts, assemblies), and people (lawyers, politicians, police, academics).
+A Knowledge (Laws - specialisation) check is used whenever a character wishes to evaluate normative regulations. This includes legal principles and systems (natural law, torts, contracts, criminal), political ideologies (anarchism, communism, socialism, liberalism, conservativism, fascism), moral theories (divine command, utilitarianism, institutions (courts, assemblies), and people (lawyers, politicians, police, academics).
 
 **Knowledge (Sciences)**
 
+A Knowledge (Sciences - specialisation) check is required whenever a character wishes to evaluate objective facts. This includes broad scientific disciplines, both physical and social (biology, physics, chemistry, economics, sociology, history, psychology), institutions (research bodies, universities), and people (various scientists according to broad discipline).
 
+**Knowledge (Philosophy)**
+
+A Knowledge (Sciences - specialisation) check is required whenever a character wishes to evaluate rational propositions. This includes issues of ontology (theories of being), epistemology (theories of knowledge), logic (mathematics, rhetoric), the various institutions, schools of thought, and people.
 
 **Language (various)**
 
+A language skills check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there is dramatic reasons for the test, whether resulting from success or failure. A language, like knowledges is a *required* specialisation. Closely related languages will have a close default with each other.
 
 ### Wisdom Based Skills
 
-There are a moderate number of Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
+There are a few Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
 
-Administration, 
-Gamble, 
-Listen, 
-Profession (specialisation), 
-Survival
+**Administration**
+
+An Administration check is made when testing a character's ability to organise, understand, and keep records. This includes financial records, personell records, as well as time management (essential for personal assistants). The operations of a modern bureaucracy are fraught with disaster without skilled administrators.
+
+**Gamble**
+
+A Gamble skill check is made to test a character's understanding of chance, risk, and contingency. Not only does it apply to their evaluation of traditional games of chance, but also risk management in operations and projects in a contemporary work environment, and financial investments.
+
+**Profession**
+
+A Profession skill check is made to indicate how well a character satisfies the job requirements that are not directly related to the skill or knowledge of their profession. That is, their attention to their KPIs, being a 'team player', application of office occupational health and safety, knowledge of pay grades and promotional criteria.
+
+**Survival**
+
+A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in an urban environment, it can also be used for wilderness settings with an alternative specialiation.
 
 ### Dexterity Based Skills
 
-There are many Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
+There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
+
 
 **Craft (electronic)**
 
@@ -608,23 +624,24 @@ A Craft (structural) check is used when a character is producing various items r
 
 A Craft (visual art) check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video.
 
-Balance, 
+**Gymnastics**
+
+Athletics is a broad based group of skills with required specialisation for checks based on unusual bodily maneauvers. This includes feats of contortions, balance, tumbling, trapeze, and vaulting.
+
+
 Drive, 
-Escape 
-Artist, 
 Hide, 
 Pilot, 
 Ride, 
 Sleight, 
 Stalk, 
-Tumble
 
 ### Constitution Based Skills
 
 There are few Constitution based skills, but they have a wide application. Costitution-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
-Concentration, 
-Hiking, 
+Concentration 
+Hiking
 Perception
 
 ### Charisma Based Skills
