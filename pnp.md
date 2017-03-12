@@ -14,7 +14,7 @@
 1.4 Characteristics
 1.5 Professions
 1.6 Skills and Knowledges
-1.7 Perks and Flaws
+1.7 Perks
 1.8 Personality
 
 2.0 Actions and The Environment
@@ -115,7 +115,7 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
 
-> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the 'quick and dirty' method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages rats by a trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the jump should also have the same difficulty. Don't forget it, and don't hand-wave it!
+> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the 'quick and dirty' method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages rats by a trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the jump should also have the same difficulty. Don't forget it!
 
 
 | Difficulty		| Rating	|
@@ -295,22 +295,26 @@ Players are reminded of their Luck Rating (1.2) and may wish to take the opportu
 
 Characters in "Papers and Paychecks" have level one starting age based on their profession. However as the age category for all level one characters is based on the "young adult" age category the practical effect is that they will begin with the same range of characteristic values. Again, as a "realistic" game there is significant modifications according to age. The effects of each aging step are non-cumulative.
 
-Starting Age
-15+1d4 (average 17-18) Labourers
-15+3d4 (average 22-23) Scientists
-15+1d6 (average 18-19) Administrators
-15+1d6 (average 18-19) Technicians
-15+2d4 (average 20) Researchers
-15+3d4 (average 22-23) Managers
+|Starting Age		| Character Profession	|
+|-----------------------|-----------------------|
+| 15+1d4 (average 17-18)| Labourers		|
+| 15+3d4 (average 22-23)| Scientists		|
+| 15+1d6 (average 18-19)| Administrators	|
+| 15+1d6 (average 18-19)| Technicians		|
+| 15+2d4 (average 20)   | Researchers		|
+| 15+3d4 (average 22-23)| Managers		|
 
-Infant (0 to 3): -75% to all characteristics
-Child (4 to 15): -50% to all characteristics
-Young Adult (16 to 39): No change
-Middle Age (40 to 59): -20% to Dex, -10% to Str, Con, +10% to Wis, Cha
-Old Age (60 to 79): -30% to Dex, -20% to Str, Con, +20% to Wis, Cha
-Venerable (80+): -50% to Dex, -30% to Str, Con, +30% to Wis, Cha
 
-Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 20% less, but a bonus to Constitution and Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPCs. Player-characters may, of course, choose whatever sex or ethnic background that they desire according to the die-roll results.
+| Age Category		| Characteristic Modifier	|
+|-----------------------|-------------------------------|
+| Infant (0 to 3)	| -75% to all characteristics	|
+| Child (4 to 15)	| -50% to all characteristics	|
+| Young Adult (16 to 39)| No change			|
+| Middle Age (40 to 59) | -20% to Dex, -10% to Str, Con, +10% to Wis, Cha |
+| Old Age (60 to 79)	| -30% to Dex, -20% to Str, Con, +20% to Wis, Cha |
+| Venerable (80+)	| -50% to Dex, -30% to Str, Con, +30% to Wis, Cha |
+
+Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 20% less, but a bonus to Constitution and Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPCs. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
 
 The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay for relevant professions and for Wisdom to represent their prudent expenditures and investments. 
 
@@ -385,22 +389,18 @@ Profession Skills: Brawl, Intimidate, Language (own), Profession (own)
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
-Starting at first level, and for every level thereafter, a labourer gains +1 to either Strength, Dexterity, or Constitution, accoding to the player's choice.
-
-[EDIT Resources]
-
-| Level | Wage     | Resources | Perks				|
-|-------|----------|-----------|--------------------------------|
-| 1	| $700     |           | Union Membership		|
-| 2	| $800     |           | +1 to STR, DEX, or CON		|
-| 3	| $900     |           |
-| 4	| $1000    |           |
-| 5	| $1100    |
-| 6	| $1150    |
-| 7	| $1200    |
-| 8	| $1250    |
-| 9	| $1300    |
-| 10	| $1350    |
+| Level | Wage     | Perks			|
+|-------|----------|----------------------------|
+| 1	| $700     | Union Membership           |
+| 2	| $800     | +1 to STR, DEX, or CON	|
+| 3	| $900     |                            |
+| 4	| $1000    | +1 to STR, DEX, or CON     |
+| 5	| $1100    |                            |
+| 6	| $1150    | +1 to STR, DEX, or CON     |
+| 7	| $1200    |                            |
+| 8	| $1250    | +1 to STR, DEX, or CON     |
+| 9	| $1300    |                            |
+| 10	| $1350    | +1 to STR, DEX, or CON     |
 
 ### 1.5.2 Scientist
 
@@ -408,18 +408,18 @@ Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Language (own), Profession (own), 
 
-| Level | Wage     | Resources | Perks
-|-------|----------|-----------|------
-| 1	| $500     |           | Free conference 
-| 2	| $600     |
-| 3	| $700     |
-| 4	| $850     |
-| 5	| $900     |
-| 6	| $1050    |
-| 7	| $1250    |
-| 8	| $1500    |
-| 9	| $1750    |
-| 10	| $2050    |
+| Level | Wage     | Perks		   |
+|-------|----------|-----------------------|
+| 1	| $500     | Conference Attendance |
+| 2	| $600     |			   |
+| 3	| $700     |		           |
+| 4	| $850     |		           |
+| 5	| $900     |		           |
+| 6	| $1050    |		           |
+| 7	| $1250    |		           |
+| 8	| $1500    |		           |
+| 9	| $1750    |		           |
+| 10	| $2050    |		           |
 
 ### 1.5.3 Administrator
 
@@ -430,18 +430,18 @@ Profession Skills: Language (own), Profession (own)
 *"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.*
 David Wiegleb, Jan 24, 2017
 
-| Level | Wage     | Resources | Perks
-|-------|----------|-----------|------
-| 1	| $500     |           | File system knowledge
-| 2	| $600     |
-| 3	| $700     |
-| 4	| $800     |
-| 5	| $900     |
-| 6	| $1000    |
-| 7	| $1100    |
-| 8	| $1200    |
-| 9	| $1300    |
-| 10	| $1400    |
+| Level | Wage     | Perks			|
+|-------|----------|----------------------------|
+| 1	| $500     | File System Knowledge	|
+| 2	| $600     |				|
+| 3	| $700     |				|
+| 4	| $800     |				|
+| 5	| $900     |				|
+| 6	| $1000    |				|
+| 7	| $1100    |				|
+| 8	| $1200    |				|
+| 9	| $1300    |				|
+| 10	| $1400    |				|
 
 ### 1.5.4 Tradesperson
 
@@ -449,18 +449,18 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d6
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     | Resources | Perks
-|-------|----------|-----------|------
-| 1	| $400     |           | Union membership
-| 2	| $500     |           | Security Access
-| 3	| $650     |
-| 4	| $800     |
-| 5	| $1000    |
-| 6	| $1200    |
-| 7	| $1450    |
-| 8	| $1700    |
-| 9	| $2000    |
-| 10	| $2300    |
+| Level | Wage     | Perks              |
+|-------|----------|--------------------|
+| 1	| $400     | Union membership	|
+| 2	| $500     | Security Access	|
+| 3	| $650     | 			|
+| 4	| $800     | 			|
+| 5	| $1000    |  			|
+| 6	| $1200    | 			|
+| 7	| $1450    | 			|
+| 8	| $1700    | 			|
+| 9	| $2000    |			|
+| 10	| $2300    |			|
 
 ### 1.5.5 Researcher
 
@@ -468,18 +468,18 @@ Prime Requisite: Constitution
 Starting Age: 15+2d4
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     | Resources | Perks
-|-------|----------|-----------|------
-| 1	| $500     |           | Library access
-| 2	| $600     |           | Bonus Language
-| 3	| $700     |           | Special access
-| 4	| $800     |           | 
-| 5	| $900     |
-| 6	| $1050    |
-| 7	| $1200    |
-| 8	| $1350    |
-| 9	| $1500    |
-| 10	| $1750    |
+| Level | Wage     | Resources | Perks			|
+|-------|----------|-----------|------------------------|
+| 1	| $500     |           | Library access		|
+| 2	| $600     |           | Bonus Language		|
+| 3	| $700     |           | Conference Attendance	|
+| 4	| $800     |           | Union membership 	|
+| 5	| $900     |	       |
+| 6	| $1050    |           |
+| 7	| $1200    |           |
+| 8	| $1350    |           |
+| 9	| $1500    |           |
+| 10	| $1750    |           |
 
 ### 1.5.6 Manager
 
@@ -487,18 +487,18 @@ Prime Requisite: Charisma
 Starting Age: 15+3d4
 Profession Skills: Language (own), Profession (own)
 
-| Level | Wage     | Resources | Perks
-|-------|----------|-----------|------
-| 1	| $600     |           | Social damage reduction
-| 2	| $700     |
-| 3	| $850     |
-| 4	| $1000    |
-| 5	| $1200    |
-| 6	| $1400    |
-| 7	| $1650    |
-| 8	| $1900    |
-| 9	| $2200    |
-| 10	| $2500    |
+| Level | Wage     | Resources | Perks		|
+|-------|----------|-----------|----------------|
+| 1	| $600     |           | Social Armour 	|
+| 2	| $700     |	       |                |
+| 3	| $850     |           |                |
+| 4	| $1000    |           |                |
+| 5	| $1200    |           |                |
+| 6	| $1400    |           |                |
+| 7	| $1650    |           |                |
+| 8	| $1900    |           |                |
+| 9	| $2200    |           |                |
+| 10	| $2500    |           |                |
 
 
 ## 1.6 Skills and Knowledges
@@ -507,19 +507,21 @@ Skills and other actions in "Papers and Paychecks" are determined by the followi
 
 Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone.
 
-At this stage, the skills are given the briefiest descriptions to satisfy the requirements of character generation. A fuller description of their implementation is found in section 2.2 and section 2.3
+Many skills have required or optional specialisations. Required specialisations are essentially separate skills. Optional specialisations are a narrow implementation of a base skill, and provide a +2 bonus for each skill point spent.
+
+At this stage, the skills are given the brief descriptions to satisfy the requirements of character generation. A more complete description of their implementation is found in section 2.2 and section 2.3
 
 ### Strength Based Skills
 
 There are few Strength based skills, but they have a wide application. Strength-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
-**Brawl**
+**Athletics (Strength)**
 
-A Brawl check is applied each round that a character is attempting to hit something with the fists, kick them, head-butt them, and even engage in close-combat hand-to-hand weapons such as knives and daggers. The Brawl check is contested against the defense of the opponent and the difference is used to determine the damage caused. 
+An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculture. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints and hurdles.
 
 **Climb**
 
-A Climb check is necessary every round whenever a character is required to move along a steep incline, defined as 50 degrees or more. Encumbrance penalties apply to Climb checks.
+A Climb check is used whenever a character is required to move along a steep incline, defined as 50 degrees or more. Encumbrance penalties apply to Climb checks.
 
 **Intimidate**
 
@@ -527,7 +529,13 @@ An Intimidate check is used when a character wishes to make another character co
 
 **Jump**
 
-A Jump check is necessary when a player dictates that the character will attempt to leap without touching an intervening surface. Encumbrance penalties apply to Jump checks. The distance covered will depend on the type of Jump attempted, with modifiers according to the conditions. 
+A Jump check is used when a player dictates that the character will attempt to leap without touching an intervening surface. Encumbrance penalties apply to Jump checks. The distance covered will depend on the type of Jump attempted, with modifiers according to the conditions. 
+
+**Melee**
+
+A Melee check when a character is attempting to hit something with the fists, or use any number of hand-based weapons, all of which can be used as optional specialisations as fighting styles (e.g., brawling, swords, axe and mace etc). The Melee check is contested against the defense of the opponent and the difference is used to determine the damage caused.
+
+> There are only a few combat skills in *Papers & Paychecks*. It's not that violent actions don't occur, they certainly do and they're dramatic enough in their own right. However the attention given to them as part of the game system is relatively reduced and proportional to their importance. 
 
 **Swim**
 
@@ -551,37 +559,39 @@ A Craft (pharmaceutical) check is used to compound drugs, whether to produce a t
 
 **Craft (writing)**
 
-A Craft (writing) skill check is typically used when a character is composing an *important* email, 'blog, media release, advertisement, business report, research paper, as well as forms of creative fiction such as poetry, screenplays, novels etc.
+A Craft (writing) skill check is typically used when a character is composing an important email, 'blog, media release, advertisement, business report, research paper, as well as forms of creative fiction such as poetry, screenplays, novels etc. All of these are optional specialisations.
 
 **Investigate**
 
-An Investigate skill is used to apply forensics, discover clues, and engage in analysis, removing improbable speculations by the availability of evidence. This skill also includes the ability to use a crime laboratory which can enhance the scope of available clues.
+An Investigate skill check is used to apply forensics, discover clues, and engage in analysis, removing improbable speculations by the availability of evidence. This skill also includes the ability to use a crime laboratory which can enhance the scope of available clues.
 
-> It is a great idea for a character to make use of their Luck characteristic with the use of the Investigate skill. The need for investigation is usually is only applied when the situation and scene is sufficiently important. 
+> It is a great idea for a character to make use of their Luck characteristic with the use of the Investigate skill. The need for investigation is usually is only applied when the situation and scene is sufficiently important. Given how naturally antagonistic the setting is, it is unlikely that The Boss is going to give the players any special hints to keep the story on track - going off the rails is a feature not a bug in this system.
 
 **Knowledge (various)** 
 
-A Knowledge skill check is used against any critical application of a theoretical knowledge. Mant other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are many knowledge skills (like Craft skills) and each have an *required* specialisation. 
+A Knowledge skill check is used against any critical application of a theoretical knowledge. Mant other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
+
+> The character Seth is a post-graduate health scientist. Their player, with a truly impressive 7 skill points per level, spends 1 to increase the Knowledge (Science), a required specialisation, and 2 on the optional specialisations of biology and medicine i.e., Knowledge (Science, Biology), Knowledge (Science, Medicine), and 1 on medical practioners i.e., Knowledge (Science, Medics).
 
 **Knowledge (Arts)** 
 
-A Knowledge (Arts - specialisation) check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, suppliers, galleries), and people (artists, agents, collectors, academics)
+A Knowledge (Arts - specialisation) skill check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, suppliers, galleries), and people (artists, agents, collectors, academics)
 
 **Knowledge (Laws)** 
 
-A Knowledge (Laws - specialisation) check is used whenever a character wishes to evaluate normative regulations. This includes legal principles and systems (natural law, torts, contracts, criminal), political ideologies (anarchism, communism, socialism, liberalism, conservativism, fascism), moral theories (divine command, utilitarianism, institutions (courts, assemblies), and people (lawyers, politicians, police, academics).
+A Knowledge (Laws - specialisation) skill check is used whenever a character wishes to evaluate normative regulations. This includes legal principles and systems (natural law, torts, contracts, criminal), political ideologies (anarchism, communism, socialism, liberalism, conservativism, fascism), moral theories (divine command, utilitarianism, institutions (courts, assemblies), and people (lawyers, politicians, police, academics).
 
 **Knowledge (Sciences)**
 
-A Knowledge (Sciences - specialisation) check is required whenever a character wishes to evaluate objective facts. This includes broad scientific disciplines, both physical and social (biology, physics, chemistry, economics, sociology, history, psychology), institutions (research bodies, universities), and people (various scientists according to broad discipline).
+A Knowledge (Sciences - specialisation) skill check is required whenever a character wishes to evaluate objective facts. This includes broad scientific disciplines, both physical and social (biology, physics, chemistry, engineering, economics, medicine, sociology, history, psychology), institutions (research bodies, universities), and people (various scientists according to broad discipline).
 
 **Knowledge (Philosophy)**
 
-A Knowledge (Sciences - specialisation) check is required whenever a character wishes to evaluate rational propositions. This includes issues of ontology (theories of being), epistemology (theories of knowledge), logic (mathematics, rhetoric), the various institutions, schools of thought, and people.
+A Knowledge (Philosophy - specialisation) skill check is required whenever a character wishes to evaluate rational propositions. This includes issues of ontology (theories of being), epistemology (theories of knowledge), logic (mathematics, rhetoric), the various institutions, schools of thought, and people.
 
 **Language (various)**
 
-A language skills check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there is dramatic reasons for the test, whether resulting from success or failure. A language, like knowledges is a *required* specialisation. Closely related languages will have a close default with each other.
+A Language (specialisation) skill check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there is dramatic reasons for the test, whether resulting from success or failure. A language is a required specialisation. Closely related languages will have a close default with each other.
 
 ### Wisdom Based Skills
 
@@ -589,7 +599,7 @@ There are a few Wisdom based skills and they tend to have an average focus. Wisd
 
 **Administration**
 
-An Administration check is made when testing a character's ability to organise, understand, and keep records. This includes financial records, personell records, as well as time management (essential for personal assistants). The operations of a modern bureaucracy are fraught with disaster without skilled administrators.
+An Administration check is made when testing a character's ability to organise, understand, and keep records. The operations of a modern bureaucracy are fraught with disaster without skilled administrators. This includes financial records, personell records, logistics, and time management, all of which are available as optional specialisations.
 
 **Gamble**
 
@@ -597,52 +607,79 @@ A Gamble skill check is made to test a character's understanding of chance, risk
 
 **Profession**
 
-A Profession skill check is made to indicate how well a character satisfies the job requirements that are not directly related to the skill or knowledge of their profession. That is, their attention to their KPIs, being a 'team player', application of office occupational health and safety, knowledge of pay grades and promotional criteria.
+A Profession skill check is made to indicate how well a character satisfies the job requirements that are not directly related to the skill or knowledge of their profession. That is, their attention to their KPIs, being a 'team player', application of office occupational health and safety, knowledge of organisational structure, pay grades and promotional criteria.
 
 **Survival**
 
-A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in an urban environment, it can also be used for wilderness settings with an alternative specialiation.
+A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional  specialiations.
 
 ### Dexterity Based Skills
 
-There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
-
+There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training, except for the Craft skills which are at -6, as component knowledge is required.
 
 **Craft (electronic)**
 
-A Craft (electronic) check is used to build and repair electronic equipment assuming component materials (vacuum tubes, transistors, diodes, integrated circuits etc),  including audio-visual equipment, timers, radio and television equipment, information processing switches, and signal processing.
+A Craft (electronic) skill check is used to build and repair electronic equipment assuming component materials (vacuum tubes, transistors, diodes, integrated circuits etc),  including audio-visual equipment, timers, radio and television equipment, information processing switches, and signal processing, all of which can be taken as optional specialisations.
 
 **Craft (mechanical)**
 
-A Craft (mechanic) check is used to build and repair mechanical equipment, that is, machinery based on the behaviour of physical bodies when subjected to forces and displacements. This includes automatic machinery, boilers, air conditioning and refrigeration, aircraft, and various mills.
+A Craft (mechanic) skill check is used to build and repair mechanical equipment, that is, machinery based on the behaviour of physical bodies when subjected to forces and displacements. This includes automatic machinery, boilers, air conditioning and refrigeration, aircraft, and various mills, of which can be taken as optional specialisations.
 
 **Craft (structural)**
 
-A Craft (structural) check is used when a character is producing various items related to the home, building and construction industry from various materials including wood, metal, or concrete. It includes various furnishings and fittings, structural painting, plastering, tiling, cement laying, plumbing, and building electrics.
+A Craft (structural) skill check is used when a character is producing various items related to the home, building and construction industry from various materials including wood, metal, or concrete. It includes various furnishings and fittings, structural painting, plastering, tiling, cement laying, plumbing, and building electrics, all of which can be taken as optional specialisations.
 
-**Craft (art)**
+**Craft (visual art)**
 
-A Craft (visual art) check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video.
+A Craft (visual art) skill check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video, all of which can be taken as optional specialisations.
+
+**Firearms**
+
+A Firearms skill check is used whenever a character uses a portable baralled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anarchronisms such as muskets and crossbows. 
 
 **Gymnastics**
 
-Athletics is a broad based group of skills with required specialisation for checks based on unusual bodily maneauvers. This includes feats of contortions, balance, tumbling, trapeze, and vaulting.
+A Gymnastics skill check is used when a character is engaging in any unusual bodily maneuvers with an emphasis on flexibility. This includes feats of acrobatics, contortions, balance, tumbling, trapeze, and vaulting, all of which can be taken as optional specialisations.
 
+**Missiles**
 
-Drive, 
-Hide, 
-Pilot, 
-Ride, 
-Sleight, 
-Stalk, 
+A Missiles skill check is used when a character is using any muscle-power missile weapon and using hand-eye co-ordination. This includes thrown objects, javelins and spears, and bows, all of which can be taken as optional specialisations.
+
+**Pilot**
+
+A Pilot skill check is used when a character is operating a vehicle. Typically this is for cars, motorcyles, or boats but could include carts, airplanes, ships, and spacecraft etc. Specialisation is required, but there is close association between similar vehicles.
+
+**Ride**
+
+A Ride skill check is used when a character is operating an animal as a mount. This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amount modern office-workers.
+
+**Sleight**
+
+A Sleight skill check is used when a character is engaging is various acts that use both deception and fine-finger control; this includes various stage magic tricks, palming objects, and pickpocketing.
+
+**Stealth**
+
+A Stealth skill check is used when a character is hiding, stalking, or shadowing other characters or even animals. Note that for Stealth activities the inverse of the STR modifier is also often applied. 
 
 ### Constitution Based Skills
 
 There are few Constitution based skills, but they have a wide application. Costitution-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
-Concentration 
-Hiking
-Perception
+**Athletics (stamina)**
+
+A Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, long distance running etc.
+
+**Carousing**
+
+A Carousing skill check is made when a character is engaging in imbibing in intoxicating drinks and other recreational pharmaceuticals, dancing like nobody is watching, and generally being the life of party.
+
+**Concentration**
+
+A Concentration skill check is made when a character has to either shrug off the effects of temporary distractions (tactical concentration) or ignore the effects of fatigue (strategic concentration). An optional specialisation is allowed for the two time scales.
+
+**Perception**
+
+A Perception skill check is made when a character applies their senses to make an evaluation of the objective world. Optional specialisations are allowed for the broad traditional sense categories Smell/Taste, Sight, Hearing, and Touch.
 
 ### Charisma Based Skills
 
@@ -650,26 +687,49 @@ There are few Charisma based skills, but they have a wide application. Charisma-
 
 **Act**
 
-An Act check is required when a character attempts to take on a role and pretend to be someone with different motivations and interests than what is truly their own. This is often a professional skill in its own right, and is usually applied strategically rather than tactically (which differentiates it from Lie). An check against Act, if necessary, is carried out as a contested skills against a [EDIT] check of the opponent.
+An Act skill check is made when a character attempts to take on a role and pretend to be someone with different motivations and interests than what is truly their own. This is often a professional skill in its own right, and is usually applied strategically rather than tactically (which differentiates it from Lie).
  
-**Blather**
-
-
 **Bully**
 
-A Bully check is required when a character attempts to make another character or characters comply with threats, stated or implied. A Bully check is applied tactically and is carried out as an opposed test against the target's [EDIT]. Bullying is significantly more difficult if the bullier lacks social position or is attempted against a group of people.
+A Bully skill check is made when a character attempts to make another character or characters comply with threats, stated or implied. Bullying is significantly more difficult if the bullier lacks social position or is attempted against a group of people.
 
 **Inspire**
 
+An Inspire skill check is made when a character uses oratory and leadership to encourage others to engage in an activity. Whilst carried out tactically, the effects are strategic. The past successes of an Inspire skill check are important in determining success among the same individuals or group.
+
 **Lie**
 
-A Lie is an attempt to mislead whether by emphasis, omission, or contradiction of the facts, and is contested by a [EDIT] check of the target. The more believable the lie is, based on plausibility and consistency, the more likely it is to succeed. The reputation and previous experience of a character to the liar also modifies their chance to succeed. A character who has personally suffered at the hands of a liar due to one of their lies (i.e., has taken physical, social, or mental damage in the past) will be "deeply suspicious" of the liar.
+A Lie skill check is an attempt to mislead whether by blather, emphasis, omission, or contradiction of the facts. The more believable the lie is, based on plausibility and consistency, the more likely it is to succeed. The reputation and previous experience of a character to the liar also modifies their chance to succeed. A character who has personally suffered at the hands of a liar due to one of their lies (i.e., has taken physical, social, or mental damage in the past) will be "deeply suspicious" of the liar.
 
 **Seduce**
 
-## 1.7 Perks and Flaws
+> "Challenge, and not desire, lies at the heart of seduction.", Jean Baudrillard, *The Ecstasy of Communication*, 1987
 
-Feats? EDIT
+A Seduce skill check is made when a character wishes to lead another character astray (Latin: *seducere* "to lead astray"). This typically mean to persuade the other character to engage in sexual behaviour, but the same skill can be used for bribery or other dereliction of duty as seduction involves significant use of metaphor and enticement. 
+
+
+## 1.7 Perks
+
+**Conference Attendance**
+
+With the Conference Attendance perk once per project a character may attend an expenses paid (accommodation, flight, meals) international conference. Depending on the subject matter the Conference will provide a +1 bonus to skill checks made in the current project that are relevant from the conference subject, a contact, plus one item of new equipment from a trade stand valued no more than $1000. Note that the conference subject is determined before the project. 
+
+> Watch this one; whilst nominally a matter for the player to determine what the conference was, along with the contact and equipment, The Boss might intervene and determine these. This is typically a good thing as it means that the character will have a necessary role in the plot. Or The Boss is invoking a particularly nasty consequence. 
+
+**File System Knowledge**
+
+**Library Access**
+
+Acquiring public library access is something that everyone can do; but the Library Access perk is a collection of unusual rights, that provides for a wider scale of information, restricted borrowings, and additional assistance from library staff. The Library Access perk provide an additional +2 bonus to research and other information gathering tasks when the character uses a library. 
+
+**Security Access**
+
+**Social Armour**
+
+**Union Membership**
+
+Union membership is an important perk which equalises the labour market which is usually in favour of employers (many employees, fewer employers). This perk however represents membership of a strong union, and thus whilst many characters in *Papers & Paychecks* can get union membership (or some sort of professional association) the benefits become evident at different levels, according to profession. Union membership provides a 10% bonus to a character's wage, and a reduction in social damage attacks by co-workers (including managers) by 25%.
+
 
 ## 1.8 Personality
 
@@ -775,8 +835,10 @@ Critical failure 1-3 (failure with consequences)
 
 **Drinking Alcohol**
 
-If the number of standard doses equals a quarter of the character's CON, they must make a CON characteristic test with a target number of 11. If they fail, they will feel nauseous, but with no additio
+A character may drink up to a quarter of their CON in standard drinks with no immediate ill-effects. A standard drink is 10 grams of alchol, approximately 250ml of beer, 125ml of wine, or a 30ml nip of high strength spirits. If the number of standard doses exceeds this value, they must make a CON characteristic test with a target number of 11. If they fail, they will feel nauseous, but with no additional effects. For each multiple of the calculated CON value (i.e., .25 CON, .50 CON, 1.00 CON,  1.25 CON etc.) an additional roll is required, with an increase of +2 per increase (i.e., 11, 13, 15, 17 etc). At this stage all skill rolls will also be at -2 per multiple. A second fail will cause the character to get sick, and, if they insist on drinking, a third roll will lead them to pass out. 
 
+A character who has failed at least two rolls will be subject to a hangover, unless they undertake sufficient precautions (e.g., a litre of water, 2 paracetomal, and a multivitamin is recommended). If a character has a hangover they must make a standard characteristic roll or be sick as per a second failure. They will also suffer a -2 to all skill rolls for the remainder of the day.
+ 
 **Drowning and Suffocation**
 
 A character's capacity to hold their breath is equal to twice their Constitution score; if they engage in any actions whilst in this situation that counts as an additional round's worth (so an active character can only hold their breath for half as long), exertion is four times the at-rest consumption, and maximun exertion is eight times. Once the character is out of breath, they must make a Constitution characteristic test with a target number of 5, and increasing one per round. If the Constitution check is failed, they fall unconscious (dropping to zero hit points immediately), and will lose one hit point every round from then on. Water is not the only substance a character can drown in. A character can drown in sand, mud, snow, grain etc. Most appropriately, circumstances may occur where a character drowns in paperwork. *Wouldn't that be ironic?*
@@ -1098,7 +1160,7 @@ Another CRM has turned up, and he brought your supervisor's boss. They are all y
 *I drink when I have occasion, and sometimes when I have no occasion.*
 Miguel de Cervantes, *Don Quixote de la Mancha* (1605–1615) Part II (1615), Book III, Ch. 33.
 
-The capacity of alcoholic drinks to provide sociability is well known. A standard dose is either one medium glass of beer, a small glass of wine, or a shot of spirit. Each standard dose reduces all physical skill rolls by 2, and apparently increases the CHA of others interacting with the character by 1. Follow the rules for drinking under section 2.2.
+The capacity of alcoholic drinks to provide sociability is well known. A standard dose is either one medium glass of beer, a small glass of wine, or a shot of spirit. Each standard dose of a Potion of Socialability increases the CHA of *others* interacting with the character by 1. You want to be their friend. Follow the rules for drinking under section 2.2.
 
 **Ring of The Significant Other**
 
@@ -1138,15 +1200,6 @@ These four famous volumes contain many aspects of programming algorithms and ana
 ## 4.3 Season and Episode Design
 
 http://tau-iota-mu-c.livejournal.com/130071.html
-
-Fairpoll - Balanced Results
-Consquence for Simon -  Forgets about new necklace in photo to edit.
-Consequence for Simon - Charge you $2000.
-
-In 2005, 31 years after Nixon's resignation and 11 years after Nixon's death, a family attorney stated that former Federal Bureau of Investigation Associate Director Mark Felt was Deep Throat. Felt was battling dementia at the time, and had previously denied being Deep Throat, but Woodward and Bernstein confirmed his claim.
-
-Dgt Sgt Ulhmann: Simon passes everything on to Ricky Bateman
-
 
 # 5.0 Scenarios : Fear and Loathing in Wellington
 ## 5.1 Setting
@@ -1549,7 +1602,11 @@ Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 
 Cecil Adams, The Straight Dope. http://www.straightdope.com/ 
 
+Drinking rules were assisted by the Australian Government Department of Health "The Australian Standard Drink", 2012, and RuneQuest Vikings (1985)
+
 Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., and Geo Stone, "Suicide and Attempted Suicide", 1999.
+
+
 
 
 ## 6.2 Charts and Tables
