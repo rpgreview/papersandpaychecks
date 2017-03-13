@@ -168,95 +168,51 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 The following is the opening scene of four players of "Papers and Paperchecks". 'The Boss', has set the game with a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
  
 > *The Boss*: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
-
 > *Everyone*: *groans*.
-
 > *Gerald*: "OK everyone, stand back. The technician is here". What's wrong with it?
-
 > *The Boss*: The machine displays 'Dredgedrawer is full'.
-
 > *Gerald*: Easy enough. I take the dredgedrawer out, empty it, give it a clean and put it back in.
-
 > *The Boss*: Now it says 'Dredgedrawer missing'.
-
 > *Gerald*: Oh come now. I wriggle it around a bit. I open and close the service door.
-
 > *The Boss*: OK, make an 'Electrical Technician' roll at +2.
-
 > (Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their adding their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences".
-
 > *The Boss*: Congratulations, the machine roars into action. Except now it says 'Refill Beans'. (Note that the consequence is proportional to the success)
-
 > *Mary*: That's part of my job! 
-
 > *The Boss*: Well, we'd better check that you ordered some. An Administration check for office supplies please.
-
 > *Mary*: It never ends. 
-
 > (Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
-
 > Mary: Just as well that was one of main skills. Now please let us have a coffee!
-
 > (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
-
 > *The Boss*: Well now you all have coffee according to your preferred tastes. You are in the meeting room preparing the activities for the week. Walter's phone rings. It's the head of department, Professor Fleur Power.
-
 > *Walter*: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
-
 > *The Boss*: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
-
 > *Walter*: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
-
 > *The Boss*: (Playing Professor Power) "No, the Minister does not know that and nor does the university marketing department. Marketing thinks we need to make the claim so we get additional funding. So get some models up and running that match some empirical tests and show that a certain activity leads to reduced blood pressure. You have until four pm". Professor Power hangs up. 
-
-> *Walter*: Well, I'll relay the news to the rest of the team and try to inspire them. I'll roll against my "Inspire Team" skill; a 12, bringing the total to 18! (The player stands from the table and gesticulates wildly addressing the others) "Come on now team, we know the drill. At the end of the day we need to action this, so let's think outside the box, and have an idea shower. We'll look under the bonnet and get all our ducks in a row."
-
+> *Walter*: Well, I'll relay the news to the rest of the team and try to inspire them. I'll roll against my "Inspire" skill; a 12, bringing the total to 18! (The player stands from the table and gesticulates wildly addressing the others) "Come on now team, we know the drill. At the end of the day we need to action this, so let's think outside the box, and have an idea shower. We'll look under the bonnet and get all our ducks in a row."
 > (Groans from other players who have actually heard these phrases at their workplace, even as mixed metaphors) 
-
 > *The Boss*: Very good! You get a Luck point for that truly cringeworthy performance.
-
 > (A Luck point allows the player to modify a rolled result to whatever value they desire)
-
 > *Seth*: Well, what do we have? Isn't there some lab rats or something on campus that are used for such studies?
-
 > *The Boss*: Sure is; very well known too. Make a Science (biology) roll with a +2 bonus.
-
 > *Seth*: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
-
 > *The Boss*: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
-
 > *Mary*: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
-
 > *Seth*: "It doesn't matter, this is great news! We can bring up the dataset, run the simulation, and correlate the results with our loyal rodent allies who we can use to provide empirical evidence to the Minister!"
-
 > (The Boss smiles inwardly thinking of the enormous variety of things that could go wrong with lab rats with hypertension meeting a Minister of Health. Perhaps a biting incident is in order.)
-
 > *Ingrid*: Sounds like my cue. I bring up the database on the cluster. How long will the simulation take?
-
 > *The Boss*: About three hours. However the system is unusually sluggish. Looks like the storage array is full.
-
 > *Ingrid*: It never just rains, does it? OK, I do make a 'Computer (Operating Systems)' check. Total roll of 7. Ugh, what a terrible result. I spend a Luck Point and turn the failure into a success. 
-
 > *The Boss*: Indeed, the disk is full. You've had a good look around and 'luckily' worked out where the most prominent directories are located, and with that now successful roll, you've discovered that there is a large directory of - how do I put this delicately - 'adult entertainment movies' and judging by the titles, some would make your eyes weep. They're in Professor Power's home directory.
-
 > *Ingrid*: What? Don't we have quotas on these directories? Isn't this sort of, ummm, 'private material' against university policy?
-
 > *The Boss*: You want a quota on the head of department? Do you you want to report them? 
-
 > *Walter*: No, no, no. We can't do that! Professor Power controls the funding to our group and without her support, we're out on the streets and its game over for us. Maybe it's not hers? Maybe it was hackers!
-
 > *Ingrid*: But if we don't free up some space, we'll never be able to run the simulation in time. We should just delete that directory.
-
 > *Gerald*: I'm not sure that will make the head of department very happy.
-
 > *Seth*: Maybe if we just temporarily move somebody else's directory? What else is there?
-
 > *The Boss*: Well there's a large dataset of the early detection of schizophrenia in adolescents...
-
 > *Mary*: You can move that data to one of the local drives - here on my personal computer.
-
 > *The Boss*: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
-
+> 
 > (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
 ## 1.2 Luck Rating
@@ -278,9 +234,7 @@ The Background of a character in *Papers & Paychecks* initially consists of thei
 The time that this inheritence is received will be on the (2d6*2) + 20th year of the character. This value will typically be kept in secret by the The Boss as part of the character's development. Note that a player may spend a Luck Point to determine exactly what age they will receive their inheritence and, in some cases, this may even occur before the start of play.
 
 > Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritence received, which make a total of 24 years when I receive a cool $1.2 million."
-
 > "You are *cold*", responds the Boss.
-
 > "But only for the greater good!", the player retorts.
 
 Other background features should be derived from the initial wealth roll. Characters with a high initial wealth, for example, will typically come from good neighbourhoods with a stable family life. At the other end of the scale are the poor in their tenement housing in their rough neighbourhoods with above average incidence of petty drug problems, violence and property crimes. As the distribution would indicate, most people fit around the middle.
@@ -346,7 +300,7 @@ The average of a character's Strength and Constitution represents a character's 
 
 **Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc.
 
-**Consitution**: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging). As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
+**Constitution**: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging). As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
 
 **Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills.
 
@@ -385,7 +339,7 @@ Note that there is no level after 10. After several projects at this level, havi
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Brawl, Intimidate, Language (own), Profession (own)
+Profession Skills: Brawl, Intimidate, Hobby, Language (own), Profession
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
@@ -397,7 +351,7 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 | 4	| $1000    | +1 to STR, DEX, or CON     |
 | 5	| $1100    |                            |
 | 6	| $1150    | +1 to STR, DEX, or CON     |
-| 7	| $1200    |                            |
+| 7	| $1200    | Security Access            |
 | 8	| $1250    | +1 to STR, DEX, or CON     |
 | 9	| $1300    |                            |
 | 10	| $1350    | +1 to STR, DEX, or CON     |
@@ -406,7 +360,7 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: Language (own), Profession (own), 
+Profession Skills: Hobby, Language (own), Profession 
 
 | Level | Wage     | Perks		   |
 |-------|----------|-----------------------|
@@ -425,7 +379,7 @@ Profession Skills: Language (own), Profession (own),
 
 Prime Requisite: Wisdom
 Starting Age: 15+1d6
-Profession Skills: Language (own), Profession (own)
+Profession Skills: Hobby, Language (own), Profession
 
 *"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.*
 David Wiegleb, Jan 24, 2017
@@ -447,7 +401,7 @@ David Wiegleb, Jan 24, 2017
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d6
-Profession Skills: Language (own), Profession (own)
+Profession Skills: Hobby, Language (own), Profession
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
@@ -466,39 +420,39 @@ Profession Skills: Language (own), Profession (own)
 
 Prime Requisite: Constitution
 Starting Age: 15+2d4
-Profession Skills: Language (own), Profession (own)
+Profession Skills: Hobby, Language (own), Profession
 
-| Level | Wage     | Resources | Perks			|
-|-------|----------|-----------|------------------------|
-| 1	| $500     |           | Library access		|
-| 2	| $600     |           | Bonus Language		|
-| 3	| $700     |           | Conference Attendance	|
-| 4	| $800     |           | Union membership 	|
-| 5	| $900     |	       |
-| 6	| $1050    |           |
-| 7	| $1200    |           |
-| 8	| $1350    |           |
-| 9	| $1500    |           |
-| 10	| $1750    |           |
+| Level | Wage     | Perks			|
+|-------|----------|----------------------------|
+| 1	| $500     | Library access		|
+| 2	| $600     | Cramming			|
+| 3	| $700     | Conference Attendance	|
+| 4	| $800     | Union membership 		|
+| 5	| $900     |	       			|
+| 6	| $1050    |           			|
+| 7	| $1200    |           			|
+| 8	| $1350    |           			|
+| 9	| $1500    |           			|
+| 10	| $1750    |           			|
 
 ### 1.5.6 Manager
 
 Prime Requisite: Charisma
 Starting Age: 15+3d4
-Profession Skills: Language (own), Profession (own)
+Profession Skills: Hobby, Language (own), Profession
 
-| Level | Wage     | Resources | Perks		|
-|-------|----------|-----------|----------------|
-| 1	| $600     |           | Social Armour 	|
-| 2	| $700     |	       |                |
-| 3	| $850     |           |                |
-| 4	| $1000    |           |                |
-| 5	| $1200    |           |                |
-| 6	| $1400    |           |                |
-| 7	| $1650    |           |                |
-| 8	| $1900    |           |                |
-| 9	| $2200    |           |                |
-| 10	| $2500    |           |                |
+| Level | Wage     |  Perks		|
+|-------|----------|--------------------|
+| 1	| $600     | Social Armour	|
+| 2	| $700     |                 	|
+| 3	| $850     | Id Insinuation   	|
+| 4	| $1000    |                 	|
+| 5	| $1200    |                 	|
+| 6	| $1400    |                 	|
+| 7	| $1650    |                 	|
+| 8	| $1900    |                 	|
+| 9	| $2200    |                 	|
+| 10	| $2500    |                 	|
 
 
 ## 1.6 Skills and Knowledges
@@ -604,6 +558,10 @@ An Administration check is made when testing a character's ability to organise, 
 **Gamble**
 
 A Gamble skill check is made to test a character's understanding of chance, risk, and contingency. Not only does it apply to their evaluation of traditional games of chance, but also risk management in operations and projects in a contemporary work environment, and financial investments.
+
+**Hobby**
+
+A Hobby skill or knowledge is a non-professional activity which a character engages in whilst not in their place of employment (e.g., arguing on the Internet, bee-keeping, game design, wine-tasting). It cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity. Hobby skills require a specialisation.
 
 **Profession**
 
@@ -714,9 +672,19 @@ A Seduce skill check is made when a character wishes to lead another character a
 
 With the Conference Attendance perk once per project a character may attend an expenses paid (accommodation, flight, meals) international conference. Depending on the subject matter the Conference will provide a +1 bonus to skill checks made in the current project that are relevant from the conference subject, a contact, plus one item of new equipment from a trade stand valued no more than $1000. Note that the conference subject is determined before the project. 
 
-> Watch this one; whilst nominally a matter for the player to determine what the conference was, along with the contact and equipment, The Boss might intervene and determine these. This is typically a good thing as it means that the character will have a necessary role in the plot. Or The Boss is invoking a particularly nasty consequence. 
+> Watch this one; whilst normally it is a matter for the player to determine what the conference was, along with the contact and equipment, The Boss might intervene and determine these. This is typically a good thing as it means that the character will have a necessary role in the plot. Or The Boss is invoking a particularly nasty consequence. 
+
+**Cramming**
+
+By spending two strategic turns researching a particular topic a character may gain the equivalent of +1 skill point in a skill or knowledge. The skill point fades from memory 48 hours (12 strategic turns) after being acquired.
+
+**Id Insinuation**
+
+By questioning the motives of a character and suggesting that they are being inspired by base desires, a character who invokes this attack gains a +3 bonus in social combat. It may only be used once per target.
 
 **File System Knowledge**
+
+File system knowledge refers to the physical and virtual organisation of documents and objects. A character with file system knowledge knows where last year's invoice to the insurance company is located, where the snacks are stashed, and where the optical time-delay spectrometer is. This provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment. 
 
 **Library Access**
 
@@ -724,7 +692,11 @@ Acquiring public library access is something that everyone can do; but the Libra
 
 **Security Access**
 
+Security Access provides a character with the means (keys, swipe cards) and excuse to be in a restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
+
 **Social Armour**
+
+Due to status and position Social Armour artifically increases a character's CHA by +3 for the purposes of defense only.
 
 **Union Membership**
 
@@ -1152,6 +1124,10 @@ Another CRM has turned up, and he brought your supervisor's boss. They are all y
 
 
 ## 2.6 Equipment in Detail
+
+**Hobby Equipment**
+
+For whatever Hobby skill a character has taken there is a set of tools, equipment, or even animals appropriate to the hobby which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment weighs 5kgs.
 
 ## 2.7 Special Equipment
 
