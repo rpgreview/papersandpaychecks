@@ -42,7 +42,7 @@
 4.3 Season and Episode Design
 
 5.0 Scenarios : Fear and Loathing in Wellington
-5.1 Setting
+5.1 Setting: "My Life with Boss"
 5.2 Season 1, Episode 1
 5.3 Season 1, Episode 2
 5.4 Season 1, Episode 3
@@ -115,7 +115,7 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
 
-> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the 'quick and dirty' method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages rats by a trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the jump should also have the same difficulty. Don't forget it!
+> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the 'quick and dirty' method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages rats by a trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the jump should also have the same difficulty - and as it should be in the future. Don't forget it!
 
 
 | Difficulty		| Rating	|
@@ -277,7 +277,9 @@ The Background of a character in *Papers & Paychecks* initially consists of thei
 The time that this inheritence is received will be on the (2d6*2) + 20th year of the character. This value will typically be kept in secret by the The Boss as part of the character's development. Note that a player may spend a Luck Point to determine exactly what age they will receive their inheritence and, in some cases, this may even occur before the start of play.
 
 > Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritence received, which make a total of 24 years when I receive a cool $1.2 million."
+> 
 > "You are *cold*", responds the Boss.
+> 
 > "But only for the greater good!", the player retorts.
 
 Other background features should be derived from the initial wealth roll. Characters with a high initial wealth, for example, will typically come from good neighbourhoods with a stable family life. At the other end of the scale are the poor in their tenement housing in their rough neighbourhoods with above average incidence of petty drug problems, violence and property crimes. As the distribution would indicate, most people fit around the middle.
@@ -500,13 +502,21 @@ Profession Skills: Hobby, Language (own), Profession
 
 ## 1.6 Skills and Knowledges
 
-Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number 8, 11, or 14 for degrees of narrative success, but with the raw value representing an absolute degree of raw success. There are no "natural" successes or failures from rolling a '2' or '12', for example, as a result; a character *could* succeed with a natural roll of '2' if their bonuses are high enough or fail with a '12' if their penalties are sufficiently severe. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
+Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number with variation from that target number determining degrees of success. There are no "natural" successes or failures from rolling a '2' or '12', for example, as a result; a character *could* succeed with a natural roll of '2' if their bonuses are high enough or fail with a '12' if their penalties are sufficiently severe. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
 
 Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone.
 
-Many skills have required or optional specialisations. Required specialisations are essentially separate skills. Optional specialisations are a narrow implementation of a base skill, and provide a +2 bonus for each skill point spent.
+Many skills have required or optional specialisations. Required specialisations are essentially separate skills. Optional specialisations are a narrow implementation of a base skill, and provide a +2 bonus for each skill point spent. At this stage, the skills are given the brief descriptions to satisfy the requirements of character generation. A more complete description of their implementation is found in section 2.2 and section 2.3
 
-At this stage, the skills are given the brief descriptions to satisfy the requirements of character generation. A more complete description of their implementation is found in section 2.2 and section 2.3
+Characters also receive a number of skills and knowledges during their childhood and adolescence based on their starting wealth and therefore their social class and education. The following table provides these values and the number of skill points.
+
+| Rolled Wealth	| Skill and Knowledges									|
+|---------------|---------------------------------------------------------------------------------------|
+| 2		| Language (own) 2, Athletics 3, Intimidate 1, Melee 2, Craft 2, Hobby 3, Perception 1, Pilot 1, Carouing 1 | 
+| 3-5		| Language (own) 3, Athletics 2, Melee 1, Craft 3, Knowledge 1, Hobby 2, Perception 2, Pilot 1, Carousing 1 |
+| 6-8		| Language (own) 4, Athletics 1, Craft 4, Knowledge 2, Hobby 1, Perception 1, Profession 1, Pilot 1, Carousing 1 |
+| 9-11		| Language (own) 5, Language (foreign) 1, Knowledge 3, Perception 1, Profession 2, Pilot 1, Act 1, Carousing 1, Seduce 1 | 
+| 12		| Language (own) 6, Language (foreign) 2, Knowledge 2, Profession 1, Pilot 1, Act 1, Carouding 1, Seduce 2 |
 
 ### Strength Based Skills
 
@@ -783,29 +793,30 @@ Characters who prefer Judging are not necessarily judgemental, and characters wh
 
 With an assignment or from random determination, characters will have MBTI values for the four paired values. From here, a bonus is derived in the same manner that is done for characteristics, based on the dominant value of the pair or for the first value if the bonus is +0. When a situation arises when a preference is called (e.g., a matter of world preference, of information gathering, of decision making, of world orientation) the player may optionally roll 2d6 against a target number of 7 (easy) to *guide* their approach, adding the appropriate bonuse. The degree of 'success' above the target number establishes a commitment to a particular approach to the dominant pair, and likewise the degree of 'failure' represents a commitment to the opposite pair.
 
-For example: Russel Wrench, a mild mannered computer programmer, has randomly determined the paired characteristics: Extraversion 6 (-2) which becomes Introversion (+2), Sensing 9 which becomes Intuition (+1), Thinking 12 (+1), and Judging 14 (+2). The player marks in the character sheet under personality I+2,N+1,T+1,J+2
+For example: Russel Wrench, a mild mannered computer programmer, has randomly determined the paired characteristics: Extraversion 6 (-2) which becomes Introversion (+2), Sensing 9 which becomes Intuition (+1), Thinking 12 (+1), and Judging 14 (+2). The player marks these scores and values in the character sheet under "Personality".
 
 **Keirsey Temperament Sorter**
 
 The Keirsey Temperament Sorter provides roles which can be mapped to MBTI values. These are provided here as a shortcut for players to make an "at a glance" overall decision of a character's behaviour. Kersey assessed characters on whether they were orientated by preference towards the concrete and the abstract, then whether they were cooperative or utilitarian, then informative or directive, and finally expressive or attentive. This provides multi-level temperament, role, and role variants.
 
-MBTI	Kiersey Role Variant	Kiersey Descriptives
-ESFJ	Provider	Concrete, Logistical, Supporting, Supplying
-ISFJ	Protector	Concrete, Logistical, Supporting, Securing
-ESTJ	Supervisor	Concrete, Logistical, Regulating, Enforcing
-ISTJ	Inspector	Concrete, Logistical, Regulating, Certifying
-ESFP	Performer	Concrete, Tactical, Improvising, Demonstrating
-ISFP	Composer	Concrete, Tactical, Improvising, Synthesizing
-ESTP	Promoter	Concrete, Tactical, Expediating, Persuading
-ISTP	Crafter  	Concrete, Tactical, Expediating, Instrumenting
-ENFP	Champion	Abstract, Diplomatic, Mediating, Motivating
-INFP	Healer		Abstract, Diplomatic, Mediating, Concilliating
-ENFJ	Teacher		Abstract, Diplomatic, Developing, Educating
-INFJ	Counsellor	Abstract, Diplomatic, Developing, Guiding
-ENTP	Inventor	Abstract, Rational, Costructing, Devising
-INTP	Architect	Abstract, Rational, Constructing, Designing
-ENTJ	Fieldmarshal	Abstract, Rational,  Arranging, Mobilizing
-INTJ	Mastermind	Abstract, Rational, Arranging, Entailing
+| MBTI	| Kiersey Role Variant	| Kiersey Descriptives				|
+|-------|-----------------------|-----------------------------------------------|
+| ESFJ	| Provider		| Concrete, Logistical, Supporting, Supplying	|
+| ISFJ	| Protector		| Concrete, Logistical, Supporting, Securing	|
+| ESTJ	| Supervisor		| Concrete, Logistical, Regulating, Enforcing	|
+| ISTJ	| Inspector		| Concrete, Logistical, Regulating, Certifying	|
+| ESFP	| Performer		| Concrete, Tactical, Improvising, Demonstrating|
+| ISFP	| Composer		| Concrete, Tactical, Improvising, Synthesizing	|
+| ESTP	| Promoter		| Concrete, Tactical, Expediating, Persuading	|
+| ISTP	| Crafter  		| Concrete, Tactical, Expediating, Instrumenting|
+| ENFP	| Champion		| Abstract, Diplomatic, Mediating, Motivating	|
+| INFP	| Healer		| Abstract, Diplomatic, Mediating, Concilliating|
+| ENFJ	| Teacher		| Abstract, Diplomatic, Developing, Educating	|
+| INFJ	| Counsellor		| Abstract, Diplomatic, Developing, Guiding	|
+| ENTP	| Inventor		| Abstract, Rational, Costructing, Devising	|
+| INTP	| Architect		| Abstract, Rational, Constructing, Designing	|
+| ENTJ	| Fieldmarshal		| Abstract, Rational,  Arranging, Mobilizing	|
+| INTJ	| Mastermind		| Abstract, Rational, Arranging, Entailing	|
 
 For example, Russel Wrench is a "Mastermind", and that is added in the the character sheet next to the personality values.
 
@@ -1214,8 +1225,37 @@ These four famous volumes contain many aspects of programming algorithms and ana
 [EDIT: Apply resistentialism]
 
 # 4.0 The Boss Book
+
 ## 4.1 Being The Boss
+
+The Boss has a interesting role in *Papers & Paychecks* and in other roleplaying games where the title is likewise indicitive of the many roles: "Dungeon Master", "Game Master", "Judge", "Referee", "Storyteller", "Narrator", "Director". Most RPGs also provide a chapter or at the very least a small section on advising the equivalent of The Boss on how to character out their task, and *Papers & Paychecks* is no different in that regard. The Boss is reponsible for creating the outline of an episode and project (scenario, story-arc, chapter), for guiding the mood of the game session, for explaining what the characters know and don't know ("being their eyes and ears"), and for adjudicating and interpreting rules as required. It is a big job, and includes mediating the relationship between different players, between the players and their characters, and the characters and the fictional world. The Boss is the primary person the rest of the players look to keep them entertained, challenged, and exciting by the development and unfolding of the story. The following is a combination of a step-by-step guide and various approaches The Boss can use to make a better game, heavily influenced by various discussions and confirmations in actual play of "The Big Model" in RPG theory.
+
+**The Social Contract**
+
+The Social Contract is the absolute foundation of any sort of social interaction, and roleplaying games is no exception. Indeed, any enjoyment of the game experience occurs within the social contract and its expectations. It does not mean a legal contract, and it does not have to be written let alone counter-signed by all participants, but rather it reflects behavioural norms and standards necessary for the interaction to occur in an enjoyable manner. As the person running the game, The Boss has a special role to play insofar they typically initiate ideas about the Social Contract, except when they are not the Host where the gaming session is being held. The literal "house rules" of the Host must have priority even above that of what The Boss thinks ought to be the case. It might be The Boss's game, but it's The Host's *home*, so for goodness sake, show some respect. So whilst the title of this entire chapter is "The Boss Book" and this section is about "Being The Boss", this caveat is in place. 
+
+One might be tempted to think that this is fairly basic, but the reality is that different individuals and groups have different expectations. Core issues can include matters like general standards of cleaniless among players, whether there is some leniancy in what time players turn up to the game, and what method is to be used if a player can't attend. There may be different expectations on what snack food, if any, is brought along, or what drinks or other recreational substances are allowed at the table (in general, even a modest degree of inebriation is a bad idea), or what level of off-topic "table banter" is permissible. There may even be disputes between players out-of-game which is going to make convivial interactions within the game difficult, if not impossible. Bullying, marginalisation, discrimination, and temperamental issues are all serious problem areas, and a Host and Boss needs to display leadership and authority when these things occur. A related issue is favouritism which undertstandably irks a lot of other players, and one must be conscious and try to avoid this. 
+
+These are examples of largely "out of game" norms. However there are also issues that are directly tied and within the game itself which have to be recognised. Perhaps one that is oftenlooked is whether the game being played really is the game that people want to play. Of course, one may assume that because The Boss has called for a game of *Papers & Paychecks* and everyone has turned up for the game that is what everyone wants to play. But that might be initially true, but not constantly so; after a year of play maybe they're turning up just for the sake of the friendship and the Friday night gathering has become a bit stale and even is a weight on the friendship. It seems almost impossible that this could happen with such an excellent game as *Papers & Paychecks*, but we cannot ignore even the most unlikely examples. 
+
+Another strictly "in game" social contract issue that needs to be explicitly stated is the degree that house rules are in play. More than other components of the social contract, which often can be negotiated verbally, changes to a game system's rules should be written down to ensure transparency and consistency for all players. If The Boss is a tinkerer of game systems, they should keep a compiled document (physical or electronic) which includes all the changes that they have made to the system. They should also invite commentary from other players. The objective should be to avoid problems when a player says: "Hey, I thought we were playing game system x", and The Boss responds with "Well, we are, but I've made a few changes...". Some players can be quite attached to their favourite system, and whilst it is The Boss who determines what game they are running, keeping in mind that it's the player's game as well is essential to ensure enjoyment among all participants.
+
+Within the game context as well, social contract issues still apply. Two major components of this the degree that "adult concepts" are included and a general sensitivity about player's emotional and psychological states. Some players may be very uncomfortable with another player who narrates in glorious explicit detail the adult activities of their character, or even a character who swears like a sailor all the time. Movie-like content advisory ratings are often an appropriate quick tag to give players a warning of what they might be in for. Likewise some awareness of player emotional and psychological states is also deserving of respect. One of the more dangerous things to do is to find out what the *player's* emotional triggers are and challenge them. Now, as with all things relating to the Social Contract this also varies according to the players and the group involved. Some players are comfortable with adult content or having their emotional triggers challenged, and others are not, and it often depends on context. Often this can be explicitly stated up-front; for example *Papers & Paychecks* states quite clearly in the introduction that "adult language and concepts" are appropriate. 'The Boss' character in the sample scenarios with this book, "Fear and Loathing in Wellington", is so abhorrent in their racial and sexual slurs that The Boss (player) might even find difficult to play.
+
+Two techniques for dealing with such issues are widely used; "a line in the sand", and a "fade to black". The former essentially states which topics are not to be approached for participants at the game, with respect to one or more players present. A disadvantage is that this limits the scope of narrative development in the game. With the acceptance of the participating, the alternative method to use is to gradually "fade to black" where certain narrative trajectories are under discussion, that is, the topic is broached, and even some mechanics of the game are carried out, but the details are left to the consideration of the individual players.
+
+For a group that has gamed together for an extended period of time the quirks and even the odious personal habits of individual players may have become accepted with the wider group. Nevertheless these issues are still worth raising, and an opportune time to do so is at the start of a new game. For a new player joining the group the implicit negotiating of the social contract requires additional attention, especially for a player who has joined the group with little or no previous contact with the other players. 
+
+**The Creative Agenda**
+
+There is a lot of confusion over this phrase and their traditional components, so some clarity in the terms is required, along with the effects in actual play, and what this means for The Boss. The basic principle is that players engage in the game (as opposed for just reasons of hanging out together - that's a Social Contract matter) with different orientations. It is not enough to simply say "I like RPGs", because different players like different parts of the RPG experience and, to make the matter more complex, they like different parts at different times. These 'different parts' are the Creative Agenda of the player, which have been traditionally explained as 'Gamist', 'Narrativist', and 'Simulationist'. 
+
+
+
+
 ## 4.2 Running The Session
+
+
 ## 4.3 Season and Episode Design
 
 http://tau-iota-mu-c.livejournal.com/130071.html
