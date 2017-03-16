@@ -1,3 +1,10 @@
+# Papers & Paychecks
+
+"Fear and Loathing in Wellington", originally "My Life with Boss" by Dan L'Estrange
+
+"Code of Cthulhu", originally by David Cameron Staples, and published in RPG Review
+
+
 # Table of Contents
 
 0.0 Introduction
@@ -59,7 +66,7 @@
 
 ## 0.1 Foreword
 
-Jonathon Tweet?
+
 
 ## 0.2 Preface
 
@@ -91,7 +98,7 @@ The book concludes with a set of supplementary appendicies; a collection of sour
 
 At the end of the day however, the main purpose of "Papers and Paychecks" is enjoyment. Consider this "Rule 0" of the game. If the game is not enjoyable then something has gone wrong and it needs to be addressed. It doesn't have to be *fun*, as such, to use the etymological sense i.e., foolish. Players as well as characters can have their own assumptions challenged, and things will not always go well for their characters (indeed, in *Papers & Paychecks* they can go very bad indeed). But rather it will give "enjoyment" and the act of exploring the shared imaginary space of a fictional universe that is like many of our own lives turned "up to eleven" will be provide entertainment, amusement, and perhaps even a little bit of insight. 
 
-This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least vermissildtude. Quite obviously, given its origins in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
+This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least vermissildtude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
 
 By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
 
@@ -101,7 +108,7 @@ Have fun and remember: "Les choses sont contre nous"!
 
 
 Lev Lafayette
-Melbourne, 2016
+Melbourne, 2017
 
 ## 0.3 Dice
 
@@ -257,6 +264,9 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > *The Boss*: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
 > 
 > (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
+
+
+[IMG bannedtechops.jpg Brightpearl's Tech Ops Banned word list - a must read for all MBAs & managers.]
 
 ## 1.2 Luck Rating
 
@@ -512,11 +522,11 @@ Characters also receive a number of skills and knowledges during their childhood
 
 | Rolled Wealth	| Skill and Knowledges									|
 |---------------|---------------------------------------------------------------------------------------|
-| 2		| Language (own) 2, Athletics 3, Intimidate 1, Melee 2, Craft 2, Hobby 3, Perception 1, Pilot 1, Carouing 1 | 
-| 3-5		| Language (own) 3, Athletics 2, Melee 1, Craft 3, Knowledge 1, Hobby 2, Perception 2, Pilot 1, Carousing 1 |
-| 6-8		| Language (own) 4, Athletics 1, Craft 4, Knowledge 2, Hobby 1, Perception 1, Profession 1, Pilot 1, Carousing 1 |
-| 9-11		| Language (own) 5, Language (foreign) 1, Knowledge 3, Perception 1, Profession 2, Pilot 1, Act 1, Carousing 1, Seduce 1 | 
-| 12		| Language (own) 6, Language (foreign) 2, Knowledge 2, Profession 1, Pilot 1, Act 1, Carouding 1, Seduce 2 |
+| 2		| Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge (Laws) 1, Hobby 1, Perception 1, Pilot 1, Carousing 1 | 
+| 3-5		| Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1 |
+| 6-8		| Language (own) 3, Athletics 1, Craft 4, Knowledge 2, Perception 1, Pilot 1, Carousing 1 |
+| 9-11		| Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1, | 
+| 12		| Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1 |
 
 ### Strength Based Skills
 
@@ -1052,21 +1062,18 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 - Social wounds are applied against CHA-base HP (0 is loss of reputation and out-of-project, negative is incarcerated)
 
 
-
 > **Code of Cthulhu**
-
-> *Originally by David Cameron Staples*
-
+> 
 > A roleplaying game of eldritch investigations into secrets of which man was not meant to know. Where Call of Cthulhu meets Kult meets System Administration.
-
+> 
 > GM You are happily sitting at your desk after a pleasant Friday lunch, when you see a notification of an email.
-
+> 
 > Player I groan and open the mail.
-
+> 
 > It is a Nagios ticket. CPU warning on a server. You don't recognise what the server actually does.
-
+> 
 > Sigh. I log in and run "top".
-
+> 
 > It's pretty slow to log you on. Top line of top shows "java" using 249% of the CPU. Load's at 93. Roll 1d10 SAN loss.
 
 > Shit. Um... press "c".
@@ -1139,7 +1146,7 @@ The CRM behind you has started shouting. "What did you do? Did you just break it
 
 > How big is this disk?
 
-df -h says "... 100GB  57%  /var/log/SQaFXZ". Go ahead and roll another d6 SAN.
+> df -h says "... 100GB  57%  /var/log/SQaFXZ". Go ahead and roll another d6 SAN.
 
 > That's ... what, 30+ megs of log a day, every day for four and a half years?
 
@@ -1246,9 +1253,57 @@ Two techniques for dealing with such issues are widely used; "a line in the sand
 
 For a group that has gamed together for an extended period of time the quirks and even the odious personal habits of individual players may have become accepted with the wider group. Nevertheless these issues are still worth raising, and an opportune time to do so is at the start of a new game. For a new player joining the group the implicit negotiating of the social contract requires additional attention, especially for a player who has joined the group with little or no previous contact with the other players. 
 
+**Exploration and the Literary Model**
+
+Roleplaying games are a form of literature, most succinctly described (RuneQuest, 1978) as "improvised radio theatre". The "radio theatre" in question involves the exploration of a setting, and narrative using characters and with themes and styles. This exploration occurs in and generates a "shared imaginary space" in which the story unfolds. In this improvisation, and in each of these story elements, The Boss performs a moderating and directing role as the players direct primarily direct the roles of their characters.
+
+The *setting* is the place and time where the story occurs. This will vary in the precise location as the story unfolds, and as this variation occurs, the degree of detail in the setting will likewise vary. As radio theatre, The Boss has a responsibility to describe to the players what the setting is to their character's background knowledge and perception. As the specific setting varies, this responsibility continues appropriately. At all stages The Boss must ensure that there is a strong correlation between what the player's know in terms of setting and what their characters know. If the players err in an action because they haven't been told of a detail, then the responsibility is on The Boss to make ammends in their favour. This detail can, of course, vary in the degree of importance of the setting to the story. A generic office encounter could occur in any city in any post-industrial economy. In other cases, the setting is integral to the characters and the plot.
+
+The setting should not be just a passive loction however. What is present can contribute to the themes of the story. An austere, highly organised, and minimalist environment can be representative of thematic richness, or it can be used to reflect a "just-in-time" minimalism (with *Papers & Paychecks*, often with hilariously failures in logistics, and desparate scrounging and jury-rigging by the characters). In contrast a textually rich environment can often reflect the depth of the personalities that live among it or in comic juxtaposition their shallowness, or inability to find anything. It is even possible in such situations to use the setting itself as an antagonist (a haunted house, where it is the house itself that conducts the haunting). The setting can be a figurative or literature representation of the place, action, or characters that are located there. From all of this, the setting can also be used to help develop the character - and not necessarily in a good way (e.g., the character development of a character who literally lives in the server room).
+
+The *plot* is the perspective sequence of events in a story. The story follows the principles of "Time's Arrow" and cause and effect. However like the difference between the mental landscape and the physical landscape, the elaboration of a plot does not have to be entirely chronological. Out-of-sequence flashbacks, vignettes, and dream sequences can provide greater detail to circumstances, and even opportunities for significant change - and a result should be used in moderation. Plot development can generally follow  "Freytag's pyramid," which divides the plot into five parts (exposition, rising action, climax, falling action, and denouement), each with their own function. The Boss should incorporate these into the development of the episodes and series.
+
+> The Russian Formalists differentiated between fabula (story), what happened in chronological order, and syuzhet (plot) the sequence of events sorted by the author.
+
+The exposition introduces the player characters, and the major non-player characters, the relationship they have to one another, and their goals and motivations. The seeds of future conflict should be evident by this stage, and become apparent in the sequence of events classified as rising action. In this part, the player-characters, and to a lesser extent the non-player characters, should be increasingly focussed towards overcoming the obstacles between them and their objective. This will reach a climax, a turning point in the story where the protagonists encounter the major obstacle preventing them from reaching their objective. The climax should also be the point where major inner conflicts within and between the protagonists are resolved, whether successfully or not. In traditional literature, is not uncommon for the result to be be mixed between protagonist and antagonist - in most roleplaying games where there are multiple protagonists with conflicting goals, it can be very mixed! Finally there is falling action and denouement; here the outcomes of the climax lead towards an ending. There is still suspense here, because the final outcome cannot be certain - the climax is a critical point in the plot, not the critical point in the story. The dénouement, "untying the knot", is the conclusion; resolving the conflict, catastrophe (in a tragedy), and hints of future events.
+
+This narrative model is also evident in the east Asian structure of Kishōtenketsu and the Japanese pacing in Jo-ha-kyū. In the former, there is the introduction (ki), which introduces the characters and setting, the development (shō) which is equivalent to rising tension, the twist or crux (ten or yama) of the story, equivalent to the climax, and conclusion (ketsu or ochi), which combines the falling action and denouement. For the latter, the rough translation provides indication of the transition between stages: "beginning, break, rapid", which is a suggestion of the speed of stages - a relatively slow initiatal stage (introduction), which speeds up (rising action), reaching a climatic point (climax), and then ends quickly (falling action and denouement). As an aside, the approach was used in not just in dramatic structure, but also in music, various martial arts, and even tea ceremonies! 
+
+Within each of the stages smaller versions of the entire dramatic structure can be encapsulated, generating a pattern of action. The introduction, for example, could include it's own rising action, climax, etc as it generates a story within a story to establish the character, their relationships, and motivations. In all cases, the various stages illustrate and must include conflict, which drives the plot. Conflict is where the protagonists encounter an obstacle, whether active (an antagonist) or a passive force (in *Papers & Paychecks* what is traditionally considered a passive force could be an active obstacle). Conflicts are often the result of an external force that gets in the way of the protagonists achieving their goal (e.g., a security guard preventing access to a building, a locked door requiring a swipe care etc) as these are the easiest and less stressful for The Boss to introduce. A more exciting conflict, but more difficult to manage, is where there is conflict between the protagonists such as where they have different objectives (which should be derived from having different motivations). Finally, an even more challenging conflict, especially in a roleplaying game, is conflict *within* a character, where the character faces conflicting objectives and the player must make a choice which direction the character will take, and reveals the character.
+
+A plot without conflict will lack suspense, and will lack a sense why the characters are present. Ensuring that conflict is always present will avoid uncomfortable points of silence where The Boss where the players are disinterested and has to spur the players with "Well, what do you do now?". At the introduction stage a sense of the setting without conflict can be provided, across physical, social, and individual dimensions. Whilst the introduction reveals the characters, their relationships, and motivations, the rising action is spurred by the introduction of a conflict which drives the initial setting out of its status quo. The characters must determine where they align themselves in relation to the conflict, and will be challenged by the the social relationships they have with NPCs. The resolution of the climax as the story reaches its conclusion, will lead to a new equilibrium.
+
+A *character* is an independent agent in the story. In most roleplaying games this is distinguished between player-characters (PCs) where the agency is primarily controlled by the player, and non-player characters controlled by The Boss. Whilst by no means the most powerful charactes in a setting, the PCs should be seen as the protagonists in the story, where the centre of events is located and whose actions drive the story. Player characters and major non-player characters should be, or become, "rounded" characters with a complete description of abilities, personality, and background. "Flat" characters are typically more minor NPCs who can be brief descriptions with a minimal and stereotypical personality and background. Note that in *Papers & Paychecks* some typically inanimate objects also have personality and motivations, and they too can be "round" or "flat" personalities.
+
+> The idea of intelligent or possessed inanimate objects is note at all unusual in mythic or fantasy literature. Tyrfing is an evil sword from the Hervararkviða in the Poetic Edda, but apart from carrying out its curse on its wielders. Tolkien's Anglachel (aka Gurthang) is also apparently malicious, and in one - but only one - instance even speaks. The most famous contemporary example, Michael Moorcock's Stormbringer is quite similiar - a dark blade, a malicious personality - and famously turns into a demon at the end of the universe. 
+> 
+> *Papers & Paychecks* take the idea of sapient objects futher, more like the artificial intelligences and androids of contemporary science fiction. Possessed cars, computers that have "awakened", and so forth. True, many of the minor objects will be flat characters - the stubborn coffee machine, the bitey photocopier and so forth. But complex machinery - that takes a life of its own.
+
+The Boss should avoid, as much as possible, taking the agency away from the player when they are directing the actions of the PC. The Boss certainly should create challenging circumstances for the PC, but in most cases it is the player who reacts to those circumstances. One situation where The Boss can and should intervene is when the players directs the character to engage in actions that are motivation by the player's knowledge rather than the character's knowledge. In such circumstances, the player is acting "out of character", and sometimes with a 'gamist' creative agenda (see below), and The Boss should intervene to seek clarification on how the player thinks that the character would have access to particular information. Likewise The Boss can intervene favourably if the player has forgotten certain events and is about to take a negative course of action.
+
+Another important contribution that The Boss can make for a character is the notion of character development, the change that the character undergoes from the beginning of a series to the end. *Papers & Paychecks* includes a number of aspects of character development in the game system itself, such as the modification of personality values, or change in characteristics, or in their profession, skills, and other abilities. These changes will be evident in the character's actions, speech, and behaviour. Whilst the game system will direct the character's changes (such as aging) or by their player's direction (personality), the story aspects will be driven by plot and setting. Note that flat characters tend not to undergo character development without intervention associated with the protagonists.
+
+
+Theme
+
+
+Style
+
+
+
 **The Creative Agenda**
 
-There is a lot of confusion over this phrase and their traditional components, so some clarity in the terms is required, along with the effects in actual play, and what this means for The Boss. The basic principle is that players engage in the game (as opposed for just reasons of hanging out together - that's a Social Contract matter) with different orientations. It is not enough to simply say "I like RPGs", because different players like different parts of the RPG experience and, to make the matter more complex, they like different parts at different times. These 'different parts' are the Creative Agenda of the player, which have been traditionally explained as 'Gamist', 'Narrativist', and 'Simulationist'. 
+There is a lot of confusion over this phrase and their traditional components, so some clarity in the terms is required, along with the effects in actual play, and what this means for The Boss. The basic principle is that players engage in the game (as opposed for just reasons of hanging out together - that's a Social Contract matter) with different orientations. It is not enough to simply say "I like RPGs", because different players like different parts of the RPG experience and, to make the matter more complex, players often like different parts at different times. These 'different parts' are the Creative Agenda of the player, or mode, which have been traditionally explained as 'Gamist', 'Narrativist', and 'Simulationist', a "three-fold" model whose origins date back to the Usenet group rec.games.frp.advocacy in the late 1990s. They represent a a prioritised desire that the player wishes to get out of the game in terms of particular style of play, and each of them are equally valid.
+
+The Gamist Creative Agenda is about seeking an in-game objective by utilising knowledge about the game system and evaluating the options and risks involved. The Narrativist Creative Agenda 
+
+
+
+
+
+
+
+
 
 
 
@@ -1657,20 +1712,30 @@ Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 # 6.0 Appendicies
 ## 6.1 Source Material
 
+**Roleplaying Games**
+
+D20 Modern
+
+Leverage
+
 **Reality Checking**
 
-Cecil Adams, The Straight Dope. http://www.straightdope.com/ 
+Cecil Adams, The Straight Dope, various. http://www.straightdope.com/ 
 
 Drinking rules were assisted by the Australian Government Department of Health "The Australian Standard Drink", 2012, and RuneQuest Vikings (1985)
 
 Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., and Geo Stone, "Suicide and Attempted Suicide", 1999.
 
+**Dramatic Structure**
 
-
+Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
 
 ## 6.2 Charts and Tables
+
 ## 6.3 Business Organisation Chart
+
 ## 6.4 Dramatis Personae
+
 ## 6.5 Résumé
 | Character Name   |   |
 | Sex  |   |
