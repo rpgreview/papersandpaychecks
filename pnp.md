@@ -1,8 +1,14 @@
 # Papers & Paychecks
 
-"Fear and Loathing in Wellington", originally "My Life with Boss" by Dan L'Estrange
+by Lev Lafayette
 
-"Code of Cthulhu", originally by David Cameron Staples, and published in RPG Review
+Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, A0094301K), 2017
+
+ISBN 978-0-9946388-0-9	
+
+"Fear and Loathing in Wellington", originally "My Life with Boss", published in RPG Review Issue 7, 2010 by Dan L'Estrange. Modified for *Papers & Paychecks*.
+
+"Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
 
 
 # Table of Contents
@@ -263,7 +269,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *The Boss*: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
 > 
-> (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving it another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
+> (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
 
 [IMG bannedtechops.jpg Brightpearl's Tech Ops Banned word list - a must read for all MBAs & managers.]
@@ -524,7 +530,7 @@ Characters also receive a number of skills and knowledges during their childhood
 |---------------|---------------------------------------------------------------------------------------|
 | 2		| Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge (Laws) 1, Hobby 1, Perception 1, Pilot 1, Carousing 1 | 
 | 3-5		| Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1 |
-| 6-8		| Language (own) 3, Athletics 1, Craft 4, Knowledge 2, Perception 1, Pilot 1, Carousing 1 |
+| 6-8		| Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1 |
 | 9-11		| Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1, | 
 | 12		| Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1 |
 
@@ -1283,28 +1289,23 @@ The Boss should avoid, as much as possible, taking the agency away from the play
 
 Another important contribution that The Boss can make for a character is the notion of character development, the change that the character undergoes from the beginning of a series to the end. *Papers & Paychecks* includes a number of aspects of character development in the game system itself, such as the modification of personality values, or change in characteristics, or in their profession, skills, and other abilities. These changes will be evident in the character's actions, speech, and behaviour. Whilst the game system will direct the character's changes (such as aging) or by their player's direction (personality), the story aspects will be driven by plot and setting. Note that flat characters tend not to undergo character development without intervention associated with the protagonists.
 
+Ignoring the misuse of *theme* in computer applications to represent issues of colour and shapes (which is really a type of style), in dramatic literature is represents the main idea of a story, including the topic being explored and 'the moral of the story', as it is developed by the interactions between and within the characters with the setting. The importance of a theme is to represent universal human issues within particular contexts: love, hate, guilt, heroism, friendship, life, death, family, loyalty  etc. It is not at all unusual for a story to have multiple and secondary (and multiple secondary) themes. 
 
-Theme
+In traditional forms of non-interactive literature there is typical advice to avoid didactic approaches to thematic content, lest as it comes across as the reader or viewer is being lectured to. Implied themes allow the opportunity for the audience to discover for themselves what the topic is. In the interactive literature of roleplaying games, it goes a step further; The Boss can only provide their contribution to the theme of a story through the NPCs and the scenario. Players might wish to explore an entirely different topic, and The Boss has to be prepared to generate situations for their entertainment.
 
+The exploration of theme is a typically gradual through the plot and the audience needs to develop and appreciation and rapport with the characters which whom the thematic content is delivered. In most cases then, there is a good reason for leniency towards player-characters in initial sessions. Of course this isn't possible in an accelerated setting (e.g., a convention or single-shot scenario), and in some cases the theme of the story can be the the fragility of life (a particularly apt theme in some cases in *Call of Cthulhu*, for example). As a bodycount increases, the surviving characters may take the opportunity to explore different approaches to this issue.
 
-Style
+*Style* is how the author delivers the story, how the setting is described by The Boss, how the encounters are  presented, and their symbolic expressions (language, clothing, etc). It is not what the character says, but how they say it, and as a result there is a strong tie between style and motif - recurring elements that creates recognisable patterns. Expressions by characters can have denotative value, the direct and literal meaning of the words, or they can have connatative and figurative speech to provide associative meaning to the speech. Metaphor and metonym are particular means that connatative values can be assigned to words.
 
-
+In *Papers & Paychecks* humour is a stylistic design goal. There is of course a variety of ways that humour can presented; hyperbole, gallows humour, puns, situational comedy, slapstick, sardonic, satire, understatement, etc. All of can be used in *Papers & Paychecks* depending on how the players and The Boss was to present the resistentialist environment, although style does have its own thematic considerations. It is hard, for example, to present a light-hearted resistentialist which incorporates gallows humour for example. A challenge to The Boss is that different players may wish to represent humour through their characters in a different style, which requires that each character has their own 'spotlight' time for this expression.
+ 
+Another stylistic aspect that is evident in *Papers & Paychecks* is allusion and reification, the assignmet of human-like personality traits to inanimate objects. Of course, in *Papers & Paychecks* often the equipment is not so inaminate; already even this section there has been reference to "stubborn coffee machines and bitey photocopiers". The Boss should consider a variety of other personality traits that they encounter in their day-to-day experience where people engage in such personification with concrete objects - despite a tendency for people to also do the same with abstract objects (e.g., "the market was depressed today"). 
 
 **The Creative Agenda**
 
 There is a lot of confusion over this phrase and their traditional components, so some clarity in the terms is required, along with the effects in actual play, and what this means for The Boss. The basic principle is that players engage in the game (as opposed for just reasons of hanging out together - that's a Social Contract matter) with different orientations. It is not enough to simply say "I like RPGs", because different players like different parts of the RPG experience and, to make the matter more complex, players often like different parts at different times. These 'different parts' are the Creative Agenda of the player, or mode, which have been traditionally explained as 'Gamist', 'Narrativist', and 'Simulationist', a "three-fold" model whose origins date back to the Usenet group rec.games.frp.advocacy in the late 1990s. They represent a a prioritised desire that the player wishes to get out of the game in terms of particular style of play, and each of them are equally valid.
 
 The Gamist Creative Agenda is about seeking an in-game objective by utilising knowledge about the game system and evaluating the options and risks involved. The Narrativist Creative Agenda 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1316,6 +1317,7 @@ The Gamist Creative Agenda is about seeking an in-game objective by utilising kn
 http://tau-iota-mu-c.livejournal.com/130071.html
 
 # 5.0 Scenarios : Fear and Loathing in Wellington
+
 ## 5.1 Setting
 
 MY LIFE WITH BOSS 
