@@ -12,6 +12,9 @@ Released under Creative Commons Attribution-NonCommercial 3.0 Australia License 
 
 "Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
 
+Artwork by Dan 'Smif' Smith
+
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/group.jpg" />
 
 
 # Table of Contents
@@ -74,8 +77,6 @@ Released under Creative Commons Attribution-NonCommercial 3.0 Australia License 
 # 0.0 Introduction
 
 ## 0.1 Foreword
-
-
 
 ## 0.2 Preface
 
@@ -1202,6 +1203,9 @@ Social wounds are applied against CHA-base social hit points; if a character is 
 > It is now five forty-seven, Friday afternoon.
 
 
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/computer.jpg" />
+
+
 ## 2.6 Equipment in Detail
 
 **Hobby Equipment**
@@ -1297,6 +1301,8 @@ A *character* is an independent agent in the story. In most roleplaying games th
 > 
 > *Papers & Paychecks* take the idea of sapient objects futher, more like the artificial intelligences and androids of contemporary science fiction. Possessed cars, computers that have "awakened", and so forth. True, many of the minor objects will be flat characters - the stubborn coffee machine, the bitey photocopier and so forth. But complex machinery - that takes a life of its own.
 
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/copier.jpg" />
+
 The Boss should avoid, as much as possible, taking the agency away from the player when they are directing the actions of the PC. The Boss certainly should create challenging circumstances for the PC, but in most cases it is the player who reacts to those circumstances. One situation where The Boss can and should intervene is when the players directs the character to engage in actions that are motivation by the player's knowledge rather than the character's knowledge. In such circumstances, the player is acting "out of character", and sometimes with a 'gamist' creative agenda (see below), and The Boss should intervene to seek clarification on how the player thinks that the character would have access to particular information. Likewise The Boss can intervene favourably if the player has forgotten certain events and is about to take a negative course of action.
 
 Another important contribution that The Boss can make for a character is the notion of character development, the change that the character undergoes from the beginning of a series to the end. *Papers & Paychecks* includes a number of aspects of character development in the game system itself, such as the modification of personality values, or change in characteristics, or in their profession, skills, and other abilities. These changes will be evident in the character's actions, speech, and behaviour. Whilst the game system will direct the character's changes (such as aging) or by their player's direction (personality), the story aspects will be driven by plot and setting. Note that flat characters tend not to undergo character development without intervention associated with the protagonists.
@@ -1330,7 +1336,17 @@ http://tau-iota-mu-c.livejournal.com/130071.html
 
 # 5.0 Scenarios : Fear and Loathing in Wellington
 
-## 5.1 Setting
+https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/boss.jpg
+
+## 5.1 Setting :
+
+
+
+
+
+
+
+## 5.2 Season 1, Episode 1
 
 MY LIFE WITH BOSS 
 by Dan LEstrange
@@ -1717,8 +1733,6 @@ playing Rebekah Caulfield (her Less than human relies on this).
 Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 
 
-## 5.2 Season 1, Episode 1
-
 ## 5.3 Season 1, Episode 2
 ## 5.4 Season 1, Episode 3
 ## 5.5 Season 1, Episode 4
@@ -1822,3 +1836,5 @@ Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
 
 
 
+
+<img src"https://raw.githubusercontent.com/rpgreview/papersandpaychecks/efb22e0d3279cee5c9d6ad99f6f2b312f7e39939/images/%20bannedtechops.jpg" />
