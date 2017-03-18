@@ -6,9 +6,12 @@ Published by the RPG Review Cooperative, Inc. (incorporated in the State of Vict
 
 ISBN 978-0-9946388-0-9	
 
+Released under Creative Commons Attribution-NonCommercial 3.0 Australia License (CC BY-NC 3.0 AU)
+
 "Fear and Loathing in Wellington", originally "My Life with Boss", published in RPG Review Issue 7, 2010 by Dan L'Estrange. Modified for *Papers & Paychecks*.
 
 "Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
+
 
 
 # Table of Contents
@@ -839,23 +842,23 @@ For example, Russel Wrench is a "Mastermind", and that is added in the the chara
 The Boss should show interest in how players use these results as it represents playing according to the character's psychological preferences. A consistent use of such character preferences by a player, especially when it is contrary to the character's interests at the time should result in a Luck Point reward.
 
 > Boss: OK, you're in for the big technical meeting. The manager and the team are there, all NPCs except you. Everyone's really pumped out and excited about this new roll-out of a massive new storage system for the company, with a new operating system and storage protocol. Everyone's talking over one another, scribbling on white boards and debating what tasks they're going to do. Rodney, what's your character, Russell Wrench, up to?
-
+> 
 > Rodney: My character has Introversion at +2, I make a check and roll a ... ahh, an 11. Russell will pull out his laptop and start reading through some technical specifications for operating system and storage protocol.
-
+> 
 > Boss: Whoa, the manager is not impressed with that at all, "This is a *team* meeting Russell, your input is appreciated. A *lot* of money is being spent on this project, including a lot of money on *your* wages. We expect value for money", he says tersely.
-
+> 
 > Rodney: Russell ignores the manager for several seconds and finally mutters something about going over the technical details.
-
+> 
 > Boss: Ha! That's excellent. Give yourself a Luck Point for playing in character even when the character is under threat. The manager explodes at you, "When ask you to participate, Mr. Wrench, I am giving an *order*, not an *option*. We have come here for a team meeting to determine the roll-out of a two million dollar project, and here you are wasting company time playing around on your laptop. Either you contribute or get out of here!". The room falls silent and everyone turns looking at you. Your move.
-
+> 
 > Rodney: Huh, attack is the best defense. I initiate a social attack against the manager. I'll make a Computer roll, and spend my Luck Point to make it a 12. That's my best skill and brings it to a total of 18. What's the manager's defense?
-
+> 
 > Boss: Er, well, he's really set himself up for this, so I guess it's a counter-attack with Bully! His bonus is +5 total and he rolls a, ahh, 5, for a total of 10. You win by 8 points, that's a huge loss to his Charisma, even with his professional defense it'll take him months to recover. OK, what do you do?
-
+> 
 > Rodney: Russell closes the lid of his laptop, gets up, and says, "The operating system and the storage protocol are incompatible". He glares at the manager. "I've just saved the company two million dollars - and saved your job", and then walks out the door.
-
+> 
 > Boss: Drops mic, eh?
-
+> 
 > Rodney: *nods* Drops mic.
 
 
@@ -893,9 +896,29 @@ If a character falls each second after that they may attempt at a -5 DEX test to
 
 ## 2.3 Tactical Task Resolution
 
+**General**
+
 A tactical round is a period of six seconds. It is used for physically dramatic actions where immediate time as of the essence which includes, as per the great time-honoured tradition of roleplaying games, of physical combat. Each tactical round's activity begins with the character with the highest physical initiative score, based on their Dexterity, and then proceeds in order to the lowest. A tactical round should be perceived as an abstract method for organising time and the sequence of action declarations when, of course, activity occurs in a continuous rate.
 
 A character typically may take two 'standard actions' in a tactical round. A standard action usually means make a skill roll or a move. In addition to standard actions there are short actions. A 'short action' is something that is performed quickly and can be combined with a standard action (e.g., get a something out of your pocket). A character is limited to two short actions per standard action, plus the character's DEX bonus. If the DEX bonus reduces this quantity to less to 0 or less then the character may has to count short actions as standard actions; all other things being equal this would only occur if the character has a DEX of 5 or less. Finally, there is a small number of actions (('free actions') which effectively take no time at all (e.g., drop an item).
+
+**Physical Conflict**
+
+Physical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11; those that succeed make act as per normal on that tactical round and all subsequent rounds. Those that fail will have that number subtracted from their initial defense check (which is also usually based on Brawl). A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc, and an equal number of defensive reactions.
+
+
+The purpose of combat is to hurt someone; except you can get hurt as well.
+
+1. Initiative
+- based on Dexterity (for physical), based on Wisdom (for mental), based on total Level (for social)
+- Maneuvers 
+-- normal attack, normal defense
+-- all out attack, +3 to hit, no defense
+-- all out damage, +1x damage, no defense
+-- all out defense, -3 to hit, no attack
+-- all out damage reduction, -1x damage, but no attack 
+-- retreat
+
 
 **Bully**
 
@@ -922,6 +945,9 @@ Bully not in organisation +0 (must use external threats)
 Bully in a position to use or threaten violence +4
 
 **Brawl**
+
+Brawl is a context combat skill. When a character announces a Brawl in almost all cases they are attempting to apply physical violence to their opponent. When a character carries out a Brawl attack, the defender may react and defend themselves also with a Brawl check. The difference between the two values equals the amount of damage caused, modified by the weapon. 
+
 
 **Climb**
 
@@ -1037,35 +1063,22 @@ If a character's head is underwater they begin to drown. See Section 2.2 for the
 
 ## 2.4 Strategic Task Resolution
 
-**Act**
-
-
-
 
 ## 2.5 Damage and Healing
 
-The purpose of combat is to hurt someone; except you can get hurt as well.
+*Papers & Paychecks* uses a unified damage system. Damage is based on the weapon type and circumstances.
 
-1. Initiative
-- based on Dexterity (for physical), based on Wisdom (for mental), based on total Level (for social)
-- Maneuvers 
--- normal attack, normal defense
--- all out attack, +3 to hit, no defense
--- all out damage, +1x damage, no defense
--- all out defense, -3 to hit, no attack
--- all out damage reduction, -1x damage, but no attack 
--- retreat
+Calculate difference between attack roll and defense roll (e.g., 13 vs 10 = 3); that's the base damage. A multiplier is applied to this base damage depending on the equipment, skill, or position, and reductions to damage based on armour. 
 
-2. Damage is based on the attack type
-- Calculate difference between attack roll and defense roll (e.g., 13 vs 10 = 3). That's the base damage.
-- For physical attacks (fists = 1x, clubs, knives = 2x, swords = 3x, guns = 4x, situation +x)
-- For mental attacks (normal = 1x, various perks and situation +x)
-- For social attacks (normal = 1x, various perks, status, and situation +x)
+For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x
 
-3. Injuries
-- Physical wounds are applied against CON-base HP (0 is unconscious and out-of-project and negative is dead and out-of-game)
-- Mental wounds are applied against WIS-base HP (0 is breakdown and out-of-project, and negative is permanently insane)
-- Social wounds are applied against CHA-base HP (0 is loss of reputation and out-of-project, negative is incarcerated)
+Physical wounds are applied against CON-based physical hit points; if a character reaches 0 physical hit points they are unconscious and are out-of-project. If they are reduced to negative the character is is dead and out-of-game.
+
+Mental wounds are applied against WIS-based mental hit points; if a character reaches 0 mental hit points they suffer a mental breakdown and are out-of-project. If they are reduced to negative mental hit points they are driven permanently insane, and are out-of-game.
+
+Social wounds are applied against CHA-base social hit points; if a character is reduced to 0 social hit points they suffer a serious loss of reputation and are out-of-project. If they are reduced to negative social hit points they have suffered a "social death" and are out-of-game.
+
+
 
 
 > **Code of Cthulhu**
@@ -1080,113 +1093,112 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 > 
 > Sigh. I log in and run "top".
 > 
-> It's pretty slow to log you on. Top line of top shows "java" using 249% of the CPU. Load's at 93. Roll 1d10 SAN loss.
-
-> Shit. Um... press "c".
-
-> You can see the full details of the Java invocation. (d6 SAN) And you can see the fateful curse "tomcat" mixed in with the strange moon language. Roll another d10 SAN loss.
-
+> It's pretty slow to log you on. Top line of top shows "java" using 249% of the CPU. Load's at 93. This is a mental attack, attack value 15
+> 
+> Shit. Um... press "c". Defense roll 12
+> 
+> You can see the full details of the Java invocation. And you can see the fateful curse "tomcat" mixed in with the strange moon language. Take 3 points of mental wounds.
+> 
 > Dammit. Um, do I have any service owner contact details?
-
+> 
 > What do you think?
-
+> 
 > I think I should ignore it and see if it'll sort itself out.
-
-> You go and get a cup of coffee. It's good. Recover 3 SAN.
-
-> Suddenly you realise there's a Client Relationship Manager standing right behind your chair, breathing heavily. You didn't even hear him approach. d6 SAN loss. He tells you that some critical service is unresponsive, and he's already escalated to your supervisor's boss that you haven't fixed it yet.
-
-> Is he the service owner?
-
+> 
+> You go and get a cup of coffee. It's good. Strangely, you gain a 1 point back in mental wounds.
+> 
+> Suddenly you realise there's a Client Relationship Manager standing right behind your chair, breathing heavily. You didn't even hear him approach, another mental attack with a value of 10. He tells you that some critical service is unresponsive, and he's already escalated to your supervisor's boss that you haven't fixed it yet.
+> 
+> Ugh. Defense roll 9, I take another mental wound. Is he the service owner?
+> 
 > No, he's the guy who promised the customer that this service would never fall over. He also golfs with the head of the IT services department.
-
+> 
 > Shit. I ask him if I have his permission to restart the service.
-
+> 
 > "What, you want to break it more? Why do we pay you people to break things? You have to fix it now, there are millions of dollars at stake!"
-
+> 
 > Does he know who is the service owner?
-
+> 
 > Guess.
-
+> 
 > Does he know where there's any documentation?
-
+> 
 > Seriously?
-
-> Right. Um. Fuck it. "# service tomcat restart"
-
+> 
+> Right. Um. Fuck it. `# service tomcat restart`
+> 
 > tomcat: unrecognised service
-
-> Fuck. "# chkconfig --list"
-
+> 
+> Fuck. `# chkconfig --list`
+> 
 > You see only one service which looks like it might be what you're looking for. It's called "data_sqafxz".
-
-> "# service data_sqafxz restart"
-
-> "Usage: /etc/init.d/data_sqafxz {start|stop|import}"
-
-> "Import" WTF? No restart function. OK: "# service data_sqafxz stop"
-
-> "Stopping SQaFXZ data service ... ... [OK]"
-
-> Right. "# service data_sqafxz start"
-
-> "Starting SQaFXZ data service ... ... ... ... ... ... ... ... [FAILED]"
-The CRM behind you has started shouting. "What did you do? Did you just break it? Why did you break it?" His phone starts ringing. Another CRM arrives and starts yelling at the first one, then they both yell at you. Your INT is effectively -20 while they're doing this.
-
-> Fuck. Logs. There have to be logs, right?
-"cd /var/log/; ls -l"
-
+> 
+> `# service data_sqafxz restart`
+> 
+> `Usage: /etc/init.d/data_sqafxz {start|stop|import}`
+> 
+> "Import" WTF? No restart function. OK: `# service data_sqafxz stop`
+> 
+> `Stopping SQaFXZ data service ... ... [OK]`
+> 
+> Right. `# service data_sqafxz start`
+> 
+> `Starting SQaFXZ data service ... ... ... ... ... ... ... ... [FAILED]`. That's another mental attack, value 12
+> 
+> Defense 12. I don't panic.
+> 
+> The CRM behind you has started shouting. "What did you do? Did you just break it? Why did you break it?" His phone starts ringing. Another CRM arrives and starts yelling at the first one, then they both yell at you. This is another mental attack, with values of 10 each.
+> 
+> Defense rolls of 11 and 9. One wound. I've had worse than a couple of shouting CRMs.
+> Logs. There have to be logs, right?
+> `cd /var/log/; ls -l`
+> 
 > There is a SQaFXZ directory.
-
-> "cd SQaFXZ; ls -l"
-
+> 
+> `cd SQaFXZ; ls -l`
+>
 > It appears this package does its own log rotation. Meaning in practice that there is a date stamped log file for each day this service has been operating, and none have been deleted.
-
+> 
 > What? Why??
-
+> 
 > One of the CRMs shouts something about "auditing" and "security". The other screams "Access Control!".
-
+> 
 > How far back do these logs go?
-
+> 
 > ls -l pipe though wc -l... divide by 365... about four and a half years.
-
+> 
 > How big is this disk?
-
-> df -h says "... 100GB  57%  /var/log/SQaFXZ". Go ahead and roll another d6 SAN.
-
-> That's ... what, 30+ megs of log a day, every day for four and a half years?
-
+> 
+> df -h says "... 100GB  57%  /var/log/SQaFXZ". Another mental attack target value 10.
+> 
+> Roll 9, another wound. I'm still here. That's ... what, 30+ megs of log a day, every day for four and a half years?
+> 
 > Yep.
-
+> 
 > tail(1) today's.
-
+> 
 > Ten lines isn't nearly enough. You can see that it's all Java error and warning logs, and you can see that something dropped its clogs, but you will need to go further back to see what.
-Another CRM has turned up, and he brought your supervisor's boss. They are all yelling at each other and at you. Lose another 10 INT while they're doing it, and have a d10 SAN hit.
-
+> Another CRM has turned up, and he brought your supervisor's boss. They are all yelling at each other and at you. Another mental attack target value 12.
+> 
 > less(1) today's log.
-
-> Start making INT checks.
-
-> Fail.
-
+> 
+> Fail defense roll; only a 9. Another 3 mental wounds, 7 total.
+> 
 > You see a reference to a failure related to a service not being accessible, but you don't think that's the immediate problem, because that service was turned off three years ago and the hardware taken away by a metaphysical hazmat team.
-
-> Hey, pass!
-
 > You find a reference to a server not responding, and lots of errors after that where it went crazy trying to reconnect. That's probably where the CPU load went.
-
+> 
 > I'd better have a look at that other server, then.
-
-> ^A^C on screen(1), and you're good to go. This server is up, but also taking its time. It's running Solaris.
-
-> Yeah, I'll just go ahead and roll ... d6?--
-
-> d6
-
-> -- d6 SAN loss now. OK, what's making it slow? I run top.
-
-> At the top of the screen you see the command "oracle", and a series of dread runes and forbidden incantations taking up the rest of the commands on the page. Take 10d10 SAN loss. ... Oh dear, that takes you negative. Very negative. So negative that you suffer a contagious psychotic break: your madness cuts holes in reality itself, and faceless daemons from unknown realms emerge to plague a yet unknowing mankind. The CRMs greet one as "Doug". You weep tears of blood and gibber quietly as the veil shreds and you realise that you sit in the cubicle by the toilet door in the fluorescent cube hell of Gehenna.
-
+> 
+> ^A^C on screen(1), and you're good to go. This server is up, but also taking its time. It's running Solaris. That's a mental attack value 12.
+> 
+> Unsurprisingly, fail with a 10. That's 9 mental wounds. OK, what's making it slow? I run top.
+> 
+> At the top of the screen you see the command "oracle", and a series of dread runes and forbidden incantations taking up the rest of the commands on the page. Another mental attack value 12. 
+> 
+> Oops, roll of 6. I don't have any Luck Points left. That's 15 mental wounds.
+> 
+> ... Oh dear, that takes you negative. You suffer a contagious psychotic break: your madness cuts holes in reality itself, and faceless daemons from unknown realms emerge to plague a yet unknowing mankind. The CRMs greet one as "Doug". You weep tears of blood and gibber quietly as the veil shreds and you realise that you sit in the cubicle by the toilet door in the fluorescent cube hell of Gehenna.
+> 
 > It is now five forty-seven, Friday afternoon.
 
 
