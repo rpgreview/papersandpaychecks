@@ -2,7 +2,7 @@
 
 by Lev Lafayette
 
-Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, A0094301K), 2017
+Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
 ISBN 978-0-9946388-0-9	
 
@@ -1126,11 +1126,11 @@ Social wounds are applied against CHA-base social hit points; if a character is 
 > 
 > Seriously?
 > 
-> Right. Um. Fuck it. `# service tomcat restart`
+> Right. Um. stuff it. `# service tomcat restart`
 > 
 > tomcat: unrecognised service
 > 
-> Fuck. `# chkconfig --list`
+> Damn. `# chkconfig --list`
 > 
 > You see only one service which looks like it might be what you're looking for. It's called "data_sqafxz".
 > 
@@ -1448,26 +1448,32 @@ scenes are slightly re jigged to fit the game within the convention time frames.
 • Bring each scene to its conflict as quickly as possible, the answer “yes, and...” should be the only one the GM requires until a conflict is declared (by either the player or GM). On average you will only have about 5 minutes to complete a scene.
 
 **Horror Revealed**
+
 In a slight change about the Horror Revealed, unfortunately in a convention setting you do not have the time to “waste” a scene with a character describing the horror revealed as opposed to generating Love or Self Loathing.
  
 Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to the activities of the characters thus far.
 
 I would begin by answering an open question relevant to the current events in the game – for example – “given that Henry Dunant has been vilified in the media, how does the public react to further fundraising by the Red Cross?”, and allowing the player to describe the response.
+
 Opening Statement / Setting the scene
+
 The scene: Characters are all sitting at the board room table, the Boss is hidden behind a large chair. He’s on the phone.
-"Look here, you snivelling little turd, when I say I want those pictures ­ I want those pictures, I don't care if your 
-halfwit mother wants to have a white xmas, you ain't getting any leave until those pictures hit MY desk. In fact, fuck it, 
-you ain't getting any leave period ­ sit your arse down in the park outside that dumb bitch Petra Daniels house and wait 
-for the picture you god damned lazy shit."
+
+"Look here, you snivelling little twit, when I say I want those pictures ­ I want those pictures, I don't care if your 
+halfwit mother wants to have a white xmas, you ain't getting any leave until those pictures hit MY desk. In fact, stuff it,  you ain't getting any leave period ­ sit your arse down in the park outside that dumb bitch Petra Daniels house and wait for the picture you god damned lazy shit."
+
 He turns to the characters
+
 "Right, for Christ sake ­ hire a bloody Jew to do a job and you need to give them god damned road map just so they can 
-find their own chopped up prick. This fucking company would go down the tubes if it wasn't for strong leadership and 
-direction ­ MINE ­ I don't know why I hired you lot either ­ right lot of useless pricks you are."
+find their own chopped up dick. This stupid company would go down the tubes if it wasn't for strong leadership and 
+direction ­ MINE ­ I don't know why I hired you lot either ­ right lot of useless fools you are."
+
 "Who’s up first?"
 
 Whomever chooses to take the first command will be your starting character, travel left from that player until you 
 return to that player a second time (i.e. all characters have had two scenes, usually a command and an overture or 
 attempting to complete a command). 
+
 At that second return, you should be able to do an End Game or Horror Revealed check.
 
 **First Run of Commands and player actions**
@@ -1475,59 +1481,67 @@ At that second return, you should be able to do an End Game or Horror Revealed c
 The following is the initial commands given to each character, note that with the exception of the first command (the 
 player who responded to the opening statement) each character can choose to take a command, do an overture or act out 
 a command.
+
 Players should be able to set the scene for what ever action they choose to take, the GM should provide suggestions 
 based on the background material, but the players should have most of the narrative control.
 The players are likely to take the narrative outside the boardroom, or to other unusual places, the GM’s best answer to 
 any suggestion or request by the players is “yes, and...” The game is currently set in Wellington, New Zealand (feel 
 free to change as relevant). 
+
 Each player should have the opportunity twice to perform an action (within the first round it is extremely likely that 
 everyone gets at least one command). To keep to the time line, this should only take about 50 minutes to complete.
 
 
-Forest Deacon
+*Forest Deacon*
+
 "The sodding bean counter huh? Keeping your retirement fund clean are you? ­ Yes I know about your tucked away 
 savings ­ be thankful that I haven't turned you in to the IRD. Right, I have a job for you, simple enough for even you to 
 do. Our reader numbers are down, and the competition is getting nasty. Time to buy them out. Routers Co is within the 
 price range, but I want to buy it for a steal ­ their head journalist ­ Ramoud ­ he supplies all the integrity for the 
 company ­ defame him. Destroy him. Make him nothing in the readers’ eyes. I want scandal; I want to know that he’s a 
 gay loving, neo­fascist, terrorism supporting Arab. Make it happen!"
-John Goines
+
+*John Goines*
+
 "Oh Christ its you. You sold your own mother yet? My lord man I ain't seen such a dirty leech since my time in 
 Malaysia ­ god damned Malaysians ­ suck your blood they do. Steal the shirt from your back they will. So... what can I 
-have you do for me huh? Something you won't fuck up hopefully, but I'm not holding my breath. I need a new 
-corporate face of Newsprint limited, something bullshit and squishy, light­hearted yet.... heart­warming to the stupid 
+have you do for me huh? Something you won't stuff up hopefully, but I'm not holding my breath. I need a new 
+corporate face of Newsprint limited, something bulldust and squishy, light­hearted yet.... heart­warming to the stupid 
 masses. Something.... charities... charities are good. There is a Red Cross orphans camp up near Trentham way, sign a 
 deal ­ get them to advocate buying Newsprint publications. Get their boss up here for a photo shot ­ shaking hands and 
-that sort of bullshit rubbish ­ but make sure they are presentable... I want sympathetic, not pathetic."
-Julia Wright
+that sort of bulldust rubbish ­ but make sure they are presentable... I want sympathetic, not pathetic."
+
+*Julia Wright*
+
 "How are you doing honey? Liking the good life down in that library of yours? You know you could make VP one day; 
 you'd just need to pop those tits out once and a while and do a dance for the rest of the team. The boys here would be 
 salivating over you in no time. Your job is a simple one baby, time for Newsprint to get glossy ­ and I mean sexy. I 
 need hot pics... and I mean HOT. Get me my nude shot of Petra Daniels ­ you know the one ­ the slut from Shorty 
-Street. That'll bring the readers in, everyone likes a bit of arse on page 2! and would it hurt to wear a low cut top from 
-time to time! Its like looking at a slate wall every time you walk in here..."
+Street. That'll bring the readers in, everyone likes a bit of arse on page 2! and would it hurt to wear a low cut top from time to time! Its like looking at a slate wall every time you walk in here..."
 
-Verity Williams
-"Verity ­ my overpaid, under qualified, waste of time editor. What do you do when not trying to screw up my paper? 
+*Verity Williams*
 
-pull the wings off flies? Steal candy from children? Christ if I was a father I would get the child to run 10 miles to get 
-away from your ugly mug ­ the wicked witch of the west you are! Well its time to earn your keep, accounting have a 
+"Verity ­ my overpaid, under qualified, waste of time editor. What do you do when not trying to screw up my paper? Pull the wings off flies? Steal candy from children? Christ if I was a father I would get the child to run 10 miles to get  away from your ugly mug ­ the wicked witch of the west you are! Well its time to earn your keep, accounting have a 
 new boy ­ Paul something... Reynolds I think. He sent me a bloody letter "Dear Sir, I very much enjoy being part of 
 your fine company and would like to express my gratitude about granting me this opportunity to help build Newsprint 
-to the best that it can be" ­ fucking brown noser if any I thought so. Time to teach him a lesson ­ there is a Gang HQ out 
+to the best that it can be" ­- brown noser if any I thought so. Time to teach him a lesson ­ there is a Gang HQ out 
 in Newtown, tell him that the boss needs something special from the Gang leader ­ something that would make the 
-Boss even more grateful that we hired this snivelling shit... convince Paul to go get me a Daddie fresh from the pen!... 
+Boss even more grateful that we hired this snivelling turd... convince Paul to go get me a Daddie fresh from the pen!... 
 ha ha!... should come back bow legged he will!"
+
 (FYI – “Daddie fresh from the Pen” is a recently release Sexual Offender)
 
 https://en.wikipedia.org/wiki/King_Cobras_%28gang%29
 
-Jason Schuster
+*Jason Schuster*
+
 "I thought we fired you? God Damn I need to talk to HR. Right, as we have you we should bloody well use you. There 
 is a secret government agent ­ "Open Wound" is what they call him. He needs to be exposed ­ my friends in the 
 Beehive are getting might pissed off at the info he is spreading around ­ and I need my friends to be happy. I need to 
 know his name, his department, his fucking favourite position and I need it recorded. Bring me that recording!"
+
 Rebekah Caulfield
+
 "Still stalking all the office hotties are we Beks? I know your secret. Looking up files is just another form of a peep 
 show to you isn't it? Okay, I have jobs for you. I am getting sick and tired of all the bloody slackers that we have 
 hired... fucking ugly women with kids, Jews and Malay. Slackers all of them. Fire them. All. I want all their contracts 
@@ -1536,35 +1550,40 @@ workers ­ none with kids. Call it a restructure or something, and make it look 
 
 
 Check for End Game / Horror Revealed
+
 After each player has had a turn twice, go around the table and do a check for End Game or Horror Revealed. This is 
 also a good time to summarise what is happening in the game world (the Horror Revealed is a good way to allow the 
 players to do the summarising).
+
 N.B. Horror Revealed:
+
 In a slight change about the Horror Revealed, unfortunately in a convention setting you do not have the time to “waste” 
 a scene with a character describing the horror revealed as opposed to generating Love or Self Loathing. 
-Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before 
-the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to 
-the activities of the characters thus far.
+Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before  the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to the activities of the characters thus far.
+
 I would begin by answering an open question relevant to the current events in the game – for example – “given that 
 Henry Dunant has been vilified in the media, how does the public react to further fundraising by the Red Cross?”, and 
 allowing the player to describe the response.
+
 Second Round commands and player actions
+
 The second commands the characters received are partially dependent on the results of their first command (if they 
-have or haven’t completed it), and partially dependent on the actions of the other characters. Guides to the characters 
+have or haven’t completed it), and partially dependent on the actions of the other characters. Guides to the characters  for orders follow.
 
-
-for orders follow.
 As a loose guide follow the below instructions, however always escalate.
+
 Forest Deacon
+
 If successful ­ Ramoud should be disgraced. Townsfolk should become more cynical about life, morose and depressed. 
 Anti­monopoly or anti­globalisation protests are starting to rise and often they stop at the Newsprint Limited head 
-office. While Newsprint haven't yet brought Routers (although CFO could do it), it is obvious to the population that this 
-is what it intends. Newsprint limited reader numbers remain unchanged. CFO next task could be to FIRE all the 
+office. While Newsprint haven't yet brought Routers (although CFO could do it), it is obvious to the population that this  is what it intends. Newsprint limited reader numbers remain unchanged. CFO next task could be to FIRE all the 
 workers from Routers and set it up as a shell company for Newsprint to launder money ­ Paul would be “volunteered” 
 to oversee this operation.
+
 If unsuccessful ­ Routers (and Ramoud) runs a campaign against monopolies and greedy corporations with their 
 wealthy benefactors. The boss is not impressed. Orders CFO to start laundering money (with a fall guy ­ Paul) hiding it 
 as donations to the Red Cross. 
+
 The key to Forest’s escalation is either through his connections (putting Paul or Henry Dunant into trouble or dire 
 straights), or using his money (his “more than human”) for increasingly nefarious deeds. Order Forest to buy things – 
 like the Red Cross and then destroy them, order Forest to cut funding to things – like staff members superannuation or 
@@ -1577,9 +1596,8 @@ John Goines
 If successful ­ Henry Dunant should be ready for photo shoot/publicity stunt with the Boss ­ Townsfolk should laud 
 Henry Dunant as reaching one of the big corporations ­ Henry is nominated for Wellingtonian of the Year (for his 
 charity work and stuff). Newsprint reader numbers remain the same. The boss is not impressed, in fact, he’s angry. 
-DCC next task should be to put Petra Daniels (naked) and Henry Dunant in the same room. Time to disgrace him.
+DCC next task should be to put Petra Daniels (naked) and Henry Dunant in the same room. Time to disgrace him. If unsuccessful, the boss is not impressed and above remains.
 
-If unsuccessful, the boss is not impressed and above remains.
 John Goines is often played as a suave media marketeer, so attack him were it hurts. He generally needs orders that are 
 leading others into trouble, not trouble for himself directly – for example, bringing Petra Daniels to the Boss’s room 
 and ordered to remain outside, or creating situations where Yousef could be confused as a terrorist (i.e. “mistakenly” 
@@ -1587,6 +1605,7 @@ putting a story out with a picture of Yousef about potential terrorism in Wellin
 
 
 Julia Wright
+
 If successful ­ Petra Daniels should be "exposed" in the media ­ Townsfolk start to hunger for more sensationalist press 
 ­ reality TV shows start to rise, the porn industry in Wellington reports record growth. Newsprint reader numbers 
 increase, the boss wants more. CVM next task would be to photograph government officials in compromising positions. 
@@ -1598,45 +1617,45 @@ weight with the players. Julia is often portrayed as a confident worker, success
 
 on her legitimacy as a photojournalist has worked in escalation with Julia. Order Julia to take photos of prominent 
 connections in the game and then have the Newspaper print outright lies about what the photo is attempting to portray 
-(or lies about what the situation was in the first place). Order Julia to then begin doctoring photos to match scandalous 
-stories.
+(or lies about what the situation was in the first place). Order Julia to then begin doctoring photos to match scandalous  stories.
+
 Verity Williams
+
 If successful Paul should be harmed ­ Violence and riots are more common by the townsfolk, violence seems "verified" 
 as a valid course of action. Sexual assaults and rape on the rise. The boss doesn't care Newsprint readership declines 
 (which doesn't make the boss happy). Orders CE to blame the Red Cross for the rise in violence (it harbours criminals), 
 to get proof that this is happening, and to bring the Red Cross to justice. Also Paul is brought to the office and CE 
 blamed for his plight.
+
 If unsuccessful, Paul unharmed, bosses "fun" was inhibited, he’s not happy. Orders CE to verify a government 
 conspiracy (that the Govt is bankrupt, John Key is a puppet to the US, and the RBA is about to go under) with her 
 "contact" and rival company Routers Co.
 
-Verity’s first instruction is the one that brings violence into the game, and thus escalation of Verity’s orders in practice 
-tends to be quite natural. Order her to allow stories of Paul Reynolds (lies all) to go to print, have the Boss order her to 
-obey the “Boys Club” and step aside for another editor (who doesn’t do any editing) and then order her to take the fall 
-when he fails. Verity in practice also tends to get out there and attempt to stop others from completing their orders (in 
-particular re Henry Dunant).
+Verity’s first instruction is the one that brings violence into the game, and thus escalation of Verity’s orders in practice  tends to be quite natural. Order her to allow stories of Paul Reynolds (lies all) to go to print, have the Boss order her to  obey the “Boys Club” and step aside for another editor (who doesn’t do any editing) and then order her to take the fall  when he fails. Verity in practice also tends to get out there and attempt to stop others from completing their orders (in particular re Henry Dunant).
+
 Jason Schuster
+
 If successful ­ "Open Wound" should be compromised but either way ­ Townsfolk want to know more about the 
-Governments dealings, racial attacks on the rise as the Boss slants the story to the fact that he is a Jew (or Malay, or an 
-ugly woman). Newsprint Readership rises, the Boss wants more. Needs more proof that the Jews are responsible for all 
+Governments dealings, racial attacks on the rise as the Boss slants the story to the fact that he is a Jew (or Malay, or an  ugly woman). Newsprint Readership rises, the Boss wants more. Needs more proof that the Jews are responsible for all 
 things wrong in this world. Orders DOO out to get proof that Henry Dunant (another Jew) is a corrupt cheat, and if they 
 can't find the info ­ to make it up! 
 
 Jason is a true journalist, so continue to order him to “get the story”. And if he can’t get the story to “make the story”. 
+
 This can be useful for the players to keep track of the activities of the game if Jason is ordered to track and report. 
 Eventually the Boss will order Jason to get the story on the assassination of one of the connections, or rather hands 
 Jason a Gun.
  
 Rebekah Caulfield
+
 If successful, all Jews/ugly women/Malays should be fired ­ including Paul Reynolds, and new employees hired.
 Townsfolk accept the "restructure" or whatever it was called without comment, racial attacks on the rise. No change in 
 Newsprint readership. Paul Reynolds starts a lawsuit for illegal dismissal and Boss orders DHR to justify the dismissals 
 or bribe the courts to throw the case out ­ Open Wound could be useful there. (either mentioned by boss or others)
+
 If unsuccessful, Boss not happy. Orders DHR to cut costs in other ways, cut everyone’s pay by 50% (except the boss) 
 and her own by 75%. Initiate a performance reviews on all senior staff and report back.
-Rebekah’s escalation tends to go towards ordering her to strip other characters of their benefits (listed on the character 
-sheets), or Ordering Rebekah to oversee further cutbacks in Newsprint. Attacking Rebekahs connections Petra Daniels 
-or Henry Dunant tends also to stir Rebekah into action.
+Rebekah’s escalation tends to go towards ordering her to strip other characters of their benefits (listed on the character  sheets), or Ordering Rebekah to oversee further cutbacks in Newsprint. Attacking Rebekahs connections Petra Daniels  or Henry Dunant tends also to stir Rebekah into action.
 
 As MacKenzie's layout was seen by more and more people, a collective shudder ran through the office (but) MacKenzie's dominance was so total there was nobody left in the organisation who could rein him in except Murdoch. (Everyone in the office) seemed paralysed ­ "looking like rabbits in the headlights" ­ as one hack described them. The error staring them in the face was too glaring. It obviously wasn't a silly mistake; nor was it a simple oversight. Nobody really had any comment on it—they just took one look and went away shaking their heads in wonder at the enormity of it. It was a 'classic smear'.
 Quote by Peter Chippendale and Chris Horrie on The Sun's reporting of  the 1989 Hillsborough Disaster
@@ -1645,48 +1664,50 @@ Hints, Tips and Advice
 The following are some final hints, tips and advice before we get to the End Game.
 1. Keep the game moving, don’t stop
 2. Escalate, Escalate, Escalate
-3.
-4.
-5.
-6.
-
-Watch your time, if necessary award “Self­Loathing” or “Love” to characters outside their turn if the actions 
+3. Watch your time, if necessary award “Self­Loathing” or “Love” to characters outside their turn if the actions 
 seem warranted and your time is low
-“Yes and...” is your greatest tool as a GM.
-You have 5 minutes to bring each scene to a conflict point, know the My Life With Master system intuitively 
+4. “Yes and...” is your greatest tool as a GM.
+5. You have 5 minutes to bring each scene to a conflict point, know the My Life With Master system intuitively 
 to bring out what the players need to roll as soon as they ask.
-Continue to encourage the players to award sincerity, intimacy or desperation dice. Lead by example.
+6. Continue to encourage the players to award sincerity, intimacy or desperation dice. Lead by example.
+
 It is quite possible that you have a troublesome player or two; usually these are quickly identified as a player who is 
 enjoying the depraved requests of the Boss and is asking for more, thus not resisting the Boss (and thus not being able 
 to complete the game).
-There are a couple of strategies for this sort of player, the first is to escalate the commands given by the Boss until the 
-player is in a situation where they can do nothing but resist. This is fraught with difficulty as it may result in the GM 
-breaking the rules set down in the disclaimer.
+
+There are a couple of strategies for this sort of player, the first is to escalate the commands given by the Boss until the  player is in a situation where they can do nothing but resist. This is fraught with difficulty as it may result in the GM  breaking the rules set down in the disclaimer.
 
 The second strategy is to give the character commands that are impossible to complete. One of my examples was 
 ordering the character to go around to all of the shops in the Wellington region and replace the front page with a new 
 one; this was an action that the character had no chance of completing. Further escalation of these sorts of commands 
 eventually leads the player to the believe that the Boss is really just a nasty person and should be resisted.
-End Game
+
+**End Game**
 
 The End Game possibilities are as wild as the players you will have, however a couple of points the GM should be 
 aware of at the End Game stage.
+
 The character will always “win” the End Game, and the Boss knows this, he will attempt to go all out to defend or fight 
 or attempt to convince the character that going against the Boss is not the best way. The Boss will beg, he will make 
-lewd remarks, he will insult, he will cry, he will scream. As the GM it is your responsibility to make this happen, stand 
-up and take it too the players – this is the Boss’s last hurrah.
-Conclusions
+lewd remarks, he will insult, he will cry, he will scream. As the GM it is your responsibility to make this happen, stand  up and take it too the players – this is the Boss’s last hurrah.
+
+**Conclusions**
+
 Know the background of the game, know the rules of My Life with Master, and portray the Boss as wild as you can. 
+
 These three elements will ensure that you have a unique and fun experience when playing My Life with the Boss.
+
 In the two times I ran My Life with the Boss at KapCon, both ended very differently and took very different tracks. 
 This is to be expected, some characters will fixate on protecting their connections and growing Love, others will 
-attempt to satisfy the Boss (growing their Self Loathing) and others again will attempt to disrupt the actions of the other 
-characters. 
+attempt to satisfy the Boss (growing their Self Loathing) and others again will attempt to disrupt the actions of the other  characters. 
+
 Ultimately however, and this is what My Life with Master is about, it will return to resisting the Boss and completing 
 the End Game.
+
 As I have suggested, play the Boss to the hilt, this is one of the ways that the players will remember this game and get 
 enjoyment from it, the second point in which the players will have enjoyment is the relative freedom they have from a 
 GM that says “yes, and ...” to all of their requests.
+
 Game Tools / Devices
 Organisational Chart
 This is the lose organisational c
@@ -1745,6 +1766,8 @@ Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 D20 Modern
 
 Leverage
+
+My Life With Master
 
 **Reality Checking**
 
