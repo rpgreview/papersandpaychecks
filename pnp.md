@@ -88,7 +88,7 @@ Roleplaying games have been an enormous success story in recent decades, startin
 
 Note the word 'plausibility'. "Papers and Paychecks" posits a world that is downright hostile to the player characters. The metaphysical foundation, if you like, is resistentialism. This is a supposedly joke philosophy based around the widespread anecdotal evidence of an apparent malice of inanimate objects against people, the word itself coined by Paul Jennings in 1948 as a response to existentialism, and claimed that it was developed by a fictional character, Pierre-Marie Ventre, itself a play on the name Jean-Paul Sartre.
 
-But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly my the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor: "Anything that can go wrong, will go wrong and at the worst possible time".
+But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly by the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor: "Anything that can go wrong, will go wrong and at the worst possible time".
 
 Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives, yet the the time in which they decide to incompetently help proves disasterous. It is the role of The Boss to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
 
@@ -108,7 +108,7 @@ The book concludes with a set of supplementary appendicies; a collection of sour
 
 At the end of the day however, the main purpose of "Papers and Paychecks" is enjoyment. Consider this "Rule 0" of the game. If the game is not enjoyable then something has gone wrong and it needs to be addressed. It doesn't have to be *fun*, as such, to use the etymological sense i.e., foolish. Players as well as characters can have their own assumptions challenged, and things will not always go well for their characters (indeed, in *Papers & Paychecks* they can go very bad indeed). But rather it will give "enjoyment" and the act of exploring the shared imaginary space of a fictional universe that is like many of our own lives turned "up to eleven" will be provide entertainment, amusement, and perhaps even a little bit of insight. 
 
-This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least vermissildtude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
+This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
 
 By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
 
@@ -275,7 +275,6 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
-
 [IMG bannedtechops.jpg Brightpearl's Tech Ops Banned word list - a must read for all MBAs & managers.]
 
 ## 1.2 Luck Rating
@@ -284,7 +283,9 @@ All player characters start with a Luck rating of 3 points. As a meta-game chara
 
 > Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as the wish - even for or against other characters.
 
-During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
+During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disasterous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck poin for making life difficult for their own character. 
+
+On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
 
 Keep in mind that these are an metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
 
@@ -404,7 +405,7 @@ Note that there is no level after 10. After several projects at this level, havi
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Brawl, Intimidate, Hobby, Language (own), Profession
+Profession Skills: Brawl, Intimidate, Hobby, Language, Profession
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
@@ -412,31 +413,31 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 |-------|----------|----------------------------|
 | 1	| $700     | Union Membership           |
 | 2	| $800     | +1 to STR, DEX, or CON	|
-| 3	| $900     |                            |
+| 3	| $900     | Apprentice                 |
 | 4	| $1000    | +1 to STR, DEX, or CON     |
-| 5	| $1100    |                            |
+| 5	| $1100    | Security Access            |
 | 6	| $1150    | +1 to STR, DEX, or CON     |
-| 7	| $1200    | Security Access            |
+| 7	| $1200    | Team Leader     		|
 | 8	| $1250    | +1 to STR, DEX, or CON     |
-| 9	| $1300    |                            |
+| 9	| $1300    | 				|
 | 10	| $1350    | +1 to STR, DEX, or CON     |
 
 ### 1.5.2 Scientist
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: Hobby, Language (own), Profession 
+Profession Skills: Hobby, Language, Profession 
 
 | Level | Wage     | Perks		   |
 |-------|----------|-----------------------|
-| 1	| $500     | Conference Attendance |
-| 2	| $600     |			   |
+| 1	| $500     | Laboratory Equipment  |
+| 2	| $600     | Conference Attendance |
 | 3	| $700     |		           |
-| 4	| $850     |		           |
+| 4	| $850     | Apprentice	           |
 | 5	| $900     |		           |
 | 6	| $1050    |		           |
 | 7	| $1250    |		           |
-| 8	| $1500    |		           |
+| 8	| $1500    | Team Leader           |
 | 9	| $1750    |		           |
 | 10	| $2050    |		           |
 
@@ -444,7 +445,7 @@ Profession Skills: Hobby, Language (own), Profession
 
 Prime Requisite: Wisdom
 Starting Age: 15+1d6
-Profession Skills: Hobby, Language (own), Profession
+Profession Skills: Hobby, Language, Profession
 
 *"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.*
 David Wiegleb, Jan 24, 2017
@@ -452,13 +453,13 @@ David Wiegleb, Jan 24, 2017
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
 | 1	| $500     | File System Knowledge	|
-| 2	| $600     |				|
-| 3	| $700     |				|
-| 4	| $800     |				|
-| 5	| $900     |				|
+| 2	| $600     | Intuition			|
+| 3	| $700     | Bureaucratic Dodge		|
+| 4	| $800     | E.S.P.			|
+| 5	| $900     | Apprentice			|
 | 6	| $1000    |				|
 | 7	| $1100    |				|
-| 8	| $1200    |				|
+| 8	| $1200    | Team Leader		|
 | 9	| $1300    |				|
 | 10	| $1400    |				|
 
@@ -466,16 +467,16 @@ David Wiegleb, Jan 24, 2017
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d6
-Profession Skills: Hobby, Language (own), Profession
+Profession Skills: Hobby, Language, Profession
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
 | 1	| $400     | Union membership	|
 | 2	| $500     | Security Access	|
-| 3	| $650     | 			|
+| 3	| $650     | Apprentice		|
 | 4	| $800     | 			|
 | 5	| $1000    |  			|
-| 6	| $1200    | 			|
+| 6	| $1200    | Team Leader	|
 | 7	| $1450    | 			|
 | 8	| $1700    | 			|
 | 9	| $2000    |			|
@@ -485,7 +486,7 @@ Profession Skills: Hobby, Language (own), Profession
 
 Prime Requisite: Constitution
 Starting Age: 15+2d4
-Profession Skills: Hobby, Language (own), Profession
+Profession Skills: Hobby, Language, Profession
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -493,10 +494,10 @@ Profession Skills: Hobby, Language (own), Profession
 | 2	| $600     | Cramming			|
 | 3	| $700     | Conference Attendance	|
 | 4	| $800     | Union membership 		|
-| 5	| $900     |	       			|
+| 5	| $900     | Apprentice			|
 | 6	| $1050    |           			|
 | 7	| $1200    |           			|
-| 8	| $1350    |           			|
+| 8	| $1350    | Team Leader		|
 | 9	| $1500    |           			|
 | 10	| $1750    |           			|
 
@@ -504,20 +505,20 @@ Profession Skills: Hobby, Language (own), Profession
 
 Prime Requisite: Charisma
 Starting Age: 15+3d4
-Profession Skills: Hobby, Language (own), Profession
+Profession Skills: Hobby, Language, Profession
 
 | Level | Wage     |  Perks		|
 |-------|----------|--------------------|
-| 1	| $600     | Social Armour	|
-| 2	| $700     |                 	|
+| 1	| $600     | Tower of Iron Will	|
+| 2	| $700     | Apprentice   	|
 | 3	| $850     | Id Insinuation   	|
-| 4	| $1000    |                 	|
-| 5	| $1200    |                 	|
-| 6	| $1400    |                 	|
-| 7	| $1650    |                 	|
-| 8	| $1900    |                 	|
+| 4	| $1000    | Team Leader       	|
+| 5	| $1200    | Ego Whip		|
+| 6	| $1400    | Project Manager   	|
+| 7	| $1650    | Intellect Fortress	|
+| 8	| $1900    | Department Manager	|
 | 9	| $2200    |                 	|
-| 10	| $2500    |                 	|
+| 10	| $2500    | Vice-President    	|
 
 
 ## 1.6 Skills and Knowledges
@@ -741,6 +742,14 @@ A Seduce skill check is made when a character wishes to lead another character a
 
 ## 1.7 Perks
 
+**Apprentice**
+
+With the Apprentice perk, a character has assigned to them a 1st level character of the same profession, sometimes referred to as "archaic" by archiac speakers. The Apprentice will be mostly loyal and mostly enthusiastic, carrying out the tasks allocated to them by the main character. Each time the Apprentice advances a level, a check with a target number of 11 is required, adding the character's CHA modifier. If failed, the Apprentice has spread their wings and found a new employer.
+
+**Bureaucratic Dodge**
+
+With the Bureaucratic Dodge perk, the character can avoid red tape. Three times each project the character has the capacity to simply avoid any administrative or organisational blocker within their own organisation and move to their next contact or obtain the appropriate documentation etc, through the use of a particular organisational rules (e.g., invoking an occupational health and safety clause, a fire regulation, etc.
+
 **Conference Attendance**
 
 With the Conference Attendance perk once per project a character may attend an expenses paid (accommodation, flight, meals) international conference. Depending on the subject matter the Conference will provide a +1 bonus to skill checks made in the current project that are relevant from the conference subject, a contact, plus one item of new equipment from a trade stand valued no more than $1000. Note that the conference subject is determined before the project. 
@@ -751,25 +760,57 @@ With the Conference Attendance perk once per project a character may attend an e
 
 By spending two strategic turns researching a particular topic a character may gain the equivalent of +1 skill point in a skill or knowledge. The skill point fades from memory 48 hours (12 strategic turns) after being acquired.
 
+**Department Manager**
+
+The Department Manager enables the character to have CHA+Level-3 _teams_ assigned to them, in the same manner as the Team Leader. Each team provides an extra 10% bonus to the base pay.
+
+**Ego Whip**
+
+With the Ego Whip perk the character gains the ability to creatively to identify and attack the character's sense of conscious self, generating a sense of worthlessness and despair in the target. A character who invokes this attack gains a +3 bonus in social combat, and leaves the character physically stunned for one tactical round. It may only be used once per target, per encounter. The attack counts as an action.
+
+**Intellect Fortress**
+
+With the Intellect Fortress perk the character gains bonus hit points equal to their best skill level (not including characteristics) and distributed between the social, mental, and physical hit points. These cannot be healed, are the first points which are removed as a result of combat, but can "regenerate" between projects. They represent an force of will based on the character's own extended sense of self - and that can be chipped away by others.
+
 **Id Insinuation**
 
-By questioning the motives of a character and suggesting that they are being inspired by base desires, a character who invokes this attack gains a +3 bonus in social combat. It may only be used once per target.
+With the Id Insinuation perk the character gains the ability to question the motives of an opposing character suggesting that they are being inspired by base desires, leading to an internal moral response of the character against themselves. A character who invokes this attack gains a +2 bonus in social combat. It may only be used once per target, per encounter. The attack counts as an action.
+
+**Intellect Fortress**
+
+With the Intellect Fortress perk the character protects themselves by asserting the security of their mind through their knowledge and an inspiring speech. Following a two action spoken invocation of the Intellect Fortress, all allied characters (i.e., those with a common objective) receive a +2 bonus against mental and social attacks for two strategic turns.
+
+**Intuition**
+
+With the Intuition perk the character has the uncanny ability of being able to guess correctly, or at least be able to to subconsciously process information quicker. In any situation where they are confronted with electing from two choices they gain a +2 bonus in selecting the most optimal, and in a situation with three choices they gain a +1 bonus. There is no bonus for options of four or more choices.
 
 **File System Knowledge**
 
-File system knowledge refers to the physical and virtual organisation of documents and objects. A character with file system knowledge knows where last year's invoice to the insurance company is located, where the snacks are stashed, and where the optical time-delay spectrometer is. This provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment. 
+The File system Knowledge perk provide the character the physical and virtual organisation of documents and objects. A character with file system knowledge knows where last year's invoice to the insurance company is located, where the snacks are stashed, and where the optical time-delay spectrometer is. This provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment. 
+
+**Laboratory Equipment**
+
+The Laboratory Equipmemt perk enables the character to have access to appropriate specialist equipment, such as Bunsen burners, microscopes, laboratory glassware, autoclaves, chemical (especially reagents) and biological safety cabinets. Some skills, such as Craft (chemical) and Craft (pharmaceutical), are not possible without access to a laboratory.
 
 **Library Access**
 
 Acquiring public library access is something that everyone can do; but the Library Access perk is a collection of unusual rights, that provides for a wider scale of information, restricted borrowings, and additional assistance from library staff. The Library Access perk provide an additional +2 bonus to research and other information gathering tasks when the character uses a library. 
 
+**Project Manager**
+
+The Project Manager perk enables the character to manage a project team over a period of weeks and with a budget. Like the Team Leader, the Project Manager will receive a number of characters, however their total pool of levels will be CHA+Level, and the character may select the members of their project team. Unlike the operations team (c.f., Team Leader) the project team is temporary. With the start of each new project it must be re-established. 
+
 **Security Access**
 
 Security Access provides a character with the means (keys, swipe cards) and excuse to be in a restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
 
-**Social Armour**
+**Team Leader**
 
-Due to status and position Social Armour artifically increases a character's CHA by +3 for the purposes of defense only.
+The Team Leader perk enables the character to have CHA+Level-3 other characters assigned to them in the same manner as the Apprentice perk, and subject to the same tests. As with the Appentice the new characters in the Team are also 1st level. Note that if the modifiers reduces the number of team members to zero or less, the character receives no benefit from this perk. Each time the character advances a level, a new 1st level character joins the team. 
+
+**Tower of Iron Will**
+
+With the Tower of Iron Will perk, the character ignores an uncomfortable reality through sheer willpower alone, and can ignore the effects of any wound for a period of time, as long as they make a WIS check with a target number of 11. Reality however has a harsh way of reasserting itself and the wound will take effect after two tactical turns for physical wounds, or a strategic turn for mental and social wounds.
 
 **Union Membership**
 
@@ -844,7 +885,7 @@ The Boss should show interest in how players use these results as it represents 
 
 > Boss: OK, you're in for the big technical meeting. The manager and the team are there, all NPCs except you. Everyone's really pumped out and excited about this new roll-out of a massive new storage system for the company, with a new operating system and storage protocol. Everyone's talking over one another, scribbling on white boards and debating what tasks they're going to do. Rodney, what's your character, Russell Wrench, up to?
 > 
-> Rodney: My character has Introversion at +2, I make a check and roll a ... ahh, an 11. Russell will pull out his laptop and start reading through some technical specifications for operating system and storage protocol.
+> Rodney: My character has Introversion at +2, I make a check and roll a ... ahh, an 12. Russell will pull out his laptop and start reading through some technical specifications for operating system and storage protocol.
 > 
 > Boss: Whoa, the manager is not impressed with that at all, "This is a *team* meeting Russell, your input is appreciated. A *lot* of money is being spent on this project, including a lot of money on *your* wages. We expect value for money", he says tersely.
 > 
@@ -907,7 +948,6 @@ A character typically may take two 'standard actions' in a tactical round. A sta
 
 Physical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11; those that succeed make act as per normal on that tactical round and all subsequent rounds. Those that fail will have that number subtracted from their initial defense check (which is also usually based on Brawl). A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc, and an equal number of defensive reactions.
 
-
 The purpose of combat is to hurt someone; except you can get hurt as well.
 
 1. Initiative
@@ -919,7 +959,6 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 -- all out defense, -3 to hit, no attack
 -- all out damage reduction, -1x damage, but no attack 
 -- retreat
-
 
 **Bully**
 
@@ -1321,9 +1360,22 @@ Another stylistic aspect that is evident in *Papers & Paychecks* is allusion and
 
 **The Creative Agenda**
 
-There is a lot of confusion over this phrase and their traditional components, so some clarity in the terms is required, along with the effects in actual play, and what this means for The Boss. The basic principle is that players engage in the game (as opposed for just reasons of hanging out together - that's a Social Contract matter) with different orientations. It is not enough to simply say "I like RPGs", because different players like different parts of the RPG experience and, to make the matter more complex, players often like different parts at different times. These 'different parts' are the Creative Agenda of the player, or mode, which have been traditionally explained as 'Gamist', 'Narrativist', and 'Simulationist', a "three-fold" model whose origins date back to the Usenet group rec.games.frp.advocacy in the late 1990s. They represent a a prioritised desire that the player wishes to get out of the game in terms of particular style of play, and each of them are equally valid.
+There is a lot of confusion over this phrase and their traditional components, so some clarity in the terms is required, along with the effects in actual play, and what this means for The Boss. The basic principle is that players engage in the game (as opposed for just reasons of hanging out together - that's a Social Contract matter) with different orientations. It is not enough to simply say "I like RPGs", because different players like different parts of the RPG experience and, to make the matter more complex, players often like different parts at different times. Awareness of their own CA at a point in time helps a player focus their orientation in a manner that is most rewarding, and the same awareness by The Boss (usually implicit) creates a more satisfactory game session experience for the player. 
 
-The Gamist Creative Agenda is about seeking an in-game objective by utilising knowledge about the game system and evaluating the options and risks involved. The Narrativist Creative Agenda 
+The 'different parts' are the Creative Agenda (CA) of the player, or mode, which have been traditionally explained as 'Gamist', 'Narrativist', and 'Simulationist', which itself is inspired by the "three-fold" model whose origins date back to the Usenet group rec.games.frp.advocacy in the late 1990s. The CAs represent a a prioritised desire that the player wishes to get out of the game in terms of particular style of play, and each of them are equally valid. The Gamist Creative Agenda is about seeking an in-game objective by utilising knowledge about the game system and evaluating the options and risks involved. The Narrativist Creative Agenda is about seeking an active intervention in story development by the character's actions. The Simulationist Creative Agenda is about seeking an in-game sense of "realism" in the story. There have been numerous (and sometimes suprisingly passionate) debates about whether there is just these three Agenda, but after many years of debate there seems to be a settled acceptance on the quantity and meaning.
+
+For a player with a Gamist CA, they are seeking opportunities to win the game, both in terms of the victory conditions of the setting, and in terms of the game system. It involves a competitive approach, even when the activities are cooperative, because the player is evaluating risk and reward, benefits and losses, and short and long-term payoffs. It is the use of tactical and strategic play where the player sees their character facing a challenge and makes a calculation of their chance of success. A dysfunctional experience can arise when The Boss, by fiat, defines a house rule which is contrary to the player's expectations and calculations. This can be avoided by The Boss having providing transparency in whatever House Rules they are using (i.e., publish beforehand and circulate), and by allowing the player to alter stated actions where they were unaware of impromptu changes. 
+
+For a player with a Narrativist CA, a game experience that provides an opportunity to addresses the premise of the story, whether it is through setting, plot, or the interactions with other characters. 'Railroading' is antithetical to the Narrativist Creative Agenda. This is where the player has their character controlled by The Boss; this can occur when it is in conflict with other CAs, and with The Boss's own sense of the Story. In the latter The Boss can impose their own narrativist play (they control the entire setting and NPCs) in relatively a subtle manner. Whilst this is justifiable if a more rewarding storyline for the players can be generated by the redirection, it is important (to quote Rolemaster's *Character Law*) to "avoid a sense of contrivance". 
+
+For a player with a Simulationist CA, a game experience that provides an opportunity to experience the setting in a manner that is internally consistent and "realistic", a position which applies both externally and internally to the characters. Not only should the game world have realistic effects the characters should also behave in a realistic manner in reference to the setting. The player with a Simulationist CA will object where the game system fails to deliver expected results, or characters behave a manner that doesn't make sense to the setting. It is emphasised that the game doesn't have to deliver results that are necessary consistent to expectations of the real-world, but where their is variance it requires consistency and an internal logic. 
+
+The word "agenda" is important. It does not mean that there has to be specific game-system rules for each CA, although this can certainly be helpful, and it is certainly present in *Papers & Paychecks*. It is a player orientation, not a set of game system mechanics. The player may not even be aware, let alone explicitly state, what their CA is at a particular point in play. As a further elaboration, players may be be taking a different CA at different points in time. Players might lean towards a particular CA, and can only use one at a time, but they are not bound to their preferred CA all the time. It is possible, albeit difficult, for The Boss to orient themselves towards multiple CAs in the same scene according to the what the different players are doing. But it is not possible to apply multiple CAs to the same player at the same time. As an agenda it refers to an orientation, thus it is possible for a player to carry out a Narrativist CA and, with the exception of the components of the agenda itself, the game retains a in-world consistency which would otherwise be association with a Simulationist CA.
+
+**System and Application**
+
+There is a body of opinion that game systems don't matter. This is simply not true. It is true the social contract between participants of the game is of primary importance (if people don't behave around the gaming table, even the best game is sunk). It is also true that the exploration of the shared imaginary space with the literary model is the second most important component of a successful game.
+
 
 
 
