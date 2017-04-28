@@ -419,8 +419,8 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 | 6	| $1150    | +1 to STR, DEX, or CON     |
 | 7	| $1200    | Team Leader     		|
 | 8	| $1250    | +1 to STR, DEX, or CON     |
-| 9	| $1300    | 				|
-| 10	| $1350    | +1 to STR, DEX, or CON     |
+| 9	| $1300    | Project Manager		|
+| 10	| $1350    | Superannuation	        |
 
 ### 1.5.2 Scientist
 
@@ -435,11 +435,11 @@ Profession Skills: Hobby, Language, Profession
 | 3	| $700     |		           |
 | 4	| $850     | Apprentice	           |
 | 5	| $900     |		           |
-| 6	| $1050    |		           |
+| 6	| $1050    | Team Leader           |
 | 7	| $1250    |		           |
-| 8	| $1500    | Team Leader           |
+| 8	| $1500    | Project Manager       |
 | 9	| $1750    |		           |
-| 10	| $2050    |		           |
+| 10	| $2050    | Superannuation        |
 
 ### 1.5.3 Administrator
 
@@ -458,10 +458,10 @@ David Wiegleb, Jan 24, 2017
 | 4	| $800     | E.S.P.			|
 | 5	| $900     | Apprentice			|
 | 6	| $1000    |				|
-| 7	| $1100    |				|
-| 8	| $1200    | Team Leader		|
-| 9	| $1300    |				|
-| 10	| $1400    |				|
+| 7	| $1100    | Team Leader		|
+| 8	| $1200    | 				|
+| 9	| $1300    | Project Manager		|
+| 10	| $1400    | Superannuation		|
 
 ### 1.5.4 Tradesperson
 
@@ -479,8 +479,8 @@ Profession Skills: Hobby, Language, Profession
 | 6	| $1200    | Team Leader	|
 | 7	| $1450    | 			|
 | 8	| $1700    | 			|
-| 9	| $2000    |			|
-| 10	| $2300    |			|
+| 9	| $2000    | Project Manager	|
+| 10	| $2300    | Superannuation	|
 
 ### 1.5.5 Researcher
 
@@ -496,10 +496,10 @@ Profession Skills: Hobby, Language, Profession
 | 4	| $800     | Union membership 		|
 | 5	| $900     | Apprentice			|
 | 6	| $1050    |           			|
-| 7	| $1200    |           			|
-| 8	| $1350    | Team Leader		|
-| 9	| $1500    |           			|
-| 10	| $1750    |           			|
+| 7	| $1200    | Team Leader		|
+| 8	| $1350    | 				|
+| 9	| $1500    | Project Manager		|
+| 10	| $1750    | Superannuation		|
 
 ### 1.5.6 Manager
 
@@ -517,8 +517,8 @@ Profession Skills: Hobby, Language, Profession
 | 6	| $1400    | Project Manager   	|
 | 7	| $1650    | Intellect Fortress	|
 | 8	| $1900    | Department Manager	|
-| 9	| $2200    |                 	|
-| 10	| $2500    | Vice-President    	|
+| 9	| $2200    | 			|
+| 10	| $2500    | Superannuation    	|
 
 
 ## 1.6 Skills and Knowledges
@@ -764,6 +764,9 @@ By spending two strategic turns researching a particular topic a character may g
 
 The Department Manager enables the character to have CHA+Level-3 _teams_ assigned to them, in the same manner as the Team Leader. Each team provides an extra 10% bonus to the base pay.
 
+> What? Did you seriously expect that you'd become the head of the company? Ha! You work for the man for forty years of your life and you'll get to be Vice-President. No further.
+
+
 **Ego Whip**
 
 With the Ego Whip perk the character gains the ability to creatively to identify and attack the character's sense of conscious self, generating a sense of worthlessness and despair in the target. A character who invokes this attack gains a +3 bonus in social combat, and leaves the character physically stunned for one tactical round. It may only be used once per target, per encounter. The attack counts as an action.
@@ -804,6 +807,10 @@ The Project Manager perk enables the character to manage a project team over a p
 
 Security Access provides a character with the means (keys, swipe cards) and excuse to be in a restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
 
+**Superannuation**
+
+The Superannuation perk is the final reward of a character and is common across all character classes. The good news is that the character receives a nest egg of ten times their _base_ pay plus their characteristic bonuses (including the Wisdom bonus for prudent investments). The bad news is that this is it, you've spent your life working for the man. A character who does not reach tenth level in a profession will receive a proportional value on their highest level at retirement.
+
 **Team Leader**
 
 The Team Leader perk enables the character to have CHA+Level-3 other characters assigned to them in the same manner as the Apprentice perk, and subject to the same tests. As with the Appentice the new characters in the Team are also 1st level. Note that if the modifiers reduces the number of team members to zero or less, the character receives no benefit from this perk. Each time the character advances a level, a new 1st level character joins the team. 
@@ -815,6 +822,7 @@ With the Tower of Iron Will perk, the character ignores an uncomfortable reality
 **Union Membership**
 
 Union membership is an important perk which equalises the labour market which is usually in favour of employers (many employees, fewer employers). This perk however represents membership of a strong union, and thus whilst many characters in *Papers & Paychecks* can get union membership (or some sort of professional association) the benefits become evident at different levels, according to profession. Union membership provides a 10% bonus to a character's wage, and a reduction in social damage attacks by co-workers (including managers) by 25%.
+
 
 
 ## 1.8 Personality
