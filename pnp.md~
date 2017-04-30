@@ -2,6 +2,8 @@
 
 by Lev Lafayette
 
+Playtesters: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby
+
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
 ISBN 978-0-9946388-0-9	
@@ -130,10 +132,9 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 ## 0.4 Core Mechanic
 
-The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As a very quick evaluation of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
+The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As Quick Resolution of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
 
-> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the 'quick and dirty' method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages rats by a trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the jump should also have the same difficulty - and as it should be in the future. Don't forget it!
-
+> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the quick resolution method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages of rats by trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the same jump should also have the same difficulty - and as it should be in the future. Don't forget it!
 
 | Difficulty		| Rating	|
 |-----------------------|---------------|
@@ -170,6 +171,8 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Characteristic**: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHA).
 
+**Detailed Resolution**: Where the Target Number of a skill or knowledge is calculated by a detailed examination of specific circumstances. 
+
 **Dramatic Action**: Any check that requires a roll of the dice to simulate a degree of uncertainty and narrative tension. The core mechanic of Dramatic Action in "Papers & Paychecks" is a 2d6 die roll against a target number, which can result in success with benefits, success, success with consequences, failure, failure with consequences.
 
 **Luck**: A metagame value that players may use to alter the result of a die-roll that they are unhappy with. Luck is awarded by the GM for particularly impressive contributions to the game experience, and may also be subtracted for negative contributions. Luck is a player characteristic, not a character characteristic, and may be transferred by a player between different characters within the same gaming group.
@@ -177,6 +180,12 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 **Player**: A real-life participant in the game. Players either manage the behaviour of Player-Characters in the game (c.f.,) or, in a particular case, take up the special role of The Boss. All players have a 'social contract' with other players to help keep the game enjoyable and interesting for everyone. Also known as "Rule 0.5", it is famously expressed by roleplayer Will Wheaton during his keynote speech at the Penny Arcade Expo (PAX) in August 2007: "Don't be a dick".
 
 **Prosaic Action**: Any check that does not require a roll of the dice, and does not represent a situation where the character is vexed by uncertainity or narrative tension. The character opts for an average result instead of a normal die roll, but undergoes the same scope of results as a 'Dramatic Action'.
+
+**Quick Resolution**: Where a Target Number for a skill or knowledge is assigned 'on the fly' based on a description of the circumstances. This should be consistent if the characters encounter the same task.
+
+**Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame.
+
+**Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame.
 
 # 1.0 Character Generation
 
@@ -382,20 +391,22 @@ This is also a "class and level" game. The "classes" are, of course, represented
 
 Each character has a level, representing their pay band and the base net wages that they receive. This level is determined by how many "projects" that they have completed, a "project" being the equivalent of a "scenario" in a fantasy RPG. On average, a character can expect to participate in one project per annum. Different professions have different starting ages, and different rates of pay. 
 
-The abstract level rate of advancedment is however the same, depending on the number of projects completed. Papers & Paychecks assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
+The abstract level rate of advancedment is however the same, depending on the number of projects completed. _Papers & Paychecks_ assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
 
-| Level | Projects | Average Age |
-|-------|----------|-------------|
-| 1	| 0        |     20      |
-| 2	| 1        |     21      |
-| 3	| 2        |     22      |
-| 4	| 3        |     23      |
-| 5	| 5        |     25      |
-| 6	| 8        |     28      |
-| 7	| 13       |     33      |
-| 8	| 21       |     41      |
-| 9	| 34       |     50      |
-| 10	| 65       |     58      |
+| Level | Projects | Reputation	| Average Age |
+|-------|----------|------------|-------------|
+| 1	| 0        | -5		|     20      |
+| 2	| 1        | -4		|     21      |
+| 3	| 2        | -3		|     22      |
+| 4	| 3        | -2		|     23      |
+| 5	| 5        | -1		|     25      |
+| 6	| 8        | +0		|     28      |
+| 7	| 13       | +1		|     33      |
+| 8	| 21       | +2		|     41      |
+| 9	| 34       | +3		|     50      |
+| 10	| 65       | +4		|     58      |
+
+The Reputation value of a character represents how well known they are to others. Simply roll 2d6 and add the bonus as determined from their level and attempt to achieve a difficulty value according to the level of detail and the social distance. Remembering a co-worker's name (+3) who works on the same floor (+3), for example, is a 'very easy' task (+6). Remembering a two-year old project (-3) which a worker in a different company (-4) was involved in would be 'nearly impossible' (-7), assuming that in both cases the character is 6th level.
 
 Each level brings improvements to a character based on their profession. To represent character development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
 
@@ -405,7 +416,7 @@ Note that there is no level after 10. After several projects at this level, havi
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Brawl, Intimidate, Hobby, Language, Profession
+Profession Skills: Athletics (Strength), Intimidate, Melee, Profession, Craft (structural), Athletics (stamina), Carousing, Perception. 
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
@@ -426,28 +437,29 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: Hobby, Language, Profession 
+Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Language (various)
+ 
 
 | Level | Wage     | Perks		   |
 |-------|----------|-----------------------|
 | 1	| $500     | Laboratory Equipment  |
 | 2	| $600     | Conference Attendance |
-| 3	| $700     |		           |
+| 3	| $700     | Read/Write Science    |
 | 4	| $850     | Apprentice	           |
-| 5	| $900     |		           |
+| 5	| $900     | +1 to INT	           |
 | 6	| $1050    | Team Leader           |
-| 7	| $1250    |		           |
+| 7	| $1250    | Spurious Logic        |
 | 8	| $1500    | Project Manager       |
-| 9	| $1750    |		           |
+| 9	| $1750    | +1 to INT	           |
 | 10	| $2050    | Superannuation        |
 
 ### 1.5.3 Administrator
 
 Prime Requisite: Wisdom
 Starting Age: 15+1d6
-Profession Skills: Hobby, Language, Profession
+Profession Skills: Craft (Computing), Administration, Profession, Sleight, Concentration, Perception, Act, Lie
 
-*"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.*
+_"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly._
 David Wiegleb, Jan 24, 2017
 
 | Level | Wage     | Perks			|
@@ -457,9 +469,9 @@ David Wiegleb, Jan 24, 2017
 | 3	| $700     | Bureaucratic Dodge		|
 | 4	| $800     | E.S.P.			|
 | 5	| $900     | Apprentice			|
-| 6	| $1000    |				|
+| 6	| $1000    | Multitasking		|
 | 7	| $1100    | Team Leader		|
-| 8	| $1200    | 				|
+| 8	| $1200    | Parallel Processing	|
 | 9	| $1300    | Project Manager		|
 | 10	| $1400    | Superannuation		|
 
@@ -467,37 +479,37 @@ David Wiegleb, Jan 24, 2017
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d6
-Profession Skills: Hobby, Language, Profession
+Profession Skills: Intimidate, Profession, Craft (electronic), Craft (mechanical), Craft (structural), Carousing, Concentration, Perception, 
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
 | 1	| $400     | Union membership	|
 | 2	| $500     | Security Access	|
 | 3	| $650     | Apprentice		|
-| 4	| $800     | 			|
-| 5	| $1000    |  			|
-| 6	| $1200    | Team Leader	|
-| 7	| $1450    | 			|
-| 8	| $1700    | 			|
-| 9	| $2000    | Project Manager	|
+| 4	| $800     | Prestidigitator	|
+| 5	| $1000    | Team Leader	|
+| 6	| $1200    | Bureaucratic Dodge	|
+| 7	| $1450    | Project Manager	|
+| 8	| $1700    | Magic Missile	|
+| 9	| $2000    | Small Business	|
 | 10	| $2300    | Superannuation	|
 
 ### 1.5.5 Researcher
 
 Prime Requisite: Constitution
 Starting Age: 15+2d4
-Profession Skills: Hobby, Language, Profession
+Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Perception
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
 | 1	| $500     | Library access		|
 | 2	| $600     | Cramming			|
-| 3	| $700     | Conference Attendance	|
+| 3	| $700     | File System Knowledge	|
 | 4	| $800     | Union membership 		|
 | 5	| $900     | Apprentice			|
-| 6	| $1050    |           			|
+| 6	| $1050    | Augury			|
 | 7	| $1200    | Team Leader		|
-| 8	| $1350    | 				|
+| 8	| $1350    | Magic Missile		|
 | 9	| $1500    | Project Manager		|
 | 10	| $1750    | Superannuation		|
 
@@ -505,7 +517,7 @@ Profession Skills: Hobby, Language, Profession
 
 Prime Requisite: Charisma
 Starting Age: 15+3d4
-Profession Skills: Hobby, Language, Profession
+Profession Skills: Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 | Level | Wage     |  Perks		|
 |-------|----------|--------------------|
@@ -517,7 +529,7 @@ Profession Skills: Hobby, Language, Profession
 | 6	| $1400    | Project Manager   	|
 | 7	| $1650    | Intellect Fortress	|
 | 8	| $1900    | Department Manager	|
-| 9	| $2200    | Vice-President	|
+| 9	| $2200    | Chutzpah		|
 | 10	| $2500    | Superannuation    	|
 
 
@@ -525,7 +537,7 @@ Profession Skills: Hobby, Language, Profession
 
 Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number with variation from that target number determining degrees of success. There are no "natural" successes or failures from rolling a '2' or '12', for example, as a result; a character *could* succeed with a natural roll of '2' if their bonuses are high enough or fail with a '12' if their penalties are sufficiently severe. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
 
-Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone.
+Skills are defined by their associated characteristic, the default value, and the encumbrance penalty if applicable. The associated characteristic is a modifier to the skill attempted. The default value is a penalty that is applied if the character has no training or experience in that skill, that is, they are operating from their natural acumen alone. Each skill point spent in a skill provides a +1 bonus to that skill.
 
 Many skills have required or optional specialisations. Required specialisations are essentially separate skills. Optional specialisations are a narrow implementation of a base skill, and provide a +2 bonus for each skill point spent. At this stage, the skills are given the brief descriptions to satisfy the requirements of character generation. A more complete description of their implementation is found in section 2.2 and section 2.3
 
@@ -538,6 +550,8 @@ Characters also receive a number of skills and knowledges during their childhood
 | 6-8		| Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1 |
 | 9-11		| Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1, | 
 | 12		| Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1 |
+
+Character are limited in the number of skills points they can spend per level. They are limited by their INT characteristic for the total number of skill points available and they are limited by the Profession on the number of skill points that can be spent on a particular skill or knowledge (or specialisation). That limit is two for all Profession skills and knowledges and one for all other skills and knowledges.
 
 ### Strength Based Skills
 
@@ -746,6 +760,10 @@ A Seduce skill check is made when a character wishes to lead another character a
 
 With the Apprentice perk, a character has assigned to them a 1st level character of the same profession, sometimes referred to as "archaic" by archiac speakers. The Apprentice will be mostly loyal and mostly enthusiastic, carrying out the tasks allocated to them by the main character. Each time the Apprentice advances a level, a check with a target number of 11 is required, adding the character's CHA modifier. If failed, the Apprentice has spread their wings and found a new employer.
 
+**Augury**
+
+With the Augury perk a character can seemingly predict the future. In reality it is the result of carefuly research, planning, and insight. After a successful strategic research check a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
+
 **Bureaucratic Dodge**
 
 With the Bureaucratic Dodge perk, the character can avoid red tape. Three times each project the character has the capacity to simply avoid any administrative or organisational blocker within their own organisation and move to their next contact or obtain the appropriate documentation etc, through the use of a particular organisational rules (e.g., invoking an occupational health and safety clause, a fire regulation, etc.
@@ -756,6 +774,10 @@ With the Conference Attendance perk once per project a character may attend an e
 
 > Watch this one; whilst normally it is a matter for the player to determine what the conference was, along with the contact and equipment, The Boss might intervene and determine these. This is typically a good thing as it means that the character will have a necessary role in the plot. Or The Boss is invoking a particularly nasty consequence. 
 
+**Chutzpah**
+
+The Chutzpah perk enables the character to turn social attacks into an audacious defense. A successful social attack by a character with this perk not only damages the target but also provides temporary social hit points (for the duration of the conflict) equivalent to the base damage caused.
+
 **Cramming**
 
 By spending two strategic turns researching a particular topic a character may gain the equivalent of +1 skill point in a skill or knowledge. The skill point fades from memory 48 hours (12 strategic turns) after being acquired.
@@ -763,6 +785,9 @@ By spending two strategic turns researching a particular topic a character may g
 **Department Manager**
 
 The Department Manager enables the character to have CHA+Level-3 _teams_ assigned to them, in the same manner as the Team Leader. Each team provides an extra 10% bonus to the base pay.
+
+> What? Did you seriously expect that you'd become the head of the company? Ha! You work for the man for forty years of your life and you'll get to be Vice-President. No further.
+
 
 **Ego Whip**
 
@@ -786,7 +811,7 @@ With the Intuition perk the character has the uncanny ability of being able to g
 
 **File System Knowledge**
 
-The File system Knowledge perk provide the character the physical and virtual organisation of documents and objects. A character with file system knowledge knows where last year's invoice to the insurance company is located, where the snacks are stashed, and where the optical time-delay spectrometer is. This provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment. 
+The File system Knowledge perk provide the character the physical and virtual organisation of documents and objects. A character with file system knowledge knows where last year's invoice to the insurance company is located, where the snacks are stashed, and where the optical time-delay spectrometer is (even if they don't know what said item does). This additionally provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment. 
 
 **Laboratory Equipment**
 
@@ -796,13 +821,41 @@ The Laboratory Equipmemt perk enables the character to have access to appropriat
 
 Acquiring public library access is something that everyone can do; but the Library Access perk is a collection of unusual rights, that provides for a wider scale of information, restricted borrowings, and additional assistance from library staff. The Library Access perk provide an additional +2 bonus to research and other information gathering tasks when the character uses a library. 
 
+**Magic Missile**
+
+The Magic Missile perk is the ability of a character to succeed in either a Knowledge or Craft skill, depending on Profession (Researcher or Technician, respectively). The character will receive level-5 magic missiles per strategic turn, which will result in an automatic '12' to their die roll. This represents that at sometime in the past the character has researched exactly this subject or carried out this particular practical task.
+
+**Multitasking**
+
+The Multitasking perk allows a character to carry out two mental tasks simultaneously. Whilst many characters may appear to have multitasking this is usually achieved through task-switching. Effectively multitasking provides the character with the perk an additional mental action per tactical turn.
+
+**Parallel Processing**
+
+The Parallel Processing perk is identical to the Multitasking perk, except the additional mental task applies for strategic turns.
+
+**Prestidigitator**
+
+With the Prestidigitator perk, a character has become especially skilled in matters of fine manipulation. The character gains a +2 bonus to the DEX permanently, but only for these relevant tasks (e.g., Craft skills, but not Firearms, Gymnastics etc).
+
 **Project Manager**
 
 The Project Manager perk enables the character to manage a project team over a period of weeks and with a budget. Like the Team Leader, the Project Manager will receive a number of characters, however their total pool of levels will be CHA+Level, and the character may select the members of their project team. Unlike the operations team (c.f., Team Leader) the project team is temporary. With the start of each new project it must be re-established. 
 
+**Read/Write Science**
+
+The Read/Write Science perk represents that the character has learned the art of reading and composing the arcane script of scientific language. Every profession has its own jargon of course, but only those with this this perk can write with such obfuscation that it requires a character with this perk to understand it in human terms. Note that a character with this perk does not have to write in such a manner; it is entirely optional. However it is usually required for journal publication.
+
 **Security Access**
 
-Security Access provides a character with the means (keys, swipe cards) and excuse to be in a restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
+Security Access provides a character with the means (keys, swipe cards) to access _a_ (singular) restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
+
+**Small Business**
+
+The Small Business perk means that a character is sufficiently skilled in a specialist practical skill and is sufficiently well-known from previous work that they can operate their own business. They become a Boss - albeit one dependent on the requirements of others. With the Small Business perk a character's weekly income is subject to an average WIS check. For each point above the target number the character receives an additional +20% to their base pay. For each point below, the character loses 10%.
+
+**Spurious Logic**
+
+The Spurious Logic perk allows the character to combine their intellectual deftness with social skills, allowing for their INT and CHA bonuses to be added to any skill checks.
 
 **Superannuation**
 
@@ -820,11 +873,6 @@ With the Tower of Iron Will perk, the character ignores an uncomfortable reality
 
 Union membership is an important perk which equalises the labour market which is usually in favour of employers (many employees, fewer employers). This perk however represents membership of a strong union, and thus whilst many characters in *Papers & Paychecks* can get union membership (or some sort of professional association) the benefits become evident at different levels, according to profession. Union membership provides a 10% bonus to a character's wage, and a reduction in social damage attacks by co-workers (including managers) by 25%.
 
-**Vice President**
-
-With the Vice-President perk the character has CHA+Level-3 _departments_ assigned to them, in the same manner as the Department Leader. Each team provides an extra 10% bonus to the base pay.
-
-> What? Did you seriously expect that you'd become the head of the company? Ha! You work for the man for forty years of your life and you'll get to be Vice-President. No further.
 
 ## 1.8 Personality
 
@@ -917,15 +965,11 @@ The Boss should show interest in how players use these results as it represents 
 
 ## 2.1 Time and Core Mechanic
 
-2d6 for all actions; results are skill (bonus) + stat (bonus). Variable negatives for skills according to type (generally, mental skills will have a bigger negative than positive)
+A brief reiteration of the core mechanic is provided here: 2d6 plus modifiers versus a target number for dramatic actions or a flat 7 plus modifiers versus a target number for prosiac actions. The target number is either determined in a quick method, as provided in section 0.4, _or_ in a detailed method, with modifiers described in this chapter. Do not use both at the same time.
 
-Critical Success 14+ (success with benefits) 
-Success: 11+ (success, no consequences)
-Marginal success: 8-10 (success but with consequences)
-Marginal failure 5-7 (failure with no consequences)
-Critical failure 1-3 (failure with consequences)
+Character actions occur in either a tactical or strategic time-frame. The former is for immediate and quick actions that can be carried out in ten-seconds. The latter is for involved actions carried out over a four-hour time-frame. This implies two tactical actions per shift in a workday (morning and afternoon) with a brief lunch-break in between, or equivalent for night-shift workers.
 
-[EDIT: Strategic time, 3.5 hours (morning 3.5, lunch .5, afternoon 3.5)]
+
 
 ## 2.2 The Resistentialist Environment
 
@@ -1841,6 +1885,93 @@ Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
 
 ## 6.2 Charts and Tables
 
+**Skill and Knowledge List**
+
+_Strength Based Skills_
+Athletics (Strength)
+Climb
+Intimidate
+Jump
+Melee
+Swim
+
+_Intelligence Based Skills_
+Craft (Computing)
+Craft (chemical)
+Craft (pharmaceutical)
+Craft (writing)
+Investigate
+Knowledge (Arts) 
+Knowledge (Laws) 
+Knowledge (Sciences)
+Knowledge (Philosophy)
+Language (various)
+
+_Wisdom Based Skills_
+Administration
+Gamble
+Hobby
+Profession
+Survival
+
+_Dexterity Based Skills_
+Craft (electronic)
+Craft (mechanical)
+Craft (structural)
+Craft (visual art)
+Firearms
+Gymnastics
+Missiles
+Pilot
+Ride
+Sleight
+Stealth
+
+_Constitution Based Skills_
+Athletics (stamina)
+Carousing
+Concentration
+Perception
+
+_Charisma Based Skills_
+Act
+Bully
+Inspire
+Lie
+Seduce
+
+**Perk List**
+
+Apprentice
+Augury
+Bureaucratic Dodge
+Conference Attendance
+Chutzpah
+Cramming
+Department Manager
+Ego Whip
+Intellect Fortress
+Id Insinuation
+Intellect Fortress
+Intuition
+File System Knowledge
+Laboratory Equipment
+Library Access
+Magic Missile
+Multitasking
+Parallel Processing
+Prestidigitator
+Project Manager
+Read/Write Science
+Security Access
+Small Business
+Spurious Logic
+Superannuation
+Team Leader
+Tower of Iron Will
+Union Membership
+
+
 ## 6.3 Business Organisation Chart
 
 ## 6.4 Dramatis Personae
@@ -1851,7 +1982,6 @@ Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
 | Personality  |   |
 | Player Name  |   |
 | Luck  |   |
-
 | Characteristic   | Value	|Bonus   |   |   |   |
 | Strength	|  |   |	|
 | Intelligence	|  |	|   |
