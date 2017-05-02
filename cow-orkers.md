@@ -1,6 +1,9 @@
 # Cow-Orkers in the Scary Devil Monastery
 
 Keep The Borderlands by Michael Cole
+The Cheerleader Profession by Fred
+Snail mail magic communications by Fred
+The Door-to-Door wandering monster by Fred
 
 ## Keep The Borderlands
 
@@ -140,4 +143,82 @@ Sales and Marketing (Gnolls)
 Level 3
 
 Senior Management (The Shrine of Evil Chaos)
+
+
+
+
+## The cheerleader speciality class:
+
+Able to perform gymnastics similar to that of a monk class in AD&D with the
+special ability at higher levels called cleavage shake which works only on those
+potentially attracted to buxom females. Save versus constitution or wisdom
+(whichever is lower) or go into a drooling stupor which lasts for up to ten rounds
+or until someone (usually a mate/spouse) slaps you for staring. Some GMs may add a
+male gender version which has the special ability simple called abs involving the
+male cheerleader showing bare mid-drift. All other effects are the same.
+
+## Snail mail magic communications device(item):
+
+This magical device can be constructed out of many different types of boxes that
+vary in size or shape with the single requirement that they all have a slot in
+them that is big enough for a single envelope/package to pass through. In action
+this item will allow a player to send another player a wide array of missives or
+small packages containing anything you desire. However this method of
+communication is extremely slow compared to email (see other references in players
+handbook) but can contain physical objects. Snail mail has a mind of its own and
+there is a table of results each time you mail something. roll percentile dice and
+consult the following table:
+
+1-5% Your mail never arrives. it has gone into another dimension and will require a
+arduous quest to potentially locate it
+6-20% Your mail arrives, just at the wrong location. Roll percentile again where
+anything above 10% results in the receiver keeping your mail forever.
+21-95% your mail gets to it intended recipient. Roll percentile again to determine
+condition. Results above 50% and the mail is unharmed. Otherwise divide by 10 and
+the mail takes that many points of damage rounded down.
+96-100% A monstrous creature called the mail-man is summoned who attacks after
+issuing one of the following the statements “your postage is insufficient!”,
+“mishandling mail is a federal offense!”, “overseas letters must be sent via
+air-mail!" . He is a wild fiend dressed in very short pantaloons wearing a
+distinctive looking circular hat that is enchanted to protect him from sleet, snow
+and provides enhanced night vision. He is always armed with a wand of magic missile.
+
+# The Door-to-Door wandering monster:
+
+This terrible wandering monster will attack you at your home base, camp or even a
+temporary stopping place if you stand somewhere too long. There are a number of
+different variations of this beast but the effects are similar. Once approached you
+must make a save vs intelligence or be ensnarled for 1-12 turns. You make continue
+to make saves every turn with the of adding an additional temporary +1 cumulatively
+to your intelligence every turn until you finally save or 12 turns have passed.
+Varieties include a selection of religious zealots. This variety usually walks or
+peddles up to you wearing a completely covering jacket and pantaloons (often
+black)no matter how hot the temperature outside. They can also be wearing what
+appears to be a black, flat noose tied around their necks. They always travel in
+groups of at least 2 and will spend the time while you are ensnarled trying to
+convert you to their religion. This can include pamphlets that contain information
+that defies logic or reason.
+
+Another version is salesman. This variety will attempt to pressure you during your
+ensnarlment to purchase expensive items you don’t need that will frequently not
+work. Even if you agree to purchase the items they are pushing they will continue to
+tell you how wonderful the items are and what a great purchase you have made until
+you save or the time runs out. roll percentile dice to determine what they are
+selling. 1-10% a magic item that is supposed to clean your home, den, castle,
+dungeon but usually just breaks during the first use. 11-40% A variety of potions
+that when applied to your face/hair/body will increase your comliness by +3. This is
+a usually harmless product but it will do nothing thats promised at all. 41-70%
+Miraculous food products that you can sell to your friends so they can sell to their
+friends. This will end up costing you all your accumulated wealth and you will end
+up with a vault full of food and drink that will taste horrible and provide no more
+nourishment than eating tree bark. all the while your charisma will drop -6 points
+and your friends will avoid you and flee on seeing you coming. 71-100% candy. This
+inisdious product is usually sold by what appears to be children. During your
+ensnarlement they will tell you tales of woe that will make you feel bad if you
+don’t give them all your loot. Save versus wisdom or give them whatever coinage you
+have on you. Also, the candy has an addictive quality, especially the peanut butter
+patties, that will cause you to seek out further Door-to-Door monsters looking for
+the children who sell the cookies.
+
+
 
