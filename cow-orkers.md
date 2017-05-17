@@ -1,5 +1,7 @@
 # Cow-Orkers in the Scary Devil Monastery
 
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/group.jpg" />
+
 Keep The Borderlands by Michael Cole
 The Cheerleader Profession by Fred
 Snail mail magic communications by Fred
