@@ -60,7 +60,7 @@ Artwork by Dan 'Smif' Smith
 4.0 The Boss Book
 4.1 Being The Boss
 4.2 Running The Session
-4.3 Season and Episode Design
+4.3 Episode and Season Design
 
 5.0 Scenarios : Fear and Loathing in Wellington
 5.1 Setting: "My Life with Boss"
@@ -1466,12 +1466,43 @@ The word "agenda" is important. It does not mean that there has to be specific g
 There is a body of opinion that game systems don't matter. This is simply not true. It is true the social contract between participants of the game is of primary importance (if people don't behave around the gaming table, even the best game is sunk). It is also true that the exploration of the shared imaginary space with the literary model is the second most important component of a successful game.
 
 
-
-
 ## 4.2 Running The Session
 
 
-## 4.3 Season and Episode Design
+## 4.3 Episode and Season Design
+
+**Probability**
+
+The importance of 'game balance' is often unfairly maligned. There is justification when a game *system* is shoe-horned into arbitrary design in order to provide a sense of balance, however balance in itself is a fair goal in terms of a narrative. What is meant by this is that the challenges that the player characters experience in the game is appropriate to their capabilities. If the challenges are too weak for the characters, the players can be easily bored, if they are too difficult for the characters, the players can become frustrated (and this is *aside* from the fact that the game itself is a deliberately frustrating setting).
+
+Session, Espisode, and Season design should follow the plot trajectory of introduction, rising tension, climax, and denouement. Challenges should fit this model with session arcs existing within episode arcs, existing within season arcs. Initial challenges should be relatively simple as the characters explore their situation. As tension rise there should be genuinely challenging moments as the characters encounter their human and environmental antagonists. Finally, at the point of climax, the characters face a genuinely challenging situation which should be beyond their abilities in normal circumstances, but with a combination of co-operation, cleverness, and exploiting weaknesses discovered in the antogonist, gives them a chance of victory.
+
+A thoroughly realistic game would not such features of course; reality does not care about human notions of narrative or game balance. A serious challenge can confront a character at any point. Of course in a workplace environment there is a degree of structure; a boss has expectations and sometimes even real knowledge of the skills of the employees that they manage and, if they have any degree of competence in their own job, will not assign tasks that are too difficult, nor will they assign tasks that are likely to bore the worker.
+
+> A man whose bid to become a police officer was rejected after he scored too high on an intelligence test has lost an appeal in his federal lawsuit against the city.
+> ...
+> Jordan, a 49-year-old college graduate, took the exam in 1996 and scored 33 points, the equivalent of an IQ of 125. But New London police interviewed only candidates who scored 20 to 27, on the theory that those who scored too high could get bored with police work and leave soon after undergoing costly training.
+> *Court OKs Barring High IQs for Cops*, Sept 8, 2000 http://abcnews.go.com/US/court-oks-barring-high-iqs-cops/story?id=95836
+
+The Boss should make use of target numbers to facilite the sense of difficulty and narrative development with a thorough review character characteristics, skills, knowledges and other abilities when designing sessions and episodes. An important factor is the probabilities from the 2d6 die rolls provide an important guide in establishing the target numbers that the characters should face. As this is not a liner progression, the following table provides a guide to the distribution and chances of a required result. In the table below, the "chance of success" is equal or above the dice value.
+
+| Dice Value	| Chance of success	|
+|---------------|-----------------------|
+| 2		| 100%			|
+| 3		| 97.2%			|
+| 4		| 91.7%			|
+| 5		| 83.3%			|
+| 6		| 72.2%			|
+| 7		| 58.3%			|
+| 8		| 41.7%			|
+| 9		| 27.8%			|
+| 10		| 16.7%			|
+| 11		| 8.3%			|
+| 12		| 2.8%			|
+
+
+
+
 
 http://tau-iota-mu-c.livejournal.com/130071.html
 
