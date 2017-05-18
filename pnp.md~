@@ -1,6 +1,6 @@
 # Papers & Paychecks
 
-<img src=https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/boss.jpg" />
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/boss.jpg" />
 
 by Lev Lafayette
 
@@ -1463,7 +1463,18 @@ The word "agenda" is important. It does not mean that there has to be specific g
 
 **System and Application**
 
-There is a body of opinion that game systems don't matter. This is simply not true. It is true the social contract between participants of the game is of primary importance (if people don't behave around the gaming table, even the best game is sunk). It is also true that the exploration of the shared imaginary space with the literary model is the second most important component of a successful game.
+There is a body of opinion that game systems don't matter. This is simply not true. It is true the social contract between participants of the game is of primary importance (if people don't behave around the gaming table, even the best game is sunk). It is also true that the exploration of the shared imaginary space with the literary model is the second most important component of a successful game. A imaginative group of players who skilfully play the roles that they've taken up and assisted by a creative narrator, can make for a truly excellent experience. 
+
+But the second half of a roleplaying game is the notion of a game, and a game has rules. Now if the participants are not using the rules at all and engaging in a freeform experience of the setting, that's fair enough - they are roleplaying but not engaging in a roleplaying game as such. It may be that they've deliberately chosen not to follow the game system rules because they do not add to the enjoyment of the game experience - in which game the system does matter.
+
+The sort of design features that lead to a poor game experience are numerous. A common experience is that application of the system gives results that break the sense of verisimilitude and the immersive sense that it generates. This is commonly experienced with the refrain "But that's not realistic!". Another example is when the game system provides numerous alternative systems within the game for resolution, where every case becomes a special case. This is confusing, erercting a barrier of entry and understanding to players. Another problem is where the game system provides overly complex methods for resolution when simpler versions would suffice. Finally, a game system could attempt to be a 'model of reality', rather than a selective model, forgetting that a model must be a simplified version of the reality it is trying to simulate.
+
+
+
+
+
+
+
 
 
 ## 4.2 Running The Session
@@ -1477,8 +1488,28 @@ The importance of 'game balance' is often unfairly maligned. There is justificat
 
 Session, Espisode, and Season design should follow the plot trajectory of introduction, rising tension, climax, and denouement. Challenges should fit this model with session arcs existing within episode arcs, existing within season arcs. Initial challenges should be relatively simple as the characters explore their situation. As tension rise there should be genuinely challenging moments as the characters encounter their human and environmental antagonists. Finally, at the point of climax, the characters face a genuinely challenging situation which should be beyond their abilities in normal circumstances, but with a combination of co-operation, cleverness, and exploiting weaknesses discovered in the antogonist, gives them a chance of victory.
 
-A thoroughly realistic game would not such features of course; reality does not care about 
+A thoroughly realistic game would not such features of course; reality does not care about human notions of narrative or game balance. A serious challenge can confront a character at any point. Of course in a workplace environment there is a degree of structure; a boss has expectations and sometimes even real knowledge of the skills of the employees that they manage and, if they have any degree of competence in their own job, will not assign tasks that are too difficult, nor will they assign tasks that are likely to bore the worker.
 
+> A man whose bid to become a police officer was rejected after he scored too high on an intelligence test has lost an appeal in his federal lawsuit against the city.
+> ...
+> Jordan, a 49-year-old college graduate, took the exam in 1996 and scored 33 points, the equivalent of an IQ of 125. But New London police interviewed only candidates who scored 20 to 27, on the theory that those who scored too high could get bored with police work and leave soon after undergoing costly training.
+> *Court OKs Barring High IQs for Cops*, Sept 8, 2000 http://abcnews.go.com/US/court-oks-barring-high-iqs-cops/story?id=95836
+
+The Boss should make use of target numbers to facilite the sense of difficulty and narrative development with a thorough review character characteristics, skills, knowledges and other abilities when designing sessions and episodes. An important factor is the probabilities from the 2d6 die rolls provide an important guide in establishing the target numbers that the characters should face. As this is not a liner progression, the following table provides a guide to the distribution and chances of a required result. In the table below, the "chance of success" is equal or above the dice value.
+
+| Dice Value	| Chance of success	|
+|---------------|-----------------------|
+| 2		| 100%			|
+| 3		| 97.2%			|
+| 4		| 91.7%			|
+| 5		| 83.3%			|
+| 6		| 72.2%			|
+| 7		| 58.3%			|
+| 8		| 41.7%			|
+| 9		| 27.8%			|
+| 10		| 16.7%			|
+| 11		| 8.3%			|
+| 12		| 2.8%			|
 
 
 

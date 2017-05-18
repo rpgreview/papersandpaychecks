@@ -1,6 +1,6 @@
 # Papers & Paychecks
 
-<img src=https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/boss.jpg" />
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/boss.jpg" />
 
 by Lev Lafayette
 
@@ -1463,7 +1463,15 @@ The word "agenda" is important. It does not mean that there has to be specific g
 
 **System and Application**
 
-There is a body of opinion that game systems don't matter. This is simply not true. It is true the social contract between participants of the game is of primary importance (if people don't behave around the gaming table, even the best game is sunk). It is also true that the exploration of the shared imaginary space with the literary model is the second most important component of a successful game.
+There is a body of opinion that game systems don't matter. This is simply not true. It is true the social contract between participants of the game is of primary importance (if people don't behave around the gaming table, even the best game is sunk). It is also true that the exploration of the shared imaginary space with the literary model is the second most important component of a successful game. A imaginative group of players who skilfully play the roles that they've taken up and assisted by a creative narrator, can make for a truly excellent experience. 
+
+But the second half of a roleplaying game is the notion of a game, and a game has rules. Now if the participants are not using the rules at all and engaging in a freeform experience of the setting, that's fair enough - they are roleplaying but not engaging in a roleplaying game as such. It may be that they've deliberately chosen not to follow the game system rules because they do not add to the enjoyment of the game experience - in which game the system does matter.
+
+The sort of design features that lead to a poor game experience are numerous. A common experience is that application of the system gives results that break the sense of verisimilitude and the immersive sense that it generates.  Another example is when the game system provides numerous alternative systems within the game for resolution, where every case becomes a special case. Another problem is where the game system provides overly complex methods for resolution when simpler versions would suffice. Finally, a game system could attempt to be a 'model of reality', rather than a selective model, forgetting that a model must be a simplified version of the reality it is trying to simulate. Or it doesn't cover the important aspects that are likely to be encountered in the game experience.
+
+The practical problems of these game system problems are well known. A lack of verisimilitude is commonly experienced with the refrain "But that's not realistic!". The multitude of game system resolution methods leads to confusion, erercting a barrier of entry and understanding to players. Overly complex resolution methods act a drag on the game experience, as do overly detailed rules, as players attempt to find the game rule relevant to their situation; and a lack of detail leads to players having to make ad-hoc rules which lead to potential of inconsistency.
+
+
 
 
 ## 4.2 Running The Session
@@ -1499,8 +1507,6 @@ The Boss should make use of target numbers to facilite the sense of difficulty a
 | 10		| 16.7%			|
 | 11		| 8.3%			|
 | 12		| 2.8%			|
-
-
 
 
 
