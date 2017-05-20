@@ -1012,10 +1012,6 @@ If a character has more than a quarter of their CON in doses, they must make a C
 If a character has more than a quarter of their CON in doses, they must make a CON check. A failed check represents nausea, vomiting, and stumbling with -2 DEX. A second failed causes immobility as the character collapses in place. A third failed introduces stupor, being unable to move or react, a fifth unconsciousness, a sixth a deep unconsciouness with a medical skill is required to revive the character and eighth and additional failed checks resulting in corony failure with 1d6 physical damage.
 
 
-
-
-
-
 ## 2.3 Tactical Task Resolution
 
 **General**
@@ -1347,7 +1343,7 @@ For whatever Hobby skill a character has taken there is a set of tools, equipmen
 *I drink when I have occasion, and sometimes when I have no occasion.*
 Miguel de Cervantes, *Don Quixote de la Mancha* (1605–1615) Part II (1615), Book III, Ch. 33.
 
-The capacity of alcoholic drinks to provide sociability is well known. A standard dose is either one medium glass of beer, a small glass of wine, or a shot of spirit. Each standard dose of a Potion of Socialability increases the CHA of *others* interacting with the character by 1. You want to be their friend. Follow the rules for drinking under section 2.2.
+The capacity of alcoholic drinks to provide sociability is well known and presented within this game. However, a potion of socialability is a very special version of said drinks. As normal, a standard dose is either one medium glass of beer, a small glass of wine, or a shot of spirit. Each standard dose of a Potion of Socialability increases the CHA of *others* interacting with the character by 1. You want to be their friend. Follow the rules for drinking under section 2.2.
 
 **Ring of The Significant Other**
 
@@ -1507,6 +1503,12 @@ The Boss should make use of target numbers to facilite the sense of difficulty a
 | 10		| 16.7%			|
 | 11		| 8.3%			|
 | 12		| 2.8%			|
+
+Note that, as a matter of design and the aesthetic of the original cartoon, the 2d6 resolution mechanic used by *Papers & Paychecks* has a limited range of randomness compared to other systems (e.g., a d20 resolution mechanic, or even a 3d6 resolution mechanic). It is sharply orientated towards the middle-range (6-8) and the combination of characteristic and skill is typically very close to the random contribution as well. This differs from other games where the luck of the die roll can be much greater than the natural and trained abilities of the character. As a result in *Papers & Paychecks* challenge scenes need to be quite focussed on the character's abilities. There is only a minimum range in which the character can simply 'get lucky' with a die roll (and indeed, there is already a mechanism to ensure that), and luck itself will sometimes even not be enough. 
+
+This design gives The Boss some additional control compared to some other game systems in gently leading the episode's plot trajectory. The Boss in *Papers & Paychecks*, if they have designed the episode properly, should be less concerned of the plot going off the rails from a particularly poor or spectacular die-roll. By the same token, it is imperative then that The Boss never design a necessary challenge in a episode that the characters *cannot* overcome. By all means, make it astoudingly difficult. Design the episode's main challenge in such a manner that the PCs need to pool their resources, acquire a special item of equipment, call in favours, *and* get lucky with the die roll, but *never* make the main challenge impossible, unless of course, they are *meant* to fail in order to take the narrative in a different direction.
+
+
 
 
 
