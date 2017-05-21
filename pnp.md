@@ -1374,6 +1374,50 @@ These four famous volumes contain many aspects of programming algorithms and ana
 ## 3.5 Researchers
 ## 3.6 Managers
 ## 3.7 Bestiary
+
+American Black Bear (Ursus americanus), Blue duiker (Philantomba monticola), Bornean gibbon (Hylobates muelleri), Brown Rat Rattus norvegicus), Cat (Felis catus), Cattle (Bos primigenius taurus), Common chimpanzee (Pan troglodytes), Chicken (Gallus gallus domesticus), Crabeater seal (Lobodon carcinophaga), Donkey Equus africanus asinus), European rabbit (Oryctolagus cuniculus), Dog, Fish, Gelada (Theropithecus gelada), Goat (Capra aegagrus hircus), Horse (Equus ferus caballus), Mule, Pig (Sus scrofa domesticus), Plains Zebra (Equus quagga), Sheep (Ovis aries), Water buffalo (Bubalus bubalis), Western gorilla (Gorilla gorilla)
+
+
+
+
+**Cat**
+
+The domestic cat (felis catus) is kept by humans for companionship and to hunt vermin, and are believed to be have been orginally domesticated in ancient Egypt, where they were venerated. They are the most popular mammal companion in a human household by number with an estimated worldwide population of 600 million. As a result, cats will be found pretty much wherever humans are found. Approximately a third of human households will have at least one cat. Whilst domestication has resulted in minimal behavioural changes (which has led to a significant problem of predation on wildlife species), it has significantly affected some biological factors, such a lifespan; the average lifespan of a cat has increased from 7 years in the 1980s, rising to to 9.5 in the mid-1990s, to 12-15 in the 2010s.
+
+Whilst subject to a variety of breeds and subbreeds, some general comments can be made. A carnvirous species, they typically weigh between 3-6 kg. Despite the small size, they have a relatively powerful jaw, dense musculture, and large eye sockets. Cats have excellent night vision, ultrasound, and smell, but a poor sense of colour vision and a very poor sense of taste. Th They are famous for their agility with direct registration of their hind and front paws when walking. Due to their evolutionary heritage cats are capable of tolerating high temperatures, with discomfort only evident when skin temperature reaches 52 deg. C., (humans experience discomfort at 38 deg). Cat's are notorious slackers at will sleep on average 12-16 hours a day.
+
+Domestic cats are, contrary to popular belief, somewhat sociable (with the exception of hunting), albeit with defined and sometimes disputed territories, and neutral zones, all marked by urine spraying. A colony of cats usually ends up with a dominant sexually male whose territory will be the largest and can overlap several female cat territories. Breeding season typically begins in autumn and ends in late spring, with a gestation period from 64 to 67 days and litter of 3-5 kittens, possibly from multiple fathers. Indepenndence is reached in 3 months and sexual maturity is reached in 5-10 months. Domestic cat communication includes purring, hisses, growling, meowing, and a variety of body language cues such as the position and direction of ears and tail, raising of fur to indicate aggression etc. In addition, cats enjoy playing, mimicking hunting and fighting. Cats have an encephalization quotient of between 1.00-1.71 (humans 7.44–7.80) and a surface area of the cerebral cortex of 83 cm2 (the human brain is about 2,500 cm^2). The brain structure is very similar with object permanence memory of some 16 hours, with a long-term memory of around 10 years. Cats are known to have complex dreams. Whilst capable of learning through operant conditioning, they have a poor sense of causality.
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+Whilst a cat's claws and teeth are capable of puncturing and lacerations, their depth is short and any damage caused is halved. Bonuses to climb, jump, etc., are a result of specific physical attributes. Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +4 bonus.
+
+*A Cat Story*
+
+Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise austere, serious, and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PCs are directed to find the cat as the local police are too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
+
+
+
+
+
+
+
 ## 3.8 Monsters
 [EDIT: Apply resistentialism]
 
@@ -1466,8 +1510,6 @@ But the second half of a roleplaying game is the notion of a game, and a game ha
 The sort of design features that lead to a poor game experience are numerous. A common experience is that application of the system gives results that break the sense of verisimilitude and the immersive sense that it generates.  Another example is when the game system provides numerous alternative systems within the game for resolution, where every case becomes a special case. Another problem is where the game system provides overly complex methods for resolution when simpler versions would suffice. Finally, a game system could attempt to be a 'model of reality', rather than a selective model, forgetting that a model must be a simplified version of the reality it is trying to simulate. Or it doesn't cover the important aspects that are likely to be encountered in the game experience.
 
 The practical problems of these game system problems are well known. A lack of verisimilitude is commonly experienced with the refrain "But that's not realistic!". The multitude of game system resolution methods leads to confusion, erercting a barrier of entry and understanding to players. Overly complex resolution methods act a drag on the game experience, as do overly detailed rules, as players attempt to find the game rule relevant to their situation; and a lack of detail leads to players having to make ad-hoc rules which lead to potential of inconsistency.
-
-
 
 
 ## 4.2 Running The Session
@@ -2067,7 +2109,6 @@ Union Membership
 | Dexterity	|  |   |	|   | Wounds (Physical)  |   |
 | Constitution	|  |	|   |   | Wounds (Mental)   |   |
 | Charisma	|  |   |	|   | Wounds (Social)  |   |
-
 | Profession   | Projects and Level   |
 |-----------------------|-----------------|
 |    |   |
