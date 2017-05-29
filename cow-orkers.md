@@ -5,11 +5,13 @@
 Keep The Borderlands by Michael Cole
 The Cheerleader Profession by Fred
 Snail mail magic communications by Fred
-The Door-to-Door wandering monster by Fred
+The Door-to-Door Wandering Monster by Fred
+So You Want it Darker? by Lev Lafayette and Jay Patterson
 
 ## Keep The Borderlands
 
-Plotline
+**Plotline**
+
 · Borderlands is an independent traditional book publishing company
 · Nile.com, Incorporated (the enemy) is an electronic commerce company
 · Nile is trying to out-muscle Borderlands
@@ -25,7 +27,7 @@ Author Night
 * Lizard Men are "The Scarab Beetles" (they dug up shit)
 * Vaughn Atherton ("David Icke")
 
-The Outside
+**The Outside**
 
 These are potential help that the PCs may learn about prior to setting off for Nile
 
@@ -33,7 +35,7 @@ The Lizard Men
 · Will have a web site insinuating that they know a big secret about Nile
 · Will be an involved process to get to meet them
 · The group will interrogate and generally be very suspicious of the PCs
-· If the PCs manage to allay their fears, they will finally disclose the Big Secret – Senior Management in Nile are all Lizards
+· If the PCs manage to allay their fears, they will finally disclose the Big Secret – Senior Management in Nile are all Crocodiles
 · Yes, they are serious.
 
 The Bandits
@@ -55,7 +57,13 @@ This is made up of various groups, or levels.  Each level will have a reward tha
 
 About a dozen staff in each area.
 
-Mail Room (Kobolds)
+*Security Box*
+- Access to rooms level 1 and level 2 (but not 3)
+- Generally not approachable
+- Building Warden and First Aid
+
+*Mail Room (Kobolds)*
+
 · Occupied by a group of boys and girls, all about 16-19, who all look very similar
 · Will try to avoid meeting people, by making themselves scarce
 · If unable to avoid, will seek to distract, and then flee (“Hang-on sir, I’ll just need to check…”, and then never come back)
@@ -63,9 +71,11 @@ Mail Room (Kobolds)
 · Just about everything in the office will be trapped in some way – plants balanced on doors, cabinets tilted to fall over, and floors carefully polished.  No mail boy/girl will ever be caught by any of these.
 · Reward – can provide mail records
 - Quality improvement required 
+- Rearranged the office
 - Michael, Andrew
 
-Day Shift Packers (Orcs B)
+*Day Shift Packers (Orcs B)*
+
 · Extremely offensive posters etc. on walls
 · Will purposefully try to shock people
 · Love quoting union regulations.
@@ -74,10 +84,10 @@ Day Shift Packers (Orcs B)
 · Extremely cunning
 · Try to avoid work wherever possible.
 · Reward – can provide protective clothing, overalls and union paperwork which will stop most questions from other staff
-- Simon.
 - Bree Yark has told day shift workers about the theatrical Simon.
 
-Night Shift Packers (Orcs C)
+*Night Shift Packers (Orcs C)*
+
 · Very heavily into sleeping on duty
 · Will have set alarms to stop management
 · Will roam the area once alerted – try to avoid contact – will basically play hide and seek
@@ -86,34 +96,37 @@ Night Shift Packers (Orcs C)
 - Rodney works with the Night Shift Packers
 - Rodney gains access to the Security Cameras
 
-Secretarial Pool (Goblins)
+*Secretarial Pool (Goblins)*
+
 · Made up of a number of females all constantly in motion, who always manage to look extremely busy and overworked.
 · Extremely skilled in deflecting work, and in office politics.
 · Head secretary is name Bree Yark – other secretaries will call out to her if bothered, or direct PCs to her if asked a question.
 · Will scream and seek help from the office manager if bothered too much
 · Reward – know all about office politics and individual dirty secrets – who is doing who and how often.
 
-Office Manager (Ogre)
-· Her personal secretary is a Bear, who will seek to prevent any access to his boss.
-· The office manager herself sits in an inner office.  Extremely big woman, solid drinker, and wealthy due to great skill in appropriating funds.
-· Both extremely mercenary – they manage to play all powers off against each other and get wealthy by doing so.
-· Reward – someone who can extract the PCs from a difficult situation if they get caught (for the appropriate recompense)
+*Office Manager (Ogre)*
 
-Canteen (Hobgoblins)
+· Her personal secretary is a Al Bear (big muscular bearded man who is just *a bit* camp), who will seek to prevent any access to his boss.
+· The office manager herself sits in an inner office.  Extremely big woman, Olivia, solid drinker, and wealthy due to great skill in appropriating funds.
+· Both extremely mercenary – they manage to play all powers off against each other and get wealthy by doing so.
+· Reward – someone who can extract the PCs from a difficult situation if they get caught (for the appropriate recompense).
+
+*Canteen (Hobgoblins)*
+
 · Door to canteen will be barred, with extremely unusual opening hours (12:45 – 1:10 on Odd Thursdays etc.), which will change each time the PCs return.
 · Food is definitely questionable
 · Staff will definitely take potentially violent offence if the food quality is questioned.
 · Can find NPCs from other areas here eating on occasion.
 · Reward – Can find a group of visitors from another company, who are not impressed with Nile, and will gladly become allies (basically, can find a henchman who may have skills that the PCs do not).
 
-The Janitor/Handyman (Shunned Cavern)
+*The Janitor/Handyman (Shunned Cavern)*
+
 · Janitor is an eastern European – very thick accent and massive.  Extremely scary. Yuri and Boris.
 · Constantly drunk and aggressive
 · Area has dangerous hazards – cleaning products that would be banned under the Geneva Convention on Biological Warfare, etc.
 · Reward – Can get the Janitor to clear out one floor (except for the Senior Managers level) of all people for a 15 minute period.
 
-
-Level 2
+**Level 2**
 
 Customer Relations (Bugbears)
 ·  Permanently has a sign outside that staff are needed, with the appropriate lies.
@@ -131,6 +144,7 @@ Archives (Minotaur)
 ·  Also present are the: -
 o   Clerks – thin elderly women with very bad vision, who whizz around on motorised scooters, being a constant threat to health
 o   Researchers – will generally not be met, but the PCs will see their torches in the distance – they will always manage to evade the PCs if they are sought
+-  File Server
 ·  Reward – Incriminating information on any desired NPC.
 
 Sales and Marketing (Gnolls)
@@ -141,12 +155,16 @@ Sales and Marketing (Gnolls)
 ·  If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold.
 ·  Reward – The services of an extremely skilled investigator into dirty laundry.
 
-
-Level 3
+**Level 3**
 
 Senior Management (The Shrine of Evil Chaos)
 
+The Source of Nile
 
+Vice-President (Sales and Marketing), Mr. Blue
+Vice-President ( ), Mr. White
+Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationship. Safe, locked.
+President Fey Rowe
 
 
 ## The cheerleader speciality class:
@@ -222,5 +240,7 @@ have on you. Also, the candy has an addictive quality, especially the peanut but
 patties, that will cause you to seek out further Door-to-Door monsters looking for
 the children who sell the cookies.
 
+# So, You Want It Darker?
 
+Papers & Paychecks in North Korea
 

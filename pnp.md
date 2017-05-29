@@ -1365,20 +1365,50 @@ These four famous volumes contain many aspects of programming algorithms and ana
 
 **Bracelet of Friendship**
 
-
 # 3.0 Non-Player Characters
+
 ## 3.1 Labourers
+
 ## 3.2 Scientists
+
 ## 3.3 Administrators
+
 ## 3.4 Technicians
+
 ## 3.5 Researchers
+
 ## 3.6 Managers
+
 ## 3.7 Bestiary
 
-American Black Bear (Ursus americanus), Blue duiker (Philantomba monticola), Bornean gibbon (Hylobates muelleri), Brown Rat Rattus norvegicus), Cat (Felis catus), Cattle (Bos primigenius taurus), Common chimpanzee (Pan troglodytes), Chicken (Gallus gallus domesticus), Crabeater seal (Lobodon carcinophaga), Donkey Equus africanus asinus), European rabbit (Oryctolagus cuniculus), Dog, Fish, Gelada (Theropithecus gelada), Goat (Capra aegagrus hircus), Horse (Equus ferus caballus), Mule, Pig (Sus scrofa domesticus), Plains Zebra (Equus quagga), Sheep (Ovis aries), Water buffalo (Bubalus bubalis), Western gorilla (Gorilla gorilla)
+It is, of course, reasonably rare for animals to feature significantly in a game of *Papers & Paychecks* but there are rare and comical exceptions. The choice of animals to include in a bestiary are, of course, quite challenging. There is relative levels of rarity, diversity of size and species, and so forth. Ultimately choice comes down to what is most appropriate for the setting, whether as pets, farm animals, or wildlife. From this collection and a few interesting variations a Boss may hopefully derive additional alternatives.
+
+As with other aspects of the game, the bestiary combines realistic information, playable and abtracted game system statistics, and hints for incorporating the creature into the game as a capsule scenario hint. The statistical values assigned to the creatures are for adult members of the species and may vary by up to 50% for each characteristic, unless otherwise specified.
+
+The following creatures are provided for *Papers & Paychecks*: Blue-and-yellow macaw (Ara ararauna), Brown Rat Rattus norvegicus), Cat (Felis catus), Cattle (Bos primigenius taurus), Common chimpanzee (Pan troglodytes), Chicken (Gallus gallus domesticus), Great White Shark (Carcharodon carcharias), European rabbit (Oryctolagus cuniculus), Dog (Canis familiaris), Goat (Capra aegagrus hircus), Horse (Equus ferus caballus), Sheep (Ovis aries), Water buffalo (Bubalus bubalis).
+
+**Blue-and-yellow macaw**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
 
 
-
+**Brown Rat Rattus norvegicus)**
 
 **Cat**
 
@@ -1392,7 +1422,7 @@ Domestic cats are, contrary to popular belief, somewhat sociable (with the excep
 |---------------|-------|--------|
 | Strength	|  2    |  -4    |
 | Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    |
+| Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
 | Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
@@ -1412,14 +1442,545 @@ Whilst a cat's claws and teeth are capable of puncturing and lacerations, their 
 
 Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise austere, serious, and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PCs are directed to find the cat as the local police are too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
 
+**Cattle (Bos primigenius taurus) and **Water buffalo (Bubalus bubalis)**
 
 
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+**Common chimpanzee (Pan troglodytes)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
 
 
+**Chicken (Gallus gallus domesticus)**
+
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Great White Shark (Carcharodon carcharias)**
+
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**European rabbit (Oryctolagus cuniculus)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Dog (Canis familiaris)** 
+
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Goat (Capra aegagrus hircus) and Sheep (Ovis aries)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+**Horse (Equus ferus caballus)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
 
 
 ## 3.8 Monsters
-[EDIT: Apply resistentialism]
+
+Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Elevator (Yo-yo), Computer (Wintermute), Elevator (Yo-yo), House (Usher), Pen (Dick), Photocopier (Mimic)
+
+
+**Bollard (Bud)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+And if you are a driver apparently bollards, lamp posts 'pop out of nowhere'.
+
+**Bus (Blakey)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+Defective ticket machine
+
+**Car (Christine)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Conveyer Belt (Lucy)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+Originally from "I love Lucy"
+
+
+**Coffee Machine (Java)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Computer (Wintermute)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Dishwasher (Soapy)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+http://mydishwasherspossessed.com/
+
+**Elevator (Yo-yo)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+Elevators (maniacally helpful)
+
+**Fridge (EDIT)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+Moulds/slimes in fridge that used to be lunch...
+
+
+**Gazebo (Gary)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+Moulds/slimes in fridge that used to be lunch...
+
+
+
+**House (Usher)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+**Pen (Dick)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  0    |  -     |
+| Intelligence	|  1    |  -5	 |
+| Wisdom 	|  1    |  -5    | Movement           |   |
+| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
+| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Charisma	|  1	|  -5    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+Leakey pens?
+
+http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
+
+
+**Photocopier (Mimic)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+**Toilett (Colin)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+Bio hazards in the office toilet...
+
+
+**Trolley (Wonkey)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+
+And for true resistential evil, its hard to go past the wonky wheel trolley
+
+
+**Water Cooler (Eris)**
+
+| Characteristic| Value	| Bonus  |
+|---------------|-------|--------|
+| Strength	|  2    |  -4    |
+| Intelligence	|  2    |  -4	 |
+| Wisdom 	|  2    |  -4    | Movement           |   |
+| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
+| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+|---------------|-------|--------|-------|--------|
+| Skill         | Char  | Train  | Other | Total  |
+|---------------|-------|--------|-------|--------|
+| Climb         | -4    | +2     |  +2   | +0     |
+| Jump          | -4    | +2     |  +2   | +0     |
+| Melee         | -4    | +2     |       | -2     |
+| Gymnastics    | +2    | +4     |  +2   | +8     |
+| Stealth       | +2    | +4     |  +2   | +8     |
+| Perception    | -3    | +4     |  +2   | +3     |
+
+
+of scandal and dissent?
+
 
 # 4.0 The Boss Book
 
@@ -1983,13 +2544,13 @@ Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 # 6.0 Appendicies
 ## 6.1 Source Material
 
-**Roleplaying Games**
+**Dramatic Structure**
 
-D20 Modern
+Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
 
-Leverage
+**Films and Books**
 
-My Life With Master
+American Psycho (film and book)
 
 **Reality Checking**
 
@@ -1999,9 +2560,16 @@ Drinking rules were assisted by the Australian Government Department of Health "
 
 Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., and Geo Stone, "Suicide and Attempted Suicide", 1999.
 
-**Dramatic Structure**
 
-Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
+**Roleplaying Games**
+
+D20 Modern
+
+Leverage
+
+My Life With Master
+
+
 
 ## 6.2 Charts and Tables
 
