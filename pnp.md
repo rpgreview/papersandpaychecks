@@ -1317,12 +1317,19 @@ Social wounds are applied against CHA-base social hit points; if a character is 
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/computer.jpg" />
 
-
 ## 2.6 Equipment in Detail
 
 In *Papers & Paychecks* equipment is purchased with cash, rather like a traditional "gold piece" RPG, and is assigned a weight which determines its resistance to be carried, lifted, or even thrown in some cases. Most equipment listed is explained in terms of direct capabilities - there is little need or room in this publication for equipment that is pure 'colour'. Finally, equipment may have a relative rarity or even legality. Where this is the case, it is explained in the text.
 
-One matter which is screened out of the game is general household costs, utilities, groceries, and so forth. The management of mortgages and rents, whilst so important in the real world, are largely abstracted in this game in terms of a general 'household standard' expense with categories that correlate with the 'rolled wealth' score from character generation.
+**Technological Development**
+
+*Papers & Paychecks* is firmly set in the advanced industrial period, anywhere from around 1970 onwards. The game is designed to cover the development of a character from their first years in a job until retirement - around a fifty year period. Giving some leeway in the starting year of a *Papers and Paychecks* saga, the starting year should be anywhere from 1970 to 2000 and retirement from 2020 to 2050. This is, as we know, a a period of significant technological change and as a result the equipment examples also must accurately represent those changes.
+
+Where appropriate various items of equipment are provided with reference to their time of general introduction to the consumer market and future developments from that point. Some of this is inevitably speculative, as if even this designer cannot predict the future with the required level of accuracy. Where the description of equipment in the game conflicts with reality, reality wins and The Boss should modify appropriately. The game avoids abstract methods of technological developments in favour of concrete examples.
+
+**Standards of Living**
+
+One matter which is screened out of the game is general household costs, utilities, groceries, and so forth. The management of mortgages and rents, whilst so important in the real world, are largely abstracted in this game in terms of a general 'household standard' expense with categories that correlate with the 'rolled wealth' score from character generation. Note that real wages for middle and low-income workers has not changed sufficiently since the 1970s to make any difference to standards of living. As an example of some rather grim humour where dreams of the future are shattered, and as an endorsement of the cyberpunk ethic, real wages will not change throughout the entire period of the game until 2050.
  
 | Rolled Wealth	Equivalent | Weekly Cost	|	Household Standard									|
 |---------------|-------|---------------------------------------------------------------------------------------|
@@ -1331,6 +1338,7 @@ One matter which is screened out of the game is general household costs, utiliti
 | 6-8		| $500	| Average. Surburan house or large apartment, good supply of utilities, surplus of necessities, and foodstuffs |
 | 9-11		| $800	| Above average. Large suburban house or large townhouse, excess of modern utilities, never short of necessities, high quality food, drinks, and excellent meals etc | 
 | 12		| $1300	| Very rich. Very large multistory suburban house or large inner-city townhouse, latest in utilities, the best quality in foods, drinks, and exceptional meals  |
+
 
 **Hobby Equipment**
 
