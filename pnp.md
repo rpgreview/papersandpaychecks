@@ -2379,6 +2379,10 @@ The practical problems of these game system problems are well known. A lack of v
 
 ## 4.2 Running The Session
 
+**Personality Types**
+
+http://thoughtcatalog.com/heidi-priebe/2015/05/the-definition-of-hell-for-each-myers-briggs-personality-type/			
+																																																																																																																																																												
 
 ## 4.3 Episode and Season Design
 
