@@ -1739,7 +1739,7 @@ Typically grey or brown in colour, with domesticated variants including white an
 
 
 | **Characteristic**| **Value**	| **Bonus**  |	|	|
-|-------------------|-----------|------------|	|	|
+|-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5        |	|	|
 | Intelligence	    |  3        |  -4	     |	|	|
 | Wisdom 	    |  3        |  -4        | Movement           |   |
