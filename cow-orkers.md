@@ -2,6 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/group.jpg" />
 
+by Lev Lafayette, Michael Cole et. al.
+
+Playtesters: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby
+
+Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
+
+
 Keep The Borderlands by Michael Cole
 The Cheerleader Profession by Fred
 Snail mail magic communications by Fred
