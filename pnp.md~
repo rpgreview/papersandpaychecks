@@ -1731,25 +1731,29 @@ The Case of the Gary-lous Parrot
 
 **Brown Rat (Rattus norvegicus)**
 
+Typically grey or brown in colour, with domesticated variants including white and other natural shades, *rattus norvegicus* has a body of up to 25cm long and weighing from 250 to 500 grammes. Wherever humans live, *rattus norvegicus* will also be found. Selective breeding sees the species as laboratory rats and fancy rats. These animals have notably different psychological profiles to their wild varieties.
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  1    |  -5    |
-| Intelligence	|  3    |  -4	 |
-| Wisdom 	|  3    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  2    |  -4	 | Wounds (Mental)    |   |
-| Charisma	|  4	|  -3    | Wounds (Social)    |   |
 
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -5    | +2     |  +2   | -1     |
-| Jump          | -5    | +2     |  +2   | -1     |
-| Melee         | -5    | +2     |       | -3     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +3    | +4     |  +3   | +10    |
-| Perception    | -4    | +4     |       | +0     |
 
+
+
+
+| **Characteristic**| **Value**	| **Bonus**  |	|	|
+|-------------------|-----------|------------|	|	|
+| Strength	    |  1        |  -5        |	|	|
+| Intelligence	    |  3        |  -4	     |	|	|
+| Wisdom 	    |  3        |  -4        | Movement           |   |
+| Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
+| Constitution	    |  2        |  -4	     | Wounds (Mental)    |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)    |   |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+| Climb         | -5       | +2         |  +2       | -1         |
+| Jump          | -5       | +2         |  +2       | -1         |
+| Melee         | -5       | +2         |           | -3         |
+| Gymnastics    | +2       | +4         |  +2       | +8         |
+| Stealth       | +3       | +4         |  +3       | +10        |
+| Perception    | -4       | +4         |           | +0         |
+ 
 *A rat story*
 
 
