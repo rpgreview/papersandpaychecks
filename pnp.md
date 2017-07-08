@@ -1700,7 +1700,6 @@ Physically, the are are usually around 75cm to 85cm long and weight between 1.0 
 
 As a large bird the macaw requires significant space in capativity - 15m at least is recommended. They are especially vocal when seeking attention, and their powerful beak serves not only as an aid in climbing, but also in the destruction of chewable items. Their diet is a variety of fruits and nuts and other foilage, and will forage for an area of up to 100km in the wild.
 
-
 | Characteristic| Value	| Bonus  |
 |---------------|-------|--------|
 | Strength	|  1    |  -5    |
@@ -1709,7 +1708,7 @@ As a large bird the macaw requires significant space in capativity - 15m at leas
 | Dexterity	|  9    |  -1    | Wounds (Physical)  |   |
 | Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  4	|  -3    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
+
 | Skill         | Char  | Train  | Other | Total  |
 |---------------|-------|--------|-------|--------|
 | Climb         | -5    | +1     |       | -4     |
@@ -1730,11 +1729,33 @@ How talking parrot spilled beans on owner's cheating girlfriend
 The Case of the Gary-lous Parrot
 `http://hoaxes.org/weblog/comments/the_case_of_the_gary_lous_parrot`
 
-**Brown Rat Rattus norvegicus)**
+**Brown Rat (Rattus norvegicus)**
 
-**Cat**
 
-The domestic cat (felis catus) is kept by humans for companionship and to hunt vermin, and are believed to be have been orginally domesticated in ancient Egypt, where they were venerated. They are the most popular mammal companion in a human household by number with an estimated worldwide population of 600 million. As a result, cats will be found pretty much wherever humans are found. Approximately a third of human households will have at least one cat. Whilst domestication has resulted in minimal behavioural changes (which has led to a significant problem of predation on wildlife species), it has significantly affected some biological factors, such a lifespan; the average lifespan of a cat has increased from 7 years in the 1980s, rising to to 9.5 in the mid-1990s, to 12-15 in the 2010s.
+| **Characteristic**| **Value**	| **Bonus**  |
+|-------------------|-----------|------------|
+| Strength	    |  1        |  -5        |
+| Intelligence	    |  3        |  -4	     |
+| Wisdom 	    |  3        |  -4        | Movement           |   |
+| Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
+| Constitution	    |  2        |  -4	     | Wounds (Mental)    |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)    |   |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|	
+| Climb         | -5       | +2         |  +2       | -1         |
+| Jump          | -5       | +2         |  +2       | -1         |
+| Melee         | -5       | +2         |           | -3         |
+| Gymnastics    | +2       | +4         |  +2       | +8         |
+| Stealth       | +3       | +4         |  +3       | +10        |
+| Perception    | -4       | +4         |           | +0         |
+ 
+*A rat story*
+
+
+
+**Cat (Felis catus)**
+
+The domestic cat has been kept by humans for companionship and to hunt vermin for thousands of years, having been orginally domesticated in ancient Egypt where they were venerated. They are the most popular mammal companion in a human household by number with an estimated worldwide population of 600 million. As a result, cats will be found pretty much wherever humans are found. Approximately a third of human households will have at least one cat. Whilst domestication has resulted in minimal behavioural changes (which has led to a significant problem of predation on wildlife species), it has significantly affected some biological factors, such a lifespan; the average lifespan of a cat has increased from 7 years in the 1980s, rising to to 9.5 in the mid-1990s, to 12-15 in the 2010s.
 
 Whilst subject to a variety of breeds and subbreeds, some general comments can be made. A carnvirous species, they typically weigh between 3-6 kg. Despite the small size, they have a relatively powerful jaw, dense musculture, and large eye sockets. Cats have excellent night vision, ultrasound, and smell, but a poor sense of colour vision and a very poor sense of taste. Th They are famous for their agility with direct registration of their hind and front paws when walking. Due to their evolutionary heritage cats are capable of tolerating high temperatures, with discomfort only evident when skin temperature reaches 52 deg. C., (humans experience discomfort at 38 deg). Cat's are notorious slackers at will sleep on average 12-16 hours a day.
 
@@ -1750,7 +1771,7 @@ Domestic cat communication includes purring, hisses, growling, meowing, and a va
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
 | Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
+
 | Skill         | Char  | Train  | Other | Total  |
 |---------------|-------|--------|-------|--------|
 | Climb         | -4    | +2     |  +2   | +0     |
@@ -1760,7 +1781,7 @@ Domestic cat communication includes purring, hisses, growling, meowing, and a va
 | Stealth       | +2    | +4     |  +2   | +8     |
 | Perception    | -3    | +4     |  +2   | +3     |
 
-Whilst a cat's claws and teeth are capable of puncturing and lacerations, their depth is short and any damage caused is halved. Bonuses to climb, jump, etc., are a result of specific physical attributes. Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +3 bonus.
+Bonuses to climb, jump, etc., are a result of specific physical attributes. Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +3 bonus.
 
 *A Cat Story*
 
