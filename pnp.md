@@ -1692,26 +1692,43 @@ As with other aspects of the game, the bestiary combines realistic information, 
 
 The following creatures are provided for *Papers & Paychecks*: Blue-and-yellow macaw (Ara ararauna), Brown Rat Rattus norvegicus), Cat (Felis catus), Cattle (Bos primigenius taurus), Common chimpanzee (Pan troglodytes), Chicken (Gallus gallus domesticus), Great White Shark (Carcharodon carcharias), European rabbit (Oryctolagus cuniculus), Dog (Canis familiaris), Goat (Capra aegagrus hircus), Horse (Equus ferus caballus), Sheep (Ovis aries), Water buffalo (Bubalus bubalis).
 
-**Blue-and-yellow macaw**
+**Blue-and-yellow macaw (Ara ararauna)**
+
+The blue-and-yellow macaw is a South American parrot with a blue dorsal region and yellow (or gold) ventral region. Whilst in the wild it typically lives in forest and woodlands, it is very common as a companion animal, partially due to their vivid colours and partially due to the ability to mimic sounds and speech. 
+
+Physically, the are are usually around 75cm to 85cm long and weight between 1.0 and 1.5 kilogrammes. In breeding they have the same mates for life, nesting almost exclusively on palms. The most colourful male will be the most successful in attracting a mate. The female lays on average 2-3 eggs which are incubated for 28 days. After hatching, the most dominant chick will receive most of the food, with the others dying. A chick reaches fledgling stage after approximately 97 days.
+
+As a large bird the macaw requires significant space in capativity - 15m at least is recommended. They are especially vocal when seeking attention, and their powerful beak serves not only as an aid in climbing, but also in the destruction of chewable items. Their diet is a variety of fruits and nuts and other foilage, and will forage for an area of up to 100km in the wild.
+
 
 | Characteristic| Value	| Bonus  |
 |---------------|-------|--------|
-| Strength	|  2    |  -4    |
+| Strength	|  1    |  -5    |
 | Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+| Wisdom 	|  1    |  -5    | Movement           |   |
+| Dexterity	|  9    |  -1    | Wounds (Physical)  |   |
+| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Charisma	|  4	|  -3    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
 |---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| Climb         | -5    | +1     |       | -4     |
+| Melee         | -5    |        |       | -5     |
+| Perception    | -5    | +3     |       | -2     |
 
+*A Macaw story*
+
+A manager reads an article that having animals in an workplace is a good idea for increasing morale and productivity. Unfortunately they didn't read enough of the article and decides what is best for the office as a 'bring your pet to work' day. With a variety of cats, dogs, birds, and even a goldfish or two, the day's work is a complete write-off as mayhem results. In the course of events, a macaw belonging to Chris, a computer programmer in the company, lands on a PC's should and whispers in a sultry voice in his ear, "I love you Gary".
+
+The voice is unmistakable; it belongs to NPC administrator Suzy, with whom Chris has been in a relationship with for several months. Do the PCs confront Suzy, inform Chris, or try to get more information out of the parrot? If they attempt the latter not only will the parrot's mimicry become more "adult" in flavour, it will also start revealing some other startling secrets of both Chris and Suzy.
+
+Based on a story that was, alas, not quite true.
+
+How talking parrot spilled beans on owner's cheating girlfriend
+`https://www.theguardian.com/uk/2006/jan/17/samjones.uknews2`
+
+The Case of the Gary-lous Parrot
+`http://hoaxes.org/weblog/comments/the_case_of_the_gary_lous_parrot`
 
 **Brown Rat Rattus norvegicus)**
 
@@ -1721,7 +1738,9 @@ The domestic cat (felis catus) is kept by humans for companionship and to hunt v
 
 Whilst subject to a variety of breeds and subbreeds, some general comments can be made. A carnvirous species, they typically weigh between 3-6 kg. Despite the small size, they have a relatively powerful jaw, dense musculture, and large eye sockets. Cats have excellent night vision, ultrasound, and smell, but a poor sense of colour vision and a very poor sense of taste. Th They are famous for their agility with direct registration of their hind and front paws when walking. Due to their evolutionary heritage cats are capable of tolerating high temperatures, with discomfort only evident when skin temperature reaches 52 deg. C., (humans experience discomfort at 38 deg). Cat's are notorious slackers at will sleep on average 12-16 hours a day.
 
-Domestic cats are, contrary to popular belief, somewhat sociable (with the exception of hunting), albeit with defined and sometimes disputed territories, and neutral zones, all marked by urine spraying. A colony of cats usually ends up with a dominant sexually male whose territory will be the largest and can overlap several female cat territories. Breeding season typically begins in autumn and ends in late spring, with a gestation period from 64 to 67 days and litter of 3-5 kittens, possibly from multiple fathers. Indepenndence is reached in 3 months and sexual maturity is reached in 5-10 months. Domestic cat communication includes purring, hisses, growling, meowing, and a variety of body language cues such as the position and direction of ears and tail, raising of fur to indicate aggression etc. In addition, cats enjoy playing, mimicking hunting and fighting. Cats have an encephalization quotient of between 1.00-1.71 (humans 7.44–7.80) and a surface area of the cerebral cortex of 83 cm2 (the human brain is about 2,500 cm^2). The brain structure is very similar with object permanence memory of some 16 hours, with a long-term memory of around 10 years. Cats are known to have complex dreams. Whilst capable of learning through operant conditioning, they have a poor sense of causality.
+Domestic cats are, contrary to popular belief, somewhat sociable (with the exception when hunting), albeit with defined and sometimes disputed territories, and neutral zones, all marked by urine spraying. A colony of cats usually ends up with a dominant sexually male whose territory will be the largest and can overlap several female cat territories. Breeding season typically begins in autumn and ends in late spring, with a gestation period from 64 to 67 days and litter of 3-5 kittens, possibly from multiple fathers. Independence is reached in 3 months and sexual maturity is reached in 5-10 months. 
+
+Domestic cat communication includes purring, hisses, growling, meowing, and a variety of body language cues such as the position and direction of ears and tail, raising of fur to indicate aggression etc. In addition, cats enjoy playing, mimicking hunting and fighting. Cats have an encephalization quotient of between 1.00-1.71 (humans 7.44–7.80) and a surface area of the cerebral cortex of 83 cm2 (the human brain is about 2,500 cm^2). The brain structure is very similar with object permanence memory of some 16 hours, with a long-term memory of around 10 years. Cats are known to have complex dreams. Whilst capable of learning through operant conditioning, they have a poor sense of causality.
 
 | Characteristic| Value	| Bonus  |
 |---------------|-------|--------|
@@ -1741,11 +1760,11 @@ Domestic cats are, contrary to popular belief, somewhat sociable (with the excep
 | Stealth       | +2    | +4     |  +2   | +8     |
 | Perception    | -3    | +4     |  +2   | +3     |
 
-Whilst a cat's claws and teeth are capable of puncturing and lacerations, their depth is short and any damage caused is halved. Bonuses to climb, jump, etc., are a result of specific physical attributes. Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +4 bonus.
+Whilst a cat's claws and teeth are capable of puncturing and lacerations, their depth is short and any damage caused is halved. Bonuses to climb, jump, etc., are a result of specific physical attributes. Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +3 bonus.
 
 *A Cat Story*
 
-Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise austere, serious, and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PCs are directed to find the cat as the local police are too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
+Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise serious and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PCs are directed to find the cat as the local police are obviously too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
 
 **Cattle (Bos primigenius taurus) and **Water buffalo (Bubalus bubalis)**
 
