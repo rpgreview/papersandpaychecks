@@ -367,13 +367,13 @@ In addition to the aforementioned primary characteristics there is also a number
 
 **Strength**: Strength represents the both the musculture of the character and their knowledge of how to use it effectively.  By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details.
 
-The average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic; a character with a high Strength and low Constitution will be tall but thin, a character with a low Strength and high Constitition will be short and stout. The average of a character's Strength and Dexterity multiplied by five provides the character's Move. This secondary characteristic defines how many metres per ten-second tactical round a character can move unencumbered. A character's capacity to carry things, their Encumbrance rating, is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. 
+The average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic; a character with a high Strength and low Constitution will be tall but thin, a character with a low Strength and high Constitition will be short and stout. A character's Strength multiplied by five provides the character's Move, representing stride. This secondary characteristic defines how many metres per ten-second tactical round a character can move unencumbered. A character's capacity to carry things, their Encumbrance rating, is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. 
 
 **Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence sets a hard limit to the number of skill points that a character can invest. At five time their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
 
 **Wisdom**: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself. An important exception is that a character's Wisdom bonus times 10% directly contributes as a wage bonus, representing both prudent investments and expenditure, plus performance bonuses. This applies to all professions, and effectively doubles the bonus for Administrators.
 
-**Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc.
+**Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc. Note that a character with a high Dexterity effectively increases their movement rate per round, albeit in a coarsely-grained fashion.
 
 **Constitution**: Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging). As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
 
@@ -1696,7 +1696,7 @@ The following creatures are provided for *Papers & Paychecks*: Blue-and-yellow m
 
 The blue-and-yellow macaw is a South American parrot with a blue dorsal region and yellow (or gold) ventral region. Whilst in the wild it typically lives in forest and woodlands, it is very common as a companion animal, partially due to their vivid colours and partially due to the ability to mimic sounds and speech. 
 
-Physically, the are are usually around 75cm to 85cm long and weight between 1.0 and 1.5 kilogrammes. In breeding they have the same mates for life, nesting almost exclusively on palms. The most colourful male will be the most successful in attracting a mate. The female lays on average 2-3 eggs which are incubated for 28 days. After hatching, the most dominant chick will receive most of the food, with the others dying. A chick reaches fledgling stage after approximately 97 days.
+Physically, the are are usually around 75cm to 85cm long and weight between 1.0 and 1.5 kilogrammes. In breeding they have the same mates for life, nesting almost exclusively on palms. The most colourful male will be the most successful in attracting a mate. The female lays on average 2-3 eggs which are incubated for 28 days. After hatching, the most dominant chick will receive most of the food, with the others dying. A chick reaches fledgling stage after approximately 97 days. A macaw will typically live 30 to 35 years.
 
 As a large bird the macaw requires significant space in capativity - 15m at least is recommended. They are especially vocal when seeking attention, and their powerful beak serves not only as an aid in climbing, but also in the destruction of chewable items. Their diet is a variety of fruits and nuts and other foilage, and will forage for an area of up to 100km in the wild.
 
@@ -1731,18 +1731,20 @@ The Case of the Gary-lous Parrot
 
 **Brown Rat (Rattus norvegicus)**
 
-Typically grey or brown in colour, with domesticated variants including white and other natural shades, *rattus norvegicus* has a body of up to 25cm long and weighing from 250 to 500 grammes. Wherever humans live, *rattus norvegicus* will also be found. Selective breeding sees the species as laboratory rats and fancy rats. These animals have notably different psychological profiles to their wild varieties.
+Typically grey or brown in colour, with domesticated variants including white and other natural shades, the brown rat has a body of up to 25cm long and weighing from 250 to 500 grammes. They have terrible vision (around 20/600) although they can see some ultraviolet light, but good hearing and a very well developed sense of smell. Wherever humans live, the brown rat will also be found, making them a highly successful species, albeit one that is associated with damaging to local ecosystems, destroying crops, and as a disease vector. Selective breeding sees the species as laboratory rats and fancy rats. These animals have notably different psychological profiles to their wild varieties.
 
+As a true omnivore and will eat almost anything, with cereals constituting the major part of the brown rat diet. Breeding is best described as 'opportunistic promiscuity', with females producing up to five litters a year with a gestation period of around 21 days and litters of around seven. Sexual maturity is reached in a mere five weeks. The average lifespan of a brown rat is only a year, primarily due to predattion in the wild. A domestic brown rat can reach an age of three years.
 
+Famous for their intelligence, the rat is a social animal which communicates with high-pitched squeaks, body language (e.g., ear twitching), and urine markings. Rats are capable of forward planning, have shown surprisingly high levels of empathy towards other members of their species (even those whom they have not previously encountered), have complex dreams, and show signs of remorse when they've made the wrong choice. 
 
+"You can laugh now ... but one day they may be in charge."
+`https://www.theguardian.com/uk/2004/apr/08/arts.education`
 
-
-
-| **Characteristic**| **Value**	| **Bonus**  |	|	|
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        |	|	|
-| Intelligence	    |  3        |  -4	     |	|	|
-| Wisdom 	    |  3        |  -4        | Movement           |   |
+| Strength	    |  1        |  -5        | Profession	| Rat	|
+| Intelligence	    |  3        |  -4	     | Level	| 1	|
+| Wisdom 	    |  3        |  -4        | Movement           | 1 |
 | Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
 | Constitution	    |  2        |  -4	     | Wounds (Mental)    |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)    |   |
@@ -1754,10 +1756,15 @@ Typically grey or brown in colour, with domesticated variants including white an
 | Melee         | -5       | +2         |           | -3         |
 | Gymnastics    | +2       | +4         |  +2       | +8         |
 | Stealth       | +3       | +4         |  +3       | +10        |
-| Perception    | -4       | +4         |           | +0         |
+| Perception    | -4       | +1         |  -2       | -5         |
  
 *A rat story*
 
+The PCs are working in a medical research centre, large hospital, or similar. Disasters do happen, both natural and human made, and in this situation a building has collapsed trapping several individuals underneath the rubble. Whilst emergency services are on their way, a disheveled medical manager barges into the PCs workplace pleading for assistance. One of the people deeply buried in the rubble was a patient with paroxysmal nocturnal hemoglobinuria, a rare disease which is treated with eculizumab (trade name 'Soliris'). This is the most expensive drug in the world, and the individual in question was in a room which contained five year's worth of the drug - which costs some several hundred thousands of dollars per year. An insightful PC will note that the reaction of the medical manager is that they are more concerned with the drug rather than the patient, who is presumably wealthy enough to afford the drug.
+
+The PCs are well aware of this medical condition and the expense of the drug as one of them at least is involved in a labratory rat training programme where, like the HeroRats of Mozambique, they have been trained to sniff out the blood samples of people to determine whether they suffer from paroxysmal nocturnal hemoglobinuria. They have several rats with varying levels of training which could be used to locate their patient - and presumably the supplies - deep under the rubble.
+
+See: APOPO, 'Detecting Tubercluosis', `https://www.apopo.org/en` and Irvine, Martha. (1997-10-11) "A Rat's Trail. Rattie helps wire computer systems by going where no person can:. The Kansas City Star, Page E3
 
 
 **Cat (Felis catus)**
