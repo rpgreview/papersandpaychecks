@@ -4,7 +4,7 @@
 
 by Lev Lafayette
 
-Playtesters: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby
+Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
@@ -1688,7 +1688,7 @@ These four famous volumes contain many aspects of programming algorithms and ana
 
 It is, of course, reasonably rare for animals to feature significantly in a game of *Papers & Paychecks* but there are rare and comical exceptions. The choice of animals to include in a bestiary are, of course, quite challenging. There is relative levels of rarity, diversity of size and species, and so forth. Ultimately choice comes down to what is most appropriate for the setting, whether as pets, farm animals, or wildlife. From this collection and a few interesting variations a Boss may hopefully derive additional alternatives.
 
-As with other aspects of the game, the bestiary combines realistic information, playable and abtracted game system statistics, and hints for incorporating the creature into the game as a capsule scenario hint. The statistical values assigned to the creatures are for adult members of the species and may vary by up to 50% for each characteristic, unless otherwise specified.
+As with other aspects of the game, the bestiary combines realistic information, playable and abtracted game system statistics, and hints for incorporating the creature into the game as a capsule scenario hint. The statistical values assigned to the creatures are for adult members of the species and may vary by up to 50% for each characteristic, unless otherwise specified. Bonuses to various skills under the 'other' category are a result of specific physical attributes. 
 
 The following creatures are provided for *Papers & Paychecks*: Blue-and-yellow macaw (Ara ararauna), Brown Rat Rattus norvegicus), Cat (Felis catus), Cattle (Bos primigenius taurus), Common chimpanzee (Pan troglodytes), Chicken (Gallus gallus domesticus), Great White Shark (Carcharodon carcharias), European rabbit (Oryctolagus cuniculus), Dog (Canis familiaris), Goat (Capra aegagrus hircus), Horse (Equus ferus caballus), Sheep (Ovis aries), Water buffalo (Bubalus bubalis).
 
@@ -1700,20 +1700,20 @@ Physically, the are are usually around 75cm to 85cm long and weight between 1.0 
 
 As a large bird the macaw requires significant space in capativity - 15m at least is recommended. They are especially vocal when seeking attention, and their powerful beak serves not only as an aid in climbing, but also in the destruction of chewable items. Their diet is a variety of fruits and nuts and other foilage, and will forage for an area of up to 100km in the wild.
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  1    |  -5    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  9    |  -1    | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  4	|  -3    | Wounds (Social)    |   |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -5    | +1     |       | -4     |
-| Melee         | -5    |        |       | -5     |
-| Perception    | -5    | +3     |       | -2     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
 
 *A Macaw story*
 
@@ -1766,7 +1766,6 @@ The PCs are well aware of this medical condition and the expense of the drug as 
 
 See: APOPO, 'Detecting Tubercluosis', `https://www.apopo.org/en` and Irvine, Martha. (1997-10-11) "A Rat's Trail. Rattie helps wire computer systems by going where no person can:. The Kansas City Star, Page E3
 
-
 **Cat (Felis catus)**
 
 The domestic cat has been kept by humans for companionship and to hunt vermin for thousands of years, having been orginally domesticated in ancient Egypt where they were venerated. They are the most popular mammal companion in a human household by number with an estimated worldwide population of 600 million. As a result, cats will be found pretty much wherever humans are found. Approximately a third of human households will have at least one cat. Whilst domestication has resulted in minimal behavioural changes (which has led to a significant problem of predation on wildlife species), it has significantly affected some biological factors, such a lifespan; the average lifespan of a cat has increased from 7 years in the 1980s, rising to to 9.5 in the mid-1990s, to 12-15 in the 2010s.
@@ -1777,198 +1776,182 @@ Domestic cats are, contrary to popular belief, somewhat sociable (with the excep
 
 Domestic cat communication includes purring, hisses, growling, meowing, and a variety of body language cues such as the position and direction of ears and tail, raising of fur to indicate aggression etc. In addition, cats enjoy playing, mimicking hunting and fighting. Cats have an encephalization quotient of between 1.00-1.71 (humans 7.44–7.80) and a surface area of the cerebral cortex of 83 cm2 (the human brain is about 2,500 cm^2). The brain structure is very similar with object permanence memory of some 16 hours, with a long-term memory of around 10 years. Cats are known to have complex dreams. Whilst capable of learning through operant conditioning, they have a poor sense of causality.
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  2        |  -4        | Profession	| Cat	|
+| Intelligence	    |  2        |  -4	     | Level	| 1	|
+| Wisdom 	    |  2        |  -4        | Movement           | 2 |
+| Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
+| Constitution	    |  4        |  -3	     | Wounds (Mental)    |   |
+| Charisma	    |  6	|  -2        | Wounds (Social)    |   |
 
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -4       | +2         |  +2       | +0         |
+| Jump          | -4       | +2         |  +2       | +0         |
+| Melee         | -4       | +2         |           | -2         |
+| Gymnastics    | +2       | +4         |  +2       | +8         |
+| Stealth       | +2       | +4         |  +2       | +8         |
+| Perception    | -3       | +4         |  +2       | +3         |
 
-Bonuses to climb, jump, etc., are a result of specific physical attributes. Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +3 bonus.
+Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +3 bonus.
 
 *A Cat Story*
 
 Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise serious and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PCs are directed to find the cat as the local police are obviously too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
 
-**Cattle (Bos primigenius taurus) and **Water buffalo (Bubalus bubalis)**
+**Cattle (Bos primigenius taurus) and Water buffalo (Bubalus bubalis)**
 
+Members of the *bovinae* subfamily, cattle and water buffalo are sufficiently close to be considered at the same time. These are large quadrupedal ungulate mammals with cloven hooves, and typically horned. Weighing from 300 kg (water buffalo, female) to 1,250kg (cattle, male), and with a lifespan of around 18-22 years, cattle and water buffalo are mainly known for their domestication from a human perspective, as a beast of burden, or as a source of food. Indeed, most people have significantly more interaction with a steak than they do with a cow.
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+The various bovine species are herd animals with collective behaviour. The typical herd has bulls taking the circumference of the herd's range protecting the cows and calves. The gestation period for a cow is about nine months long. Adult size is highly variable by sex, species, and breed. Typical lifespan is around 20-25 years.
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  30-60    |  +3 to +10 | Profession	 | Cow |
+| Intelligence	    |  2        |  -4	     | Level	         | 1	 |
+| Wisdom 	    |  2        |  -4        | Movement          | 12 |
+| Dexterity	    |  5        |  -3        | Wounds (Physical) |   |
+| Constitution	    |  40-60    |  +15 to +25| Wounds (Mental)   |   |
+| Charisma	    |  3	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Intimidate    | +3 to +10| +1         | sp.       | +4 to +11  |
+| Melee         | +3 to +10| +1         | sp.       | +4 to +11  |
+| Perception    | +0 to +3 | +1         | sp.       | +1 to +4   |
+
+A bovine is less able to apply it's full Strength to melee, intimidation etc. As a result the effective Strength is halved. For purposes of carrying capacity and weight however, the full strength is applied, as it will be if a character is trampled. Likewise for Perception, the hardy Constitution of the bovine makes little difference to their perceptual qualities, and as a result effective Constitution is quartered. Further, bovines have no fine manipulation - their effective Dexterity for such things is quartered.
+
+*A Bovine story*
+
+The player characters turn up to work one day and there's a cow in the office. It will certainly make a mess, and there is a good chance that it will wreck havoc if people try to move it. It will take a bit of an investigation but eventually it will turn out to achieved ingress through a near-forgotten goods lift. A review of company security records indicates that a person with a misplaced (but not deactivated) visitors security pass is responsible for bringing the c0w in the office. Eventually the player characters may discover that there is a local diary competition at some nearby showgrounds. It will turn out that a disgruntled fomer employee, who had been sacked for absenteeism and a drinking issue, had stolen the cow from the showgrounds and brought it into the office. In an unexpected twist the owner of the cow will not press any charges, and indeed will offer the former employee a job in the country. After all, anyone who can steal a cow whilst drunk in the middle of the night, transport it half way across the city, and sneak it into an office building, must have some skills in herding.
 
 **Common chimpanzee (Pan troglodytes)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
 
 
 **Chicken (Gallus gallus domesticus)**
 
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
 
 
 **Great White Shark (Carcharodon carcharias)**
 
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
 
 
 **European rabbit (Oryctolagus cuniculus)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
 
 
 **Dog (Canis familiaris)** 
 
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
+
 
 
 **Goat (Capra aegagrus hircus) and Sheep (Ovis aries)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
+
 
 **Horse (Equus ferus caballus)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
+| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Climb         | -5       | +1         |           | -4         |
+| Melee         | -5       |            |           | -5         |
+| Perception    | -5       | +3         |           | -2         |
 
 
 ## 3.8 Monsters
