@@ -160,7 +160,6 @@ Note the initial sentence that the die roll is to be used "used in dramatic circ
 
 Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
 
-
 ## 0.5 Glossary
 
 **Action**: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
@@ -1011,7 +1010,6 @@ If a character has more than a quarter of their CON in doses, they must make a C
 
 If a character has more than a quarter of their CON in doses, they must make a CON check. A failed check represents nausea, vomiting, and stumbling with -2 DEX. A second failed causes immobility as the character collapses in place. A third failed introduces stupor, being unable to move or react, a fifth unconsciousness, a sixth a deep unconsciouness with a medical skill is required to revive the character and eighth and additional failed checks resulting in corony failure with 1d6 physical damage.
 
-
 ## 2.3 Tactical Task Resolution
 
 **General**
@@ -1346,6 +1344,22 @@ For whatever Hobby skill a character has taken there is a set of tools, equipmen
 
 ## 2.7 Special Equipment
 
+
+**Bracelet of Friendship**
+
+
+**Charles Atlas Manual of Bodily Strength**
+
+"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength weighs 2.0 kilograms and costs $2000.
+
+**Knuth's The Art of Computing Programming**
+
+*On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*
+Charles Babbage, *Passages from the life of a philosopher*, 1864
+
+These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume weighs 1.5 kilograms and costs $1000 for the set. 
+
+
 **Potion of Socialability**
 
 *I drink when I have occasion, and sometimes when I have no occasion.*
@@ -1359,19 +1373,6 @@ The capacity of alcoholic drinks to provide sociability is well known and presen
 Ambrose Bierce, *The Devil's Dictionary*, 1967.
 
 This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each with a neglible weight.
-
-**Knuth's The Art of Computing Programming**
-
-*On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*
-Charles Babbage, *Passages from the life of a philosopher*, 1864
-
-These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume weighs 1.5 kilograms and costs $1000 for the set. 
-
-**Charles Atlas Manual of Bodily Strength**
-
-"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength weighs 2.0 kilograms and costs $2000.
-
-**Bracelet of Friendship**
 
 # 3.0 Non-Player Characters
 
@@ -1721,7 +1722,7 @@ A manager reads an article that having animals in an workplace is a good idea fo
 
 The voice is unmistakable; it belongs to NPC administrator Suzy, with whom Chris has been in a relationship with for several months. Do the PCs confront Suzy, inform Chris, or try to get more information out of the parrot? If they attempt the latter not only will the parrot's mimicry become more "adult" in flavour, it will also start revealing some other startling secrets of both Chris and Suzy.
 
-Based on a story that was, alas, not quite true.
+Based on a story that was, alas, not quite true.   
 
 How talking parrot spilled beans on owner's cheating girlfriend
 `https://www.theguardian.com/uk/2006/jan/17/samjones.uknews2`
@@ -1737,7 +1738,7 @@ As a true omnivore and will eat almost anything, with cereals constituting the m
 
 Famous for their intelligence, the rat is a social animal which communicates with high-pitched squeaks, body language (e.g., ear twitching), and urine markings. Rats are capable of forward planning, have shown surprisingly high levels of empathy towards other members of their species (even those whom they have not previously encountered), have complex dreams, and show signs of remorse when they've made the wrong choice. 
 
-"You can laugh now ... but one day they may be in charge."
+"You can laugh now ... but one day they may be in charge."   
 `https://www.theguardian.com/uk/2004/apr/08/arts.education`
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1774,7 +1775,7 @@ Whilst subject to a variety of breeds and subbreeds, some general comments can b
 
 Domestic cats are, contrary to popular belief, somewhat sociable (with the exception when hunting), albeit with defined and sometimes disputed territories, and neutral zones, all marked by urine spraying. A colony of cats usually ends up with a dominant sexually male whose territory will be the largest and can overlap several female cat territories. Breeding season typically begins in autumn and ends in late spring, with a gestation period from 64 to 67 days and litter of 3-5 kittens, possibly from multiple fathers. Independence is reached in 3 months and sexual maturity is reached in 5-10 months. 
 
-Domestic cat communication includes purring, hisses, growling, meowing, and a variety of body language cues such as the position and direction of ears and tail, raising of fur to indicate aggression etc. In addition, cats enjoy playing, mimicking hunting and fighting. Cats have an encephalization quotient of between 1.00-1.71 (humans 7.44–7.80) and a surface area of the cerebral cortex of 83 cm2 (the human brain is about 2,500 cm^2). The brain structure is very similar with object permanence memory of some 16 hours, with a long-term memory of around 10 years. Cats are known to have complex dreams. Whilst capable of learning through operant conditioning, they have a poor sense of causality.
+Domestic cat communication includes purring, hisses, growling, meowing, and a variety of body language cues such as the position and direction of ears and tail, raising of fur to indicate aggression etc. In addition, cats enjoy playing, mimicking hunting and fighting. Cats are known to have complex dreams. Whilst capable of learning through operant conditioning, they have a poor sense of causality.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1802,6 +1803,12 @@ Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditi
 
 **Cattle (Bos primigenius taurus) and Water buffalo (Bubalus bubalis)**
 
+> He mooed we must fight, escape or we'll die
+> Cows gathered around, cause the steaks were so high
+> Bad cow pun
+> 
+> *Cows with Guns*, Dana Lyons, 1996
+
 Members of the *bovinae* subfamily, cattle and water buffalo are sufficiently close to be considered at the same time. These are large quadrupedal ungulate mammals with cloven hooves, and typically horned. Weighing from 300 kg (water buffalo, female) to 1,250kg (cattle, male), and with a lifespan of around 18-22 years, cattle and water buffalo are mainly known for their domestication from a human perspective, as a beast of burden, or as a source of food. Indeed, most people have significantly more interaction with a steak than they do with a cow.
 
 The various bovine species are herd animals with collective behaviour. The typical herd has bulls taking the circumference of the herd's range protecting the cows and calves. The gestation period for a cow is about nine months long. Adult size is highly variable by sex, species, and breed. Typical lifespan is around 20-25 years.
@@ -1825,25 +1832,49 @@ A bovine is less able to apply it's full Strength to melee, intimidation etc. As
 
 *A Bovine story*
 
-The player characters turn up to work one day and there's a cow in the office. It will certainly make a mess, and there is a good chance that it will wreck havoc if people try to move it. It will take a bit of an investigation but eventually it will turn out to achieved ingress through a near-forgotten goods lift. A review of company security records indicates that a person with a misplaced (but not deactivated) visitors security pass is responsible for bringing the c0w in the office. Eventually the player characters may discover that there is a local diary competition at some nearby showgrounds. It will turn out that a disgruntled fomer employee, who had been sacked for absenteeism and a drinking issue, had stolen the cow from the showgrounds and brought it into the office. In an unexpected twist the owner of the cow will not press any charges, and indeed will offer the former employee a job in the country. After all, anyone who can steal a cow whilst drunk in the middle of the night, transport it half way across the city, and sneak it into an office building, must have some skills in herding.
+The player characters turn up to work one day and there's a cow in the office. It will certainly make a mess, and there is a good chance that it will wreck havoc if people try to move it. It will take a bit of an investigation but eventually it will turn out to achieved ingress through a near-forgotten goods lift. A review of company security records indicates that a person with a misplaced (but not deactivated) visitors security pass is responsible for bringing the c0w in the office. 
+
+Eventually the player characters may discover that there is a local diary competition at some nearby showgrounds. It will turn out that a disgruntled fomer employee, who had been sacked for absenteeism and a drinking issue, had stolen the cow from the showgrounds and brought it into the office. In an unexpected twist the owner of the cow will not press any charges, and indeed will offer the former employee a job in the country. After all, anyone who can steal a cow whilst drunk in the middle of the night, transport it half way across the city, and sneak it into an office building, must have some skills in herding.
 
 **Common chimpanzee (Pan troglodytes)**
 
+The closest genetic relatives to humans, chimpanzees are two species of the great apes in the genus Pan, which includes the common chimpanzee (*pan troglodytes*, described here) and the bonobo (*pan paniscus*). Whilst they are native to sub-Saharan Africa, and specifically the Congo jungle (common chimps to the north of the Congo River, bonobo to the south), characters in *Papers & Paychecks* are most likely to encounter them in zoos or, ridiculously, as pets. 
+
+Chimpanzees are not tall creatures and have notable sexual dimorphism; The male common chimp stands up to 1.2 m and weighs about 40 to 60 kilograms, whereas a female is approximately 1m high at weighs between 30 to 50 kg. Despite this height, they are surprisingly strong with significant skeletal muscle fibres and with long powerful arms (indeed, longer than their legs). The hair is either dark brown or black. They are semi-bipedal, working mainly on their knuckles. Chimpanzee diet is heavily based on fruit, but they are omnivorous, and will eat other foilage, honey, insects, and other chimps or monkeys. Their lifespan is approximately 35 years.
+
+Chimpanzees have a complex social organisation which varies between the species. Among *pan troglodytes* an alpha male with a carefully negotiated alliance of supporters, dominates a troop. Among *pan paniscus* there is a greater level of egalitarianism. The species differ in their levels of violence as well; *pan troglodytes* has a more violent culture, whereas *pan paniscus* are highly sexual. Both species have polyandrous mating behaviour. They are quite intelligent and will engage in sophisticated tactics, and are known to use tools - digging sticks and even spears - whilst hunting. 
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
-| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+| Strength	    |  15-18    |  +3 to +4  | Profession	 | Chimp |
+| Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
+| Wisdom 	    |  4-7      |  -3 to -2  | Movement 	 | 6-8	 |
+| Dexterity	    |  13-18    |  +1 to +4  | Wounds (Physical) |   |
+| Constitution	    |  13-18    |  +1 to +4  | Wounds (Mental)   |   |
+| Charisma	    |  4-7	|  -3 to -2  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Athletics (STR)| +3 to +4| +1		|	    | +4 to +5   |
+| Climb         | +3 to +4 | +1         |           | +4 to +5   |
+| Intimidate    | +3 to +4 | +1         | -5        | -1 to +0   |
+| Jump	        | +3 to +4 | +1         |           | +4 to +5   |
+| Melee         | +3 to +4 | +1         |           | +4 to +5   |
+| Survival	| -3 to -2 | +1		|	    | -2 to -1   |
+| Stealth	| +1 to +4 | +1		| +2	    | +4 to +7   |
+| Perception    | +1 to +4 | +1         |           | +2 to +5   |
 
+The reduction in the chimps intimidation and the increase in their stealth skills is due to the relative difference between their relatively small size and significant strength.
+
+*A Chimpanzee story*
+
+A Human Resources manager, who lives in a nearby inner city apartment, has a pet chimp named King Kong. A terrible workaholic the manager is known to their work home with them. What is less well known is that they're on a prescription of strong anti-anxiety drugs. The inevitable has happened and the chimp has gobbled down a handful drugs and is now undergoing a psychotic episode. The HR manager has arrived at work, understandably flustered, and appoints the PCs to recover their work laptop, which is now in the chimp's possession. The laptop in question has all employee, tax, and pay records and the HR manager isn't savvy enough to understand the difference between local and network drives. If the PCs raise an objection to undertaking the task, they will be pointed to a clause in their job description contract will requires them to undertake "Other duties as required".
+
+Arriving at the apartment tower, the chimp has attracted quite a crowd. It has thrown all the furniture  out of the apartment on to the streets below. This includes a sofa, a bed, and even a fridge, just to give a sense of its strength. It is now standing on the balcony with the laptop tucked under its arm making quite a racket.
+
+Partially inspired by a true story: 
+"Why would a chimpanzee attack a human?", Feb 19, 2009   
+`https://www.scientificamerican.com/article/why-would-a-chimpanzee-at/`   
 
 **Chicken (Gallus gallus domesticus)**
 
@@ -1952,8 +1983,6 @@ The player characters turn up to work one day and there's a cow in the office. I
 | Climb         | -5       | +1         |           | -4         |
 | Melee         | -5       |            |           | -5         |
 | Perception    | -5       | +3         |           | -2         |
-
-
 
 
 ## 3.8 Monsters
