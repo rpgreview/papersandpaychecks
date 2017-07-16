@@ -1748,7 +1748,7 @@ Famous for their intelligence, the rat is a social animal which communicates wit
 | Wisdom 	    |  3        |  -4        | Movement           | 1 |
 | Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
 | Constitution	    |  2        |  -4	     | Wounds (Mental)    |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)    |   |
+| Charisma	    |  3	|  -4        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1846,7 +1846,7 @@ Chimpanzees have a complex social organisation which varies between the species.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  15-18    |  +3 to +4  | Profession	 | Chimp |
+| Strength	    |  15-18    |  +2 to +4  | Profession	 | Chimp |
 | Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
 | Wisdom 	    |  4-7      |  -3 to -2  | Movement 	 | 6-8	 |
 | Dexterity	    |  13-18    |  +1 to +4  | Wounds (Physical) |   |
@@ -1855,11 +1855,11 @@ Chimpanzees have a complex social organisation which varies between the species.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Athletics (STR)| +3 to +4| +1		|	    | +4 to +5   |
-| Climb         | +3 to +4 | +1         |           | +4 to +5   |
-| Intimidate    | +3 to +4 | +1         | -5        | -1 to +0   |
-| Jump	        | +3 to +4 | +1         |           | +4 to +5   |
-| Melee         | +3 to +4 | +1         |           | +4 to +5   |
+| Athletics (STR)| +2 to +4| +1		|	    | +3 to +5   |
+| Climb         | +2 to +4 | +1         |           | +3 to +5   |
+| Intimidate    | +2 to +4 | +1         | -5        | -2 to +0   |
+| Jump	        | +2 to +4 | +1         |           | +3 to +5   |
+| Melee         | +2 to +4 | +1         |           | +3 to +5   |
 | Survival	| -3 to -2 | +1		|	    | -2 to -1   |
 | Stealth	| +1 to +4 | +1		| +2	    | +4 to +7   |
 | Perception    | +1 to +4 | +1         |           | +2 to +5   |
@@ -1888,7 +1888,7 @@ Assuming avoidance of the knife, chickens will live for five to ten years and fe
 | Strength	    |  2        |  -4        | Profession	 | Chicken |
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (scamper) | 4 |
-| Dexterity	    |  6        |  -3        | Wounds (Physical) |   |
+| Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
 | Constitution	    |  2        |  -4	     | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -5        | Wounds (Social)   |   |
 
@@ -1930,7 +1930,6 @@ The shark has an estimated lifespan of fifty to seventy years, and reached sexua
 |---------------|----------|------------|-----------|------------|
 | Gymnastics (aquatic) | -5       | +1  | +3        | -1         |
 | Perception    | +4 to +6 | +0         | +3        | +7 to +9   |
-
 
 *A Shark story*
 
@@ -1977,17 +1976,46 @@ A local airport (or other facility) has been overrun by rabbits. Due to a combin
 From: Paris airport bunnies head for Cote d'Azur, Mar 11, 2004
 `http://www.terradaily.com/2004/040311165922.mhpuzt3n.html`
 
-
 **Dog (Canis familiaris)** 
+
+> "As a dog returneth to his vomit, so a fool returneth to his folly."   
+> The Bible, Proverbs 26.  
+
+The domestic dog (*Canis familiaris*) is human's first domesticated animal (at least 15,000 years old), and is an extremely popular and widespread carnivore species, with a diverse morphology through selective breeding. This selectivity has meant that dogs provide a wide range of assisting tasks for humans, most commonly for protection, hunting, and herding, but also as aids (e.g., guide dogs), in addition to aesthetic companionship. The taxonomy of the domestic dog is still under dispute, with some claiming that the capacity of interbreeding with *Canis lupus* makes it a subspecies of that group (*Canis lupus familiaris*). The matter is further complexified with the status of the dingo (*Canis familiaris dingo*). Either way, it is clear that the dog, however so classified, is a diverse and fecund species.
+
+Dog size and weight varies enormously, from as small as under twenty centimetres in length to two metres, and weight from as little as 0.5 kg to over 100 kg.
+
+
+The dog's senses include vision, hearing, sense of smell, sense of taste, touch and sensitivity to the earth's magnetic field. Another study suggested that dogs can see the earth's magnetic field.[53][54]
+The typical lifespan of dogs varies widely among breeds, but for most the median longevity, the age at which half the dogs in a population have died and half are still alive, ranges from 10 to 13 years.[67][68][69][70] Individual dogs may live well beyond the median of their breed.
+
+
+In domestic dogs, sexual maturity begins to happen around age six to twelve months for both males and females,[14][73] although this can be delayed until up to two years old for some large breeds. T
+
+
+Dogs bear their litters roughly 58 to 68 days after fertilization,[14][76] with an average of 63 days, although the length of gestation can vary. An average litter consists of about six puppies,[77] though this number may vary widely based on the breed of dog.
+
+
+Dog intelligence is the ability of the dog to perceive information and retain it as knowledge for applying to solve problems. Dogs have been shown to learn by inference.
+
+ Dogs have advanced memory skills. A study documented the learning and memory capabilities of a border collie, "Chaser", who had learned the names and could associate by verbal command over 1,000 words. 
+
+
+
+The global dog population is estimated at 900 million and rising.[117][118] Although it is said that the "dog is man's best friend"[119] regarding 17–24% of dogs in developed countries, 
+
+
+
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
-| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+| Strength	    |  1-13     |  -5 to +1  | Profession	 | Dog |
+| Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
+| Wisdom 	    |  5-10     |  -3 to +0  | Movement (flight) | 9 |
+| Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
+| Constitution	    |  1-13     |  -5 to +1  | Wounds (Mental)   |   |
+| Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
