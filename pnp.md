@@ -1887,7 +1887,7 @@ Assuming avoidance of the knife, chickens will live for five to ten years and fe
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  2        |  -4        | Profession	 | Chicken |
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (scamper) | 3 |
+| Wisdom 	    |  1        |  -5        | Movement (scamper) | 4 |
 | Dexterity	    |  6        |  -3        | Wounds (Physical) |   |
 | Constitution	    |  2        |  -4	     | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -5        | Wounds (Social)   |   |
@@ -1917,7 +1917,6 @@ A featured animal in spy thrillers, the Great White Shark (*Carcharodon carchari
 
 The shark has an estimated lifespan of fifty to seventy years, and reached sexual maturity at around twenty six to thirty years. An ovoviviparous gestation takes eleven months. Obviously carnivorous, they feed on pretty much everything that lives in the ocean that they can feasible swallow. When encountered in groups, they show a dominance relationship based on size and aggression, although actual conflicts are very rare. From 1990 to 2011 there have been a total of 139 unprovoked great white shark bite incidents, of which 29 were fatal. 
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  25-55    |  +7 to +22 | Profession	 | Shark |
@@ -1944,20 +1943,39 @@ Based on: "Great white sharks attracted by AC/DC hits", Angela Case, June 02, 20
 
 **European rabbit (Oryctolagus cuniculus)**
 
+> I warned you!  But did you listen to me?  Oh, no, you knew it all, didn't you?  Oh, it's just a harmless little bunny, isn't it?  Well, it's always the same,  I always-
+> Tim The Enchanter, Monty Python and the Holy Grail, 1975
+
+The common rabbit (*Oryctolagus cuniculus*) is a native to south-western Europe, especially Spain (whose name translates from "Land of Rabbits"), and have been introduced to other parts of Europe and, in a rather destructive manner, to Australia and New Zealand. The typical experience of a character in *Papers & Paychecks* to a rabbit is likely to be as a pet, or in a stew.
+
+A common rabbit has grey, brown, or black fur, is from 30 to 50cm in length, and weights beteen 1.0 and 2.5 kgs. They move particularly quickly due to their strong hind legs, and have notable hearing. Rabbits are herbivores and spend much of their active time (around dawn and dusk) grazing on grasses, and will also eat root vegetables (they do like carrots), and other foilage. Assuming they avoid being eaten by numerous predators, the European rabbit can live up to nine years.
+
+Rabbits are famous for their breeding rate; the gestation period is between 29 and 35 days with a litter of between 2 and 12. They can reproduce from three to four months of age; do the math. The mating behaviour varies according to social dominance. Dominant males are polygynous, whereas lower-status individuals form monogamous relationships. Rabbits groups are found in a complex of warrens which includes nurseries for the young and secret doors, in case of invasion by predators.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
-| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+| Strength	    |  2        |  -4        | Profession	 | Rabbit |
+| Intelligence	    |  2        |  -4	     | Level	         | 1	 |
+| Wisdom 	    |  2        |  -4        | Movement 	 | 20 |
+| Dexterity	    |  15       |  +2        | Wounds (Physical) |   |
+| Constitution	    |  2        |  -4	     | Wounds (Mental)   |   |
+| Charisma	    |  3	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Jump	        | -4 	   | +2         | +3        | +1         |
+| Gymnastics	| -4       | +2  	| +3        | +1         |
+| Stealth	| +2 	   | +1		| +3	    | +6   	 |
+| Perception    | -4       | +2         | +3        | +1         |
+
+Rabbits receive a +2 Cute bonus to their Charisma. Their have natural bonuses to the skills listed due to their physiology.
+
+*A rabbit story*
+
+A local airport (or other facility) has been overrun by rabbits. Due to a combination of wanting positive public relations, rather tham rabbit massacre, the rabbits are to be transported to a wilder and more location. Naturally enough the PCs are brought to manage this significant and difficult project, as the rabbits will prove to elusive with quite a complex of burrows. Cross-over potential with *GURPS Bunnies & Burrows* is high, and recommended - multiple groups can be run simultaneously, one representing the humans in *Papers & Paychecks* and the other *Bunnies & Burrows*.
+
+From: Paris airport bunnies head for Cote d'Azur, Mar 11, 2004
+`http://www.terradaily.com/2004/040311165922.mhpuzt3n.html`
 
 
 **Dog (Canis familiaris)** 
