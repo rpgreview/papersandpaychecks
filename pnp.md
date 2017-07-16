@@ -1689,7 +1689,7 @@ This pair of rings are exchanged between significant others in the public ritual
 
 It is, of course, reasonably rare for animals to feature significantly in a game of *Papers & Paychecks* but there are rare and comical exceptions. The choice of animals to include in a bestiary are, of course, quite challenging. There is relative levels of rarity, diversity of size and species, and so forth. Ultimately choice comes down to what is most appropriate for the setting, whether as pets, farm animals, or wildlife. From this collection and a few interesting variations a Boss may hopefully derive additional alternatives.
 
-As with other aspects of the game, the bestiary combines realistic information, playable and abtracted game system statistics, and hints for incorporating the creature into the game as a capsule scenario hint. The statistical values assigned to the creatures are for adult members of the species and may vary by up to 50% for each characteristic, unless otherwise specified. Bonuses to various skills under the 'other' category are a result of specific physical attributes. 
+As with other aspects of the game, the bestiary combines realistic information, playable and abtracted game system statistics, and hints for incorporating the creature into the game as a capsule scenario description. The statistical values assigned to the creatures are for adult members of the species and may vary by up to 50% for each characteristic, unless otherwise specified. Bonuses to various skills under the 'other' category are a result of specific physical attributes. 
 
 The following creatures are provided for *Papers & Paychecks*: Blue-and-yellow macaw (Ara ararauna), Brown Rat Rattus norvegicus), Cat (Felis catus), Cattle (Bos primigenius taurus), Common chimpanzee (Pan troglodytes), Chicken (Gallus gallus domesticus), Great White Shark (Carcharodon carcharias), European rabbit (Oryctolagus cuniculus), Dog (Canis familiaris), Goat (Capra aegagrus hircus), Horse (Equus ferus caballus), Sheep (Ovis aries), Water buffalo (Bubalus bubalis).
 
@@ -1842,7 +1842,7 @@ The closest genetic relatives to humans, chimpanzees are two species of the grea
 
 Chimpanzees are not tall creatures and have notable sexual dimorphism; The male common chimp stands up to 1.2 m and weighs about 40 to 60 kilograms, whereas a female is approximately 1m high at weighs between 30 to 50 kg. Despite this height, they are surprisingly strong with significant skeletal muscle fibres and with long powerful arms (indeed, longer than their legs). The hair is either dark brown or black. They are semi-bipedal, working mainly on their knuckles. Chimpanzee diet is heavily based on fruit, but they are omnivorous, and will eat other foilage, honey, insects, and other chimps or monkeys. Their lifespan is approximately 35 years.
 
-Chimpanzees have a complex social organisation which varies between the species. Among *pan troglodytes* an alpha male with a carefully negotiated alliance of supporters, dominates a troop. Among *pan paniscus* there is a greater level of egalitarianism. The species differ in their levels of violence as well; *pan troglodytes* has a more violent culture, whereas *pan paniscus* are highly sexual. Both species have polyandrous mating behaviour. They are quite intelligent and will engage in sophisticated tactics, and are known to use tools - digging sticks and even spears - whilst hunting. 
+Chimpanzees have a complex social organisation which varies between the species. Among *pan troglodytes* an alpha male with a carefully negotiated alliance of supporters, dominates a troop. Among *pan paniscus* there is a greater level of egalitarianism. The species differ in their levels of violence as well; *pan troglodytes* has a more violent culture, whereas *pan paniscus* are highly sexual. Both species have polyandrous mating behaviour. They are quite intelligent and will engage in sophisticated tactics, and are known to use tools - digging sticks and even spears - whilst hunting, or for building nests. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1864,7 +1864,7 @@ Chimpanzees have a complex social organisation which varies between the species.
 | Stealth	| +1 to +4 | +1		| +2	    | +4 to +7   |
 | Perception    | +1 to +4 | +1         |           | +2 to +5   |
 
-The reduction in the chimps intimidation and the increase in their stealth skills is due to the relative difference between their relatively small size and significant strength.
+The reduction in the chimps intimidation and the increase in their stealth skills is due to the relative difference between their relatively small size and significant strength. A second successful physical attack from a chimpanzee will do double damage, indicating a bite with its large and sharp canines.
 
 *A Chimpanzee story*
 
@@ -1878,21 +1878,34 @@ Partially inspired by a true story:
 
 **Chicken (Gallus gallus domesticus)**
 
+The common chicken is a subspecies of the Red junglefowl (*Gallus gallus*) that was domesticated some five thousand years ago in Asia. There are several subspecies of the wild variety as well, including domesticated chickens that have returned to a wild state. By far the most common domestic fowl in the world, numbering some 19 billion in 2011, in *Papers & Paychecks* the most common encounter of characters with a chicken is on a dinner plate. Many people consume chicken periods for breakfast (whilst others prefer bee vomit on toast). For their own part, chickens are omnivores and even cannibalistic.
+
+Assuming avoidance of the knife, chickens will live for five to ten years and females will start laying eggs from 16 to 20 weeks of age. The incubation period is approximately 21 days, during which time the hen will brood, incubating the eggs and showing surprising ferocity and any attempts to distrurb her. There is well known physical difference between roosters and hens, the former having colourful flowing tails, and typically larger and colourful caruncles. Chickens live together in flocks and a hierarchy ("pecking order"). 
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Strength	    |  2        |  -4        | Profession	 | Chicken |
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+| Wisdom 	    |  1        |  -5        | Movement (scamper) | 3 |
+| Dexterity	    |  6        |  -3        | Wounds (Physical) |   |
+| Constitution	    |  2        |  -4	     | Wounds (Mental)   |   |
+| Charisma	    |  1	|  -5        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Perception    | -5       | +1         | +2        | -2         |
 
+A pre-adult chicken gets a +1 Cute bonus to Charisma. For what it's worth, a successful physical attack by a rooster will do double damage due to hind spurs. 
+
+*A Chicken story*
+
+Working at a biological scientific research facility, the player characters are troubled to discover a eviscerated fox (or similar) animal in the chicken coop, an area that they are responsible for protecting. Characters with advanced medical skills suggest that the animal was attacked by some other sort of wild animal - the bites suggest a particularly nasty pack of rats or similar. This would be, of course, very bad for the chickens and extra vigilence is suggested.
+
+As it turns out a slightly unhinged geneticist has a selection of chickens that have had a recessive gene, talpid2, invoked, along with another gene to prevent the usual mortaility associated with this gene. In doing so, the geneticist has created a subspecies of chicken that have teeth and heightened aggressiveness. The geneticist has wild dreams of an army of carnivorous savage chickens and will fight to protect his flock. It would be an appropriate trope if such a mad scientist villian would somehow succumb to his own discovery.
+
+Partially inspired by a true story:   
+"Scientists Find Chickens Retain Ancient Ability to Grow Teeth", Ammu Kannampilly, ABC News, February 27, 2006. Retrieved October 1, 2007. `http://abcnews.go.com/Technology/story?id=1666805`
 
 **Great White Shark (Carcharodon carcharias)**
 
