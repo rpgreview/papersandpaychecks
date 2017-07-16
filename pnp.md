@@ -1896,7 +1896,7 @@ Assuming avoidance of the knife, chickens will live for five to ten years and fe
 |---------------|----------|------------|-----------|------------|
 | Perception    | -5       | +1         | +2        | -2         |
 
-A pre-adult chicken gets a +1 Cute bonus to Charisma. For what it's worth, a successful physical attack by a rooster will do double damage due to hind spurs. 
+A pre-adult chicken gets a +1 Cute bonus to Charisma. For what it's worth, a successful physical attack by a rooster will do double damage due to hind spurs, although they are often removed in domestication.
 
 *A Chicken story*
 
@@ -1904,26 +1904,43 @@ Working at a biological scientific research facility, the player characters are 
 
 As it turns out a slightly unhinged geneticist has a selection of chickens that have had a recessive gene, talpid2, invoked, along with another gene to prevent the usual mortaility associated with this gene. In doing so, the geneticist has created a subspecies of chicken that have teeth and heightened aggressiveness. The geneticist has wild dreams of an army of carnivorous savage chickens and will fight to protect his flock. It would be an appropriate trope if such a mad scientist villian would somehow succumb to his own discovery.
 
-Partially inspired by a true story:   
-"Scientists Find Chickens Retain Ancient Ability to Grow Teeth", Ammu Kannampilly, ABC News, February 27, 2006. Retrieved October 1, 2007. `http://abcnews.go.com/Technology/story?id=1666805`
+Partially inspired by a true story and a ridiculous movie:   
+"Scientists Find Chickens Retain Ancient Ability to Grow Teeth", Ammu Kannampilly, ABC News, February 27, 2006. Retrieved October 1, 2007. `http://abcnews.go.com/Technology/story?id=1666805`   
+Carnosaur, 1993  `http://www.imdb.com/title/tt0106521/`
 
 **Great White Shark (Carcharodon carcharias)**
 
+"You're gonna need a bigger boat."
+Brody, *Jaws*, 1975
+
+A featured animal in spy thrillers, the Great White Shark (*Carcharodon carcharias*), is found throughout the major oceans of the world except for the poles, and especially near coastal areas. With sexual dimorphism (females are a third larger), the shark ranges on average from 3.5 to 5.0 metres in length, weighting between 550 and 1100 kilograms. They can swim at over 55 km/h and to depths of 1200m. All sharkes has the perceptual quality of electromagnetic detection, emitted by the movement of living animals, and the Great Whites can detect variations of half a billionth of a volt, which makes up for their particular poor eyesight. Unlike many other fish, they can also regulate their internal body temperature.
+
+The shark has an estimated lifespan of fifty to seventy years, and reached sexual maturity at around twenty six to thirty years. An ovoviviparous gestation takes eleven months. Obviously carnivorous, they feed on pretty much everything that lives in the ocean that they can feasible swallow. When encountered in groups, they show a dominance relationship based on size and aggression, although actual conflicts are very rare. From 1990 to 2011 there have been a total of 139 unprovoked great white shark bite incidents, of which 29 were fatal. 
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
+| Strength	    |  25-55    |  +7 to +22 | Profession	 | Shark |
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+| Wisdom 	    |  1        |  -5        | Movement (swim)   | 18 |
+| Dexterity	    |  2        |  -4        | Wounds (Physical) |   |
+| Constitution	    |  18-22    |  +4 to +6  | Wounds (Mental)   |   |
+| Charisma	    |  1	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Gymnastics (aquatic) | -5       | +1  | +3        | -1         |
+| Perception    | +4 to +6 | +0         | +3        | +7 to +9   |
 
+
+*A Shark story*
+
+Great White Shark tours attract a lot of money; with tickets costing upwards of $100, with several people per boat, and a few trips per day some good money can be made. But of course, there needs to be sharks otherwise customers are less than happy. Especially with a sign that says: "Close shark sighting guaranteed or your money back".
+
+Working for such a tour company the PCs are given the task to find out what sort of *music* attracts sharks. So they have to sit in an allegedly shark-proof cage and cycle through various tunes to work out what music attracts the beast. It turns out that the Great White is particularly interested in AC/DC, and apparently the low frequencies of the 'Back in Black' album. Accordingly for comic effect, other types of music will attract other types of fish. True to its polarised reviews, <i>Chinese Democracy</i> by Guns N' Roses will simultaneously attract the Great White and cause them to attack. Clever PCs may think that having even lower frequencies might even attract more Great Whites. Instead it will attract a very big shark. Very, very big indeed.
+
+Based on: "Great white sharks attracted by AC/DC hits", Angela Case, June 02, 2011
+`http://www.australiangeographic.com.au/news/2011/06/great-white-sharks-attracted-by-acdc-hits/`
 
 **European rabbit (Oryctolagus cuniculus)**
 
