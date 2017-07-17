@@ -2013,6 +2013,18 @@ See also: "The Canine Mutiny" epsidoe of 'The Simpsons', 1997
 
 **Goat (Capra aegagrus hircus) and Sheep (Ovis aries)**
 
+The domestic goat *Capra aegagrus hircus* and domestic sheep *Ovis aries* are closely related members of the subfamily *Caprinae*, and are part of the Order of even-toed ungulates (*Artiodactyla*) ruminants. Very rarely sheep and goats interbreed, and even more rarely the offspring are fertile. Both are domestic variants evolved by selective breeding from wild members of their genus. Sheep and goats are among the earliest animals domesticated by humans and are a prominent source of milk products, wool, and meat - which how the typical *Papers & Paychecks* character will encounter them.
+
+Goats and sheep show significant variance in size according to breed and with sexual dimorphism, with the male being larger; as little as 20 kilograms for the smallest goat does, up to 160 kgs to the largest rams. Goats reach puberty between three and fifteen months of age, and sheep from four to eight. Gestation length is approximately 150 days, with twins the typical result. Sheep live on average 10 to 12 years, and goats 15 to 18 years. Both sheep and goats have good hearing, and an excellent field of vision and sense of smell. They do not have good depth perception. Sheep and goats are both herbivores and grazing animals.
+
+
+
+
+
+
+
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5        | Profession	 | Macaw |
