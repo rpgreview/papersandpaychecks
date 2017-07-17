@@ -2006,9 +2006,10 @@ A dog's bite does double physical damage.
 
 *A dog story*
 
+The PCs have the unfortunate job of repossession agents. Several items have to be re-acquired by a family that is not terribly keen on being separated from the gifts that they have received from their young son. It turns out that the son has acquired a credit card which they had falsely made out to a family dog; the name was sufficiently similar to a real person who had an income, credit rating, and previously lived at the address - all considered sufficient for the credit card company to approve the application. 
 
-
-
+See also: "The Canine Mutiny" epsidoe of 'The Simpsons', 1997   
+`http://simpsons.wikia.com/wiki/The_Canine_Mutiny`
 
 **Goat (Capra aegagrus hircus) and Sheep (Ovis aries)**
 

@@ -1981,32 +1981,11 @@ From: Paris airport bunnies head for Cote d'Azur, Mar 11, 2004
 > "As a dog returneth to his vomit, so a fool returneth to his folly."   
 > The Bible, Proverbs 26.  
 
-The domestic dog (*Canis familiaris*) is human's first domesticated animal (at least 15,000 years old), and is an extremely popular and widespread carnivore species, with a diverse morphology through selective breeding. This selectivity has meant that dogs provide a wide range of assisting tasks for humans, most commonly for protection, hunting, and herding, but also as aids (e.g., guide dogs), in addition to aesthetic companionship. The taxonomy of the domestic dog is still under dispute, with some claiming that the capacity of interbreeding with *Canis lupus* makes it a subspecies of that group (*Canis lupus familiaris*). The matter is further complexified with the status of the dingo (*Canis familiaris dingo*). Either way, it is clear that the dog, however so classified, is a diverse and fecund species.
+The domestic dog (*Canis familiaris*) is human's first domesticated animal (at least 15,000 years old), and is an extremely popular and widespread carnivore species with a population of some 900 million. Dogs have a diverse morphology through selective breeding. This selectivity has meant that dogs provide a wide range of assisting tasks for humans, most commonly for protection, hunting, and herding, but also as aids (e.g., guide dogs), in addition to aesthetic companionship. The taxonomy of the domestic dog is still under dispute, with some claiming that the capacity of interbreeding with *Canis lupus* makes it a subspecies of that group (*Canis lupus familiaris*). The matter is further complexified with the status of the dingo (*Canis familiaris dingo*). Either way, it is clear that the dog, however so classified, is a diverse and fecund species.
 
-Dog size and weight varies enormously, from as small as under twenty centimetres in length to two metres, and weight from as little as 0.5 kg to over 100 kg.
+Dog size and weight varies enormously, from as small as under twenty centimetres in length to two metres, and weight from as little as 0.5 kg to over 100 kg. Sexual maturity begins to happen around age six to twelve months, with a  gestation period on average of 63 days and an average litter consists of six puppies, depending on breed. Lifespan also depends on breed; large dogs and pure breeds have shorter lifespans and mixed breed smaller dogs, longer lifespans. The average is around 12 years. 
 
-
-The dog's senses include vision, hearing, sense of smell, sense of taste, touch and sensitivity to the earth's magnetic field. Another study suggested that dogs can see the earth's magnetic field.[53][54]
-The typical lifespan of dogs varies widely among breeds, but for most the median longevity, the age at which half the dogs in a population have died and half are still alive, ranges from 10 to 13 years.[67][68][69][70] Individual dogs may live well beyond the median of their breed.
-
-
-In domestic dogs, sexual maturity begins to happen around age six to twelve months for both males and females,[14][73] although this can be delayed until up to two years old for some large breeds. T
-
-
-Dogs bear their litters roughly 58 to 68 days after fertilization,[14][76] with an average of 63 days, although the length of gestation can vary. An average litter consists of about six puppies,[77] though this number may vary widely based on the breed of dog.
-
-
-Dog intelligence is the ability of the dog to perceive information and retain it as knowledge for applying to solve problems. Dogs have been shown to learn by inference.
-
- Dogs have advanced memory skills. A study documented the learning and memory capabilities of a border collie, "Chaser", who had learned the names and could associate by verbal command over 1,000 words. 
-
-
-
-The global dog population is estimated at 900 million and rising.[117][118] Although it is said that the "dog is man's best friend"[119] regarding 17–24% of dogs in developed countries, 
-
-
-
-
+Dogs have advanced perception skills, including a sensitivity to the earth's magnetic field, and are notably intelligent showing the ability to solve problems and learn by inference. One dog (a border collie named "Chaser") displayed associations of over a thousand words. Dogs are derived from social pack hunter animals and can still congregate in such groups with a dominance hierarchy if left to their own devices.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2019,9 +1998,18 @@ The global dog population is estimated at 900 million and rising.[117][118] Alth
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Melee         | -5 to +1 | +1         | +1        | -4 to +2   |
+| Athletics (Sta)| -5 to +1| +1		| +1	    | -3 to +3   |
+| Perception    | -5 to +1 | +1         | +3        | -1 to +5   |
+
+A dog's bite does double physical damage.
+
+*A dog story*
+
+The PCs have the unfortunate job of repossession agents. Several items have to be re-acquired by a family that is not terribly keen on being separated from the gifts that they have received from their young son. It turns out that the son has acquired a credit card which they had falsely made out to a family dog; the name was sufficiently similar to a real person who had an income, credit rating, and previously lived at the address - all considered sufficient for the credit card company to approve the application. 
+
+See also: "The Canine Mutiny" epsidoe of 'The Simpsons', 1997   
+`http://simpsons.wikia.com/wiki/The_Canine_Mutiny`
 
 
 
