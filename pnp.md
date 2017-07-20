@@ -168,7 +168,7 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Character**: A *natural* person (as opposed to a *legal* person, which includes companies and associations) in the *Papers & Paychecks* world. Characters are of two broad types, "Player-Characters" (PCs), those whose actions are primarily determined by a player (c.f.,), and "Non-Player Characters" (NPCs), whose actions are determined by The Boss. 
 
-**Characteristic**: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHA).
+**Characteristic**: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (PER), and Charisma (CHA).
 
 **Detailed Resolution**: Where the Target Number of a skill or knowledge is calculated by a detailed examination of specific circumstances. 
 
@@ -317,7 +317,7 @@ Whilst it is rarely necessary when a player initially generates their character,
 
 ## 1.4 Characteristics
 
-Characteristics are the basic attribitues of a *Papers and Paychecks* character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (CON), and Charisma (CHA). 
+Characteristics are the basic attribitues of a *Papers and Paychecks* character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (PER), and Charisma (CHA). 
 
 Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. "Papers and Paychecks" is "realistic" insofar that characteristics are random, but "narrativist", in the sense that players can intervene if they so choose to ensure that they have the sort of character they want. 
 
@@ -364,22 +364,15 @@ For example, a character with a Strength of 18 will receive a +4 bonus for all S
 
 In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
-**Strength**: Strength represents their mass, musculture, and health.  By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A character's Strength determines their Physical Hit Points.
+**Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A character's Strength determines their Physical Hit Points.
 
-**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence sets a hard limit to the number of skill points that a character can invest. At five time their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
+**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest. At five times their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
 
-**Wisdom**: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, moral reasoning and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself. An important exception is that a character's Wisdom bonus times 10% directly contributes as a wage bonus, representing both prudent investments and expenditure, plus performance bonuses. This applies to all professions, and effectively doubles the bonus for Administrators. A character's Wisdom determines their Mental Hit Points.
+**Wisdom**: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, moral reasoning, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself. An important exception is that a character's Wisdom bonus times 10% directly contributes as a wage bonus, representing both prudent investments and expenditure, plus performance bonuses. This applies to all professions, and effectively doubles the bonus for Administrators. A character's Wisdom determines their Mental Hit Points.
 
 **Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc. Note that a character with a high Dexterity effectively increases their movement rate per round, albeit in a coarsely-grained fashion.
 
-**Perception**: Perception represents the character's ability to receive and interpret information from their sensory systems. 
-
-
-A character's Strength multiplied by five provides the character's Move, representing stride. This secondary characteristic defines how many metres per ten-second tactical round a character can move unencumbered. A character's capacity to carry things, their Encumbrance rating, is based on their Strength; equal to their Strength in kilograms with no penalty, twice their Strength in kilograms with light encumbrance, three times their Strength in kilograms for medium encumbrance, six times for heavy encumbrance, and ten times their Strength is kilograms for very heavy. 
-
-
-
- Constitution represents the character's physical health, energy, and resilience to sickness. Constitution does contribute to a few secondary characteristics and skills, however most resolution tests being based directly on tests against the characteristic itself, or gradual effects over time (e.g., aging). As mentioned under Strength, the average of a character's Strength and Constitution represents a character's Size and body shape as a secondary characteristic. 
+**Perception**: Perception represents the character's awareness and ability to receive and interpret information from their sensory systems and is typically associated with a character's general level of health relative to their size (i.e., their constitution in the vernacular). Perception only affects a handful of skills, but is possibly the most common characteristic test.
 
 **Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills. Charisma is used for Social Hit Points.
 
@@ -387,7 +380,7 @@ A character's Strength multiplied by five provides the character's Move, represe
 
 "Papers and Paychecks" has six character professions, each of which has a related primary characteristic. The player chooses which character profession they belong to and in most cases will select the profession with that primary characterstic. Not only are many of the character's activities most successful with that related value, but they will also receive a pay bonus.
 
-The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Constitution)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strenth of 18, would receive a 40% bonus in their paycheck.
+The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strenth of 18, would receive a 40% bonus in their paycheck.
 
 As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
 
@@ -427,13 +420,13 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
 | 1	| $700     | Union Membership           |
-| 2	| $800     | +1 to STR, DEX, or CON	|
+| 2	| $800     | +1 to STR, DEX, or PER	|
 | 3	| $900     | Apprentice                 |
-| 4	| $1000    | +1 to STR, DEX, or CON     |
+| 4	| $1000    | +1 to STR, DEX, or PER     |
 | 5	| $1100    | Security Access            |
-| 6	| $1150    | +1 to STR, DEX, or CON     |
+| 6	| $1150    | +1 to STR, DEX, or PER     |
 | 7	| $1200    | Team Leader     		|
-| 8	| $1250    | +1 to STR, DEX, or CON     |
+| 8	| $1250    | +1 to STR, DEX, or PER     |
 | 9	| $1300    | Project Manager		|
 | 10	| $1350    | Superannuation	        |
 
@@ -500,7 +493,7 @@ Profession Skills: Intimidate, Profession, Craft (electronic), Craft (mechanical
 
 ### 1.5.5 Researcher
 
-Prime Requisite: Constitution
+Prime Requisite: Perception
 Starting Age: 15+2d4
 Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Perception
 
@@ -564,6 +557,10 @@ There are few Strength based skills, but they have a wide application. Strength-
 **Athletics (Strength)**
 
 An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculture. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints and hurdles.
+
+**Athletics (stamina)**
+
+A Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, long distance running etc.
 
 **Climb**
 
@@ -647,6 +644,11 @@ There are a few Wisdom based skills and they tend to have an average focus. Wisd
 
 An Administration check is made when testing a character's ability to organise, understand, and keep records. The operations of a modern bureaucracy are fraught with disaster without skilled administrators. This includes financial records, personell records, logistics, and time management, all of which are available as optional specialisations.
 
+**Concentration**
+
+A Concentration skill check is made when a character has to either shrug off the effects of temporary distractions (tactical concentration) or ignore the effects of fatigue (strategic concentration). An optional specialisation is allowed for the two time scales.
+
+
 **Gamble**
 
 A Gamble skill check is made to test a character's understanding of chance, risk, and contingency. Not only does it apply to their evaluation of traditional games of chance, but also risk management in operations and projects in a contemporary work environment, and financial investments.
@@ -711,25 +713,17 @@ A Sleight skill check is used when a character is engaging is various acts that 
 
 A Stealth skill check is used when a character is hiding, stalking, or shadowing other characters or even animals. Note that for Stealth activities the inverse of the STR modifier is also often applied. 
 
-### Constitution Based Skills
+### Perception Based Skills
 
-There are few Constitution based skills, but they have a wide application. Costitution-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Perception based skills, but they have a wide application. Perception-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
-**Athletics (stamina)**
+**Insight**
 
-A Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, long distance running etc.
 
-**Carousing**
 
-A Carousing skill check is made when a character is engaging in imbibing in intoxicating drinks and other recreational pharmaceuticals, dancing like nobody is watching, and generally being the life of party.
+**Sense (type)**
 
-**Concentration**
-
-A Concentration skill check is made when a character has to either shrug off the effects of temporary distractions (tactical concentration) or ignore the effects of fatigue (strategic concentration). An optional specialisation is allowed for the two time scales.
-
-**Perception**
-
-A Perception skill check is made when a character applies their senses to make an evaluation of the objective world. Optional specialisations are allowed for the broad traditional sense categories Smell/Taste, Sight, Hearing, and Touch.
+A Sense skill check is made when a character applies their senses to make an evaluation of the objective world. Specialisations are required for the broad traditional sense categories Smell/Taste, Sight, Hearing, and Touch. Other creatures may have more exotic senses.
 
 ### Charisma Based Skills
 
@@ -738,6 +732,10 @@ There are few Charisma based skills, but they have a wide application. Charisma-
 **Act**
 
 An Act skill check is made when a character attempts to take on a role and pretend to be someone with different motivations and interests than what is truly their own. This is often a professional skill in its own right, and is usually applied strategically rather than tactically (which differentiates it from Lie).
+
+**Carousing**
+
+A Carousing skill check is made when a character is engaging in imbibing in intoxicating drinks and other recreational pharmaceuticals, dancing like nobody is watching, and generally being the life of party.
  
 **Bully**
 
@@ -977,9 +975,9 @@ Character actions occur in either a tactical or strategic time-frame. The former
 
 **Alcohol**
 
-A character may drink a quarter of their CON in as standard doses with no immediate ill-effects. For example, a standard dose of alcohol is 10 grams, approximately 250ml of beer, 125ml of wine, or a 30ml nip of high strength spirits. If the number of standard doses exceeds this value, they must make a CON characteristic test with a target number of 7. If they fail, they will feel nauseous, but with no additional effects. Regardless of whether they fail or succeed, they will gain a temporary bonus of +1 CHA, representing a lowering of internal social barriers.
+A character may drink a quarter of their STR in as standard doses with no immediate ill-effects. For example, a standard dose of alcohol is 10 grams, approximately 250ml of beer, 125ml of wine, or a 30ml nip of high strength spirits. If the number of standard doses exceeds this value, they must make a STR characteristic test with a target number of 7. If they fail, they will feel nauseous, but with no additional effects. Regardless of whether they fail or succeed, they will gain a temporary bonus of +1 CHA, representing a lowering of internal social barriers.
 
-For each multiple of the calculated CON value (i.e., .25 CON, .50 CON, 1.00 CON,  1.25 CON etc.) an additional roll is required, with an increase of +2 per increase (i.e., 9, 11, 13, 15, 17 etc). At this stage all skill and characteristic checks will also be at -2 per multiple. A second fail will cause the character to get sick, and, if they insist on drinking, a third roll will lead them to pass out. At the point of the second roll, the character gains a total of +2 CHA, and should make a personality check to determine whether they are going to be a lively and social, or sombre and contemplative; they will also be at -2 to resisting social influence checks.
+For each multiple of the calculated STR value (i.e., .25 STR, .50 STR, 1.00 STR,  1.25 STR etc.) an additional roll is required, with an increase of +2 per increase (i.e., 9, 11, 13, 15, 17 etc). At this stage all skill and characteristic checks will also be at -2 per multiple. A second fail will cause the character to get sick, and, if they insist on drinking, a third roll will lead them to pass out. At the point of the second roll, the character gains a total of +2 CHA, and should make a personality check to determine whether they are going to be a lively and social, or sombre and contemplative; they will also be at -2 to resisting social influence checks.
 
 > "That was so wrong" 
 > Princess Leia, lying in bed with Luke Skywalker, in Robot Chicken: Star Wars, 2007
@@ -1003,17 +1001,17 @@ If a character falls each second after that they may attempt at a -5 DEX test to
 > "Drug addiction is the attempt to obliterate one's consciousness, the quest for a deliberately-induced insanity. As such, it is so obscene and evil that any doubt about the moral character of its practitioners is itself an obscenity."
 > Ayn Rand, Apollo and Dionysus, 1969. Ms Rand consistently used amphetamines from 1942 to 1972.
 
-Similar rules for alcohol also apply to other drugs, that is, there is a standard dose and a constitution break-point at .25 CON, .50 CON, .75 CON, etc, with target number checks at 7, 9, 11 etc. Broad categoies are provided here for "up, down, and sideways", and the Boss should note the typical differences in strength between various versions of the same general drug type and differences in delivery methods, and perscription versus street purity and dosage.
+Similar rules for alcohol also apply to other drugs, that is, there is a standard dose and a constitution break-point at .25 STR, .50 STR, .75 STR, etc, with target number checks at 7, 9, 11 etc. Broad categoies are provided here for "up, down, and sideways", and the Boss should note the typical differences in strength between various versions of the same general drug type and differences in delivery methods, and perscription versus street purity and dosage.
 
-*Amphetamines, Cocaine and Other 'Uppers'*. Therapeutic doses (up to a quarter of a character's CON) are used to stabilise moods, provide alertness, and treat obesity. At this level a character receives +1 INT and suffers no ill short-term effects. From a quarter to a half of their CON in dosage, the character also gains an additional temporary +1 CON and will have an additional strategic move of wakefulness, which will require an additional stragetic move of sleep after the effect wears off. *Burn tomorrow's energy today*. An additional strategic action from half to equal to their CON in doseage, then two times their CON, four times, and so on.
+*Amphetamines, Cocaine and Other 'Uppers'*. Therapeutic doses (up to a quarter of a character's STR) are used to stabilise moods, provide alertness, and treat obesity. At this level a character receives +1 INT and suffers no ill short-term effects. From a quarter to a half of their STR in dosage, the character also gains an additional temporary +1 STR and will have an additional strategic move of wakefulness, which will require an additional stragetic move of sleep after the effect wears off. *Burn tomorrow's energy today*. An additional strategic action from half to equal to their STR in doseage, then two times their STR, four times, and so on.
 
-If a character has more than a quarter of their CON in doses, they must make a CON check. A failed check represents nervousness, changes in libido (either increased or reduced, equal chance of either), and increased confidence. A second failed check results in irritability, obsessiveness, and grandoisity, resulting in -1 CHA. A third and fourth failed check indicates an increasingly cumulative effect to negative CHA, as delusions, auditory hallucinations, and paranoia becomes prevalent. Failed checks beyond this represents cardiovascular physical damage of 1d6 per failure, and psychosis of 1d6 mental damage per failure. 
+If a character has more than a quarter of their STR in doses, they must make a STR check. A failed check represents nervousness, changes in libido (either increased or reduced, equal chance of either), and increased confidence. A second failed check results in irritability, obsessiveness, and grandoisity, resulting in -1 CHA. A third and fourth failed check indicates an increasingly cumulative effect to negative CHA, as delusions, auditory hallucinations, and paranoia becomes prevalent. Failed checks beyond this represents cardiovascular physical damage of 1d6 per failure, and psychosis of 1d6 mental damage per failure. 
 
-*Cannabis, Mescaline, LSD, and other 'Sideways'* Therapeutic doses (up to a quarter of a character's CON) of psychoactives are used for anti-nausea and sometimes psychotherapeutic experiments. Given that powerful psychoactives are almost invariably illegal medical research and use is proportionally rare. At a thereapeutic dose, the character gains 1d6 points of healing of mental damage and experiences euphoria. From a quarter to a half of their CON in dosage, the character can gain an additional 1d6 of mental damage or suffer 1d6 mental damage (equal chance of either), but will also experiences hallucinations. Increased doses (at three quarters and equal to the characters CON) has the same cumulative effect. Beyond that, there is no additional effect.
+*Cannabis, Mescaline, LSD, and other 'Sideways'* Therapeutic doses (up to a quarter of a character's STR) of psychoactives are used for anti-nausea and sometimes psychotherapeutic experiments. Given that powerful psychoactives are almost invariably illegal medical research and use is proportionally rare. At a thereapeutic dose, the character gains 1d6 points of healing of mental damage and experiences euphoria. From a quarter to a half of their STR in dosage, the character can gain an additional 1d6 of mental damage or suffer 1d6 mental damage (equal chance of either), but will also experiences hallucinations. Increased doses (at three quarters and equal to the characters STR) has the same cumulative effect. Beyond that, there is no additional effect.
 
-*Heroin, Opiates, Barbituates, and other 'Downers'* Therapeutic doses (up to a quarter of a character's CON) are used to provid for pain relief and palliative care, with the immediate side-effects of euphoria and calmness. At this level a character can ignore the physical effects of up to half their CON in damage, and gains +1 WIS and +1 manual DEX with steadyness. From a quarter to a half of their CON in doseage, the character can ignore the effects of up to their CON in damage, and also gains an additional temporary +1 WIS. There is no additional benefit from further doseage.
+*Heroin, Opiates, Barbituates, and other 'Downers'* Therapeutic doses (up to a quarter of a character's STR) are used to provid for pain relief and palliative care, with the immediate side-effects of euphoria and calmness. At this level a character can ignore the physical effects of up to half their STR in damage, and gains +1 WIS and +1 manual DEX with steadyness. From a quarter to a half of their STR in doseage, the character can ignore the effects of up to their STR in damage, and also gains an additional temporary +1 WIS. There is no additional benefit from further doseage.
 
-If a character has more than a quarter of their CON in doses, they must make a CON check. A failed check represents nausea, vomiting, and stumbling with -2 DEX. A second failed causes immobility as the character collapses in place. A third failed introduces stupor, being unable to move or react, a fifth unconsciousness, a sixth a deep unconsciouness with a medical skill is required to revive the character and eighth and additional failed checks resulting in corony failure with 1d6 physical damage.
+If a character has more than a quarter of their STR in doses, they must make a STR check. A failed check represents nausea, vomiting, and stumbling with -2 DEX. A second failed causes immobility as the character collapses in place. A third failed introduces stupor, being unable to move or react, a fifth unconsciousness, a sixth a deep unconsciouness with a medical skill is required to revive the character and eighth and additional failed checks resulting in corony failure with 1d6 physical damage.
 
 ## 2.3 Tactical Task Resolution
 
@@ -1191,7 +1189,7 @@ Calculate difference between attack roll and defense roll (e.g., 13 vs 10 = 3); 
 
 For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x
 
-Physical wounds are applied against CON-based physical hit points; if a character reaches 0 physical hit points they are unconscious and are out-of-project. If they are reduced to negative the character is is dead and out-of-game.
+Physical wounds are applied against STR-based physical hit points; if a character reaches 0 physical hit points they are unconscious and are out-of-project. If they are reduced to negative the character is is dead and out-of-game.
 
 Mental wounds are applied against WIS-based mental hit points; if a character reaches 0 mental hit points they suffer a mental breakdown and are out-of-project. If they are reduced to negative mental hit points they are driven permanently insane, and are out-of-game.
 
@@ -1389,7 +1387,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1408,7 +1406,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1427,7 +1425,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1448,7 +1446,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1469,7 +1467,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1488,7 +1486,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1506,7 +1504,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1527,7 +1525,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1545,7 +1543,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1563,7 +1561,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1584,7 +1582,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1602,7 +1600,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1620,7 +1618,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1641,7 +1639,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1659,7 +1657,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1677,7 +1675,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -1712,7 +1710,7 @@ As a large bird the macaw requires significant space in capativity - 15m at leas
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
 | Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Perception	    |  1        |  -5	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1752,7 +1750,7 @@ Famous for their intelligence, the rat is a social animal which communicates wit
 | Intelligence	    |  3        |  -4	     | Level	| 1	|
 | Wisdom 	    |  3        |  -4        | Movement           | 1 |
 | Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
-| Constitution	    |  2        |  -4	     | Wounds (Mental)    |   |
+| Perception	    |  2        |  -4	     | Wounds (Mental)    |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1788,7 +1786,7 @@ Domestic cat communication includes purring, hisses, growling, meowing, and a va
 | Intelligence	    |  2        |  -4	     | Level	| 1	|
 | Wisdom 	    |  2        |  -4        | Movement           | 2 |
 | Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
-| Constitution	    |  4        |  -3	     | Wounds (Mental)    |   |
+| Perception	    |  4        |  -3	     | Wounds (Mental)    |   |
 | Charisma	    |  6	|  -2        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1824,7 +1822,7 @@ The various bovine species are herd animals with collective behaviour. The typic
 | Intelligence	    |  2        |  -4	     | Level	         | 1	 |
 | Wisdom 	    |  2        |  -4        | Movement          | 12 |
 | Dexterity	    |  5        |  -3        | Wounds (Physical) |   |
-| Constitution	    |  40-60    |  +15 to +25| Wounds (Mental)   |   |
+| Perception	    |  40-60    |  +15 to +25| Wounds (Mental)   |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1833,7 +1831,7 @@ The various bovine species are herd animals with collective behaviour. The typic
 | Melee         | +3 to +10| +1         | sp.       | +4 to +11  |
 | Perception    | +0 to +3 | +1         | sp.       | +1 to +4   |
 
-A bovine is less able to apply it's full Strength to melee, intimidation etc. As a result the effective Strength is halved. For purposes of carrying capacity and weight however, the full strength is applied, as it will be if a character is trampled. Likewise for Perception, the hardy Constitution of the bovine makes little difference to their perceptual qualities, and as a result effective Constitution is quartered. Further, bovines have no fine manipulation - their effective Dexterity for such things is quartered.
+A bovine is less able to apply it's full Strength to melee, intimidation etc. As a result the effective Strength is halved. For purposes of carrying capacity and weight however, the full strength is applied, as it will be if a character is trampled. Bovines have no fine manipulation - their effective Dexterity for such things is quartered.
 
 *A Bovine story*
 
@@ -1855,7 +1853,7 @@ Chimpanzees have a complex social organisation which varies between the species.
 | Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
 | Wisdom 	    |  4-7      |  -3 to -2  | Movement 	 | 6-8	 |
 | Dexterity	    |  13-18    |  +1 to +4  | Wounds (Physical) |   |
-| Constitution	    |  13-18    |  +1 to +4  | Wounds (Mental)   |   |
+| Perception	    |  13-18    |  +1 to +4  | Wounds (Mental)   |   |
 | Charisma	    |  4-7	|  -3 to -2  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1894,7 +1892,7 @@ Assuming avoidance of the knife, chickens will live for five to ten years and fe
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (scamper) | 4 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
-| Constitution	    |  2        |  -4	     | Wounds (Mental)   |   |
+| Perception	    |  2        |  -4	     | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -5        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1928,7 +1926,7 @@ The shark has an estimated lifespan of fifty to seventy years, and reached sexua
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (swim)   | 18 |
 | Dexterity	    |  2        |  -4        | Wounds (Physical) |   |
-| Constitution	    |  18-22    |  +4 to +6  | Wounds (Mental)   |   |
+| Perception	    |  18-22    |  +4 to +6  | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1962,7 +1960,7 @@ Rabbits are famous for their breeding rate; the gestation period is between 29 a
 | Intelligence	    |  2        |  -4	     | Level	         | 1	 |
 | Wisdom 	    |  2        |  -4        | Movement 	 | 20 |
 | Dexterity	    |  15       |  +2        | Wounds (Physical) |   |
-| Constitution	    |  2        |  -4	     | Wounds (Mental)   |   |
+| Perception	    |  2        |  -4	     | Wounds (Mental)   |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1998,7 +1996,7 @@ Dogs have advanced perception skills, including a sensitivity to the earth's mag
 | Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
 | Wisdom 	    |  5-10     |  -3 to +0  | Movement (flight) | 9 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
-| Constitution	    |  1-13     |  -5 to +1  | Wounds (Mental)   |   |
+| Perception	    |  1-13     |  -5 to +1  | Wounds (Mental)   |   |
 | Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -2036,7 +2034,7 @@ Goats and sheep show significant variance in size according to breed and with se
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
 | Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Perception	    |  1        |  -5	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -2054,7 +2052,7 @@ Goats and sheep show significant variance in size according to breed and with se
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
 | Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Constitution	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Perception	    |  1        |  -5	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -2077,7 +2075,7 @@ Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Ele
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2100,7 +2098,7 @@ And if you are a driver apparently bollards, lamp posts 'pop out of nowhere'.
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2123,7 +2121,7 @@ Defective ticket machine
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2144,7 +2142,7 @@ Defective ticket machine
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2167,7 +2165,7 @@ Originally from "I love Lucy"
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2188,7 +2186,7 @@ Originally from "I love Lucy"
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2209,7 +2207,7 @@ Originally from "I love Lucy"
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2232,7 +2230,7 @@ http://mydishwasherspossessed.com/
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2254,7 +2252,7 @@ Elevators (maniacally helpful)
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2278,7 +2276,7 @@ Moulds/slimes in fridge that used to be lunch...
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2303,7 +2301,7 @@ Moulds/slimes in fridge that used to be lunch...
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2323,7 +2321,7 @@ Moulds/slimes in fridge that used to be lunch...
 | Intelligence	|  1    |  -5	 |
 | Wisdom 	|  1    |  -5    | Movement           |   |
 | Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Constitution	|  1    |  -5	 | Wounds (Mental)    |   |
+| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
 | Charisma	|  1	|  -5    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2348,7 +2346,7 @@ http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2369,7 +2367,7 @@ http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2393,7 +2391,7 @@ Bio hazards in the office toilet...
 | Intelligence	|  3    |  -5	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2417,7 +2415,7 @@ For true resistential evil, its hard to go past the wonky wheel trolley, whether
 | Intelligence	|  2    |  -4	 |
 | Wisdom 	|  2    |  -4    | Movement           |   |
 | Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Constitution	|  4    |  -3	 | Wounds (Mental)    |   |
+| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
 | Charisma	|  6	|  -2    | Wounds (Social)    |   |
 |---------------|-------|--------|-------|--------|
 | Skill         | Char  | Train  | Other | Total  |
@@ -2936,6 +2934,7 @@ My Life With Master
 
 *Strength Based Skills*
 Athletics (Strength)
+Athletics (stamina)
 Climb
 Intimidate
 Jump
@@ -2956,6 +2955,7 @@ Language (various)
 
 *Wisdom Based Skills*
 Administration
+Concentration
 Gamble
 Hobby
 Profession
@@ -2974,14 +2974,13 @@ Ride
 Sleight
 Stealth
 
-*Constitution Based Skills*
-Athletics (stamina)
-Carousing
-Concentration
-Perception
+*Perception Based Skills*
+Insight
+Sense (various)
 
 *Charisma Based Skills*
 Act
+Carousing
 Bully
 Inspire
 Lie
@@ -3034,7 +3033,7 @@ Union Membership
 | Intelligence	|  |	|   |
 | Wisdom 	| |   |	|
 | Dexterity	|  |   |	|   | Wounds (Physical)  |   |
-| Constitution	|  |	|   |   | Wounds (Mental)   |   |
+| Perception	|  |	|   |   | Wounds (Mental)   |   |
 | Charisma	|  |   |	|   | Wounds (Social)  |   |
 | Profession   | Projects and Level   |
 |-----------------------|-----------------|
