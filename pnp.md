@@ -755,7 +755,6 @@ A Lie skill check is an attempt to mislead whether by blather, emphasis, omissio
 
 A Seduce skill check is made when a character wishes to lead another character astray (Latin: *seducere* "to lead astray"). This typically mean to persuade the other character to engage in sexual behaviour, but the same skill can be used for bribery or other dereliction of duty as seduction involves significant use of metaphor and enticement. 
 
-
 ## 1.7 Perks
 
 **Apprentice**
@@ -874,7 +873,6 @@ With the Tower of Iron Will perk, the character ignores an uncomfortable reality
 **Union Membership**
 
 Union membership is an important perk which equalises the labour market which is usually in favour of employers (many employees, fewer employers). This perk however represents membership of a strong union, and thus whilst many characters in *Papers & Paychecks* can get union membership (or some sort of professional association) the benefits become evident at different levels, according to profession. Union membership provides a 10% bonus to a character's wage, and a reduction in social damage attacks by co-workers (including managers) by 25%.
-
 
 ## 1.8 Personality
 
@@ -1146,14 +1144,14 @@ https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternati
 A character must make a Lie check each round each time that they tell another character something that they know is untrue, or they withhold information which they believe is pertinent. The ability of a character to tell a lie depends on the plausibility of the lie (often subjective to the target) and the target's gullibility. Lying is a contested skill, against the target's Insight, however this skill begins with a -4 penalty. A handful of people have the perceptive ability to truly pick up on the unconscious nonverbal communication (kinesics) when one is being told a lie. This ability is incorporated into the Perception score. Cleverly applied, a lie can a very powerful tool in physical, social, or mental combat.
 
 | Plausibility							| Modifier	|
-|:--------------------------------------------------------------|--------------:|
+|---------------------------------------------------------------|---------------|
 | The lie is believable and doesn't affect the target. 		| +0		|
 | The lie is a little hard to believe or puts the target at risk. | 	-2	|
 | The lie is implausible or is very risky for the target.	| 	-4	|
 | The lie is extremely implausible, almost impossible 		| -6		|
 
 | Gullibility							| Modifier	|
-|:--------------------------------------------------------------|--------------:|
+|:--------------------------------------------------------------|---------------|
 | The target wants to believe the liar.				| +2		|
 | The target is suspicious of the liar. 			| -2		|
 | The target is deeply suspicious of the liar.			| -4		|
