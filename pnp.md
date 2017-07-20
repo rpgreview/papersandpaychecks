@@ -1108,6 +1108,7 @@ If the equipment is availble, a character may attempt to improve the surface the
 
 The difficulty of a Computing check depends on the activity being carried out.
 
+
 Very easy	5 Use a word processor effectively, use simple commands, attach a peripheral,
 Easy	7 Basic use of spreadsheet, simple use of a database, use options to commands, insert a internal card
 Average	9 Apply simple formulae in a spreadsheet or database, write a simple script, use complex commands, compile a simple program, troubleshoot a failed network connection, bypass an insecure computer system
@@ -1142,21 +1143,20 @@ For a long jump, a horizontal move, the distance is equal to the result in metre
 Kellyanne Conway denies Trump press secretary lied
 https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternative-facts-lies
 
-> **Where's My Sense Motive?** In certain games a Sense Motive or similar skill can be used as an opposed test against similar skills (e.g., Bluff, Fast Talk, Chutzpah). This is terribly unrealistic and no much fun, so it isn't used in *Papers and Paychecks*. A handful of people have the perceptive ability to truly pick up on the unconscious nonverbal communication (kinesics) when one is being told a lie, it is not something that one can *learn*. This ability is incorporated into the Wisdom score. 
+A character must make a Lie check each round each time that they tell another character something that they know is untrue, or they withhold information which they believe is pertinent. The ability of a character to tell a lie depends on the plausibility of the lie (often subjective to the target) and the target's gullibility. Lying is a contested skill, against the target's Insight, however this skill begins with a -4 penalty. A handful of people have the perceptive ability to truly pick up on the unconscious nonverbal communication (kinesics) when one is being told a lie. This ability is incorporated into the Perception score. Cleverly applied, a lie can a very powerful tool in physical, social, or mental combat.
 
-Plausibility
-The lie is believable and doesn't affect the target. 	+0
-The lie is a little hard to believe or puts the target at risk. 	-2
-The lie is implausible or is very risky for the target. 	-4
-The lie is extremely implausible, almost impossible 	-6
+| Plausibility							| Modifier	|
+|:--------------------------------------------------------------|--------------:|
+| The lie is believable and doesn't affect the target. 		| +0		|
+| The lie is a little hard to believe or puts the target at risk. | 	-2	|
+| The lie is implausible or is very risky for the target.	| 	-4	|
+| The lie is extremely implausible, almost impossible 		| -6		|
 
-Gullibility
-The target wants to believe the liar. +2
-The target is suspicious of the liar. -2
-The target is deeply suspicious of the liar. -4
-
-Cleverly applied, a Lie can be used in physical, social, or mental combat. A successful lie against a wisdom check means that the next combat action by the character will 
-
+| Gullibility							| Modifier	|
+|:--------------------------------------------------------------|--------------:|
+| The target wants to believe the liar.				| +2		|
+| The target is suspicious of the liar. 			| -2		|
+| The target is deeply suspicious of the liar.			| -4		|
 
 **Swim**
 
