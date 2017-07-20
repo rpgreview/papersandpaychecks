@@ -1133,7 +1133,7 @@ Jump is heavily modified by the velocity of the character from the round prior t
 | 8m/round	| +0		|
 | 12m/round	| +2		|
 | 16m/round	| +4		|
-| etc		|		| 
+| etc		| etc		| 
 
 For a long jump, a horizontal move, the distance is equal to the result in metres. At the midpoint of the jump, the character will have a vertical height of equal to one-quarter of the horizontal distance. For a high jump, a verticle move, the distance jumped is equal to one quarter of the result in meters. 
 
@@ -1719,7 +1719,7 @@ As a large bird the macaw requires significant space in capativity - 15m at leas
 |---------------|----------|------------|-----------|------------|
 | Climb         | -5       | +1         |           | -4         |
 | Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Sense         | -5       | +3         |           | -2         |
 
 *A Macaw story*
 
@@ -1762,7 +1762,7 @@ Famous for their intelligence, the rat is a social animal which communicates wit
 | Melee         | -5       | +2         |           | -3         |
 | Gymnastics    | +2       | +4         |  +2       | +8         |
 | Stealth       | +3       | +4         |  +3       | +10        |
-| Perception    | -4       | +1         |  -2       | -5         |
+| Sense (smell) | -4       | +1         |  -2       | -5         |
  
 *A rat story*
 
@@ -2023,27 +2023,25 @@ The domestic goat *Capra aegagrus hircus* and domestic sheep *Ovis aries* are cl
 Goats and sheep show significant variance in size according to breed and with sexual dimorphism, with the male being larger; as little as 20 kilograms for the smallest goat does, up to 160 kgs to the largest rams. Goats reach puberty between three and fifteen months of age, and sheep from four to eight. Gestation length is approximately 150 days, with twins the typical result. Sheep live on average 10 to 12 years, and goats 15 to 18 years. Both sheep and goats have good hearing, and an excellent field of vision and sense of smell. They do not have good depth perception. Sheep and goats are both herbivores and grazing animals.
 
 
-
-
-
-
-
-
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
-| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Perception	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Strength	    |  2-20     |  -4 to +5  | Profession	 | Macaw |
+| Intelligence	    |  4        |  -4	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -4        | Movement (flight) | 9 |
+| Dexterity	    |  11       |  +0        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Climb         | +0       | +1         | +3        | +4         |
+| Melee         | -4 to +5 | +1         |           | -3 to +6   |
+| Perception    | +2       | +1         |           | -3         |
+
+
+*A sheep and goat story*
+
+A genius decides that the team's end of year drinks should be held at a local inner city children's petting farm. Various inebriating fluids flow, providing a great opportunity to test the game's rules for the drinking of alcohol. Meanwhile, the two office practical jokers have wandered off somewhere in the middle of night with a bottle of wine. Someone in the group decides raises the possibility that they might be in some sort of trouble, whereas others take up the point of view that these likable characters are perhaps deserving of some privacy. When the characters finally decide to act, they will discover that both things are true. In their efforts to find a seculed spot for some paired athletics they have managed to open the gates and mix up a flock of sheep with a flock of goats. Somehow it will be up to the somewhat inebriated PCs to separate the sheep from the goats whilst at the same time ensuring that other team members don't disturb the new couple.
 
 
 **Horse (Equus ferus caballus)**
