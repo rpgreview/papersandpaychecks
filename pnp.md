@@ -2046,6 +2046,11 @@ A genius decides that the team's end of year drinks should be held at a local in
 
 **Horse (Equus ferus caballus)**
 
+The horse (*Equus ferus caballus*) is a domesticated subspecies, with the wild (not feral) subspecies known as Przewalski's horse (*Equus ferus przewalskii*). It is an odd-toed (one), non-ruminent, ungulate herbivorous mammal. The horse was initially domesticated in central Asia before 3500 BCE. There is a very large number of horse breeds which can be generally classified as the unexcitable "cold bloods" (a misnomer of course, as all horses are warm-blooded) such as draft horses, and the more spirited "warmbloods" for riding. A horse is typically from 150cm to 175cm tall, weighing from 500 kg to 1000 kg. This range is for typical breeds; there are further extremes outside this range. 
+
+The gestation period of a horse is approximately 11 months, and the foal can stand and even run shortly after birth. Domesticated horses are typically introduced to the saddle at between two and four. Adulthood is reached at five, and lifespan is usually between 25 and 30 years. A horse is a foraging animal by nature, eating 10kg of food per day and drinking 40 l of water. The horse's physiology is optimised for herd-animal escape from predators, including speed, balance, hearing, excellent sight, and fight-or-flight response. 
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5        | Profession	 | Macaw |
@@ -2057,9 +2062,12 @@ A genius decides that the team's end of year drinks should be held at a local in
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Perception    | -5       | +3         |           | -2         |
+| Jump          | -5       | +1         |           | -4         |
+| Sense (hearing) | -5       | +3         |           | -2         |
+
+
+*A horse story*
+
 
 
 ## 3.8 Monsters
