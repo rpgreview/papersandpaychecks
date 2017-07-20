@@ -1126,14 +1126,18 @@ Another common activity, especially from player characters, is attempts to bypas
 
 Jump is heavily modified by the velocity of the character from the round prior to jumping. A velocity of 0m/round equates with a standing jump.
 
-0m/round: -4
-4m/round: -2
-8m/round: +0
-12m/round: +2
-16m/round: +4
-etc 
+| Velocity	| Modifier	|
+|---------------|---------------|
+| 0m/round	| -4		|
+| 4m/round	| -2		|
+| 8m/round	| +0		|
+| 12m/round	| +2		|
+| 16m/round	| +4		|
+| etc		|		| 
 
 For a long jump, a horizontal move, the distance is equal to the result in metres. At the midpoint of the jump, the character will have a vertical height of equal to one-quarter of the horizontal distance. For a high jump, a verticle move, the distance jumped is equal to one quarter of the result in meters. 
+
+This table and description can also be used for characters who find themselves in an unexpected aerial velocity. "Jumping" sometimes is not entirely voluntary.
 
 **Lie**
 
