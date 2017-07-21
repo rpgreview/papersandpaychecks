@@ -317,7 +317,7 @@ Whilst it is rarely necessary when a player initially generates their character,
 
 ## 1.4 Characteristics
 
-Characteristics are the basic attribitues of a *Papers and Paychecks* character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Consitution (PER), and Charisma (CHA). 
+Characteristics are the basic attribitues of a *Papers and Paychecks* character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Perception (PER), and Charisma (CHA). 
 
 Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. "Papers and Paychecks" is "realistic" insofar that characteristics are random, but "narrativist", in the sense that players can intervene if they so choose to ensure that they have the sort of character they want. 
 
@@ -342,7 +342,7 @@ Characters in *Papers and Paychecks* have level one starting age based on their 
 | Old Age (60 to 79)	| -30% to Dex, -20% to Str, Con, +20% to Wis, Cha |
 | Venerable (80+)	| -50% to Dex, -30% to Str, Con, +30% to Wis, Cha |
 
-Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 20% less, but a bonus to Constitution and Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPCs. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
+Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporting both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPCs. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
 
 The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay for relevant professions and for Wisdom to represent their prudent expenditures and investments. 
 
@@ -364,7 +364,7 @@ For example, a character with a Strength of 18 will receive a +4 bonus for all S
 
 In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
-**Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A character's Strength determines their Physical Hit Points.
+**Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
 
 **Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest. At five times their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
 
@@ -1710,16 +1710,16 @@ As a large bird the macaw requires significant space in capativity - 15m at leas
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5        | Profession	 | Macaw |
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
+| Wisdom 	    |  1        |  -5        | Movement (flight) | 5 |
 | Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Perception	    |  1        |  -5	     | Wounds (Mental)   |   |
+| Perception	    |  10-11    |  +0	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Climb         | -5       | +1         |           | -4         |
-| Melee         | -5       |            |           | -5         |
-| Sense         | -5       | +3         |           | -2         |
+| Melee         | -5       |  +0          |           | -5         |
+| Sense (Hearing)  | +0       | +1         |           | -1         |
 
 *A Macaw story*
 
@@ -1752,7 +1752,7 @@ Famous for their intelligence, the rat is a social animal which communicates wit
 | Intelligence	    |  3        |  -4	     | Level	| 1	|
 | Wisdom 	    |  3        |  -4        | Movement           | 1 |
 | Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
-| Perception	    |  2        |  -4	     | Wounds (Mental)    |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)    |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1762,7 +1762,7 @@ Famous for their intelligence, the rat is a social animal which communicates wit
 | Melee         | -5       | +2         |           | -3         |
 | Gymnastics    | +2       | +4         |  +2       | +8         |
 | Stealth       | +3       | +4         |  +3       | +10        |
-| Sense (smell) | -4       | +1         |  -2       | -5         |
+| Sense (smell) | +2       | +1         |  +3       | +6         |
  
 *A rat story*
 
@@ -1788,7 +1788,7 @@ Domestic cat communication includes purring, hisses, growling, meowing, and a va
 | Intelligence	    |  2        |  -4	     | Level	| 1	|
 | Wisdom 	    |  2        |  -4        | Movement           | 2 |
 | Dexterity	    |  14       |  +2        | Wounds (Physical)  |   |
-| Perception	    |  4        |  -3	     | Wounds (Mental)    |   |
+| Perception	    |  18       |  +4	     | Wounds (Mental)    |   |
 | Charisma	    |  6	|  -2        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -1798,7 +1798,7 @@ Domestic cat communication includes purring, hisses, growling, meowing, and a va
 | Melee         | -4       | +2         |           | -2         |
 | Gymnastics    | +2       | +4         |  +2       | +8         |
 | Stealth       | +2       | +4         |  +2       | +8         |
-| Perception    | -3       | +4         |  +2       | +3         |
+| Sense (hearing)   | +4       | +4         |  +2       | +10         |
 
 Cats also have the special perk 'Cuteness', where they gain a special bonus of +2 against humans in social interactions; kittens receive a +3 bonus.
 
@@ -1822,16 +1822,16 @@ The various bovine species are herd animals with collective behaviour. The typic
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  30-60    |  +3 to +10 | Profession	 | Cow |
 | Intelligence	    |  2        |  -4	     | Level	         | 1	 |
-| Wisdom 	    |  2        |  -4        | Movement          | 12 |
+| Wisdom 	    |  2        |  -4        | Movement          | 6 |
 | Dexterity	    |  5        |  -3        | Wounds (Physical) |   |
-| Perception	    |  40-60    |  +15 to +25| Wounds (Mental)   |   |
+| Perception	    |  10-11    |  +0 | Wounds (Mental)   |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Intimidate    | +3 to +10| +1         | sp.       | +4 to +11  |
 | Melee         | +3 to +10| +1         | sp.       | +4 to +11  |
-| Perception    | +0 to +3 | +1         | sp.       | +1 to +4   |
+| Sense (hearing) | +0     | +1         | sp.       | +1         |
 
 A bovine is less able to apply it's full Strength to melee, intimidation etc. As a result the effective Strength is halved. For purposes of carrying capacity and weight however, the full strength is applied, as it will be if a character is trampled. Bovines have no fine manipulation - their effective Dexterity for such things is quartered.
 
@@ -1867,7 +1867,7 @@ Chimpanzees have a complex social organisation which varies between the species.
 | Melee         | +2 to +4 | +1         |           | +3 to +5   |
 | Survival	| -3 to -2 | +1		|	    | -2 to -1   |
 | Stealth	| +1 to +4 | +1		| +2	    | +4 to +7   |
-| Perception    | +1 to +4 | +1         |           | +2 to +5   |
+| Sense (sight) | +1 to +4 | +1         |           | +2 to +5   |
 
 The reduction in the chimps intimidation and the increase in their stealth skills is due to the relative difference between their relatively small size and significant strength. A second successful physical attack from a chimpanzee will do double damage, indicating a bite with its large and sharp canines.
 
@@ -1894,12 +1894,12 @@ Assuming avoidance of the knife, chickens will live for five to ten years and fe
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
 | Wisdom 	    |  1        |  -5        | Movement (scamper) | 4 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
-| Perception	    |  2        |  -4	     | Wounds (Mental)   |   |
+| Perception	    |  6        |  -2	     | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -5        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Perception    | -5       | +1         | +2        | -2         |
+| Sense (sight)    | -2       | +1         |         | -1         |
 
 A pre-adult chicken gets a +1 Cute bonus to Charisma. For what it's worth, a successful physical attack by a rooster will do double damage due to hind spurs, although they are often removed in domestication.
 
@@ -1926,7 +1926,7 @@ The shark has an estimated lifespan of fifty to seventy years, and reached sexua
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  25-55    |  +7 to +22 | Profession	 | Shark |
 | Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (swim)   | 18 |
+| Wisdom 	    |  1        |  -5        | Movement (swim)   | 9 |
 | Dexterity	    |  2        |  -4        | Wounds (Physical) |   |
 | Perception	    |  18-22    |  +4 to +6  | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -3        | Wounds (Social)   |   |
@@ -1934,7 +1934,7 @@ The shark has an estimated lifespan of fifty to seventy years, and reached sexua
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Gymnastics (aquatic) | -5       | +1  | +3        | -1         |
-| Perception    | +4 to +6 | +0         | +3        | +7 to +9   |
+| Sense (electromagnetic) | +4 to +6 | +0         | +3        | +7 to +9   |
 
 *A Shark story*
 
@@ -1960,7 +1960,7 @@ Rabbits are famous for their breeding rate; the gestation period is between 29 a
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  2        |  -4        | Profession	 | Rabbit |
 | Intelligence	    |  2        |  -4	     | Level	         | 1	 |
-| Wisdom 	    |  2        |  -4        | Movement 	 | 20 |
+| Wisdom 	    |  2        |  -4        | Movement 	 | 10-15 |
 | Dexterity	    |  15       |  +2        | Wounds (Physical) |   |
 | Perception	    |  2        |  -4	     | Wounds (Mental)   |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)   |   |
@@ -1970,7 +1970,7 @@ Rabbits are famous for their breeding rate; the gestation period is between 29 a
 | Jump	        | -4 	   | +2         | +3        | +1         |
 | Gymnastics	| -4       | +2  	| +3        | +1         |
 | Stealth	| +2 	   | +1		| +3	    | +6   	 |
-| Perception    | -4       | +2         | +3        | +1         |
+| Sense (Hearing)| -4       | +2         | +3        | +1         |
 
 Rabbits receive a +2 Cute bonus to their Charisma. Their have natural bonuses to the skills listed due to their physiology.
 
@@ -1996,16 +1996,16 @@ Dogs have advanced perception skills, including a sensitivity to the earth's mag
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1-13     |  -5 to +1  | Profession	 | Dog |
 | Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
-| Wisdom 	    |  5-10     |  -3 to +0  | Movement (flight) | 9 |
+| Wisdom 	    |  5-10     |  -3 to +0  | Movement (flight) | 8-15 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
-| Perception	    |  1-13     |  -5 to +1  | Wounds (Mental)   |   |
+| Perception	    |  17-18     |  +3 to +4  | Wounds (Mental)   |   |
 | Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Melee         | -5 to +1 | +1         | +1        | -4 to +2   |
-| Athletics (Sta)| -5 to +1| +1		| +1	    | -3 to +3   |
-| Perception    | -5 to +1 | +1         | +3        | -1 to +5   |
+| Melee         | -5 to +1 | +1         |           | -4 to +2   |
+| Athletics (Sta)| -5 to +1| +1		| 	    | -4 to +2   |
+| Sense (smell)  | +3 to +4 | +1         |          | +4 to +5   |
 
 A dog's bite does double physical damage.
 
@@ -2025,9 +2025,9 @@ Goats and sheep show significant variance in size according to breed and with se
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  2-20     |  -4 to +5  | Profession	 | Macaw |
+| Strength	    |  2-20     |  -4 to +5  | Profession	 | Sheep or Goat |
 | Intelligence	    |  4        |  -4	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -4        | Movement (flight) | 9 |
+| Wisdom 	    |  4        |  -4        | Movement (flight) | 3-8 |
 | Dexterity	    |  11       |  +0        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
@@ -2036,13 +2036,12 @@ Goats and sheep show significant variance in size according to breed and with se
 |---------------|----------|------------|-----------|------------|
 | Climb         | +0       | +1         | +3        | +4         |
 | Melee         | -4 to +5 | +1         |           | -3 to +6   |
-| Perception    | +2       | +1         |           | -3         |
+| Sense (Hearing)  | +2       | +1         |           | +3         |
 
 
 *A sheep and goat story*
 
 A genius decides that the team's end of year drinks should be held at a local inner city children's petting farm. Various inebriating fluids flow, providing a great opportunity to test the game's rules for the drinking of alcohol. Meanwhile, the two office practical jokers have wandered off somewhere in the middle of night with a bottle of wine. Someone in the group decides raises the possibility that they might be in some sort of trouble, whereas others take up the point of view that these likable characters are perhaps deserving of some privacy. When the characters finally decide to act, they will discover that both things are true. In their efforts to find a seculed spot for some paired athletics they have managed to open the gates and mix up a flock of sheep with a flock of goats. Somehow it will be up to the somewhat inebriated PCs to separate the sheep from the goats whilst at the same time ensuring that other team members don't disturb the new couple.
-
 
 **Horse (Equus ferus caballus)**
 
@@ -2053,21 +2052,22 @@ The gestation period of a horse is approximately 11 months, and the foal can sta
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  1        |  -5        | Profession	 | Macaw |
-| Intelligence	    |  1        |  -5	     | Level	         | 1	 |
-| Wisdom 	    |  1        |  -5        | Movement (flight) | 9 |
-| Dexterity	    |  9        |  -1        | Wounds (Physical) |   |
-| Perception	    |  1        |  -5	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | -5       | +1         |           | -4         |
-| Sense (hearing) | -5       | +3         |           | -2         |
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 *A horse story*
 
+Working for a marketing and lobbying company the PCs are assigned a task to reintroduce the horse to a major city by both regional horsebreeders (who have had a loss in income due to protests at horse racing events) in league an association of tourism groups. This will require lobbying of trader's associations and city council, providing excellent opportunity for weaved plots with other scenarios. When the lobbying is successful, horse will be allowed within the city precinct with much fanfare, with a massive opening festival where the PCs efforts are rewarded as guests of honour at the ceremony. The horses, of course, will have among the worst possible names (see 'Worst-Named Horses' for inspiration, `https://therail.blogs.nytimes.com/2008/05/20/worst-named-horses`). Unfortunately the city council has paid scant regard for the integration of existing road rules with the horse, and chaos erupts. It will be up to the PCs to both save the day and, due to their success, they also are honoured with the task of re-writing the traffic rules - regardless if anyone has an appropriate skill. In the course of their investigations they will also discover that regular payments have been made to some of the councillors from the tourism associations to fast-track and by-pass planning regulations for various events.
 
 
 ## 3.8 Monsters
