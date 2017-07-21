@@ -16,7 +16,7 @@ Released under Creative Commons Attribution-NonCommercial 3.0 Australia License 
 
 "Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
 
-Artwork by Dan 'Smif' Smith
+Artwork by Dan 'Smif' Smith and Randall Munroe (under license, see: `https://xkcd.com/license.html`).
 
 
 # Table of Contents
