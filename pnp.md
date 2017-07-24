@@ -2077,200 +2077,161 @@ Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Ele
 
 **Bollard (Bud)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 And if you are a driver apparently bollards, lamp posts 'pop out of nowhere'.
 
 **Bus (Blakey)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 Defective ticket machine
 
 **Car (Christine)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 **Conveyer Belt (Lucy)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 Originally from "I love Lucy"
 
 
 **Coffee Machine (Java)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 **Computer (Wintermute)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 **Dishwasher (Soapy)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 http://mydishwasherspossessed.com/
 
 **Elevator (Yo-yo)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 Elevators (maniacally helpful)
 
 **Fridge (EDIT)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 Moulds/slimes in fridge that used to be lunch...
@@ -2278,23 +2239,19 @@ Moulds/slimes in fridge that used to be lunch...
 
 **Gazebo (Gary)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 Moulds/slimes in fridge that used to be lunch...
@@ -2303,44 +2260,35 @@ Moulds/slimes in fridge that used to be lunch...
 
 **House (Usher)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 **Pen (Dick)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 Leakey pens?
 
 http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
@@ -2348,44 +2296,35 @@ http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
 
 **Photocopier (Mimic)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 **Toilett (Colin)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 Bio hazards in the office toilet...
@@ -2393,47 +2332,38 @@ Bio hazards in the office toilet...
 
 **Trolley (Wonkey)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  5    |  -4    |
-| Intelligence	|  3    |  -5	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 For true resistential evil, its hard to go past the wonky wheel trolley, whether as a shopping cart, a hand trolley, or anything similar. Whilst not exactly the brightest of monsters they are quite cunning and devious. They *know* exactly when to turn on the wonk, invariably resulting is a disaster. Worse still, as humans have foolishly congregated the trolleys together they have shared their skills and formed a union. Based on passing information they have decided to form their own chapter of the International Workers of the World (IWW) simply because their nickname ("the Wobblies"). They're not too sure of the some of the finer points of anarcho-syndicalism (and woe to the world if they ever do work it out) but they certainly understand the notion of "strike" and "monkey-wrenching".
 
 
 **Water Cooler (Eris)**
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  2    |  -4    |
-| Intelligence	|  2    |  -4	 |
-| Wisdom 	|  2    |  -4    | Movement           |   |
-| Dexterity	|  14   |  +2    | Wounds (Physical)  |   |
-| Perception	|  4    |  -3	 | Wounds (Mental)    |   |
-| Charisma	|  6	|  -2    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
 
 
 of scandal and dissent?
