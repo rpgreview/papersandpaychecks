@@ -2072,26 +2072,40 @@ Working for a marketing and lobbying company the PCs are assigned a task to rein
 
 ## 3.8 Monsters
 
-Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Elevator (Yo-yo), Computer (Wintermute), Elevator (Yo-yo), House (Usher), Pen (Dick), Photocopier (Mimic)
+'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of purpose and typically one that is directed against humans. 
+
+Bollard (Bud), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Elevator (Yo-yo), Computer (Wintermute), Elevator (Yo-yo), House (Usher), Pen (Dick), Photocopier (Mimic)
 
 
-**Bollard (Bud)**
+**Bollard**
+
+Simple, inoffensive, version of bollards are used for mooring boats or flexible designs for guiding vehicles. It is among those more solid and permanent varieties that designed to prevent traffic, and prevent vehicle access however is when a malicious component seeks in. In general there are two types; a rather low-tech iron post, and the modern versions which have illumination, are rising, or both. The low-tech varieties tend to quite stupid, although the will make use of their Stealth skill to deliberately hide themselves in the dark, and will add their melee skill to increase the damage caused by accidental ramming. A Bollard that has either illumination or is a rising bollard will have additional malicious intellect, whereas those which have both have the highest level of intelligence. 
+
+Bollards are designed to be heavily armoured; damage against them is quartered. Those with lighting can engage in a sudden area effect flash attack (based on the strength of the light) which can stun the targets on the bollard's STR minus the target's PER if within 10m of the Bollard. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Strength	    |  15       |  +2	     | Profession	 | Bollard |
+| Intelligence	    |  8-15     |  -1 to +2  | Level	         | 1	 |
+| Wisdom 	    |  10-11    |  +0        | Movement (running)| 0 |
+| Dexterity	    |  7        |  -2        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Melee         | +2 	   | +1         |           | +3         |
+| Flash         | +2 	   | +1         |           | +3         |
+| Sense (ESP)   | +1       | +2         |           | +3         |
+| Stealth	| +2	   | -2         |           | +0         |
 
-And if you are a driver apparently bollards, lamp posts 'pop out of nowhere'.
+*Bud, a Bollard*
+
+	
+
+
+
+
 
 **Bus (Blakey)**
 
