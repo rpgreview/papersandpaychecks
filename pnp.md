@@ -4,7 +4,7 @@
 
 by Lev Lafayette
 
-Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith
+Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
