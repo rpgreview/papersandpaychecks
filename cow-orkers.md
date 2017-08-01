@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/group.jpg" />
 
-by Lev Lafayette, Michael Cole et. al.
+by Lev Lafayette, Michael Cole, Daniel Callahan
 
-Playtesters: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby
+Playtesters and Reviewers: Andrew Daborn, Rodney Brown, Michael Cole, Simon Stainsby
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
@@ -14,6 +14,7 @@ The Cheerleader Profession by Fred
 Snail mail magic communications by Fred
 The Door-to-Door Wandering Monster by Fred
 So You Want it Darker? by Lev Lafayette and Jay Patterson
+Charles The Tall, Daniel Callahan
 
 ## Keep The Borderlands
 
@@ -250,4 +251,18 @@ the children who sell the cookies.
 # So, You Want It Darker?
 
 Papers & Paychecks in North Korea
+
+
+# Charles the Tall Intern
+
+Level: 3
+Character class: unknown
+
+Charles the Tall Intern appeared one day at the coffee machine, emptied the pot into
+a massive cup, slew a kobald, and went back to his desk. There, he sits all day
+planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
+
+That was three years ago. Since then, Charles the Tall's behavior has not changed,
+although his shoulders are more slumped, and he visits the Little Adventurer's Room
+more regularly.
 
