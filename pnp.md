@@ -2072,12 +2072,15 @@ The gestation period of a horse is approximately 11 months, and the foal can sta
 
 Working for a marketing and lobbying company the PCs are assigned a task to reintroduce the horse to a major city by both regional horsebreeders (who have had a loss in income due to protests at horse racing events) in league an association of tourism groups. This will require lobbying of trader's associations and city council, providing excellent opportunity for weaved plots with other scenarios. When the lobbying is successful, horse will be allowed within the city precinct with much fanfare, with a massive opening festival where the PCs efforts are rewarded as guests of honour at the ceremony. The horses, of course, will have among the worst possible names (see 'Worst-Named Horses' for inspiration, `https://therail.blogs.nytimes.com/2008/05/20/worst-named-horses`). Unfortunately the city council has paid scant regard for the integration of existing road rules with the horse, and chaos erupts. It will be up to the PCs to both save the day and, due to their success, they also are honoured with the task of re-writing the traffic rules - regardless if anyone has an appropriate skill. In the course of their investigations they will also discover that regular payments have been made to some of the councillors from the tourism associations to fast-track and by-pass planning regulations for various events.
 
-
 ## 3.8 Monsters
 
-'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of purpose and typically one that is directed against humans. 
+'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of intelligence and purpose and are invariably directed against humans. It is important to recognise the difference between these monsters and normal equipment. In the *Papers & Paychecks* universe, nature itself has a sort of self-correcting mechanism where successes are often ofset by failures which are sufficiently common that they are considered simply a bout of bad luck. Nature avoids a sense of contrivance in these situations; drop a piece of buttered toast and it will land butter-side down; test to see whether there is a statistical anomoly, and the universe won't give away any of its secrets, saving the failures for a non-obvious point in time.
 
-Bollard (Bud), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Elevator (Yo-yo), Computer (Wintermute), Elevator (Yo-yo), House (Usher), Pen (Dick), Photocopier (Mimic)
+Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Conveyer Belt (Lucy), Computer (Wintermute), Elevator (Yo-yo), Elevator (Yo-yo), Fridge (Claude), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
+
+Many of these monsters have Extra-Sensory Perception as their chief form of perception. Fortunately, it is quite limited, about as effective in range as human hearing. The monster ESP is also used for telepathic communication among other monsters, although curiously they understand the human language of the place of manufacture as their first language and often pick up a second human language if they have been exported. For example, a Renault monster car that was made in France and exported to the United States would have French as its first language and English as a second language. Monsters learn at the same rate and in the same manner as humans. 
+
+Whilst there are monsters who have expressed a desire to physically reproduce, none have managed to so yet. Indeed, none can recall when they were born, although many claim they recall the first time they understood the words of the humans who they live with. It would seem, therefore, that monsters are actually the spiritual progeny of humans, just as their physical form is in a material sense. Notably there have been no monsters who have "awakened" from equipment that is isolated from human contact. 
 
 
 **Bollard**
@@ -2105,8 +2108,32 @@ Bollards are designed to be heavily armoured; damage against them is quartered. 
 *Bud, a Bollard*
 
 	
+**Bomb (Dan O'Bombbomb)**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  15       |  +2	     | Profession	 | Bollard |
+| Intelligence	    |  8-15     |  -1 to +2  | Level	         | 1	 |
+| Wisdom 	    |  10-11    |  +0        | Movement (running)| 0 |
+| Dexterity	    |  7        |  -2        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Melee         | +2 	   | +1         |           | +3         |
+| Flash         | +2 	   | +1         |           | +3         |
+| Sense (ESP)   | +1       | +2         |           | +3         |
+| Stealth	| +2	   | -2         |           | +0         |
 
 
+> Bomb #20: False data can act only as a distraction. Therefore, I shall refuse to perceive.
+> Pinback: Hey, bomb?
+> Bomb #20: The only thing that exists is myself.
+> Pinback: Snap out of it, bomb.
+> *Dark Star*, 1974
+
+*Dan O'Bombbomb, a bomb*
 
 
 
@@ -2234,7 +2261,7 @@ http://mydishwasherspossessed.com/
 
 Elevators (maniacally helpful)
 
-**Fridge (EDIT)**
+**Fridge (Claude)**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2310,6 +2337,24 @@ Leakey pens?
 
 http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
 
+**Phone (Desire)**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Jump          | +20 to +45 | +1       |           | +21 to +46 |
+| Sense (hearing) | +2       | +3       |           | -2         |
+
+
+https://www.theatlantic.com/technology/archive/2012/03/naming-phones-naming-babies/330071/
 
 **Photocopier (Mimic)**
 
@@ -2326,6 +2371,8 @@ http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/
 |---------------|----------|------------|-----------|------------|
 | Jump          | +20 to +45 | +1       |           | +21 to +46 |
 | Sense (hearing) | +2       | +3       |           | -2         |
+
+
 
 **Toilett (Colin)**
 
