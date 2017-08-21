@@ -16,8 +16,7 @@ Released under Creative Commons Attribution-NonCommercial 3.0 Australia License 
 
 "Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
 
-Artwork by Dan 'Smif' Smith and Randall Munroe (under license, see: `https://xkcd.com/license.html`).
-
+Artwork by Dan 'Smif' Smith, Randall Munroe (under license, see: `https://xkcd.com/license.html`), and Pexels (under CC0 license, see `https://www.pexels.com/search/office/`)
 
 # Table of Contents
 
@@ -185,6 +184,11 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 **Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame.
 
 **Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame.
+
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/vealfattening.jpg" />
+
+> Welcome to hell. The veal-fattening pen.
+
 
 # 1.0 Character Generation
 
