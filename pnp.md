@@ -165,7 +165,7 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Boss, The**: A special type of player who manages the world, the actions of Non-Player Characters, who sets the scene, scenario, and challenges for Player-Characters. The Boss acts as both a narrator and referree.
 
-**Character**: A *natural* person (as opposed to a *legal* person, which includes companies and associations) in the *Papers & Paychecks* world. Characters are of two broad types, "Player-Characters" (PCs), those whose actions are primarily determined by a player (c.f.,), and "Non-Player Characters" (NPCs), whose actions are determined by The Boss. 
+**Character**: A *natural* person (as opposed to a *legal* person, which includes companies and associations) in the *Papers & Paychecks* world. Characters are of two broad types, "Player-Characters" (PCs), those whose actions are primarily determined by a player (c.f.,), and "Non-Player Characters" (NPCs), whose actions are determined by The Boss. See also *Worker*.
 
 **Characteristic**: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (PER), and Charisma (CHA).
 
@@ -184,6 +184,8 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 **Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame.
 
 **Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame.
+
+**Worker** A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/vealfattening.jpg" />
 
@@ -297,11 +299,11 @@ All player characters start with a Luck rating of 3 points. As a meta-game chara
 
 During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disasterous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck poin for making life difficult for their own character. 
 
-On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
+On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs Workers for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
 
 Keep in mind that these are an metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
 
-Note that for certain NPCs or items of equipment, the Boss may allocate Luck points to such characters reflecting their importance in the wider story. Unlike points for PCs, these will not improve.
+Note that for certain NPCs or items of equipment, the Boss may allocate Luck points to such characters reflecting their importance in the wider story. Unlike points for PC Workers, these will not improve.
 
 ## 1.3 Background
 
@@ -346,7 +348,7 @@ Characters in *Papers and Paychecks* have level one starting age based on their 
 | Old Age (60 to 79)	| -30% to Dex, -20% to Str, Con, +20% to Wis, Cha |
 | Venerable (80+)	| -50% to Dex, -30% to Str, Con, +30% to Wis, Cha |
 
-Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporting both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPCs. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
+Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporting both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPC. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
 
 The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay for relevant professions and for Wisdom to represent their prudent expenditures and investments. 
 
@@ -947,7 +949,7 @@ For example, Russel Wrench is a "Mastermind", and that is added in the the chara
 
 The Boss should show interest in how players use these results as it represents playing according to the character's psychological preferences. A consistent use of such character preferences by a player, especially when it is contrary to the character's interests at the time should result in a Luck Point reward.
 
-> Boss: OK, you're in for the big technical meeting. The manager and the team are there, all NPCs except you. Everyone's really pumped out and excited about this new roll-out of a massive new storage system for the company, with a new operating system and storage protocol. Everyone's talking over one another, scribbling on white boards and debating what tasks they're going to do. Rodney, what's your character, Russell Wrench, up to?
+> Boss: OK, you're in for the big technical meeting. The manager and the team are there, all NPC Workers except you. Everyone's really pumped out and excited about this new roll-out of a massive new storage system for the company, with a new operating system and storage protocol. Everyone's talking over one another, scribbling on white boards and debating what tasks they're going to do. Rodney, what's your character, Russell Wrench, up to?
 > 
 > Rodney: My character has Introversion at +2, I make a check and roll a ... ahh, an 12. Russell will pull out his laptop and start reading through some technical specifications for operating system and storage protocol.
 > 
@@ -1467,6 +1469,8 @@ This pair of rings are exchanged between significant others in the public ritual
 | Stealth       | +2    | +4     |  +2   | +8     |
 | Perception    | -3    | +4     |  +2   | +3     |
 
+*Al Kyne*, a scientist
+
 
 ## 3.3 Administrators
 
@@ -1773,9 +1777,9 @@ Famous for their intelligence, the rat is a social animal which communicates wit
  
 *A rat story*
 
-The PCs are working in a medical research centre, large hospital, or similar. Disasters do happen, both natural and human made, and in this situation a building has collapsed trapping several individuals underneath the rubble. Whilst emergency services are on their way, a disheveled medical manager barges into the PCs workplace pleading for assistance. One of the people deeply buried in the rubble was a patient with paroxysmal nocturnal hemoglobinuria, a rare disease which is treated with eculizumab (trade name 'Soliris'). This is the most expensive drug in the world, and the individual in question was in a room which contained five year's worth of the drug - which costs some several hundred thousands of dollars per year. An insightful PC will note that the reaction of the medical manager is that they are more concerned with the drug rather than the patient, who is presumably wealthy enough to afford the drug.
+The PC Workers are working in a medical research centre, large hospital, or similar. Disasters do happen, both natural and human made, and in this situation a building has collapsed trapping several individuals underneath the rubble. Whilst emergency services are on their way, a disheveled medical manager barges into the PC Workers' workplace pleading for assistance. One of the people deeply buried in the rubble was a patient with paroxysmal nocturnal hemoglobinuria, a rare disease which is treated with eculizumab (trade name 'Soliris'). This is the most expensive drug in the world, and the individual in question was in a room which contained five year's worth of the drug - which costs some several hundred thousands of dollars per year. An insightful PC Worker will note that the reaction of the medical manager is that they are more concerned with the drug rather than the patient, who is presumably wealthy enough to afford the drug.
 
-The PCs are well aware of this medical condition and the expense of the drug as one of them at least is involved in a labratory rat training programme where, like the HeroRats of Mozambique, they have been trained to sniff out the blood samples of people to determine whether they suffer from paroxysmal nocturnal hemoglobinuria. They have several rats with varying levels of training which could be used to locate their patient - and presumably the supplies - deep under the rubble.
+The PC Workers are well aware of this medical condition and the expense of the drug as one of them at least is involved in a labratory rat training programme where, like the HeroRats of Mozambique, they have been trained to sniff out the blood samples of people to determine whether they suffer from paroxysmal nocturnal hemoglobinuria. They have several rats with varying levels of training which could be used to locate their patient - and presumably the supplies - deep under the rubble.
 
 See: APOPO, 'Detecting Tubercluosis', `https://www.apopo.org/en` and Irvine, Martha. (1997-10-11) "A Rat's Trail. Rattie helps wire computer systems by going where no person can:. The Kansas City Star, Page E3
 
@@ -1811,7 +1815,7 @@ Cats also have the special perk 'Cuteness', where they gain a special bonus of +
 
 *A Cat Story*
 
-Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise serious and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PCs are directed to find the cat as the local police are obviously too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
+Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditionally believed by retailers of bringing in customers, and thus acting as an anti-austerity measure. In this episode an otherwise serious and conservative Japanese buisnessman has one affection and superstition - a pet bobtail. A competiting firm has hired a thief to steal the cat just prior to a major client contract being signed, with the hope that the loss of the cat will cause their negotiating skills to fail. The PC Workers are directed to find the cat as the local police are obviously too busy to search for a cat. A succession of clues will lead towards their thief, but as time goes on the businessman's behaviour will show signs stress as he becomes more desperate in the search for his cat, juxtaposing with his normally unflappable exterior.
 
 **Cattle (Bos primigenius taurus) and Water buffalo (Bubalus bubalis)**
 
@@ -1880,7 +1884,7 @@ The reduction in the chimps intimidation and the increase in their stealth skill
 
 *A Chimpanzee story*
 
-A Human Resources manager, who lives in a nearby inner city apartment, has a pet chimp named King Kong. A terrible workaholic the manager is known to their work home with them. What is less well known is that they're on a prescription of strong anti-anxiety drugs. The inevitable has happened and the chimp has gobbled down a handful drugs and is now undergoing a psychotic episode. The HR manager has arrived at work, understandably flustered, and appoints the PCs to recover their work laptop, which is now in the chimp's possession. The laptop in question has all employee, tax, and pay records and the HR manager isn't savvy enough to understand the difference between local and network drives. If the PCs raise an objection to undertaking the task, they will be pointed to a clause in their job description contract will requires them to undertake "Other duties as required".
+A Human Resources manager, who lives in a nearby inner city apartment, has a pet chimp named King Kong. A terrible workaholic the manager is known to their work home with them. What is less well known is that they're on a prescription of strong anti-anxiety drugs. The inevitable has happened and the chimp has gobbled down a handful drugs and is now undergoing a psychotic episode. The HR manager has arrived at work, understandably flustered, and appoints the PC Workers to recover their work laptop, which is now in the chimp's possession. The laptop in question has all employee, tax, and pay records and the HR manager isn't savvy enough to understand the difference between local and network drives. If the PC Workers raise an objection to undertaking the task, they will be pointed to a clause in their job description contract will requires them to undertake "Other duties as required".
 
 Arriving at the apartment tower, the chimp has attracted quite a crowd. It has thrown all the furniture  out of the apartment on to the streets below. This includes a sofa, a bed, and even a fridge, just to give a sense of its strength. It is now standing on the balcony with the laptop tucked under its arm making quite a racket. Attempts to take on the chimp directly on the balcony will see a character converted to street pizza. Observant characters will notice that on street level there is a store that sells drones. Piloting these towards the chimp will cause it to climb higher up the apartment block, re-enacting the famous final scene of its namesake.
 
@@ -1947,7 +1951,7 @@ The shark has an estimated lifespan of fifty to seventy years, and reached sexua
 
 Great White Shark tours attract a lot of money; with tickets costing upwards of $100, with several people per boat, and a few trips per day some good money can be made. But of course, there needs to be sharks otherwise customers are less than happy. Especially with a sign that says: "Close shark sighting guaranteed or your money back".
 
-Working for such a tour company the PCs are given the task to find out what sort of *music* attracts sharks. So they have to sit in an allegedly shark-proof cage and cycle through various tunes to work out what music attracts the beast. It turns out that the Great White is particularly interested in AC/DC, and apparently the low frequencies of the 'Back in Black' album. Accordingly for comic effect, other types of music will attract other types of fish. True to its polarised reviews, <i>Chinese Democracy</i> by Guns N' Roses will simultaneously attract the Great White and cause them to attack. Clever PCs may think that having even lower frequencies might even attract more Great Whites. Instead it will attract a very big shark. Very, very big indeed.
+Working for such a tour company the PC Workers are given the task to find out what sort of *music* attracts sharks. So they have to sit in an allegedly shark-proof cage and cycle through various tunes to work out what music attracts the beast. It turns out that the Great White is particularly interested in AC/DC, and apparently the low frequencies of the 'Back in Black' album. Accordingly for comic effect, other types of music will attract other types of fish. True to its polarised reviews, <i>Chinese Democracy</i> by Guns N' Roses will simultaneously attract the Great White and cause them to attack. Clever PC Workers may think that having even lower frequencies might even attract more Great Whites. Instead it will attract a very big shark. Very, very big indeed.
 
 Based on: "Great white sharks attracted by AC/DC hits", Angela Case, June 02, 2011
 `http://www.australiangeographic.com.au/news/2011/06/great-white-sharks-attracted-by-acdc-hits/`
@@ -1983,7 +1987,7 @@ Rabbits receive a +2 Cute bonus to their Charisma. Their have natural bonuses to
 
 *A rabbit story*
 
-A local airport (or other facility) has been overrun by rabbits. Due to a combination of wanting positive public relations, rather tham rabbit massacre, the rabbits are to be transported to a wilder and more location. Naturally enough the PCs are brought to manage this significant and difficult project, as the rabbits will prove to elusive with quite a complex of burrows. Cross-over potential with *GURPS Bunnies & Burrows* is high, and recommended - multiple groups can be run simultaneously, one representing the humans in *Papers & Paychecks* and the other *Bunnies & Burrows*.
+A local airport (or other facility) has been overrun by rabbits. Due to a combination of wanting positive public relations, rather tham rabbit massacre, the rabbits are to be transported to a wilder and more location. Naturally enough the PC Workers are brought to manage this significant and difficult project, as the rabbits will prove to elusive with quite a complex of burrows. Cross-over potential with *GURPS Bunnies & Burrows* is high, and recommended - multiple groups can be run simultaneously, one representing the humans in *Papers & Paychecks* and the other *Bunnies & Burrows*.
 
 From: Paris airport bunnies head for Cote d'Azur, Mar 11, 2004
 `http://www.terradaily.com/2004/040311165922.mhpuzt3n.html`
@@ -2014,11 +2018,11 @@ Dogs have advanced perception skills, including a sensitivity to the earth's mag
 | Athletics (Sta)| -5 to +1| +1		| 	    | -4 to +2   |
 | Sense (smell)  | +3 to +4 | +1         |          | +4 to +5   |
 
-A dog's bite does double physical damage.
+A dog's bite does double physical damage after armour.
 
 *A dog story*
 
-The PCs have the unfortunate job of repossession agents. Several items have to be re-acquired by a family that is not terribly keen on being separated from the gifts that they have received from their young son. It turns out that the son has acquired a credit card which they had falsely made out to a family dog; the name was sufficiently similar to a real person who had an income, credit rating, and previously lived at the address - all considered sufficient for the credit card company to approve the application. 
+The PC Workers have the unfortunate job of repossession agents. Several items have to be re-acquired by a family that is not terribly keen on being separated from the gifts that they have received from their young son. It turns out that the son has acquired a credit card which they had falsely made out to a family dog; the name was sufficiently similar to a real person who had an income, credit rating, and previously lived at the address - all considered sufficient for the credit card company to approve the application. 
 
 See also: "The Canine Mutiny" epsidoe of 'The Simpsons', 1997   
 `http://simpsons.wikia.com/wiki/The_Canine_Mutiny`
@@ -2048,7 +2052,7 @@ Goats and sheep show significant variance in size according to breed and with se
 
 *A sheep and goat story*
 
-A genius decides that the team's end of year drinks should be held at a local inner city children's petting farm. Various inebriating fluids flow, providing a great opportunity to test the game's rules for the drinking of alcohol. Meanwhile, the two office practical jokers have wandered off somewhere in the middle of night with a bottle of wine. Someone in the group decides raises the possibility that they might be in some sort of trouble, whereas others take up the point of view that these likable characters are perhaps deserving of some privacy. When the characters finally decide to act, they will discover that both things are true. In their efforts to find a seculed spot for some paired athletics they have managed to open the gates and mix up a flock of sheep with a flock of goats. Somehow it will be up to the somewhat inebriated PCs to separate the sheep from the goats whilst at the same time ensuring that other team members don't disturb the new couple.
+A genius decides that the team's end of year drinks should be held at a local inner city children's petting farm. Various inebriating fluids flow, providing a great opportunity to test the game's rules for the drinking of alcohol. Meanwhile, the two office practical jokers have wandered off somewhere in the middle of night with a bottle of wine. Someone in the group decides raises the possibility that they might be in some sort of trouble, whereas others take up the point of view that these likable characters are perhaps deserving of some privacy. When the characters finally decide to act, they will discover that both things are true. In their efforts to find a seculed spot for some paired athletics they have managed to open the gates and mix up a flock of sheep with a flock of goats. Somehow it will be up to the somewhat inebriated PC Workers to separate the sheep from the goats whilst at the same time ensuring that other team members don't disturb the new couple.
 
 **Horse (Equus ferus caballus)**
 
@@ -2074,7 +2078,7 @@ The gestation period of a horse is approximately 11 months, and the foal can sta
 
 *A horse story*
 
-Working for a marketing and lobbying company the PCs are assigned a task to reintroduce the horse to a major city by both regional horsebreeders (who have had a loss in income due to protests at horse racing events) in league an association of tourism groups. This will require lobbying of trader's associations and city council, providing excellent opportunity for weaved plots with other scenarios. When the lobbying is successful, horse will be allowed within the city precinct with much fanfare, with a massive opening festival where the PCs efforts are rewarded as guests of honour at the ceremony. The horses, of course, will have among the worst possible names (see 'Worst-Named Horses' for inspiration, `https://therail.blogs.nytimes.com/2008/05/20/worst-named-horses`). Unfortunately the city council has paid scant regard for the integration of existing road rules with the horse, and chaos erupts. It will be up to the PCs to both save the day and, due to their success, they also are honoured with the task of re-writing the traffic rules - regardless if anyone has an appropriate skill. In the course of their investigations they will also discover that regular payments have been made to some of the councillors from the tourism associations to fast-track and by-pass planning regulations for various events.
+Working for a marketing and lobbying company the PC Workers are assigned a task to reintroduce the horse to a major city by both regional horsebreeders (who have had a loss in income due to protests at horse racing events) in league an association of tourism groups. This will require lobbying of trader's associations and city council, providing excellent opportunity for weaved plots with other scenarios. When the lobbying is successful, horse will be allowed within the city precinct with much fanfare, with a massive opening festival where the PC Workers efforts are rewarded as guests of honour at the ceremony. The horses, of course, will have among the worst possible names (see 'Worst-Named Horses' for inspiration, `https://therail.blogs.nytimes.com/2008/05/20/worst-named-horses`). Unfortunately the city council has paid scant regard for the integration of existing road rules with the horse, and chaos erupts. It will be up to the PC Workers to both save the day and, due to their success, they also are honoured with the task of re-writing the traffic rules - regardless if anyone has an appropriate skill. In the course of their investigations they will also discover that regular payments have been made to some of the councillors from the tourism associations to fast-track and by-pass planning regulations for various events.
 
 ## 3.8 Monsters
 
@@ -2086,12 +2090,11 @@ Many of these monsters have Extra-Sensory Perception as their chief form of perc
 
 Whilst there are monsters who have expressed a desire to physically reproduce, none have managed to so yet. Indeed, none can recall when they were born, although many claim they recall the first time they understood the words of the humans who they live with. It would seem, therefore, that monsters are actually the spiritual progeny of humans, just as their physical form is in a material sense. Notably there have been no monsters who have "awakened" from equipment that is isolated from human contact. 
 
-
 **Bollard**
 
-Simple, inoffensive, version of bollards are used for mooring boats or flexible designs for guiding vehicles. It is among those more solid and permanent varieties that designed to prevent traffic, and prevent vehicle access however is when a malicious component seeks in. In general there are two types; a rather low-tech iron post, and the modern versions which have illumination, are rising, or both. The low-tech varieties tend to quite stupid, although the will make use of their Stealth skill to deliberately hide themselves in the dark, and will add their melee skill to increase the damage caused by accidental ramming. A Bollard that has either illumination or is a rising bollard will have additional malicious intellect, whereas those which have both have the highest level of intelligence. 
+Simple, inoffensive, version of bollards are used for mooring boats or flexible designs for guiding vehicles. It is among those more solid and permanent varieties that designed to prevent traffic, and prevent vehicle access however is when a malicious component seeks in. In general there are two types; a rather low-tech iron post, and the modern versions which have illumination, are rising, or both. The low-tech varieties tend to quite stupid, although the will make use of their Stealth skill to deliberately hide themselves in the dark, and will add their melee skill to increase the damage caused by accidental ramming. A Bollard that has either illumination or is a rising bollard will have additional malicious intellect, and the highest level of intelligence. 
 
-Bollards are designed to be heavily armoured; damage against them is quartered. Those with lighting can engage in a sudden area effect flash attack (based on the strength of the light) which can stun the targets on the bollard's STR minus the target's PER if within 10m of the Bollard. 
+Bollards are designed to be heavily armoured; damage against them is quartered. Those with lighting can engage in a sudden area effect flash attack (based on the strength of the light) which can stun the targets for a number of seconds based on the bollard's STR minus the target's PER if within 10m of the Bollard. This usually a surprise attack and enough to crash a vehicle. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2109,15 +2112,16 @@ Bollards are designed to be heavily armoured; damage against them is quartered. 
 | Sense (ESP)   | +1       | +2         |           | +3         |
 | Stealth	| +2	   | -2         |           | +0         |
 
-*Bud, a Bollard*
+*Bud, a Bollard* I+2 N+2 F+2 P+2
+Bud is a curious bollard, both in the sense of their personality and their attitude towards the world. Unlike other conscious bollards, including its grouchy neighbour, Bud actually wants to help people, hence the name. Working at a local university and strategically placed at the entrance of the engineering building Bud has tried very hard to communicate to Al Kyne (see scientist, 3.2) with whom 'he' (Bud identifies as male) has developed a bit of a crush on. On a number of occasions Bud has tried to 'flash' Al in morse code, but at this stage she has not recognised the attempt at communication and has simply assumed that the bollard has been broken. Bud has been "operated" on three occasions as a result. The PC Workers may encounter a crashed Al wrapped around Bud's malicious neighbour late one stormy evening at the university, whilst Bud desperately flashes an S-O-S to them. Will they recognise the call?
 
 	
-**Bomb (Dan O'Bombbomb)**
+**Bomb**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  15       |  +2	     | Profession	 | Bollard |
-| Intelligence	    |  8-15     |  -1 to +2  | Level	         | 1	 |
+| Strength	    |  See below  |  +varies | Profession	 | Bomb |
+| Intelligence	    |  3-21     |  -2 to +2  | Level	         | 1	 |
 | Wisdom 	    |  10-11    |  +0        | Movement (running)| 0 |
 | Dexterity	    |  7        |  -2        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
