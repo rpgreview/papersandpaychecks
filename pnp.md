@@ -2147,7 +2147,7 @@ One particular characteristic of bombs is, regardless of their other capacities,
 Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capacity of destroying a medium sized city. Dan calculating and is patiently waiting for the best possible opportunity to put his abilities to maximum effect. In addition to the standard ESP power to receive and understand human conversation, Dan has the insidious power of *suggestion*. With a slow and subtle attack spanning many days, Dan will engage in a mental attack the sanity of those within range making them more desirous of using Dan against the biggest possible target. For obvious reasons Dan will perfer to choose military or political leaders. Currently, Dan is housed in a national military facility where he has convinced through its whispering campaign against General Catastophe (see Managers, section 3.6) of the absolute need to declare war on a small developing world country. Dan is seeking the opportunity time that would lead to an imbalance of international affairs, hoping to create a situation where the entire world is destroyed due the brilliant set of cascading events (the death-instinct is strong in Dan). The PC Workers will be employed as last minute technicians as international diplomacy breaks down to check on the status of the weapons. They will probably note the poor behaviour of the General and, as they do so, Dan will try his suggestion powers against the other PCs.
 
 
-**Bus (Blakey)**
+**Bus**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2162,6 +2162,8 @@ Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capa
 |---------------|----------|------------|-----------|------------|
 | Jump          | +20 to +45 | +1       |           | +21 to +46 |
 | Sense (hearing) | +2       | +3       |           | -2         |
+
+*Blakey, a bus*
 
 
 Defective ticket machine
