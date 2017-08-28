@@ -2109,7 +2109,7 @@ Bollards are designed to be heavily armoured; damage against them is quartered. 
 |---------------|----------|------------|-----------|------------|
 | Melee         | +2 	   | +1         |           | +3         |
 | Flash         | +2 	   | +1         |           | +3         |
-| Sense (ESP)   | +1       | +2         |           | +3         |
+| Sense (ESP)   | +2       | +2         |           | +4         |
 | Stealth	| +2	   | -2         |           | +0         |
 
 *Bud, a Bollard* I+2 N+2 F+2 P+2
@@ -2118,31 +2118,33 @@ Bud is a curious bollard, both in the sense of their personality and their attit
 	
 **Bomb**
 
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  See below  |  +varies | Profession	 | Bomb |
-| Intelligence	    |  3-21     |  -2 to +2  | Level	         | 1	 |
-| Wisdom 	    |  10-11    |  +0        | Movement (running)| 0 |
-| Dexterity	    |  7        |  -2        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Melee         | +2 	   | +1         |           | +3         |
-| Flash         | +2 	   | +1         |           | +3         |
-| Sense (ESP)   | +1       | +2         |           | +3         |
-| Stealth	| +2	   | -2         |           | +0         |
-
-
 > Bomb #20: False data can act only as a distraction. Therefore, I shall refuse to perceive.
 > Pinback: Hey, bomb?
 > Bomb #20: The only thing that exists is myself.
 > Pinback: Snap out of it, bomb.
 > *Dark Star*, 1974
 
-*Dan O'Bombbomb, a bomb*
+A bomb is a being of great variation, ranging from the simple concussion or fragmentation hand grendade to the nuclear weapon, all of which can be represented in their characteristics with their Strength also reflecting their explosive force (a value of '10' for example is typical of a grenade. A 10 megaton nuclear bomb is probably in the range of several thousand. In other words, whatever The Boss wants. Bombs also have a great range in their intellect and dexterity. Some are truly stupid, and lumberuous, require humans to direct them entirely in a single trajectory, whereas others are very intelligent (smart bombs) and agile. Both of these are often associated with their perceptual abilities. Whilst many bombs have little in terms of their persuasive ability, humans often develop affection for bombs, especially those which are powerful. Some even develop a romantic attachment, c.f., "How I stopped worrying and learned to love the bomb".
 
+One particular characteristic of bombs is, regardless of their other capacities, all bombs are *wise*. Unless their perceptual qualities are somehow damaged, they are monsters of a particularly stubborn willpower, very aware of their one purpose in life and how it will be the end of their consciousness (perhaps a possible exception would be a malicious Buddhist bomb). They will not waste their one opportunity to shine very, very, brightly.
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  See below  |  +varies | Profession	 | Bomb |
+| Intelligence	    |  3-21     |  -4 to +5  | Level	         | 1	 |
+| Wisdom 	    |  18       |  +4        | Movement (running)| 0 |
+| Dexterity	    |  3-21     |  -4 to +5  | Wounds (Physical) |   |
+| Perception	    |  1-21     |  -5 to +5  | Wounds (Mental)   |   |
+| Charisma	    |  1-8	|  -5 to -1   | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (ESP)   | -5 to +5 | +0 to +5   |           | -5 to +10  |
+
+
+*Dan O'Bombbomb, a bomb* E+1 N+2 T+3 J+3
+Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capacity of destroying a medium sized city. Dan calculating and is patiently waiting for the best possible opportunity to put his abilities to maximum effect. In addition to the standard ESP power to receive and understand human conversation, Dan has the insidious power of *suggestion*. With a slow and subtle attack spanning many days, Dan will engage in a mental attack the sanity of those within range making them more desirous of using Dan against the biggest possible target. For obvious reasons Dan will perfer to choose military or political leaders. Currently, Dan is housed in a national military facility where he has convinced through its whispering campaign against General Catastophe (see Managers, section 3.6) of the absolute need to declare war on a small developing world country. Dan is seeking the opportunity time that would lead to an imbalance of international affairs, hoping to create a situation where the entire world is destroyed due the brilliant set of cascading events (the death-instinct is strong in Dan). The PC Workers will be employed as last minute technicians as international diplomacy breaks down to check on the status of the weapons. They will probably note the poor behaviour of the General and, as they do so, Dan will try his suggestion powers against the other PCs.
 
 
 **Bus (Blakey)**
