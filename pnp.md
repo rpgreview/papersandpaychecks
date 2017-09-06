@@ -2578,6 +2578,26 @@ Note that, as a matter of design and the aesthetic of the original cartoon, the 
 
 This design gives The Boss some additional control compared to some other game systems in gently leading the episode's plot trajectory. The Boss in *Papers & Paychecks*, if they have designed the episode properly, should be less concerned of the plot going off the rails from a particularly poor or spectacular die-roll. By the same token, it is imperative then that The Boss never design a necessary challenge in a episode that the characters *cannot* overcome. By all means, make it astoudingly difficult. Design the episode's main challenge in such a manner that the PCs need to pool their resources, acquire a special item of equipment, call in favours, *and* get lucky with the die roll, but *never* make the main challenge impossible, unless of course, they are *meant* to fail in order to take the narrative in a different direction.
 
+**Plot Devices and Mechanisms**
+
+Plot devices are often literal device which can be used to push the narrative forward. The device itself can be critical to the story itself (such as The One Ring in 'The Lord of the Rings') or it can be quite independent (the notion of "The MacGuffin", a term popularised by Alfred Hitchcock, of which the falcon in 'The Maltese Falcon' is a classic example). Judicious use of plot devices can drive the characters into making critical decisions about the direction of the narrative, and as such the devices themselves have to be important to characters, that the character would feel attachments towards; perhaps a treasured item from their own possessions, or an object of great desire. As always, the Boss should listen for these signals that often come from the player's description of their characters. In a world where objects themselves have particular personalities the opportunity exists to present plot devices with additional layer of humour. The character who desires a "hot rod" of a car will end with something like Stephen King's 'Christine', whereas the one who seeks the best computer system will find themselves with William Gibson's 'Wintermute' and so forth. 
+
+Literal objects are, of course, not the only form of plot device. Sometimes they more abstract elements which are sometimes referred to as "plot mechanism" to differentiate. Consider events such as mistaken identity and intrigue (consider Shakespeare's use of these comic plot devices), hallucinations (e.g., Phillip K. Dick), red herrings in mysteries, and so forth. Overall however, plot devices - whether literal or abstract - must apply the dramatic rule of "Chekov's Gun"; if an element is introduced to a story, it must become relevant to the story. If a gun is introduced, it must be fired, and in a dramatic manner - otherwise what's the point of introducing it?
+
+Because *Papers & Paychecks* is set in a workplace environment there is numerous opportunties to introduce all sorts of the usual elements of plot devices and plot mechanisms. However the specific environment also means the opportunity to make use of something that we modern workers will be all too familiar with - ridiculous workplace rules. The following is a small selection of some real world examples. What this are often bizarre in the own right, again it is emphasised that if a Boss does see the need to introduce them, that they are for a narrative and character development purpose.
+
+
+* Performance criteria being based on work that has nothing to do with your job. "[M]y performance evaluation is based on student improvement on the STAR literacy test. I teach wood shop."
+* Special rules for special divisions of the organisation. "HR held a meeting to tell us that there was too much swearing on the sales floor. Someone raised their hand and pointed out that swearing is very common in our industry and that is the way that our customers speak. HR later sent out a memo explaining that swearing should be limited to conversations with clients."
+* Special perks for compliant workers or position. "The company hired a 'Corporate Efficiency Specialist' [who] implemented all kinds of rules... the higher your office rank, the more 'perks' you get... Number of pictures you are allowed in your cubicle... Whether you are allowed to have a potted plant or not.ll Coffee mugs were only allowed to senior employees. Others had to use paper cups. Being allowed to leave the office for lunch."
+* Prohibitive stationery rules. :I once needed a pen. Figured this was a reasonable ask. Went to the supply closet on my floor, which was locked. Asked the floor's admin, she told me to go to the main supply room in the basement. Went to the basement and explained my situation of needing a pen. They told me all requests for supplies must be approved by my department head. Problem is, being new, I'd never met my department head. She also worked in San Francisco (I worked in Milwaukee), so I needed to send an email both introducing myself, and asking her if I had permission to get a pen from the supply closet."
+* Corporate language. "My workplace doesn't let you use the word 'problems'. Instead, we have to say 'challenges' if something is wrong. As a problem is a negative word, and challenges promotes the fact that there is room to fix said problem"
+* Restrictive attendance rules. "If you were literally :01 seconds late clocking in, even hours before the store opened, it was a really, really big deal. You'd not only be formally written up, but lectured like a child often times berated even. If you were tardy three times, bye-bye. HOWEVER, if you no-showed and then called 2 hours later saying you were sick?—okay, thank you, feel better. This trained everyone to just take a sick day instead of being half a second late to work."
+
+
+
+
+
 
 http://tau-iota-mu-c.livejournal.com/130071.html
 
@@ -2931,6 +2951,7 @@ Drinking rules were assisted by the Australian Government Department of Health "
 
 Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., and Geo Stone, "Suicide and Attempted Suicide", 1999.
 
+Workplace Rules from: `https://www.reddit.com/r/AskReddit/comments/6wqihh/whats_the_most_ridiculous_rule_in_your_place_of/`
 
 **Roleplaying Games**
 
