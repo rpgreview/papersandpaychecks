@@ -58,8 +58,8 @@ Artwork by Dan 'Smif' Smith, Randall Munroe (under license, see: `https://xkcd.c
 
 4.0 The Boss Book
 4.1 Being The Boss
-4.2 Running The Session
-4.3 Episode and Season Design
+4.2 Episode and Season Design
+4.3 Running The Session
 
 5.0 Scenarios : Fear and Loathing in Wellington
 5.1 Setting: "My Life with Boss"
@@ -2534,16 +2534,8 @@ But the second half of a roleplaying game is the notion of a game, and a game ha
 The sort of design features that lead to a poor game experience are numerous. A common experience is that application of the system gives results that break the sense of verisimilitude and the immersive sense that it generates.  Another example is when the game system provides numerous alternative systems within the game for resolution, where every case becomes a special case. Another problem is where the game system provides overly complex methods for resolution when simpler versions would suffice. Finally, a game system could attempt to be a 'model of reality', rather than a selective model, forgetting that a model must be a simplified version of the reality it is trying to simulate. Or it doesn't cover the important aspects that are likely to be encountered in the game experience.
 
 The practical problems of these game system problems are well known. A lack of verisimilitude is commonly experienced with the refrain "But that's not realistic!". The multitude of game system resolution methods leads to confusion, erercting a barrier of entry and understanding to players. Overly complex resolution methods act a drag on the game experience, as do overly detailed rules, as players attempt to find the game rule relevant to their situation; and a lack of detail leads to players having to make ad-hoc rules which lead to potential of inconsistency.
-
-
-## 4.2 Running The Session
-
-**Personality Types**
-
-http://thoughtcatalog.com/heidi-priebe/2015/05/the-definition-of-hell-for-each-myers-briggs-personality-type/			
-																																																																																																																																																												
-
-## 4.3 Episode and Season Design
+																																																																																																																																																											
+## 4.2 Episode and Season Design
 
 **Probability**
 
@@ -2586,20 +2578,53 @@ Literal objects are, of course, not the only form of plot device. Sometimes they
 
 Because *Papers & Paychecks* is set in a workplace environment there is numerous opportunties to introduce all sorts of the usual elements of plot devices and plot mechanisms. However the specific environment also means the opportunity to make use of something that we modern workers will be all too familiar with - ridiculous workplace rules. The following is a small selection of some real world examples. What this are often bizarre in the own right, again it is emphasised that if a Boss does see the need to introduce them, that they are for a narrative and character development purpose.
 
-
 * Performance criteria being based on work that has nothing to do with your job. "[M]y performance evaluation is based on student improvement on the STAR literacy test. I teach wood shop."
 * Special rules for special divisions of the organisation. "HR held a meeting to tell us that there was too much swearing on the sales floor. Someone raised their hand and pointed out that swearing is very common in our industry and that is the way that our customers speak. HR later sent out a memo explaining that swearing should be limited to conversations with clients."
-* Special perks for compliant workers or position. "The company hired a 'Corporate Efficiency Specialist' [who] implemented all kinds of rules... the higher your office rank, the more 'perks' you get... Number of pictures you are allowed in your cubicle... Whether you are allowed to have a potted plant or not.ll Coffee mugs were only allowed to senior employees. Others had to use paper cups. Being allowed to leave the office for lunch."
+* Special perks for compliant workers or position. "The company hired a 'Corporate Efficiency Specialist' [who] implemented all kinds of rules... the higher your office rank, the more 'perks' you get... Number of pictures you are allowed in your cubicle... Whether you are allowed to have a potted plant or not. Coffee mugs were only allowed to senior employees. Others had to use paper cups. Being allowed to leave the office for lunch."
 * Prohibitive stationery rules. :I once needed a pen. Figured this was a reasonable ask. Went to the supply closet on my floor, which was locked. Asked the floor's admin, she told me to go to the main supply room in the basement. Went to the basement and explained my situation of needing a pen. They told me all requests for supplies must be approved by my department head. Problem is, being new, I'd never met my department head. She also worked in San Francisco (I worked in Milwaukee), so I needed to send an email both introducing myself, and asking her if I had permission to get a pen from the supply closet."
 * Corporate language. "My workplace doesn't let you use the word 'problems'. Instead, we have to say 'challenges' if something is wrong. As a problem is a negative word, and challenges promotes the fact that there is room to fix said problem"
 * Restrictive attendance rules. "If you were literally :01 seconds late clocking in, even hours before the store opened, it was a really, really big deal. You'd not only be formally written up, but lectured like a child often times berated even. If you were tardy three times, bye-bye. HOWEVER, if you no-showed and then called 2 hours later saying you were sick?—okay, thank you, feel better. This trained everyone to just take a sick day instead of being half a second late to work."
 
+**Events and Personality Types**
+
+When driving the characters to make decisions, triggers to the personality of the character is primary. These can be introduced at any point during an episode or even as an ongoing obstacle. Whilst there are a number which can be orientated towards the those elements which the character has independently of their personality, there is much comic joy in introducing elements which challenge the character's personality type. The following are some examples, all of which can constitute "adventure seeds" of their very own.
+
+ESFJ (Kiersey Providers): The Provider character finds that others are refusing their offers of assistance for real or imagined slights. Their own manager questions their "interfering" behaviour. "If we want your help we'll ask for it". Another character really needs the Provider's assistance, but the Provider, for whatever reason, cannot give it to them.
+
+ISFJ (Kiersey Protectors): A mistake or other action by the Protector leads to a breach of security or safety. After being appropriately castigated, the Protector is removed from a project. However they then discover a way to fix their previous error, but only they can do it - and now they are prohibited from doing so.
+
+ESTJ (Kiersey Supervisors): The Supervisor character experiences numerous frustrations in their desire to manage situations both external and internal because their manager is incompetent, impractical, oblivious to reason, and in absolute command. Worse still, the are a micromanager and expect the Supervisor to follow their destructive orders.
+
+ISTJ (Kiersey Inspectors): The Inspector is given the task to review a supposedly critical project. The project lacks guidelines, objectives, and a chain of command. When this is reported, they are castigated for bringing the project into poor repute and are ordered to rewrite their report to put the project in a positive light.
+ 
+ESFP (Kiersey Performer): The Performer is given a task in historical archiving. The work is solitary, the environment dull, and there's no right or opportunity to change it. Their immediate manager is an utterly dour and humourless individual. 
+
+ISFP (Kiersey Composer): The Composer character is given a detailed operational task, where every procedure and sub-procedure is carefully managed and adventerous aleration on even the most minor matter will lead to cascading failures. Proposals by the character for alteration to the procedures are rejected as 'unoriginal'.
+
+ESTP (Kiersey Promoter): The Promoter character is working on an exciting, transformative project that has enormous ramifications. However it is also under a strict non-disclosure agreement, the work environment is smothered by deteailed regulations and mundane tasks, and the co-workers are thoroughly indifferent to the potential of the final product. 
+
+ISTP (Kiersey Crafter): The Crafter notices cow-orkers struggling over a series of manual and technical tasks for which they are particularly well-suited but cannot intervene due to Occupational Health and Safety regulations. If they raise the issue with their superiors they will be assigned the task to write a strategic review to implement changes to the regulations - but not the specific changes themselves.
+
+ENFP (Kiersey Champion): The Champion is given a set of technical tasks which they are poorly suited for with a strict schedule and require a great deal of indvidual focus and concentration. When seeking assistance their necessary cow-orkers are quiet and studious but otherwise uninspired.
+
+INFP (Kiersey Healer): Assigned empirical tasks for a morally questionable outcome, the Healer character finds themselves the target for widespread and even public inter-office gossip for their sense of taste. 
+
+ENFJ (Kiersey Teacher): An authority which the Teacher character respects is making some terrible decisions. Attempts to communicate these issues are turned on to the character who is accused of gratuitous self-promotion, and is given a mountain of analytical work to complete. 
+
+INFJ (Kiersey Counsellor): The Counselor character find themselves working in a vertical marketing scheme which is based on a morally abhorrent foundation (e.g. a company that produces medical-grade pain killers is purchased by an arms manufacturer which actively lobbies for military conflicts). Their immediate manager has no ethical qualms about the situation seeing the possibility of profit as an opportunity for expansion and promotion.
+
+ENTP (Kiersey Inventor): The Inventor character finds themselves in a work project which criticism of plans or cow-orkers is seriously discouraged in the interest of ensuring a cohesive team. When the character raises matters for debate, they are assigned a nightmare set of time-consuming tasks which are simple and routine. 
+
+INTP (Kiersey Architect): The Architect character is assigned the task of a social and qualitative survey on a very well-known topic. The subjects who they interview however are completely ignorant of the subject-matter at hand and will respond to survey questions will unsubstantiated leaps of logic based on emotional responses. 
+
+ENTJ (Kiersey Fieldmarshal): After several successes the Fieldmarshall character is again overlooked for a more senior strategic position who is demonstrably inferior in every way to the tasks required. When the inevitable disasters occur, the new strategist assigns the Field Marshall a series of time-consuming "feel good" exercises.
+
+INTJ (Kiersey Mastermind): The Mastermind is put on the spot to provide a public speech on a subject which they know little about to an audience of experts. Whilst preparing for their presentation their time is challenged by a succession of management meetings for progress updates.
 
 
+## 4.3 Running The Session
 
 
-
-http://tau-iota-mu-c.livejournal.com/130071.html
 
 # 5.0 Scenarios : Fear and Loathing in Wellington
 
@@ -2951,7 +2976,10 @@ Drinking rules were assisted by the Australian Government Department of Health "
 
 Drowning and Suffocation rules were assisted by: Molecular Products Technical Article, "A Guide to Breathing Rates in Confined Environments", (undated)., and Geo Stone, "Suicide and Attempted Suicide", 1999.
 
-Workplace Rules from: `https://www.reddit.com/r/AskReddit/comments/6wqihh/whats_the_most_ridiculous_rule_in_your_place_of/`
+Events and Personality types inspired by "The Definition Of Hell For Each Myers-Briggs Personality Type", `https://thoughtcatalog.com/heidi-priebe/2015/05/the-definition-of-hell-for-each-myers-briggs-personality-type/`
+
+Workplace Rules from: `https://www.reddit.com/r/AskReddit/comments/6wqihh/whats_the_most_ridiculous_rule_in_your_place_of/`. See also:
+`https://www.reddit.com/r/AskReddit/comments/4lhy7g/whats_the_most_idiotic_rule_your_workplace_has/`, `https://www.reddit.com/r/AskReddit/comments/4j9e3z/what_is_the_dumbest_rule_at_your_job/`, `https://www.reddit.com/r/AskReddit/comments/1dkpjg/what_is_the_dumbest_rule_your_workplace_or_school/`
 
 **Roleplaying Games**
 
@@ -2960,8 +2988,6 @@ D20 Modern
 Leverage
 
 My Life With Master
-
-
 
 ## 6.2 Charts and Tables
 
