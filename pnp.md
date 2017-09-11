@@ -2147,23 +2147,26 @@ One particular characteristic of bombs is, regardless of their other capacities,
 Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capacity of destroying a medium sized city. Dan calculating and is patiently waiting for the best possible opportunity to put his abilities to maximum effect. In addition to the standard ESP power to receive and understand human conversation, Dan has the insidious power of *suggestion*. With a slow and subtle attack spanning many days, Dan will engage in a mental attack the sanity of those within range making them more desirous of using Dan against the biggest possible target. For obvious reasons Dan will perfer to choose military or political leaders. Currently, Dan is housed in a national military facility where he has convinced through its whispering campaign against General Catastophe (see Managers, section 3.6) of the absolute need to declare war on a small developing world country. Dan is seeking the opportunity time that would lead to an imbalance of international affairs, hoping to create a situation where the entire world is destroyed due the brilliant set of cascading events (the death-instinct is strong in Dan). The PC Workers will be employed as last minute technicians as international diplomacy breaks down to check on the status of the weapons. They will probably note the poor behaviour of the General and, as they do so, Dan will try his suggestion powers against the other PCs.
 
 
-**Bus**
+**Bus** 
+
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
+| Strength	    |  150-300  |  +70 to +140   | Profession	 | Bus |
+| Intelligence	    |  7-9      |  -2 to -1  | Level	         | 1	 |
+| Wisdom 	    |  10-11    |  -3        | Movement (running)| 10-60 |
+| Dexterity	    |  10-11    |  +0        | Wounds (Physical) |   |
+| Perception	    |  10-11    |  +0	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Melee         | +70 to +140  | +1         |       | +71 to +141|
+| Sense (ESP)   | +0       | +1         |           | +1         |
 
-*Blakey, a bus*
+*Blakey, a bus* I+2 S+1 T+1 J+4
+Petty, aggressive, and with a 
 
 
 Defective ticket machine
