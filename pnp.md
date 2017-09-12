@@ -2155,54 +2155,44 @@ In terms of personality, sapient buses have a modicum of intellect, but are also
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  75-300   |  +35 to +140   | Profession	 | Bus |
+| Strength	    |  75-300   |  +33 to +140   | Profession	 | Bus |
 | Intelligence	    |  7-9      |  -2 to -1  | Level	         | 1	 |
 | Wisdom 	    |  10-11    |  -3        | Movement          | 10-60 |
-| Dexterity	    |  10-11    |  +0        | Wounds (Physical) |   |
+| Dexterity	    |  6-7      |  -2        | Wounds (Physical) |   |
 | Perception	    |  3-8      |  -4 to -1  | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Melee         | +10 to +60  | +1     |           | +36 to +141|
-| Sense (ESP)   | +0       | -4 to -1   |           | -4 to -1   |
+| Melee         | +10 to +60  |        |            | +10 to +60 |
+| Sense (ESP)   | -4 to -1 |           |	    | -4 to -1   |
 
 *Blakey, a bus* I+2 S+1 T+1 J+4
-Petty, aggressive, and with an alarming sense of superiority, Blakey is a classic London double-decker bus with an attitude. Fortunately for drivers, passengers, and the general public, Blakey has a shocking sense of perception and is therefore relevatively easy to deceive. Due their sense of following regulations, Blakey often finds themselves in conflict between the dual requirements of road rules and timetables. As a result, if Blakey is running late (which is common), genuine attempts will be made to speed up when people are running towards a stop or try to ignore it entirely, brake hard at lights and so forth. With their malicious sense, Blakey's ticketing machine will fail miserably when plain-clothed ticket inspectors are on board, and will charge double if they are not.
+Petty and with an alarming sense of superiority, Blakey is a classic London double-decker bus with an attitude. Fortunately for drivers, passengers, and the general public, Blakey has a shocking sense of perception and is therefore relevatively easy to deceive. It is also fortunate that despite being a dangerous vehicle, Blakey does not have a murderous hate for humanity (because that would be against the rules) but rather is aggravated when things do not go to a very specific plan. Due a sense of following regulations, Blakey often finds themselves in conflict between the dual requirements of road rules and timetables. As a result, if Blakey is running late (which is common), genuine attempts will be made to speed up when people are running towards a stop or try to ignore it entirely, brake hard at lights and so forth. With their malicious sense, Blakey's ticketing machine will fail miserably when plain-clothed ticket inspectors are on board, and will charge double if they are not.
 
-**Car (Christine)**
+**Car**
 
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+A car is a vehicle used for personal or small group transit. They typically operate with an internal combustion engine, although recent models use electric or hybrid motors. The most common forms are are designed to carry from 1 to 4 passengers, and usually have some room for the transport for a small cargo of goods. Cars are a world-wide phenomenon, with roughly one car per five people worldwide with a greater concentration in wealthier economies. A significant amount of human space is taken up for cars, including roads, parking lots, garages etc. It in the context of *Papers & Paychecks* it is not implausible to suggest that they are the dominant species on the planet. Like buses, the most modern cars have enhanced "perceptual" qualities, for detecting other vehicles and other obstacles. Also like a bus, a car's bus' main attack mechanism is to run over an opponent, although the have less weight the do have superior mobility. Likewise, the variation in their melee bonus will depend on their velocity on impact.
 
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
-
-**Conveyer Belt (Lucy)**
+Sapient cars are relatively common in the *Papers & Paychecks* world and are known for being free spirits, highly intelligent, and charismatic. They vary from the more common mischevious to the downright malicious. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  50-75    |  +20 to +33| Profession	 | Car   |
+| Intelligence	    |  12-13    |  +1	     | Level	         | 1	 |
+| Wisdom 	    |  8-9      |  -1        | Movement          | 10-80 |
+| Dexterity	    |  10-11    |  +0        | Wounds (Physical) |   |
+| Perception	    |  4-8      |  -3 to -1  | Wounds (Mental)   |   |
+| Charisma	    |  6-7	|  -2        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Melee         | +10 to +80  |         |           | +10 to +80  |
+| Sense (ESP)   | -3 to -1  |           |           | -3 to -1   |
 
-Originally from "I love Lucy"
+*Christine* I+3 N+1 T+1 J+4
+
+
 
 
 **Coffee Machine (Java)**
