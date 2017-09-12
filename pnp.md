@@ -2100,7 +2100,7 @@ Bollards are designed to be heavily armoured; damage against them is quartered. 
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  15       |  +2	     | Profession	 | Bollard |
 | Intelligence	    |  8-15     |  -1 to +2  | Level	         | 1	 |
-| Wisdom 	    |  10-11    |  +0        | Movement (running)| 0 |
+| Wisdom 	    |  10-11    |  +0        | Movement          | 0 |
 | Dexterity	    |  7        |  -2        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
@@ -2133,7 +2133,7 @@ One particular characteristic of bombs is, regardless of their other capacities,
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  See below  |  +varies | Profession	 | Bomb |
 | Intelligence	    |  3-21     |  -4 to +5  | Level	         | 1	 |
-| Wisdom 	    |  18       |  +4        | Movement (running)| 0 |
+| Wisdom 	    |  18       |  +4        | Movement          | 0 |
 | Dexterity	    |  3-21     |  -4 to +5  | Wounds (Physical) |   |
 | Perception	    |  1-21     |  -5 to +5  | Wounds (Mental)   |   |
 | Charisma	    |  1-8	|  -5 to -1   | Wounds (Social)   |   |
@@ -2149,27 +2149,26 @@ Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capa
 
 **Bus** 
 
+A bus is a large multipassenger vehicle used for mass transit, typically with an internal combustion engine, although some use electric engines or are guided by electric lines (trolley buses). The most common forms are are designed to carry from 12 to 60 passengers (minibus, single-decker), althoug the larger, double-decker buss can carry well over a hundred. Buses are usually used for timetabled journeys by transit companies with typically higher levels of comfort for the longer journeys as coach services. Buses are found world-wide with significant variation in quality and performance depending on the economic development of the country. The most modern buses have enhanced "perceptual" qualities, for detecting other vehicles and other obstacles. Most however, have a limited perceptual bonuses. A bus' main attack mechanism is to run over an opponent, however they are not known for their maneuverability. The variation in their melee bonus will depend on their velocity on impact.
 
+In terms of personality, sapient buses have a modicum of intellect, but are also wise enough to know that they are not particulary smart. Being used to following timetables (even if poorly) and set routes, most buses have a very fixed view of the world and tend to be officious and inflexible in their point of view.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  150-300  |  +70 to +140   | Profession	 | Bus |
+| Strength	    |  75-300   |  +35 to +140   | Profession	 | Bus |
 | Intelligence	    |  7-9      |  -2 to -1  | Level	         | 1	 |
-| Wisdom 	    |  10-11    |  -3        | Movement (running)| 10-60 |
+| Wisdom 	    |  10-11    |  -3        | Movement          | 10-60 |
 | Dexterity	    |  10-11    |  +0        | Wounds (Physical) |   |
-| Perception	    |  10-11    |  +0	     | Wounds (Mental)   |   |
+| Perception	    |  3-8      |  -4 to -1  | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Melee         | +70 to +140  | +1         |       | +71 to +141|
-| Sense (ESP)   | +0       | +1         |           | +1         |
+| Melee         | +10 to +60  | +1     |           | +36 to +141|
+| Sense (ESP)   | +0       | -4 to -1   |           | -4 to -1   |
 
 *Blakey, a bus* I+2 S+1 T+1 J+4
-Petty, aggressive, and with a 
-
-
-Defective ticket machine
+Petty, aggressive, and with an alarming sense of superiority, Blakey is a classic London double-decker bus with an attitude. Fortunately for drivers, passengers, and the general public, Blakey has a shocking sense of perception and is therefore relevatively easy to deceive. Due their sense of following regulations, Blakey often finds themselves in conflict between the dual requirements of road rules and timetables. As a result, if Blakey is running late (which is common), genuine attempts will be made to speed up when people are running towards a stop or try to ignore it entirely, brake hard at lights and so forth. With their malicious sense, Blakey's ticketing machine will fail miserably when plain-clothed ticket inspectors are on board, and will charge double if they are not.
 
 **Car (Christine)**
 
