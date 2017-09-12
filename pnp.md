@@ -2191,8 +2191,7 @@ Sapient cars are relatively common in the *Papers & Paychecks* world and are kno
 | Sense (ESP)   | -3 to -1  |           |           | -3 to -1   |
 
 *Christine* I+3 N+1 T+1 J+4
-
-
+Christine is a truly malicious vehicle seeking physical harm on as many people as possible and has a high degree of cunning to carry out this dastardly plan. Fortunately for humanity, Christine is a bit of wreck, having a temporarily reduced Strenth, Dexterity, and Perception as a result. Unfortunately, like some other sapient objects, Christine has the power of *suggestion* whereby those in proximity are subject to mental attacks over a long period, slowly converting them to repair the car and bring it to its full deadly potential. Christine makes an ideal character to drop into a PC group, especially if one of the Workers has an affinity for vehicle repair. It could be the beginning of deep, albeit tragically short, relationship.
 
 
 **Coffee Machine (Java)**
