@@ -2084,7 +2084,7 @@ Working for a marketing and lobbying company the PC Workers are assigned a task 
 
 'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of intelligence and purpose and are invariably directed against humans. It is important to recognise the difference between these monsters and normal equipment. In the *Papers & Paychecks* universe, nature itself has a sort of self-correcting mechanism where successes are often ofset by failures which are sufficiently common that they are considered simply a bout of bad luck. Nature avoids a sense of contrivance in these situations; drop a piece of buttered toast and it will land butter-side down; test to see whether there is a statistical anomoly, and the universe won't give away any of its secrets, saving the failures for a non-obvious point in time.
 
-Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Conveyer Belt (Lucy), Computer (Wintermute), Elevator (Yo-yo), Elevator (Yo-yo), Fridge (Claude), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
+Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Elevator (Yo-yo), Elevator (Yo-yo), Fatberg (Whitechapel), Fridge (Claude), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
 
 Many of these monsters have Extra-Sensory Perception as their chief form of perception. Fortunately, it is quite limited, about as effective in range as human hearing. The monster ESP is also used for telepathic communication among other monsters, although curiously they understand the human language of the place of manufacture as their first language and often pick up a second human language if they have been exported. For example, a Renault monster car that was made in France and exported to the United States would have French as its first language and English as a second language. Monsters learn at the same rate and in the same manner as humans. 
 
@@ -2283,6 +2283,30 @@ Elevators (maniacally helpful)
 
 Moulds/slimes in fridge that used to be lunch...
 
+**Fatberg**
+
+A fatberg is a solidified mass of various liquids, gels, and various objects that do not break down in sewage systems. Over time these can congeal together from single items to a solid mass, blocking sewage systems and causing the sort of mayhem that one can expect from such events. The distribution of Fatbergs is worldwide, but mainly in urbanised locations. They can exist in sewage or septic tanks systems however it is in the former where they can network with one another to gain strength.
+
+Fatbergs in *Papers & Paychecks* are fortunately stupid, slow, and have extremely poor perceptual qualities. They are, however, quite wicked and have one objective in life - join up with other fatbergs and block the sewage system. Self-loathing creatures they delight in nothing more than the massive distress they can cause to their creators. Note however that the intelligence or wisdom of a fatberg has no dependency on the size or number of co-joined bodies it has accumulated. It is plausible that the stupidity of fatbergs is a result of the stupidity of people who flush such objects down the toilet that generate such creatures in the first place, thinking "it's someone else's problem now".
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1-600    |  -5 to +295| Profession	 | Fatberg |
+| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 1 |
+| Dexterity	    |  4        |  -3        | Wounds (Physical) |   |
+| Perception	    |  4        |  -3	     | Wounds (Mental)   |   |
+| Charisma	    |  1	|  -5        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | -5       | +0       |           | -5         |
+
+
+*Whitechapel* E+2 S+2 F+2 P+3
+
+Whitechapel, named after the London suburb where it has been found, is a "250-metre-long fatberg — a mass of congealed fat, wet wipes, nappies and condoms — is as hard as concrete and Thames Water officials said it was likely to take three weeks to dissolve" (c.f, `http://www.abc.net.au/news/2017-09-13/a-total-monster-fatberg-clogging-london-sewer/8933254`). Like other fatbergs, Whitechapel's objective is pretty simple - to block up the sewage system and to generate chaos among the human population as a result. Whitechapel is significantly smarter than the average fatberg (INT 10, WIS 12) possibly due to being originally formed from the cadavar of a murdered scientist which forms the core of the 'berg. As a result Whitechapel has a cunning plan; to accumulate a network map of the various 'bergs that make up its body, then split apart and clog up the sewage connections, thus maximising the blockage caused. Whitechapel is also smart enough to realise that humans are not fond of their own faeces and has accumalted pockets of these to deposit on any team send in to clear up the 'bergs.
 
 **Gazebo (Gary)**
 
@@ -2302,8 +2326,6 @@ Moulds/slimes in fridge that used to be lunch...
 
 
 Moulds/slimes in fridge that used to be lunch...
-
-
 
 **House (Usher)**
 
