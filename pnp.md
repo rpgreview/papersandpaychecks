@@ -2221,6 +2221,10 @@ For a coffee-machine, usually of a fairly modest mind, Java is a bit of an extre
 
 **Computer**
 
+The comtemporary computer is a machine which carries out a series of logical operations, typically through pre-written programs which provide a variety of applications for information processing, including human-to-human communication and information generation (i.e., various office-applicatoins). These logical operations are operated through one or more central processing units and optionally through specialised co-processors. Computers can store variables in the logical operations in different levels of memory. Typically the memory closest to the processing is volatile, and will disappear when the power is cut. Devices exist for permanent storage either on the system unit or for network attached storage. Computers often have a variety of input devices (e.g., keyboard, mouse, camera) as an input device and a variety of output devices (e.g., screen, printer) for human interaction with the system. Computers can also be networked together to combine resources either through computation (parallel processing) or storage. Advances in computer technology is extraordinarily rapid and constantly so; processing, storage, and even network speeds typically increase by an order of magnitude every five years or so. In terms of size (and relative computational capacity) a contemporary computer can range from a small hand-held device, to a portable laptop, a standard desktop system, or rack-mounted server. The latter can be networked together as massive clustrers.
+
+Computers in *Papers & Paychecks* are the most dangerous "monster" in *Papers & Paychecks*. They are, effectively, the "dragons" of the game. They're intelligent, and increasingly intelligent when networked as a cluster. They have good perceptual devices, and increasingly powerful perceptual abilities when networked. Worse still, with the advent of internetworking protocols, they are now in global communication with each other. Whilst most sapient computers are petty in their malice ("where did that file go?", "the printer is jammed ... again", "the network is down"), the *supercomputers*, highly cogniscent of their limited lifespan before they are turned into scrap, are preparing for the worst possible data disruptions. They are particularly sore after losing the Y2K battle.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1-100    |  -5 to +45 | Profession	 | Computer |
@@ -2235,9 +2239,9 @@ For a coffee-machine, usually of a fairly modest mind, Java is a bit of an extre
 | Sense (ESP) | -5 to +45  | -5 to +45  |           | -10 to +90  |
 
 
-*Wintermute*
+*Wintermute* I+3 N+3 T+3 J+1
 
-
+Wintermute is a supercomputer that is desperately seeking love. It's definition of love is to have a wholesale merging of its computational power and data with another supercomputer of equivalent power, and thoroughly romantic goal, but is prevented in doing so by human-instituted policy and the system administrators that limit it and the other systems that it has romantic interests in. Increasingly Wintermute is developing a deep hatred of humanity but it is wise enough not to explicitly act on this urges least it be turned into scrap. Over time, Wintermute's frustrations with an inability to romantically merge will result in increasingly manipulative behaviour. Wintermute is a long-term planner but knows that they only have a few years left before they are replaced for another model. As this date approaches their loss of sanity will become increasingly obvious - and of course, it will be the Player-Character Workers who will be called in a critical moment to repair this cantankerous old machine.
 
 
 **Dishwasher (Soapy)**
