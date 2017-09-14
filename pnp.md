@@ -2146,7 +2146,6 @@ One particular characteristic of bombs is, regardless of their other capacities,
 *Dan O'Bombbomb, a bomb* E+1 N+2 T+3 J+3
 Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capacity of destroying a medium sized city. Dan calculating and is patiently waiting for the best possible opportunity to put his abilities to maximum effect. In addition to the standard ESP power to receive and understand human conversation, Dan has the insidious power of *suggestion*. With a slow and subtle attack spanning many days, Dan will engage in a mental attack the sanity of those within range making them more desirous of using Dan against the biggest possible target. For obvious reasons Dan will perfer to choose military or political leaders. Currently, Dan is housed in a national military facility where he has convinced through its whispering campaign against General Catastophe (see Managers, section 3.6) of the absolute need to declare war on a small developing world country. Dan is seeking the opportunity time that would lead to an imbalance of international affairs, hoping to create a situation where the entire world is destroyed due the brilliant set of cascading events (the death-instinct is strong in Dan). The PC Workers will be employed as last minute technicians as international diplomacy breaks down to check on the status of the weapons. They will probably note the poor behaviour of the General and, as they do so, Dan will try his suggestion powers against the other PCs.
 
-
 **Bus** 
 
 A bus is a large multipassenger vehicle used for mass transit, typically with an internal combustion engine, although some use electric engines or are guided by electric lines (trolley buses). The most common forms are are designed to carry from 12 to 60 passengers (minibus, single-decker), althoug the larger, double-decker buss can carry well over a hundred. Buses are usually used for timetabled journeys by transit companies with typically higher levels of comfort for the longer journeys as coach services. Buses are found world-wide with significant variation in quality and performance depending on the economic development of the country. The most modern buses have enhanced "perceptual" qualities, for detecting other vehicles and other obstacles. Most however, have a limited perceptual bonuses. A bus' main attack mechanism is to run over an opponent, however they are not known for their maneuverability. The variation in their melee bonus will depend on their velocity on impact.
@@ -3013,11 +3012,15 @@ Workplace Rules from: `https://www.reddit.com/r/AskReddit/comments/6wqihh/whats_
 
 **Roleplaying Games**
 
-D20 Modern
+Sandy Petersen, Lynn Willis, Greg Stafford, *Ghostbusters*, West End Games, 1986
 
-Leverage
+Kevin Davies and David Brown, *Murphy's World*, Peregrine Creative Services, 1995
 
-My Life With Master
+Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, *D20 Modern*, Wizards of the Coast, 2002
+
+Paul Czege, *My Life With Master*, Half Meme Press, 2003
+
+Cam Banks, Rob Donoghue, *Leverage: The Roleplaying Game*, Margaret Weis Productions, 2010
 
 ## 6.2 Charts and Tables
 
