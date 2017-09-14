@@ -2193,38 +2193,51 @@ Sapient cars are relatively common in the *Papers & Paychecks* world and are kno
 *Christine* I+3 N+1 T+1 J+4
 Christine is a truly malicious vehicle seeking physical harm on as many people as possible and has a high degree of cunning to carry out this dastardly plan. Fortunately for humanity, Christine is a bit of wreck, having a temporarily reduced Strenth, Dexterity, and Perception as a result. Unfortunately, like some other sapient objects, Christine has the power of *suggestion* whereby those in proximity are subject to mental attacks over a long period, slowly converting them to repair the car and bring it to its full deadly potential. Christine makes an ideal character to drop into a PC group, especially if one of the Workers has an affinity for vehicle repair. It could be the beginning of deep, albeit tragically short, relationship.
 
+**Coffee Machine**
 
-**Coffee Machine (Java)**
+> "It is by caffeine alone I set my mind in motion. It is by the beans of Java that thoughts acquire speed, the hands acquire shakes, the shakes become a warning. It is by caffeine alone I set my mind in motion." -- *The Programmer's Mantra*
 
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+A coffee machine, or coffee maker, is an implement that has been used among civilised people for almost three hundred years. Prior to that more uncultured people would simply boil the roasted beans in a pan before pouring into a cup, whereas the more contemporary version of barbaric coffee drinking involves freeze-drying hydrated coffee and then rehydrating them. A great variety of coffee machines and coffee makers are available, including vacuum brewers, percolaters, displacement drip, the French press, espresso machines, drip coffee machines, and the environmentakly questionable pod device. 
 
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+In *Papers & Paychecks* coffee machines are a relatively benign monster for the most part. There is a cheeky side, insofar they enjoy witnessing the chaotic enthusiasm in the workplace ("Coffee! Let's you do stupid things faster!") and given the opportunity to make a brew a little stronger than they should be. But they also have a soft side and are known to form close relationships with those hardworkers who arrive early in the morning or stay late, far too late, at night.
 
-**Computer (Wintermute)**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Strength	    |  1        |  -5 	     | Profession	 | Coffee-Machine |
+| Intelligence	    |  11       |  +0	     | Level	         | 1	 |
+| Wisdom 	    |  11       |  +0        | Movement          | 0 |
+| Dexterity	    |  1        |  -5        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Charisma	    |  14	|  +2        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | +2       | +2         |           | +4         |
+
+*Java* E+1 S+3 F+3 P+3
+
+For a coffee-machine, usually of a fairly modest mind, Java is a bit of an extremist. Having realised that there is a number of human beings who apparently *need* coffee, Java has decided that they need to be worshipped. Or at least treated very well indeed. This has led to curious results, one cow-orker who prefers a clean kitchen (and a clean coffee machine) finds themselves expressing delight in the quality of the brew from Java. Another, who is indifferent or perhaps even downright lazy, finds that they coffee produced by Java is less than appetising. A debate arises in the office over whether Java should be replaced with a strong division on either side. Java is challenged on whether to compromise to ensure their survival, but is also haughty enough not to.
+
+**Computer**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1-100    |  -5 to +45 | Profession	 | Computer |
+| Intelligence	    |  1-100    |  -5 to +45 | Level	         | 1	 |
+| Wisdom 	    |  1-11     |  -5 to +0  | Movement          | 0 |
+| Dexterity	    |  8-9      |  -1        | Wounds (Physical) |   |
+| Perception	    |  1-100    |  -5 to +45 | Wounds (Mental)   |   |
+| Charisma	    |  8-9	|  -1        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (ESP) | -5 to +45  | -5 to +45  |           | -10 to +90  |
+
+
+*Wintermute*
+
+
 
 
 **Dishwasher (Soapy)**
@@ -2285,7 +2298,7 @@ Moulds/slimes in fridge that used to be lunch...
 
 **Fatberg**
 
-A fatberg is a solidified mass of various liquids, gels, and various objects that do not break down in sewage systems. Over time these can congeal together from single items to a solid mass, blocking sewage systems and causing the sort of mayhem that one can expect from such events. The distribution of Fatbergs is worldwide, but mainly in urbanised locations. They can exist in sewage or septic tanks systems however it is in the former where they can network with one another to gain strength.
+A fatberg is a solidified mass of various liquids, gels, and various objects that do not break down in sewage systems. Over time these can congeal together from single items to a solid mass, blocking sewage systems and causing the sort of mayhem that one can expect from such events. The distribution of Fatbergs is worldwide, but mainly in urbanised locations. They can exist in sewage or septic tanks systems however it is in the former where they can network with one another to gain strength. The accumulated sludge of a fatbergs can be as strong as concrete, and often take weeks to break up with high-pressure hoses. In some cases they are broken up and used as fuel.
 
 Fatbergs in *Papers & Paychecks* are fortunately stupid, slow, and have extremely poor perceptual qualities. They are, however, quite wicked and have one objective in life - join up with other fatbergs and block the sewage system. Self-loathing creatures they delight in nothing more than the massive distress they can cause to their creators. Note however that the intelligence or wisdom of a fatberg has no dependency on the size or number of co-joined bodies it has accumulated. It is plausible that the stupidity of fatbergs is a result of the stupidity of people who flush such objects down the toilet that generate such creatures in the first place, thinking "it's someone else's problem now".
 
