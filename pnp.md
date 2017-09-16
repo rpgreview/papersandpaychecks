@@ -2084,11 +2084,13 @@ Working for a marketing and lobbying company the PC Workers are assigned a task 
 
 'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of intelligence and purpose and are invariably directed against humans. It is important to recognise the difference between these monsters and normal equipment. In the *Papers & Paychecks* universe, nature itself has a sort of self-correcting mechanism where successes are often ofset by failures which are sufficiently common that they are considered simply a bout of bad luck. Nature avoids a sense of contrivance in these situations; drop a piece of buttered toast and it will land butter-side down; test to see whether there is a statistical anomoly, and the universe won't give away any of its secrets, saving the failures for a non-obvious point in time.
 
-Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Elevator (Yo-yo), Elevator (Yo-yo), Fatberg (Whitechapel), Fridge (Claude), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
+Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Dishwasher (Soapy), Elevator (Yo-yo), Fatberg (Whitechapel), Fridge (Claude), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
 
 Many of these monsters have Extra-Sensory Perception as their chief form of perception. Fortunately, it is quite limited, about as effective in range as human hearing. The monster ESP is also used for telepathic communication among other monsters, although curiously they understand the human language of the place of manufacture as their first language and often pick up a second human language if they have been exported. For example, a Renault monster car that was made in France and exported to the United States would have French as its first language and English as a second language. Monsters learn at the same rate and in the same manner as humans. 
 
 Whilst there are monsters who have expressed a desire to physically reproduce, none have managed to so yet. Indeed, none can recall when they were born, although many claim they recall the first time they understood the words of the humans who they live with. It would seem, therefore, that monsters are actually the spiritual progeny of humans, just as their physical form is in a material sense. Notably there have been no monsters who have "awakened" from equipment that is isolated from human contact. 
+
+For PC Workers, the most common encounter with these monsters is an assignment form a higher manager requesting an investigation into problems in the environment. Often these circumstances often turn into paranormal office investigations and for the sake of developing a multi-layered story, adding these encounters and characters into the story can be an additional plot within the main plot. Integrating a monster as a key component of the main plot is a recommended approach for Bosses.
 
 **Bollard**
 
@@ -2242,33 +2244,35 @@ Computers in *Papers & Paychecks* are the most dangerous "monster" in *Papers & 
 
 Wintermute is a supercomputer that is desperately seeking love. It's definition of love is to have a wholesale merging of its computational power and data with another supercomputer of equivalent power, and thoroughly romantic goal, but is prevented in doing so by human-instituted policy and the system administrators that limit it and the other systems that it has romantic interests in. Increasingly Wintermute is developing a deep hatred of humanity but it is wise enough not to explicitly act on this urges least it be turned into scrap. Over time, Wintermute's frustrations with an inability to romantically merge will result in increasingly manipulative behaviour. Wintermute is a long-term planner but knows that they only have a few years left before they are replaced for another model. As this date approaches their loss of sanity will become increasingly obvious - and of course, it will be the Player-Character Workers who will be called in a critical moment to repair this cantankerous old machine.
 
+**Dishwasher**
 
-**Dishwasher (Soapy)**
+A dishwasher (not a human Worker) is a electro-mechanical device designed for washing cutterly and crockery cleaning by a mixture of high-pressure hot (around 70 degrees celsius) water and soap. There is variation is size and strength, power (domestic ad commericial) etc, which is reflected in the Strenth rating, with significant variation in their energy usage. They are pretty simple-minded in most cases and don't have much flexibility in their outlook. The sapient versions are capable of subtle movement (1m per action). Most dishwashers are solitary creatures, however in large dining establishments and function centres several dishwaters may be in proximity. Although not smart in such an environment they begin to understand their shared oppression.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  6-11     |  -2 to 0   | Profession	 | Dishwasher |
+| Intelligence	    |  2-5      |  -4 to -3  | Level	         | 1	 |
+| Wisdom 	    |  2-5      |  -4 to -3  | Movement (running)| 1 |
+| Dexterity	    |  4-5      |  -3        | Wounds (Physical) |   |
+| Perception	    |  6-7      |  -2	     | Wounds (Mental)   |   |
+| Charisma	    |  2-5	|  -4 to -3  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | -2       | +1         |           | -1         |
 
 
-http://mydishwasherspossessed.com/
+*Soapy*, I+1 S+2 F+2 P+2
+
+Soapy was a typical office dishwasher, who happily goes about their day carefully ensuring that the dishes are clean and the glasses and cutterly are sparkling. Until one day an aggressive worker, frustrated at the machine (due to their own inability to read the manual) kicked Soapy and called it "a stupid machine". No whilst Soapy was, in fact, quite thick, the aggressive behaviour initiated a change on behaviour. Instead of being a careful worker to ensure cleanliness of dishes, Soapy is now planning murder in the workplace. At the moment, the nasty work has already had one slipping incident where Soapy released some water on the kitchen tiles as they walked past, resulting in hospitalisation. A plumber was brought in to check the water leak, but with nothing discovered they invoiced their bill and left. Soapy is now plotting their next attack, this time thinking of causing a spark from the mains to a water puddle. This may damage Soapy but at least it will be worth it.
 
 **Elevator (Yo-yo)**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Elevator |
 | Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
+| Wisdom 	    |  4        |  -3        | Movement (running)| 3-8 |
 | Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
