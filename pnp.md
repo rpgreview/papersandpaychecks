@@ -2266,23 +2266,27 @@ A dishwasher (not a human Worker) is a electro-mechanical device designed for wa
 
 Soapy was a typical office dishwasher, who happily goes about their day carefully ensuring that the dishes are clean and the glasses and cutterly are sparkling. Until one day an aggressive worker, frustrated at the machine (due to their own inability to read the manual) kicked Soapy and called it "a stupid machine". No whilst Soapy was, in fact, quite thick, the aggressive behaviour initiated a change on behaviour. Instead of being a careful worker to ensure cleanliness of dishes, Soapy is now planning murder in the workplace. At the moment, the nasty work has already had one slipping incident where Soapy released some water on the kitchen tiles as they walked past, resulting in hospitalisation. A plumber was brought in to check the water leak, but with nothing discovered they invoiced their bill and left. Soapy is now plotting their next attack, this time thinking of causing a spark from the mains to a water puddle. This may damage Soapy but at least it will be worth it.
 
-**Elevator (Yo-yo)**
+**Elevator**
+
+An elevator or lift is electro-mechanical device for moving people or goods on a verticle between floors in buildings and sometimes other structures. Modern versions are  Nearly all contemporary elevators include safety features (e.g., brakes) to reduce the possibility of harm due to cable breakage with most serious injuries occuring to technicians when engaging in maintenance. In *Papers & Paychecks* the Strength of an elevator is a good indication of carrying capacity. Notoriously simple-minded monsters, they are deliously happy when given the opportunity to carry out their job.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Elevator |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 3-8 |
+| Strength	    |  50-200   |  +20 to +95| Profession	 | Elevator |
+| Intelligence	    |  4-5      |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  4-5      |  -3        | Movement (climbing) | 4-14 |
 | Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Perception	    |  10-11    |  +0	     | Wounds (Mental)   |   |
+| Charisma	    |  6-7	|  -2        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | +0       | +0         |           | +0         |
 
-Elevators (maniacally helpful)
+*Yo-yo* E+2 S+1 F+3 P+2
+
+
+
 
 **Fridge (Claude)**
 
@@ -2755,6 +2759,7 @@ The Boss is not the GM, nor is the GM the Boss.
 The Boss is just a motivator for the players, a source of information on what impossible task they should attempt to complete. The Boss should be an obstacle for the characters to overcome, not a cherished NPC who can escape any conflict.
 
 **Introduction of the Game**
+ 
 Always introduce yourself and the game, explain the rules and take your time about this. Be familiar with the rules as written of My Life with Master.
 
 My conventions that are not listed in the rules as written for My Life with Master.
