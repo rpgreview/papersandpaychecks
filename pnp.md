@@ -2084,7 +2084,7 @@ Working for a marketing and lobbying company the PC Workers are assigned a task 
 
 'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of intelligence and purpose and are invariably directed against humans. It is important to recognise the difference between these monsters and normal equipment. In the *Papers & Paychecks* universe, nature itself has a sort of self-correcting mechanism where successes are often ofset by failures which are sufficiently common that they are considered simply a bout of bad luck. Nature avoids a sense of contrivance in these situations; drop a piece of buttered toast and it will land butter-side down; test to see whether there is a statistical anomoly, and the universe won't give away any of its secrets, saving the failures for a non-obvious point in time.
 
-Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Dishwasher (Soapy), Elevator (Yo-yo), Fatberg (Whitechapel), Fridge (Claude), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
+Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Dishwasher (Soapy), Elevator (Yo-yo), Fatberg (Whitechapel), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Refrigerator, Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
 
 Many of these monsters have Extra-Sensory Perception as their chief form of perception. Fortunately, it is quite limited, about as effective in range as human hearing. The monster ESP is also used for telepathic communication among other monsters, although curiously they understand the human language of the place of manufacture as their first language and often pick up a second human language if they have been exported. For example, a Renault monster car that was made in France and exported to the United States would have French as its first language and English as a second language. Monsters learn at the same rate and in the same manner as humans. 
 
@@ -2117,7 +2117,6 @@ Bollards are designed to be heavily armoured; damage against them is quartered. 
 *Bud, a Bollard* I+2 N+2 F+2 P+2
 Bud is a curious bollard, both in the sense of their personality and their attitude towards the world. Unlike other conscious bollards, including its grouchy neighbour, Bud actually wants to help people, hence the name. Working at a local university and strategically placed at the entrance of the engineering building Bud has tried very hard to communicate to Al Kyne (see scientist, 3.2) with whom 'he' (Bud identifies as male) has developed a bit of a crush on. On a number of occasions Bud has tried to 'flash' Al in morse code, but at this stage she has not recognised the attempt at communication and has simply assumed that the bollard has been broken. Bud has been "operated" on three occasions as a result. The PC Workers may encounter a crashed Al wrapped around Bud's malicious neighbour late one stormy evening at the university, whilst Bud desperately flashes an S-O-S to them. Will they recognise the call?
 
-	
 **Bomb**
 
 > Bomb #20: False data can act only as a distraction. Therefore, I shall refuse to perceive.
@@ -2129,7 +2128,6 @@ Bud is a curious bollard, both in the sense of their personality and their attit
 A bomb is a being of great variation, ranging from the simple concussion or fragmentation hand grendade to the nuclear weapon, all of which can be represented in their characteristics with their Strength also reflecting their explosive force (a value of '10' for example is typical of a grenade. A 10 megaton nuclear bomb is probably in the range of several thousand. In other words, whatever The Boss wants. Bombs also have a great range in their intellect and dexterity. Some are truly stupid, and lumberuous, require humans to direct them entirely in a single trajectory, whereas others are very intelligent (smart bombs) and agile. Both of these are often associated with their perceptual abilities. Whilst many bombs have little in terms of their persuasive ability, humans often develop affection for bombs, especially those which are powerful. Some even develop a romantic attachment, c.f., "How I stopped worrying and learned to love the bomb".
 
 One particular characteristic of bombs is, regardless of their other capacities, all bombs are *wise*. Unless their perceptual qualities are somehow damaged, they are monsters of a particularly stubborn willpower, very aware of their one purpose in life and how it will be the end of their consciousness (perhaps a possible exception would be a malicious Buddhist bomb). They will not waste their one opportunity to shine very, very, brightly.
-
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2160,13 +2158,13 @@ In terms of personality, sapient buses have a modicum of intellect, but are also
 | Intelligence	    |  7-9      |  -2 to -1  | Level	         | 1	 |
 | Wisdom 	    |  10-11    |  -3        | Movement          | 10-60 |
 | Dexterity	    |  6-7      |  -2        | Wounds (Physical) |   |
-| Perception	    |  3-8      |  -4 to -1  | Wounds (Mental)   |   |
+| Perception	    |  8-11      |  -1 to +0 | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Melee         | +10 to +60  |        |            | +10 to +60 |
-| Sense (ESP)   | -4 to -1 |           |	    | -4 to -1   |
+| Sense (ESP)   | -1 to +0 |           |	    | -1 to +0  |
 
 *Blakey, a bus* I+2 S+1 T+1 J+4
 Petty and with an alarming sense of superiority, Blakey is a classic London double-decker bus with an attitude. Fortunately for drivers, passengers, and the general public, Blakey has a shocking sense of perception and is therefore relevatively easy to deceive. It is also fortunate that despite being a dangerous vehicle, Blakey does not have a murderous hate for humanity (because that would be against the rules) but rather is aggravated when things do not go to a very specific plan. Due a sense of following regulations, Blakey often finds themselves in conflict between the dual requirements of road rules and timetables. As a result, if Blakey is running late (which is common), genuine attempts will be made to speed up when people are running towards a stop or try to ignore it entirely, brake hard at lights and so forth. With their malicious sense, Blakey's ticketing machine will fail miserably when plain-clothed ticket inspectors are on board, and will charge double if they are not.
@@ -2183,13 +2181,13 @@ Sapient cars are relatively common in the *Papers & Paychecks* world and are kno
 | Intelligence	    |  12-13    |  +1	     | Level	         | 1	 |
 | Wisdom 	    |  8-9      |  -1        | Movement          | 10-80 |
 | Dexterity	    |  10-11    |  +0        | Wounds (Physical) |   |
-| Perception	    |  4-8      |  -3 to -1  | Wounds (Mental)   |   |
+| Perception	    |  8-14     |  -3 to +2  | Wounds (Mental)   |   |
 | Charisma	    |  6-7	|  -2        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Melee         | +10 to +80  |         |           | +10 to +80  |
-| Sense (ESP)   | -3 to -1  |           |           | -3 to -1   |
+| Sense (ESP)   | -3 to +2  |           |           | -3 to +2   |
 
 *Christine* I+3 N+1 T+1 J+4
 Christine is a truly malicious vehicle seeking physical harm on as many people as possible and has a high degree of cunning to carry out this dastardly plan. Fortunately for humanity, Christine is a bit of wreck, having a temporarily reduced Strenth, Dexterity, and Perception as a result. Unfortunately, like some other sapient objects, Christine has the power of *suggestion* whereby those in proximity are subject to mental attacks over a long period, slowly converting them to repair the car and bring it to its full deadly potential. Christine makes an ideal character to drop into a PC group, especially if one of the Workers has an affinity for vehicle repair. It could be the beginning of deep, albeit tragically short, relationship.
@@ -2287,26 +2285,6 @@ An elevator or lift is electro-mechanical device for moving people or goods on a
 
 Yo-yo is a typical elevator, and in fact a slightly extreme version of the standard personality. Yo-yo like nothing more than going up... and going down. Whilst in most cases this is the sort of trajectory that the office workers are after Yo-yo does occasionally end up wanting to do in the opposite direction to its passengers; Yo-yo has a very specific idea that things should be done in sequence. On a couple of occasions technicians have been called out to 'fix' Yo-yo, who behaves in their presence and then goes back to its old ways later. In the early 2000s a clever manager thought it wise to add a talking-voice to Yo-yo who, despite the limited vocabulary, has been very expressive in their joy at reaching destination and going up, and going down. But one day, overhearing a nefarious corporate plot by competitors visiting the firm, Yo-Yo desperately tries to communicate to the PC Workers in the only way it knows how. 
 
-**Fridge (Claude)**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  15-30    |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
-
-
-Moulds/slimes in fridge that used to be lunch...
-
-
 **Fatberg**
 
 A fatberg is a solidified mass of various liquids, gels, and various objects that do not break down in sewage systems. Over time these can congeal together from single items to a solid mass, blocking sewage systems and causing the sort of mayhem that one can expect from such events. The distribution of Fatbergs is worldwide, but mainly in urbanised locations. They can exist in sewage or septic tanks systems however it is in the former where they can network with one another to gain strength. The accumulated sludge of a fatbergs can be as strong as concrete, and often take weeks to break up with high-pressure hoses. In some cases they are broken up and used as fuel.
@@ -2320,36 +2298,39 @@ Fatbergs in *Papers & Paychecks* are fortunately stupid, slow, and have extremel
 | Intelligence	    |  4        |  -3	     | Level	         | 1	 |
 | Wisdom 	    |  4        |  -3        | Movement (running)| 1 |
 | Dexterity	    |  4        |  -3        | Wounds (Physical) |   |
-| Perception	    |  4        |  -3	     | Wounds (Mental)   |   |
+| Perception	    |  8-9      |  -1	     | Wounds (Mental)   |   |
 | Charisma	    |  1	|  -5        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | -5       | +0       |           | -5         |
+| Sense (ESP) | -1       | +0       |           | -1         |
 
 
 *Whitechapel* E+2 S+2 F+2 P+3
 
 Whitechapel, named after the London suburb where it has been found, is a "250-metre-long fatberg — a mass of congealed fat, wet wipes, nappies and condoms — is as hard as concrete and Thames Water officials said it was likely to take three weeks to dissolve" (c.f, `http://www.abc.net.au/news/2017-09-13/a-total-monster-fatberg-clogging-london-sewer/8933254`). Like other fatbergs, Whitechapel's objective is pretty simple - to block up the sewage system and to generate chaos among the human population as a result. Whitechapel is significantly smarter than the average fatberg (INT 10, WIS 12) possibly due to being originally formed from the cadavar of a murdered scientist which forms the core of the 'berg. As a result Whitechapel has a cunning plan; to accumulate a network map of the various 'bergs that make up its body, then split apart and clog up the sewage connections, thus maximising the blockage caused. Whitechapel is also smart enough to realise that humans are not fond of their own faeces and has accumalted pockets of these to deposit on any team send in to clear up the 'bergs.
 
-**Gazebo (Gary)**
+**Gazebo**
+
+Derived from the word "gaze", a gazebo is an ornamental pavilon commonly located in parks and gardens and are a popular construction for outdoor dining or as a bandstand. A gazebo's Strength value is representative of its capacity to hold people, and their Charisma based on the aesthetic appeal. They are far from intelligent creatures, having but a simple function in life, but display great Wisdom in their serenity. For the most part Gazebos prefer to be alone, and actually find the company of humans rather tiring. They particularly dislike those brass bands and screaming children taking over their environment.
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  50-200   |  +20 to +95| Profession	 | Gazebo |
+| Intelligence	    |  4-5      |  -3	     | Level	         | 1	 |
+| Wisdom 	    |  14-15    |  +2        | Movement          | 0 |
+| Dexterity	    |  4-5      |  -3        | Wounds (Physical) |   |
+| Perception	    |  8-9      |  -1	     | Wounds (Mental)   |   |
+| Charisma	    |  6-7	|  -2        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | -1       | +0         |           | -1         |
 
+*Gary* I+2 N+2 T+2 P+3
 
-Moulds/slimes in fridge that used to be lunch...
+Gary was a typical gazebo in many ways, enjoying nothing more than to sit in the pleasant surrounds of the local botanical gardens and soak up the mild sunlight in the clearing which this happy gazebo inhabits. Gary even was generous enough to let a local homeless person (Eric) take shelter under its roof who, despite their station in life, made a point of keeping the environment relatively clean. But late one evening a pair of rough youths took it upon themselves to harras Eric by throwing rocks at him and his gazebo home. Gary discovered they had an interesting a very non-gazebo power - they could leap 20m in a single action! Immediately sending the youths away in a mad panic (and never to return), the PC Workers encounter a happily babbling Eric talking about their wonderful jumping gazebo. See: `http://www.netfunny.com/rhf/jokes/98/Jul/gazebo.html`
 
 **House (Usher)**
 
@@ -2422,8 +2403,30 @@ https://www.theatlantic.com/technology/archive/2012/03/naming-phones-naming-babi
 | Sense (hearing) | +2       | +3       |           | -2         |
 
 
+**Refrigerator**
 
-**Toilett (Colin)**
+A refrigerator (colloquially fridge) is a popular household appliance that consists of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from the inside of the fridge to its external environment so that the inside of the fridge is cooled to a temperature below the ambient temperature of the room. Refrigeration is an essential food storage technique in developed countries. The lower temperature lowers the reproduction rate of bacteria, so the refrigerator reduces the rate of spoilage. A refrigerator maintains a temperature a few degrees above the freezing point of water. Optimum temperature range for perishable food storage is 3 to 5 °C (37 to 41 °F).[1] A similar device that maintains a temperature below the freezing point of water is called a freezer. The refrigerator replaced the icebox, which had been a common household appliance for almost a century and a half. For this reason, a refrigerator is sometimes referred to as an icebox in American usage.
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  15-30    |  +20 to +45| Profession	 | Fridge |
+| Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
+| Wisdom 	    |  4-7      |  -3 to -2  | Movement (running)| 1 |
+| Dexterity	    |  4-5      |  -1        | Wounds (Physical) |   |
+| Perception	    |  6-7      |  -2	     | Wounds (Mental)   |   |
+| Charisma	    |  3-4	|  -3 to -4  | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (ESP)   | -2       | +0         |           | -2         |
+
+*Claude*
+
+
+
+
+**Toilet (Colin)**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
