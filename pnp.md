@@ -2285,14 +2285,13 @@ An elevator or lift is electro-mechanical device for moving people or goods on a
 
 *Yo-yo* E+2 S+1 F+3 P+2
 
-
-
+Yo-yo is a typical elevator, and in fact a slightly extreme version of the standard personality. Yo-yo like nothing more than going up... and going down. Whilst in most cases this is the sort of trajectory that the office workers are after Yo-yo does occasionally end up wanting to do in the opposite direction to its passengers; Yo-yo has a very specific idea that things should be done in sequence. On a couple of occasions technicians have been called out to 'fix' Yo-yo, who behaves in their presence and then goes back to its old ways later. In the early 2000s a clever manager thought it wise to add a talking-voice to Yo-yo who, despite the limited vocabulary, has been very expressive in their joy at reaching destination and going up, and going down. But one day, overhearing a nefarious corporate plot by competitors visiting the firm, Yo-Yo desperately tries to communicate to the PC Workers in the only way it knows how. 
 
 **Fridge (Claude)**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
+| Strength	    |  15-30    |  +20 to +45| Profession	 | Horse |
 | Intelligence	    |  4        |  -3	     | Level	         | 1	 |
 | Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
 | Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
@@ -2306,6 +2305,7 @@ An elevator or lift is electro-mechanical device for moving people or goods on a
 
 
 Moulds/slimes in fridge that used to be lunch...
+
 
 **Fatberg**
 
