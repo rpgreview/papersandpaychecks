@@ -2332,21 +2332,31 @@ Derived from the word "gaze", a gazebo is an ornamental pavilon commonly located
 
 Gary was a typical gazebo in many ways, enjoying nothing more than to sit in the pleasant surrounds of the local botanical gardens and soak up the mild sunlight in the clearing which this happy gazebo inhabits. Gary even was generous enough to let a local homeless person (Eric) take shelter under its roof who, despite their station in life, made a point of keeping the environment relatively clean. But late one evening a pair of rough youths took it upon themselves to harras Eric by throwing rocks at him and his gazebo home. Gary discovered they had an interesting a very non-gazebo power - they could leap 20m in a single action! Immediately sending the youths away in a mad panic (and never to return), the PC Workers encounter a happily babbling Eric talking about their wonderful jumping gazebo. See: `http://www.netfunny.com/rhf/jokes/98/Jul/gazebo.html`
 
-**House (Usher)**
+**House**
+
+> "They're here" -- *Poltergeist*, 1982
+
+A home building for personal, shared, and family accommodation, a house in *Papers & Paychecks* is a free-standing home building in an advanced economy (the game excludes shantytowns etc). The Strength of a house gives an indication of its size, at a value of 100 Strength per room (you don't want a house to fall on you). Most older house are notoriously stupid ("thick as a brick", "thick as two short planks" etc), but modern houses may have a degree of computational system ("smart house") which will be accelerated in the future to the point that they can be even smarter than their inhabitants. Despite their lack of intellect, they have a good judge of character, which contributes to the charismatic and sometimes forceful personality. 
+
+Sapient houses are relatively common and have been assigned many folk names (kobold, poltergeist etc), whose abilities to move items is reflected in their Dexterity rating. Most of these effects are fairly harmless but quite disconcerting - shoves, pinches, bites, objects falling in the house or being moved, knocking sounds etc.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  410-810   |  +200 to +400| Profession	 | House |
+| Intelligence	    |  1-14     |  -5 to +2  | Level	         | 1	 |
+| Wisdom 	    |  10-11    |  +0        | Movement (running)| 0 |
+| Dexterity	    |  10-11    |  +0        | Wounds (Physical) |   |
+| Perception	    |  10-11    |  +0	     | Wounds (Mental)   |   |
+| Charisma	    |  8-14	|  -1 to +2  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (hearing) | +0       | +0       |           | +0         |
+
+*Usher* I+1 S+3 F+3 P+3
+
+Usher, like the namesake from the famous Edgar Allan Poe story, is the spiritual embodiment of a personality made up from an aggregate of the worse members of a family into a building. Large, strong, cunning, and patient, Usher malice directed towards humans is quite extreme. Aware of its reputation as a "haunted house", Usher will seek to send occupants mad by gradual and subtle changes where characters are isolated. If characters are being particularly vigiliant and resistant it is not adverse from using physical violence, although costs to its infrastructure will result in damage to itself as well - albeit at a lot less than than it will impart. Usher's weakness however is of this sort - if the family history is loudly exposedwithin its walls, it is likely to express as much anger as it can, even to the point where it destroys itself in an attempt to maim the accuser. 
+
 
 **Pen (Dick)**
 
