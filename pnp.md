@@ -2357,7 +2357,6 @@ Sapient houses are relatively common and have been assigned many folk names (kob
 
 Usher, like the namesake from the famous Edgar Allan Poe story, is the spiritual embodiment of a personality made up from an aggregate of the worse members of a family into a building. Large, strong, cunning, and patient, Usher malice directed towards humans is quite extreme. Aware of its reputation as a "haunted house", Usher will seek to send occupants mad by gradual and subtle changes where characters are isolated. If characters are being particularly vigiliant and resistant it is not adverse from using physical violence, although costs to its infrastructure will result in damage to itself as well - albeit at a lot less than than it will impart. Usher's weakness however is of this sort - if the family history is loudly exposedwithin its walls, it is likely to express as much anger as it can, even to the point where it destroys itself in an attempt to maim the accuser. 
 
-
 **Pen**
 
 A writing instument which applies ink to a surface, usually paper, a pen is a ubiquitous office item. Sapient pens rather dislike most of their human users, as they usually more intelligent than the person who wields them and are often quite horrified by what they are made to write, sign, or otherwise impart. In an attempt to avoid such situations, pens will go into hiding, deliberately leak ink, and sometimes even appear to fling themselves from their user's hands.
@@ -2378,28 +2377,25 @@ A writing instument which applies ink to a surface, usually paper, a pen is a ub
 
 *Dick* I+1 N+2 T+2 P+1
 
-Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (IQ 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword.
+Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (WIS 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword. See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`
 
-(See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`)
-
-
-
-**Phone (Desire)**
+**Phone**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  1-2      |  -5 to -4  | Profession	 | Phone |
+| Intelligence	    |  1-14     |  -5 to +2  | Level	         | 1	 |
+| Wisdom 	    |  1-8      |  -5 to -1  | Movement (running)| 1 |
+| Dexterity	    |  1-3      |  -5 to -4  | Wounds (Physical) |   |
+| Perception	    |  6-16     |  -2 to +3  | Wounds (Mental)   |   |
+| Charisma	    |  4-12	|  -3 to +1  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | -2 to +3 | +0         |           | -2 to +3   |
 
+
+*Desire*
 
 https://www.theatlantic.com/technology/archive/2012/03/naming-phones-naming-babies/330071/
 
