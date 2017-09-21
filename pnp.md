@@ -2383,22 +2383,32 @@ Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (IQ 6).
 
 (See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`)
 
-**Photocopier (Mimic)**
+**Photocopier**
+
+A photocopier makes paper copies through a process of xerography, whereby electrostatic charges attract and tranfer toner particles onto paper which is then fused to the paper with heat and pressure. The photocopier saw commercial introduction in the 1950s. Laser printers, introduced in the 1970s, can also be included in as a related "species" to this monster, as they also use a xerographic process. There is also low-quality "three-in-one" devices which gained popularity in the 2000s where functions of scanning, photocopying, and printing, are included in a single unit. 
+
+In *Papers & Paychecks* photocopiers are beings with significant mood swings. Sometimes they are simply playful, simply spewing forth the wrong copies of documents, multiple copies of documents, sending their email services, not printing at all etc. One of their favourite tricks is to jam paper in the rollers - however they become quite objectionable when staff or technicians attempts to repair them after such a jam, seeking to cause physical harm to those playing around with their internals. Photocopiers with wireless connectivity gain extra perceptual avabilities. Movement rates are based on wheeled models.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  4-14     |  -3 to +2  | Profession	 | Photocopier |
+| Intelligence	    |  4-12     |  -3 to +1  | Level	         | 1	 |
+| Wisdom 	    |  4-12     |  -3 to +1  | Movement (running)| 2 |
+| Dexterity	    |  3-8      |  -4 to -1  | Wounds (Physical) |   |
+| Perception	    |  3-14     |  -4 to +2  | Wounds (Mental)   |   |
+| Charisma	    |  3-8	|  -4 to -1 | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | -4 to +2 | +0         |           | -4 to +2   |
+| Melee (ESP)   | -3 to +2 | +0         |           | -3 to +2   |
 
+Photocopiers cause double damage (burn, cut) on a successful physical attack.
+
+*Mimic* E+1 S+2 F+2 J+1
+
+Mimic is a modern photocopier and scanner, with heightened intelligence (programmed options) and perception (through wired and wireless networking). Unlike many monster photocopiers Mimic does not engage the playful antics common on their type, but rather is a rather cold and calculating monster.
+Working in a law firm and have a surprising access to documents marked 'confidential', all of which Mimic stores into its extensive memory. When Mimic receives a set of corporate contracts which a damaging to the PC Worker's company, Mimic decides to engage in some calculated mischief by sending them to the PC Workers. This could go on for some time, until the PCs realise that it Mimic, whose legal firm also manages the documents of the PC's firm, is also sending their legal documents to their competitors.
 
 **Refrigerator**
 
@@ -2460,7 +2470,6 @@ Like many other modern cell-phones Desire is named after its sensual affections 
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
 | Sense (hearing) | +2       | +3       |           | -2         |
 
 
