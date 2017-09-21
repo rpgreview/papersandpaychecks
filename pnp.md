@@ -2361,6 +2361,9 @@ Usher, like the namesake from the famous Edgar Allan Poe story, is the spiritual
 
 A writing instument which applies ink to a surface, usually paper, a pen is a ubiquitous office item. Sapient pens rather dislike most of their human users, as they usually more intelligent than the person who wields them and are often quite horrified by what they are made to write, sign, or otherwise impart. In an attempt to avoid such situations, pens will go into hiding, deliberately leak ink, and sometimes even appear to fling themselves from their user's hands.
 
+Many pens have an inferiority complex towards computers and mobile phones, in recognition in the vastly greater powers that these devices have. Some of have come to terms with this situation with a certain degree of cultural snobbishness, arguing that they belong to an older and superior culture. This response is not taken seriously by most phones or computers.
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5        | Profession	 | Pen |
@@ -2377,9 +2380,11 @@ A writing instument which applies ink to a surface, usually paper, a pen is a ub
 
 *Dick* I+1 N+2 T+2 P+1
 
-Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (WIS 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword. See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`
+Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (IQ 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword.
 
-**Phone**
+(See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`)
+
+**Phone (Desire)**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
