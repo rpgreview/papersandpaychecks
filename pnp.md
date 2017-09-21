@@ -2084,7 +2084,7 @@ Working for a marketing and lobbying company the PC Workers are assigned a task 
 
 'Monsters' in *Papers & Paychecks* are those usually inanimate objects that have, due to the resistentialist nature of the universe, have acquired a sense of intelligence and purpose and are invariably directed against humans. It is important to recognise the difference between these monsters and normal equipment. In the *Papers & Paychecks* universe, nature itself has a sort of self-correcting mechanism where successes are often ofset by failures which are sufficiently common that they are considered simply a bout of bad luck. Nature avoids a sense of contrivance in these situations; drop a piece of buttered toast and it will land butter-side down; test to see whether there is a statistical anomoly, and the universe won't give away any of its secrets, saving the failures for a non-obvious point in time.
 
-Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Dishwasher (Soapy), Elevator (Yo-yo), Fatberg (Whitechapel), Gazebo (Gary), House (Usher), Pen (Dick), Phone (Desire), Photocopier (Mimic), Refrigerator, Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
+Monsters are different. When a monster is involved, the human victim doesn't exclaim "That was unlucky!", rather they are likely to respond "This thing has a mind of its own!". Indeed it most certainly does. Not only does it have a mind of its own, even if sometimes a fairly simple one, it has hopes, dreams, personality, and a mischevious (and sometimes malicious) attitude towards unsuspecting humans. Some seventeen monster-characters are described here, each with their own characteristics, skills etc. After all, *Papers & Paychecks* is a sufficiently modern RPG to espouse "monster equality". The statistics do represent a character typical of their type, although often their is significant variation depending on the designer and the technology. The monsters and their representative characters are as follows: Bollard (Bud), Bomb (Thermosteller), Bus (Blakey), Car (Christine), Coffee Machine (Java), Computer (Wintermute), Dishwasher (Soapy), Elevator (Yo-yo), Fatberg (Whitechapel), Gazebo (Gary), House (Usher), Pen (Dick), Photocopier (Mimic), Refrigerator, Telephone (Desire), Toilet (Colin), Trolley (Wonkey), Water Cooler (Eris), 3D Printer (Candace)
 
 Many of these monsters have Extra-Sensory Perception as their chief form of perception. Fortunately, it is quite limited, about as effective in range as human hearing. The monster ESP is also used for telepathic communication among other monsters, although curiously they understand the human language of the place of manufacture as their first language and often pick up a second human language if they have been exported. For example, a Renault monster car that was made in France and exported to the United States would have French as its first language and English as a second language. Monsters learn at the same rate and in the same manner as humans. 
 
@@ -2361,8 +2361,7 @@ Usher, like the namesake from the famous Edgar Allan Poe story, is the spiritual
 
 A writing instument which applies ink to a surface, usually paper, a pen is a ubiquitous office item. Sapient pens rather dislike most of their human users, as they usually more intelligent than the person who wields them and are often quite horrified by what they are made to write, sign, or otherwise impart. In an attempt to avoid such situations, pens will go into hiding, deliberately leak ink, and sometimes even appear to fling themselves from their user's hands.
 
-Many pens have an inferiority complex towards computers and mobile phones, in recognition in the vastly greater powers that these devices have. Some of have come to terms with this situation with a certain degree of cultural snobbishness, arguing that they belong to an older and superior culture. This response is not taken seriously by most phones or computers.
-
+Many pens have an inferiority complex towards computers and mobile phones, in recognition in the vastly greater powers that these devices have. Some of have come to terms with this situation with a certain degree of cultural snobbishness, arguing that they belong to an older and superior culture. This response is not taken seriously by most phones or computers. For their own part many pens are known to be highly respectful of fountain pens and have a friendly banter with pencils.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2383,26 +2382,6 @@ Many pens have an inferiority complex towards computers and mobile phones, in re
 Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (IQ 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword.
 
 (See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`)
-
-**Phone (Desire)**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  1-2      |  -5 to -4  | Profession	 | Phone |
-| Intelligence	    |  1-14     |  -5 to +2  | Level	         | 1	 |
-| Wisdom 	    |  1-8      |  -5 to -1  | Movement (running)| 1 |
-| Dexterity	    |  1-3      |  -5 to -4  | Wounds (Physical) |   |
-| Perception	    |  6-16     |  -2 to +3  | Wounds (Mental)   |   |
-| Charisma	    |  4-12	|  -3 to +1  | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (ESP)   | -2 to +3 | +0         |           | -2 to +3   |
-
-
-*Desire*
-
-https://www.theatlantic.com/technology/archive/2012/03/naming-phones-naming-babies/330071/
 
 **Photocopier (Mimic)**
 
@@ -2440,6 +2419,33 @@ A refrigerator (colloquially fridge) is a popular household appliance that consi
 | Sense (ESP)   | -2       | +0         |           | -2         |
 
 *Claude*
+
+
+**Telephone**
+
+A telephone (or phone) is conducts communication between multiple points by converting audio waves into electronic transmission. There are two major types, the fixed land-line which was dominant up to the late 1990s and the mobile phone (aka cell phone) which transmits wirelessly. The latter primarily required technological developments in battery technology and miniaturisation to be a general consumer commodity. Mobile phones were seen in much construction sites in the 1980s, and became notable in the 1990s. By the 2000s they had become widespread.
+
+In *Papers & Paychecks* phones are particularly insidious devices. Their computerisation leads to increasing intelligence and the increases in utilisation means that they gain greater access to human knowledge. Phones delight in sharing the inappropriate secrets that humans communicate with each other and those who are sufficiently smart will pass the information to the most inappropriate target; embarrassing auto-corrects, text-messages sent to the wrong people, forwarded messages - all of these are indications of a sapient phone. 
+
+In telephone society, the rather dim older phones (primarily landlines) are treated surprisingly kindly by newer mobile phones, rather like an elderly relative who has is suffering from senilty, partially in recognition of the amazing history of the telephone in the twentieth century. There is even a degree of respect among mobile phones with some older models (e.g., Nokia 1100). This does not however apply among contemporary models which compete among each other with extraordinary pettiness.
+
+ 
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1-2      |  -5 to -4  | Profession	 | Phone |
+| Intelligence	    |  1-14     |  -5 to +2  | Level	         | 1	 |
+| Wisdom 	    |  1-8      |  -5 to -1  | Movement (running)| 1 |
+| Dexterity	    |  1-3      |  -5 to -4  | Wounds (Physical) |   |
+| Perception	    |  6-16     |  -2 to +3  | Wounds (Mental)   |   |
+| Charisma	    |  4-12	|  -3 to +1  | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (ESP)   | -2 to +3 | +0         |           | -2 to +3   |
+
+*Desire* E+3 S+1 T+2 P+3
+
+Like many other modern cell-phones Desire is named after its sensual affections (see: `https://blog.intercom.com/whats-in-a-name/`). Smart (high INT), cute (medium-high CHA), and just a little ditzy (low WIS). Desire's owner is a mid-level administrator who is having an affair with late-night working researcher and the phone has taken the opportunity to pass onto some of the more salacious text messaages to their owner's labourer partner. Desire's reason? Not only the fact that is how modern phones roll, but also because the administrator has a competing brand - and they hate each other. PC involvement occurs when Desire forwards some of the material to *both* the labourer and to one of the PCs - and then the labourer calls the the PCs to find out what is going on.
 
 **Toilet (Colin)**
 
