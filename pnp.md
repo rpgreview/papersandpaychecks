@@ -2457,7 +2457,7 @@ In telephone society, the rather dim older phones (primarily landlines) are trea
 
 Like many other modern cell-phones Desire is named after its sensual affections (see: `https://blog.intercom.com/whats-in-a-name/`). Smart (high INT), cute (medium-high CHA), and just a little ditzy (low WIS). Desire's owner is a mid-level administrator who is having an affair with late-night working researcher and the phone has taken the opportunity to pass onto some of the more salacious text messaages to their owner's labourer partner. Desire's reason? Not only the fact that is how modern phones roll, but also because the administrator has a competing brand - and they hate each other. PC involvement occurs when Desire forwards some of the material to *both* the labourer and to one of the PCs - and then the labourer calls the the PCs to find out what is going on.
 
-**Toilet (Colin)**
+**Toilet**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2472,6 +2472,8 @@ Like many other modern cell-phones Desire is named after its sensual affections 
 |---------------|----------|------------|-----------|------------|
 | Sense (hearing) | +2       | +3       |           | -2         |
 
+
+*Colin*
 
 Bio hazards in the office toilet...
 
