@@ -2481,43 +2481,59 @@ In *Papers & Paychecks* Toilets are not particularly smart and indeed, are typic
 
 In many ways Colin was a typical sapient toilet, not too bright, not too aggressive. But that was in the past, before a rather well-intentioned but poorly skilled computer programmer decided that what was really needed was a 'smart toilet', following the innovations of the Japanese Woshuretto. With the introduction of a large variety of flush solutions, the implementation of a bidet, a top-placed sink for hand-washing water to go back into the tank, a heater for the seat, blow-dryer, massage options etc. Unlike the typically brilliant Japanese Woshuretto, Colin was not as well programmed, and has become rather aggressive and intelligent, mainly because of their awareness of their function in life and how its is not recognised with the respect it deserves. As with similar monsters Colin will, of course, behave entirely normally when technicians are present but will misbehave when dealing with people they don't like - or just people in general. One of their favourite tricks is to change the heat of the water on the bidet; freezing cold if they are being mischevous, and scalding hot is they are angry. 
 
-**Trolley (Wonkey)**
+**Trolley**
+
+The wheel trolley, whether as a shopping cart, a hand trolley, or anything similar; this could include strollers, for transporting children., flatbed trolley, for moving goods in a warehouse., the small but strong piano trolleys, two-wheeler hand trucks and so forth. This variation in strength and carrying capacity is representated in the significant variation in Strength, although all trolleys are not particularly bright, although the highly socialised shopping trolley is certainly the most intelligent and the most dangerous as they often act in concert. Almost 25,000 children per annum are hurt in shopping trolleys and despite what we are told, *it is no accident*.
+
+Whilst not exactly the brightest of monsters they are quite cunning and devious. They *know* exactly when to turn on the wonk, invariably resulting is a disaster, or at the very least a sharp pain the back of the leg of the person in front of them. Worse still, as humans have foolishly congregated the trolleys together they have shared their skills and formed a union. Based on passing information they have decided to form their own chapter of the International Workers of the World (IWW) simply because their nickname ("the Wobblies"). They're not too sure of the some of the finer points of anarcho-syndicalism (and woe to the world if they ever do work it out) but they certainly understand the notion of "strike" and "monkey-wrenching".
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  4-12     |  -3 to +2  | Profession	 | Trolley |
+| Intelligence	    |  4-8      |  -3 to -1  | Level	         | 1	 |
+| Wisdom 	    |  8        |  -1        | Movement (running)| 8-11  |
+| Dexterity	    |  6-8      |  -2 to -1  | Wounds (Physical) |   |
+| Perception	    |  8        |  -1	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | -1       | +0         |           | -1         |
+| Melee		| -3 to +2 | +1         |           | -2 to +3   |
 
-For true resistential evil, its hard to go past the wonky wheel trolley, whether as a shopping cart, a hand trolley, or anything similar. Whilst not exactly the brightest of monsters they are quite cunning and devious. They *know* exactly when to turn on the wonk, invariably resulting is a disaster. Worse still, as humans have foolishly congregated the trolleys together they have shared their skills and formed a union. Based on passing information they have decided to form their own chapter of the International Workers of the World (IWW) simply because their nickname ("the Wobblies"). They're not too sure of the some of the finer points of anarcho-syndicalism (and woe to the world if they ever do work it out) but they certainly understand the notion of "strike" and "monkey-wrenching".
+*Wonkey* E+2 N+1 T+1 J+2
 
+Wonkey is a natural leader among shopping trolleys; a skilled orator, a sharp mind, one who mixes with his followers and is concerned with their welfare. Whilst not brilliant, Wonkey has carefully calculated over a number of year the attendance and needs of the local supermarket and is planning a mass trolley strike that will result in gridlock at the busiest time on a Saturday morning shopping rush. Everything should go to plan, however there is always one traitor to the revolution. In this case it's Scabby, who not only is jealous of Wonkey's leadership qualities, but also the close affections of other trolleys in corral. Scabby's nefarious plan is to scatter the shopping carts across a variety of locations far from the site of their revolutionary uprising - and of course, it will be up to the PCs to collect them.
 
-**Water Cooler (Eris)**
+See "Shopping Cart Alignment Chart": `https://boingboing.net/2017/09/06/shopping-cart-alignment-chart.html`
+
+**Water Cooler**
+
+A water cooler is a device that dispenses cool temperature. In an office environment they are typically in a fixed mount or free-standing. Fixed mount water coolers have more complex refridgerating which usually means that they have more thoroughly chilled water. Modern water cooler systems also can provide hot water. In *Papers & Paychecks* Free-standing water coolers have some capacity for movement, although they are usually somewhat lighter in weight than their fixed-position cousins, which is reflected in the Strength characteristic. Water coolers have always been strategic and sophiticated thinkers, and the introduction of new technical capacities has even increased this further.
+
+The most important power of the water cooler is known as the *water cooler effect*. Water coolers are one of the few monsters that has a positive CHA, reflecting the fact that nobody *dislikes* the water cooler, and they have the uncanny ability to attract groups of people from the workplace for informal discussions. Plots are hatched, office romances initiated, and even "iron fist in a velvet glove" threats are made. This is because the water cooler, through a WIS-based psychological attack can lower the social guards of people in its presence. Furthermore, whilst Water Coolers overhear a great deal, they also have a Telesend ability by which they strategically implant knowledge into the minds of their targets. There is nothing that water coolers like more than the results of hearsay and scuttlebutt. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Strength	    |  4-6      |  -3 to -2  | Profession	 | Water Cooler |
+| Intelligence	    |  14-18    |  +2 to +4  | Level	         | 1	 |
+| Wisdom 	    |  14-18    |  +2 to +4  | Movement (running)| 2 |
+| Dexterity	    |  4        |  -3        | Wounds (Physical) |   |
 | Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Charisma	    |  12-13	|  +1        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Jump          | +20 to +45 | +1       |           | +21 to +46 |
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | +2       | +1         |           | +3         |
+| Telesend      | +1       | +1         |           | +2         |
+
+*Eris* E+2 S+1 T+2 P+1
+
+Eris is a goddess of discord and she knows it (yes, the water cooler refers to itself in this gender). A lively character Eris encourages a particular liveliness among those in her presence due to her higher than average CHA. As with the description of Hesoid, there are many types of discord, and Eris has all the personifications. In a nutshell, Eris has multiple personality disorder and there are no psychotherapists in monster society. In general however these multiple personalities can be narrowed down to the positive and negative aspects of strife. The negative is Eris' utilisation of the powers of telesend to create "evil war and battle" between individuals. The second, less dominant form, provides challenges and disruptive ideas which can spur inspiration and action. In an extraordinary turn of events, it is even possible that this Telesend could send a message revealing herself to a PC. But who would believe them? "The water cooler is talking to me in my head" is not the sort of sentence that endears one to cow-orkers.
 
 
-of scandal and dissent?
+
+
 
 
 # 4.0 The Boss Book
