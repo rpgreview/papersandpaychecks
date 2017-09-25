@@ -2459,24 +2459,27 @@ Like many other modern cell-phones Desire is named after its sensual affections 
 
 **Toilet**
 
+A toilet is a sanitation device for the disposal of human urine and faeces, although numerous other and inappropriate items are often disposed of in toilets (c.f., Fatberg). The modern, sitting-position, flushing toilet has saw a widespread introduction in the 19th century with Thomas Crapper as a leading manufacturer. A particular feature of the flushing toilet is the use of shaped bend that both collects the water and prevents sewer gases for escaping. Flush toilets drain pipes lead to waste treatment. Portabe toilets (such as those used on building sites) and chemical toilets (used on planes, some coaches etc) have similar statistics to what is provided here. 
+
+In *Papers & Paychecks* Toilets are not particularly smart and indeed, are typically not even smart enough to be especially malicious. Introverted creatures in their own right they tend to listen rather than express and have a limited mental reception and transmission. If a character uses a sapient toilet (a 50% chance per strategic turn that they will need to), a toilet will take a random secret fact or opinion about the character which they will then pass on as a idea the next character who visits. This is typically embarrassing features of the character. "You know, I'd never consider Jack the Scientist as someone who enjoyed Shirley Temple movies.. But I did hear him humming 'Good Ship Lollipop' at the staff drinks" 
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  50-100   |  +20 to +45| Profession	 | Horse |
-| Intelligence	    |  4        |  -3	     | Level	         | 1	 |
-| Wisdom 	    |  4        |  -3        | Movement (running)| 10-15 |
-| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
-| Perception	    |  14       |  +2	     | Wounds (Mental)   |   |
-| Charisma	    |  4	|  -4        | Wounds (Social)   |   |
+| Strength	    |  6        |  -2        | Profession	 | Toilet |
+| Intelligence	    |  6        |  -2	     | Level	         | 1 |
+| Wisdom 	    |  6        |  -2        | Movement (running)| 1 |
+| Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
+| Perception	    |  6        |  -2	     | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +2       | +3       |           | -2         |
+| Sense (ESP)   | -2       | +0         |           | -2         |
+| Telepathy     | -2       | +0         |           | -2         |
 
+*Colin* I+3 N+1 F+2 J+2
 
-*Colin*
-
-Bio hazards in the office toilet...
-
+In many ways Colin was a typical sapient toilet, not too bright, not too aggressive. But that was in the past, before a rather well-intentioned but poorly skilled computer programmer decided that what was really needed was a 'smart toilet', following the innovations of the Japanese Woshuretto. With the introduction of a large variety of flush solutions, the implementation of a bidet, a top-placed sink for hand-washing water to go back into the tank, a heater for the seat, blow-dryer, massage options etc. Unlike the typically brilliant Japanese Woshuretto, Colin was not as well programmed, and has become rather aggressive and intelligent, mainly because of their awareness of their function in life and how its is not recognised with the respect it deserves. As with similar monsters Colin will, of course, behave entirely normally when technicians are present but will misbehave when dealing with people they don't like - or just people in general. One of their favourite tricks is to change the heat of the water on the bidet; freezing cold if they are being mischevous, and scalding hot is they are angry. 
 
 **Trolley (Wonkey)**
 
