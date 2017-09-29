@@ -1392,313 +1392,360 @@ This pair of rings are exchanged between significant others in the public ritual
 
 ## 3.1 Labourers
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Labourer |
+| Intelligence	    |   	|  	     | Level	          | 3	 |
+| Wisdom 	    |   	|            | Movement (running) |  |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	 | Labourer |
+| Intelligence	    |   	|  	     | Level	         | 6	 |
+| Wisdom 	    |   	|            | Movement (running) |  |
+| Dexterity	    |   	|            | Wounds (Physical) |   |
+| Perception	    |   	|      	     | Wounds (Mental)   |   |
+| Charisma	    |  		|            | Wounds (Social)   |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Labourer |
+| Intelligence	    |   	|  	     | Level	          | 9 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
 ## 3.2 Scientists
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Scientist |
+| Intelligence	    |   	|  	     | Level	          | 3 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Scientist |
+| Intelligence	    |   	|  	     | Level	          | 6 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Scientist |
+| Intelligence	    |   	|  	     | Level	          | 9 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
 
 *Al Kyne*, a scientist
 
 
 ## 3.3 Administrators
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Administrator |
+| Intelligence	    |   	|  	     | Level	          | 3 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Administrator |
+| Intelligence	    |   	|  	     | Level	          | 6 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Administrator |
+| Intelligence	    |   	|  	     | Level	          | 9 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
 ## 3.4 Technicians
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Technician |
+| Intelligence	    |   	|  	     | Level	          | 3 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Technician |
+| Intelligence	    |   	|  	     | Level	          | 6 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Technician |
+| Intelligence	    |   	|  	     | Level	          | 9 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
 ## 3.5 Researchers
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Researcher |
+| Intelligence	    |   	|  	     | Level	          | 3 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Researcher |
+| Intelligence	    |   	|  	     | Level	          | 6 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Researcher |
+| Intelligence	    |   	|  	     | Level	          | 9 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
 ## 3.6 Managers
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Manager |
+| Intelligence	    |   	|  	     | Level	          | 3 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
-| Characteristic| Value	| Bonus  |
-|---------------|-------|--------|
-| Strength	|  0    |  -     |
-| Intelligence	|  1    |  -5	 |
-| Wisdom 	|  1    |  -5    | Movement           |   |
-| Dexterity	|  0    |  -     | Wounds (Physical)  |   |
-| Perception	|  1    |  -5	 | Wounds (Mental)    |   |
-| Charisma	|  1	|  -5    | Wounds (Social)    |   |
-|---------------|-------|--------|-------|--------|
-| Skill         | Char  | Train  | Other | Total  |
-|---------------|-------|--------|-------|--------|
-| Climb         | -4    | +2     |  +2   | +0     |
-| Jump          | -4    | +2     |  +2   | +0     |
-| Melee         | -4    | +2     |       | -2     |
-| Gymnastics    | +2    | +4     |  +2   | +8     |
-| Stealth       | +2    | +4     |  +2   | +8     |
-| Perception    | -3    | +4     |  +2   | +3     |
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Manager |
+| Intelligence	    |   	|  	     | Level	          | 6 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   	|  	     | Profession	  | Manager |
+| Intelligence	    |   	|  	     | Level	          | 9 |
+| Wisdom 	    |   	|            | Movement (running) |   |
+| Dexterity	    |   	|            | Wounds (Physical)  |   |
+| Perception	    |   	|      	     | Wounds (Mental)    |   |
+| Charisma	    |  		|            | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
 
 
 ## 3.7 Bestiary
@@ -2530,10 +2577,6 @@ The most important power of the water cooler is known as the *water cooler effec
 *Eris* E+2 S+1 T+2 P+1
 
 Eris is a goddess of discord and she knows it (yes, the water cooler refers to itself in this gender). A lively character Eris encourages a particular liveliness among those in her presence due to her higher than average CHA. As with the description of Hesoid, there are many types of discord, and Eris has all the personifications. In a nutshell, Eris has multiple personality disorder and there are no psychotherapists in monster society. In general however these multiple personalities can be narrowed down to the positive and negative aspects of strife. The negative is Eris' utilisation of the powers of telesend to create "evil war and battle" between individuals. The second, less dominant form, provides challenges and disruptive ideas which can spur inspiration and action. In an extraordinary turn of events, it is even possible that this Telesend could send a message revealing herself to a PC. But who would believe them? "The water cooler is talking to me in my head" is not the sort of sentence that endears one to cow-orkers.
-
-
-
-
 
 
 # 4.0 The Boss Book
