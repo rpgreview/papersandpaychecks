@@ -621,13 +621,13 @@ An Investigate skill check is used to apply forensics, discover clues, and engag
 
 **Knowledge (various)** 
 
-A Knowledge skill check is used against any critical application of a theoretical knowledge. Mant other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
+A Knowledge skill check is used against any critical application of a theoretical knowledge. Many other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
 
 > The character Seth is a post-graduate health scientist. Their player, with a truly impressive 7 skill points per level, spends 1 to increase the Knowledge (Science), a required specialisation, and 2 on the optional specialisations of biology and medicine i.e., Knowledge (Science, Biology), Knowledge (Science, Medicine), and 1 on medical practioners i.e., Knowledge (Science, Medics).
 
 **Knowledge (Arts)** 
 
-A Knowledge (Arts - specialisation) skill check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, suppliers, galleries), and people (artists, agents, collectors, academics)
+A Knowledge (Arts - specialisation) skill check is used whenever a character wishes to evaluate aesthetic expressions. This will includes knowledge of medium (literature, film, painting, sculpture, music, architecture), styles (modernism, neoclassical, baroque, medieval), and institutions (schools, suppliers, galleries), and people (artists, agents, collectors, academics).
 
 **Knowledge (Laws)** 
 
@@ -639,7 +639,11 @@ A Knowledge (Sciences - specialisation) skill check is required whenever a chara
 
 **Knowledge (Philosophy)**
 
-A Knowledge (Philosophy - specialisation) skill check is required whenever a character wishes to evaluate rational propositions. This includes issues of ontology (theories of being), epistemology (theories of knowledge), logic (mathematics, rhetoric), the various institutions, schools of thought, and people.
+A Knowledge (Philosophy - specialisation) skill check is required whenever a character wishes to evaluate rational propositions and evidence. This includes issues of ontology (theories of being), epistemology (theories of knowledge), logic (mathematics, rhetoric), the various institutions, schools of thought, and people.
+
+**Knowledge (General)**
+
+A Knowledge (General - specialisation) skill check is required whenever a character wishes to evaluate general statesments about particular places, people, institutions etc. This skill can be specialised for area knowledges (particular regions) and social classes (high society, streetwise).
 
 **Language (various)**
 
@@ -1339,28 +1343,37 @@ In *Papers & Paychecks* equipment is purchased with cash, rather like a traditio
 
 Where appropriate various items of equipment are provided with reference to their time of general introduction to the consumer market and future developments from that point. Some of this is inevitably speculative, as if even this designer cannot predict the future with the required level of accuracy. Where the description of equipment in the game conflicts with reality, reality wins and The Boss should modify appropriately. The game avoids abstract methods of technological developments in favour of concrete examples.
 
+**Contraband**
+
+Goodness knows why, but Player-Characters often think its a good idea to try to get hold of contraband. Indeed, some malicious Bosses even make it seem like it's a requirement for completion of a scenario. Fortunately most goods and services are legal, albeit with various degrees of commercial regulation. When purchasing goods that have a degree of restriction, consult the table below. The three categories of contraband are Professional, that is, they assume a particular license in a particular profession (e.g., medical) to have available, Military, that is, the good or service is of military-grade restriction, and Illegal, that is the good or service is illegal under almost all circumstances in the society in question. The Difficulty Rating is the target number (with Knowledge:Streetwise or similar) that is required to obtain the good, and the time is the number of Strategic Turns required. The price is a multiplier on what the cost would be if the good was not contraband.
+
+| Restriction	| Difficulty Rating	| Time	| Price |
+|---------------|-----------------------|-------|-------|
+| Professional  | 11			| 2	|  2    |
+| Military	| 15			| 4	|  4	|
+| Illegal	| 19			| 8	|  8    |
+
 **Standards of Living**
 
-One matter which is screened out of the game is general household costs, utilities, groceries, and so forth. The management of mortgages and rents, whilst so important in the real world, are largely abstracted in this game in terms of a general 'household standard' expense with categories that correlate with the 'rolled wealth' score from character generation. Note that real wages for middle and low-income workers has not changed sufficiently since the 1970s to make any difference to standards of living. As an example of some rather grim humour where dreams of the future are shattered, and as an endorsement of the cyberpunk ethic, real wages will not change throughout the entire period of the game until 2050.
+One matter which is screened out of the game is general household costs, utilities, groceries, and so forth. The management of mortgages and rents, whilst so important in the real world, are largely abstracted in this game in terms of a general 'household standard' expense with categories that correlate with the 'rolled wealth' score from character generation. Note that real wages for middle and low-income workers has not changed sufficiently since the 1970s to make any difference to standards of living. As an example of some rather grim humour where dreams of the future are shattered, and as an endorsement of the cyberpunk ethic, real wages and purchasing power will not change throughout the entire period of the game until 2050 and perhaps beyond.
  
 | Rolled Wealth	Equivalent | Weekly Cost	|	Household Standard									|
 |---------------|-------|---------------------------------------------------------------------------------------|
-| 2		| $200	| Very poor. Dilapidated housing, utilities often out-of-order or cut off, shortage of basic necessities, poor quality tinned food and cheap staples | 
-| 3-5		| $300	| Poor. Lower class house or apartment, low level of utilities, necessities met, simple and sometimes fresh foodstuffs |
-| 6-8		| $500	| Average. Surburan house or large apartment, good supply of utilities, surplus of necessities, and foodstuffs |
-| 9-11		| $800	| Above average. Large suburban house or large townhouse, excess of modern utilities, never short of necessities, high quality food, drinks, and excellent meals etc | 
-| 12		| $1300	| Very rich. Very large multistory suburban house or large inner-city townhouse, latest in utilities, the best quality in foods, drinks, and exceptional meals  |
-
+| 2		| $200	| Very poor. Dilapidated rented housing, utilities often out-of-order or cut off, shortage of basic necessities, poor quality tinned food and cheap staples | 
+| 3-5		| $300	| Poor. Lower class rented house or apartment, low level of utilities, necessities met, simple and sometimes fresh foodstuffs |
+| 6-8		| $500	| Average. Surburan mortgaged house or large apartment, good supply of utilities, surplus of necessities, and foodstuffs |
+| 9-11		| $800	| Above average. Large mortgaged suburban house or large townhouse, excess of modern utilities, never short of necessities, high quality food, drinks, and excellent meals etc | 
+| 12		| $1300	| Very rich. Very large owned multistory suburban house or large inner-city townhouse, latest in utilities, the best quality in foods, drinks, and exceptional meals  |
 
 **Hobby Equipment**
 
 For whatever Hobby skill a character has taken there is a set of tools, equipment, or even animals appropriate to the hobby which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment weighs 5kgs.
 
+**Computer Equipment**
+
+**Communications Equipment**
+
 ## 2.7 Special Equipment
-
-
-**Bracelet of Friendship**
-
 
 **Charles Atlas Manual of Bodily Strength**
 
@@ -1368,23 +1381,23 @@ For whatever Hobby skill a character has taken there is a set of tools, equipmen
 
 **Knuth's The Art of Computing Programming**
 
-*On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*
-Charles Babbage, *Passages from the life of a philosopher*, 1864
+> *On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right 
+> answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*
+> Charles Babbage, *Passages from the life of a philosopher*, 1864
 
 These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume weighs 1.5 kilograms and costs $1000 for the set. 
 
-
 **Potion of Socialability**
 
-*I drink when I have occasion, and sometimes when I have no occasion.*
-Miguel de Cervantes, *Don Quixote de la Mancha* (1605–1615) Part II (1615), Book III, Ch. 33.
+> *I drink when I have occasion, and sometimes when I have no occasion.*
+> Miguel de Cervantes, *Don Quixote de la Mancha* (1605–1615) Part II (1615), Book III, Ch. 33.
 
 The capacity of alcoholic drinks to provide sociability is well known and presented within this game. However, a potion of socialability is a very special version of said drinks. As normal, a standard dose is either one medium glass of beer, a small glass of wine, or a shot of spirit. Each standard dose of a Potion of Socialability increases the CHA of *others* interacting with the character by 1. You want to be their friend. Follow the rules for drinking under section 2.2.
 
 **Ring of The Significant Other**
 
-*Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*
-Ambrose Bierce, *The Devil's Dictionary*, 1967.
+> *Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*
+> Ambrose Bierce, *The Devil's Dictionary*, 1967.
 
 This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each with a neglible weight.
 
@@ -1413,8 +1426,6 @@ This pair of rings are exchanged between significant others in the public ritual
 
 
 *Fleur Power*, a labourer E+1 S+2 T+1 J+2 (Supervisor)
-
-
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -2522,7 +2533,7 @@ Photocopiers cause double damage (burn, cut) on a successful physical attack.
 Mimic is a modern photocopier and scanner, with heightened intelligence (programmed options) and perception (through wired and wireless networking). Unlike many monster photocopiers Mimic does not engage the playful antics common on their type, but rather is a rather cold and calculating monster.
 Working in a law firm and have a surprising access to documents marked 'confidential', all of which Mimic stores into its extensive memory. When Mimic receives a set of corporate contracts which a damaging to the PC Worker's company, Mimic decides to engage in some calculated mischief by sending them to the PC Workers. This could go on for some time, until the PCs realise that it Mimic, whose legal firm also manages the documents of the PC's firm, is also sending their legal documents to their competitors.
 
-**Refrigerator**
+**Refrigerator** [EDIT]
 
 A refrigerator (colloquially fridge) is a popular household appliance that consists of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from the inside of the fridge to its external environment so that the inside of the fridge is cooled to a temperature below the ambient temperature of the room. Refrigeration is an essential food storage technique in developed countries. The lower temperature lowers the reproduction rate of bacteria, so the refrigerator reduces the rate of spoilage. A refrigerator maintains a temperature a few degrees above the freezing point of water. Optimum temperature range for perishable food storage is 3 to 5 °C (37 to 41 °F).[1] A similar device that maintains a temperature below the freezing point of water is called a freezer. The refrigerator replaced the icebox, which had been a common household appliance for almost a century and a half. For this reason, a refrigerator is sometimes referred to as an icebox in American usage.
 
@@ -3219,6 +3230,7 @@ Knowledge (Arts)
 Knowledge (Laws) 
 Knowledge (Sciences)
 Knowledge (Philosophy)
+Knowledge (General)
 Language (various)
 
 *Wisdom Based Skills*
