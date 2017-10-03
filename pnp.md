@@ -1394,12 +1394,35 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Labourer |
-| Intelligence	    |   	|  	     | Level	          | 3	 |
-| Wisdom 	    |   	|            | Movement (running) |  |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |  15 	|  +2	     | Profession	  | Labourer |
+| Intelligence	    |   8	|  -1	     | Level	          | 3	 |
+| Wisdom 	    |   6	|  -2        | Movement (running) |  |
+| Dexterity	    |  13 	|  +1        | Wounds (Physical)  |   |
+| Perception	    |  11 	|  +0 	     | Wounds (Mental)    |   |
+| Charisma	    |  13	|  +1        | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
+
+
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   16	|  +3	     | Profession	 | Labourer |
+| Intelligence	    |   11	|  +0	     | Level	         | 6	 |
+| Wisdom 	    |   8	|  -1        | Movement (running) |  |
+| Dexterity	    |   11	|  +0        | Wounds (Physical) |   |
+| Perception	    |   8	|  -1        | Wounds (Mental)   |   |
+| Charisma	    |  	9	|  -1          | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1413,31 +1436,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	 | Labourer |
-| Intelligence	    |   	|  	     | Level	         | 6	 |
-| Wisdom 	    |   	|            | Movement (running) |  |
-| Dexterity	    |   	|            | Wounds (Physical) |   |
-| Perception	    |   	|      	     | Wounds (Mental)   |   |
-| Charisma	    |  		|            | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Labourer |
-| Intelligence	    |   	|  	     | Level	          | 9 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   13	|  +1	     | Profession	  | Labourer |
+| Intelligence	    |   13	|  +1	     | Level	          | 9 |
+| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
+| Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
+| Charisma	    |  	14	|  +2          | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1453,12 +1457,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Scientist |
-| Intelligence	    |   	|  	     | Level	          | 3 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   5	|  -3	     | Profession	  | Scientist |
+| Intelligence	    |   18	|  +4	     | Level	          | 3 |
+| Wisdom 	    |   9	|  -1        | Movement (running) |   |
+| Dexterity	    |   12	|  +1        | Wounds (Physical)  |   |
+| Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
+| Charisma	    |  	8	|  -1        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1471,12 +1475,12 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Scientist |
-| Intelligence	    |   	|  	     | Level	          | 6 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   7	|  -2	     | Profession	  | Scientist |
+| Intelligence	    |   17	|  +3	     | Level	          | 6 |
+| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Dexterity	    |   11	|  +0        | Wounds (Physical)  |   |
+| Perception	    |   10	|  +0 	     | Wounds (Mental)    |   |
+| Charisma	    |  	11	|  +0        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1490,12 +1494,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Scientist |
-| Intelligence	    |   	|  	     | Level	          | 9 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   10	|  +0	     | Profession	  | Scientist |
+| Intelligence	    |   17	|  +3	     | Level	          | 9 |
+| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Dexterity	    |   12	|  +1        | Wounds (Physical)  |   |
+| Perception	    |   5	|  -3  	     | Wounds (Mental)    |   |
+| Charisma	    |  	10	|  +0        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1515,12 +1519,32 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Administrator |
-| Intelligence	    |   	|  	     | Level	          | 3 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   7	|  -2	     | Profession	  | Administrator |
+| Intelligence	    |   8	|  -1	     | Level	          | 3 |
+| Wisdom 	    |   16	|  +3        | Movement (running) |   |
+| Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
+| Perception	    |   14	|  +2        | Wounds (Mental)    |   |
+| Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+|               |          |            |           |            |
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   11	|  +0	     | Profession	  | Administrator |
+| Intelligence	    |   12	|  +1	     | Level	          | 6 |
+| Wisdom 	    |   15	|  +2        | Movement (running) |   |
+| Dexterity	    |   5	|  -3        | Wounds (Physical)  |   |
+| Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
+| Charisma	    |  	14	|  +2          | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1534,31 +1558,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Administrator |
-| Intelligence	    |   	|  	     | Level	          | 6 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Administrator |
-| Intelligence	    |   	|  	     | Level	          | 9 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   3	|  -4	     | Profession	  | Administrator |
+| Intelligence	    |   13	|  +1	     | Level	          | 9 |
+| Wisdom 	    |   18	|  +4        | Movement (running) |   |
+| Dexterity	    |   7	|  -2        | Wounds (Physical)  |   |
+| Perception	    |   7	|  -2 	     | Wounds (Mental)    |   |
+| Charisma	    |  	13	|  +1        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1574,12 +1579,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Technician |
-| Intelligence	    |   	|  	     | Level	          | 3 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   9	|  -1	     | Profession	  | Technician |
+| Intelligence	    |  10	|  +0	     | Level	          | 3 |
+| Wisdom 	    |   9	|  -1        | Movement (running) |   |
+| Dexterity	    |  14 	|  +2        | Wounds (Physical)  |   |
+| Perception	    |  13 	|  +1  	     | Wounds (Mental)    |   |
+| Charisma	    |  12       |  +1        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1593,12 +1598,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Technician |
-| Intelligence	    |   	|  	     | Level	          | 6 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   12	|  +1	     | Profession	  | Technician |
+| Intelligence	    |   11	|  +0	     | Level	          | 6 |
+| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Dexterity	    |   16	|  +3        | Wounds (Physical)  |   |
+| Perception	    |   10	|  +0 	     | Wounds (Mental)    |   |
+| Charisma	    |  	5	|  -3        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1612,12 +1617,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Technician |
-| Intelligence	    |   	|  	     | Level	          | 9 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   8	|  -1	     | Profession	  | Technician |
+| Intelligence	    |  10 	|  +0	     | Level	          | 9 |
+| Wisdom 	    |  10 	|  +0        | Movement (running) |   |
+| Dexterity	    |  14 	|  +2        | Wounds (Physical)  |   |
+| Perception	    |  10 	|  +0  	     | Wounds (Mental)    |   |
+| Charisma	    |  10	|  +0         | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1633,12 +1638,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Researcher |
-| Intelligence	    |   	|  	     | Level	          | 3 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   8	|  -1	     | Profession	  | Researcher |
+| Intelligence	    |   12	|  +1	     | Level	          | 3 |
+| Wisdom 	    |   11	|  +0        | Movement (running) |   |
+| Dexterity	    |   8	|  -1        | Wounds (Physical)  |   |
+| Perception	    |   17	|  +3        | Wounds (Mental)    |   |
+| Charisma	    |  	11	|  +0        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1652,12 +1657,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Researcher |
-| Intelligence	    |   	|  	     | Level	          | 6 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   10	|  +0	     | Profession	  | Researcher |
+| Intelligence	    |   11	|  +0	     | Level	          | 6 |
+| Wisdom 	    |   11	|  +0        | Movement (running) |   |
+| Dexterity	    |   11 	|  +0        | Wounds (Physical)  |   |
+| Perception	    |   15	|  +2  	     | Wounds (Mental)    |   |
+| Charisma	    |  	11	|  +0        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1671,12 +1676,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Researcher |
-| Intelligence	    |   	|  	     | Level	          | 9 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   4	|  -3	     | Profession	  | Researcher |
+| Intelligence	    |   13	|  +1	     | Level	          | 9 |
+| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Dexterity	    |   9	|  +0        | Wounds (Physical)  |   |
+| Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
+| Charisma	    |  	16	|  +3        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1692,12 +1697,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Manager |
-| Intelligence	    |   	|  	     | Level	          | 3 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   8	|  -1	     | Profession	  | Manager |
+| Intelligence	    |   10	|  +0	     | Level	          | 3 |
+| Wisdom 	    |   12	|  +1        | Movement (running) |   |
+| Dexterity	    |   8	|  -1        | Wounds (Physical)  |   |
+| Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
+| Charisma	    |  	15	|  +2        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1711,12 +1716,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Manager |
-| Intelligence	    |   	|  	     | Level	          | 6 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   10	|  +0	     | Profession	  | Manager |
+| Intelligence	    |   6	|  -2	     | Level	          | 6 |
+| Wisdom 	    |   6	|  -2        | Movement (running) |   |
+| Dexterity	    |   10	|  +0        | Wounds (Physical)  |   |
+| Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
+| Charisma	    |  	18	|  +4        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1730,12 +1735,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   	|  	     | Profession	  | Manager |
-| Intelligence	    |   	|  	     | Level	          | 9 |
-| Wisdom 	    |   	|            | Movement (running) |   |
-| Dexterity	    |   	|            | Wounds (Physical)  |   |
-| Perception	    |   	|      	     | Wounds (Mental)    |   |
-| Charisma	    |  		|            | Wounds (Social)    |   |
+| Strength	    |   12	|  +1	     | Profession	  | Manager |
+| Intelligence	    |   12	|  +1	     | Level	          | 9 |
+| Wisdom 	    |   12	|  +1        | Movement (running) |   |
+| Dexterity	    |   6	|  -2        | Wounds (Physical)  |   |
+| Perception	    |   6	|  -2  	     | Wounds (Mental)    |   |
+| Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
