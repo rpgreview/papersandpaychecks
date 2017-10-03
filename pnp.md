@@ -1412,6 +1412,8 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 
 
+*Fleur Power*, a labourer E+1 S+2 T+1 J+2 (Supervisor)
+
 
 
 
@@ -1434,6 +1436,10 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+
+*Chris P. Bacon*, a labourer, E+1 N+2 F+3 J+1 (Teacher)
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   13	|  +1	     | Profession	  | Labourer |
@@ -1452,6 +1458,10 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+
+*Joe Hill*, a labourer, I+2 N+3 F+2 J+1 (Healer)
+
 
 ## 3.2 Scientists
 
@@ -1473,6 +1483,11 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+
+*Terry Dactyl*, a scientist, I+2 N+2 T+3 J+1 (Mastermind)
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   7	|  -2	     | Profession	  | Scientist |
@@ -1491,6 +1506,12 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+*Dr. Shit Fun Chew*, a scientist, E+1 N+2 T+2 P+2 (Inventor)
+
+Nota bene: This name was not made up. Everything else was however.
+`https://www.improbable.com/2012/10/13/dr-shit-fun-chew-on-peeing-through-the-mouth/`
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1511,9 +1532,8 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
-
-*Al Kyne*, a scientist
-
+*Al Kyne*, a scientist I+3 N+1 T+1 P+1 (Architect)
+ 
 
 ## 3.3 Administrators
 
@@ -1537,6 +1557,9 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 
 
+*Jennifer Taglia*, an administrator, E+1 N+2 F+2 J+1 (Teacher):
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   11	|  +0	     | Profession	  | Administrator |
@@ -1556,6 +1579,10 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+
+*Jack Kanoff*, an administrator, I+1 N+2 F+3 J+1 (Counsellor)
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   3	|  -4	     | Profession	  | Administrator |
@@ -1574,6 +1601,8 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+
 
 ## 3.4 Technicians
 
@@ -1596,6 +1625,9 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+*Harry Baals*, a technician, E+1 N+1 F+1 P+2 (Champion)
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   12	|  +1	     | Profession	  | Technician |
@@ -1615,6 +1647,9 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+*Wendy West-Breese*, an administrator, E+1 S+2 T+3 P+2 (Promoter) 
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   8	|  -1	     | Profession	  | Technician |
@@ -1633,6 +1668,10 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+
+*Hardy Ballitch*, I+1 S+2 T+2 P+2 (Crafter)
+
 
 ## 3.5 Researchers
 
@@ -1655,6 +1694,9 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+*Oliver Gomeric*, a researcher, I+1 S+2 F+2 J+1 (Protectors)
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   10	|  +0	     | Profession	  | Researcher |
@@ -1674,6 +1716,8 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+*Miles A.Head*, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   4	|  -3	     | Profession	  | Researcher |
@@ -1692,6 +1736,8 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+*Justine Case*, I+1 S+1 T+1 P+2 (Crafter)
 
 ## 3.6 Managers
 
@@ -1714,6 +1760,9 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+*Yul B. Allwright*, a manager, E+1 S+2 F+2 P+2 (Performer)
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   10	|  +0	     | Profession	  | Manager |
@@ -1733,6 +1782,14 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+
+*Seymour Butz*, a manager, I+1 S+2 F+2 J+1 (Protectors)
+
+
+fun-loving, helpful, dishonest,
+
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   12	|  +1	     | Profession	  | Manager |
@@ -1751,6 +1808,9 @@ This pair of rings are exchanged between significant others in the public ritual
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
+
+
+*Wayne Kerr*, a manager. E+1 N+3 T+1 J+3 (Fieldmarshall)
 
 
 ## 3.7 Bestiary
@@ -2532,6 +2592,9 @@ In *Papers & Paychecks* Toilets are not particularly smart and indeed, are typic
 *Colin* I+3 N+1 F+2 J+2
 
 In many ways Colin was a typical sapient toilet, not too bright, not too aggressive. But that was in the past, before a rather well-intentioned but poorly skilled computer programmer decided that what was really needed was a 'smart toilet', following the innovations of the Japanese Woshuretto. With the introduction of a large variety of flush solutions, the implementation of a bidet, a top-placed sink for hand-washing water to go back into the tank, a heater for the seat, blow-dryer, massage options etc. Unlike the typically brilliant Japanese Woshuretto, Colin was not as well programmed, and has become rather aggressive and intelligent, mainly because of their awareness of their function in life and how its is not recognised with the respect it deserves. As with similar monsters Colin will, of course, behave entirely normally when technicians are present but will misbehave when dealing with people they don't like - or just people in general. One of their favourite tricks is to change the heat of the water on the bidet; freezing cold if they are being mischevous, and scalding hot is they are angry. 
+
+Actual design.
+`https://www.improbable.com/2017/09/13/exploring-the-confusion-matrix-for-auto-bidet-seat-icons-study/`
 
 **Trolley**
 
