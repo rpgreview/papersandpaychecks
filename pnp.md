@@ -573,7 +573,7 @@ A Athletics (stamina) skill check is made when a character is engaging in a even
 
 **Climb**
 
-A Climb check is used whenever a character is required to move along a steep incline, defined as 50 degrees or more. Encumbrance penalties apply to Climb checks.
+A Climb check is used whenever a character is required to move along a steep incline, defined as 45 degrees or more. Encumbrance penalties apply to Climb checks.
 
 **Intimidate**
 
@@ -732,11 +732,11 @@ There are few Perception based skills, but they have a wide application. Percept
 
 **Insight**
 
-
+An Insight skill check is made when a character is trying to apply their powers of cognition to information received in order to derive additional information. It is absolutely essential various types of deductive investigation. 
 
 **Sense (type)**
 
-A Sense skill check is made when a character applies their senses to make an evaluation of the objective world. Specialisations are required for the broad traditional sense categories Smell/Taste, Sight, Hearing, and Touch. Other creatures may have more exotic senses.
+A Sense skill check is made when a character applies their senses to make an evaluation of the objective world. Specialisations are required for the broad traditional sense categories Smell/Taste, Sight, Hearing, and Touch. Other creatures (and 'monsters') may have more exotic senses.
 
 ### Charisma Based Skills
 
