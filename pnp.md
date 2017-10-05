@@ -661,7 +661,6 @@ An Administration check is made when testing a character's ability to organise, 
 
 A Concentration skill check is made when a character has to either shrug off the effects of temporary distractions (tactical concentration) or ignore the effects of fatigue (strategic concentration). An optional specialisation is allowed for the two time scales.
 
-
 **Gamble**
 
 A Gamble skill check is made to test a character's understanding of chance, risk, and contingency. Not only does it apply to their evaluation of traditional games of chance, but also risk management in operations and projects in a contemporary work environment, and financial investments.
