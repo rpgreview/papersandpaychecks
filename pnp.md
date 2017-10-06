@@ -3204,6 +3204,8 @@ Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, *D20 Modern*, Wizards of 
 
 Paul Czege, *My Life With Master*, Half Meme Press, 2003
 
+Dave Webb, R. Hyrum Savage, *Solid! The D20 Blaxploitation Experience*, Dos Hermanos Publishing, 2005
+
 Cam Banks, Rob Donoghue, *Leverage: The Roleplaying Game*, Margaret Weis Productions, 2010
 
 ## 6.2 Charts and Tables
