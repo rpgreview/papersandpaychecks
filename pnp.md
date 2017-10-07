@@ -1075,7 +1075,6 @@ Bully in a position to use or threaten violence +4
 
 Brawl is a context combat skill. When a character announces a Brawl in almost all cases they are attempting to apply physical violence to their opponent. When a character carries out a Brawl attack, the defender may react and defend themselves also with a Brawl check. The difference between the two values equals the amount of damage caused, modified by the weapon. 
 
-
 **Climb**
 
 There is a modifier to the climb check depending on the angle of the incline. Handholds are *required* for any incline of 90 degrees or more.
@@ -1118,15 +1117,14 @@ If the equipment is availble, a character may attempt to improve the surface the
 
 The difficulty of a Computing check depends on the activity being carried out.
 
-
-Very easy	5 Use a word processor effectively, use simple commands, attach a peripheral,
-Easy	7 Basic use of spreadsheet, simple use of a database, use options to commands, insert a internal card
-Average	9 Apply simple formulae in a spreadsheet or database, write a simple script, use complex commands, compile a simple program, troubleshoot a failed network connection, bypass an insecure computer system
-Tough	11 Write a complex spreadsheet or database query, write a complex script, compile a program with depedencies, network an office and peripherals, build a PC from components, determine basic security flaws in an unpatched operating system. 
-Challenging	13 exploit basic security flaws, identity complex security flaws 
-Formidable 	15 exploit complex security flaws
-Heroic	17 
-Nearly impossible	19
+| Target Number	| Example	|
+|---------------|---------------|
+| 7 		| Use a word processor effectively, use simple commands, attach a peripheral.	|
+| 9 		| Basic use of spreadsheet, simple use of a database, use options to commands, insert a internal card. |
+| 11 		| Apply simple formulae in a spreadsheet or database, write a simple script, use complex commands, compile a simple program, troubleshoot a failed network connection, bypass an insecure computer system |
+| 13 		| Write a complex spreadsheet or database query, write a complex script, compile a program with depedencies, network an office and peripherals, build a PC from components, determine basic security flaws in an unpatched operating system. | 
+| 15 		| Exploit basic security flaws, identity complex security flaws | 
+| 17		| Exploit complex security flaws	|
 
 The number of standard actions taken to carry out an activity very much depends on the scale and complexity of the task. For example, finding a file or keyphrase in a collection of files is either very easy or easy, and will remain of that difficulty regardless of the scale; it is the time that may be of an issue. Conducting such a search on a personal computer (laptop or desktop) will take 3 standard actions, on a small office network of it would take several standard actions, for a large corporate network anywhere up to 1000 standard actions or more. Note however that just a single roll is required; the time taken is the processsing of the search; assume two standard actions to type the command, and then one standard action per personal directory for the processing of a command.
 
@@ -1338,7 +1336,7 @@ In *Papers & Paychecks* equipment is purchased with cash, rather like a traditio
 
 **Technological Development**
 
-*Papers & Paychecks* is firmly set in the advanced industrial period, anywhere from around 1970 onwards. The game is designed to cover the development of a character from their first years in a job until retirement - around a fifty year period. Giving some leeway in the starting year of a *Papers and Paychecks* saga, the starting year should be anywhere from 1970 to 2000 and retirement from 2020 to 2050. This is, as we know, a a period of significant technological change and as a result the equipment examples also must accurately represent those changes.
+*Papers & Paychecks* is firmly set in the advanced industrial period, anywhere from around 1970 onwards. The game is designed to cover the development of a character from their first years in a job until retirement - around a fifty year period. Giving some leeway in the starting year of a *Papers and Paychecks* saga, the starting year should be anywhere from 1980 to 2000 and retirement from 2030 to 2050. This is, as we know, a a period of significant technological change and as a result the equipment examples also must accurately represent those changes.
 
 Where appropriate various items of equipment are provided with reference to their time of general introduction to the consumer market and future developments from that point. Some of this is inevitably speculative, as if even this designer cannot predict the future with the required level of accuracy. Where the description of equipment in the game conflicts with reality, reality wins and The Boss should modify appropriately. The game avoids abstract methods of technological developments in favour of concrete examples.
 
@@ -1372,12 +1370,46 @@ For whatever Hobby skill a character has taken there is a set of tools, equipmen
 
 For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
 
-Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 3 points of physical armour protection and 5 points of fire damage reduction.
+Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 5 points of physical armour protection and 5 points of fire damage reduction.
 
-Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 1, 3, or 5 points or armour respectively, plus converts 4, 8, or 16 points of penetrating bullet damage to flat crushing damage. A bullet will still hurt (a lot) but the character will *probably* not be dead. Armour cost is $200, $400, or $800.
-
+Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 2, 4, or 8 points of armour or double that (4, 8, or 16 points) if protecting against firearms. A bullet will still hurt (a lot) but the character will *probably* not be dead. This body armour costs $200, $400, or $800, respectively and the third level is only available after 1985. A fourth level of body armour, made from spider-goats is available from 2030 onwards. It has an ENC of 2 and protects for 16 points against all forms of attack. It costs $1200. 
 
 **Computer Equipment**
+
+> The Computer is happy. The Computer is crazy. The Computer will help you become happy. This will drive you crazy.
+> *Paranoia*, 1984
+
+For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliyt and cost. 
+
+Portable systems (laptops) are available from 1985 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC.
+
+For mainframe systems (1980 to 1995) assume specifications 5 years ahead of the desktop (i.e., 1980 mainframe will use a 1985 desktop specifications), and will cost ten times as much and 50 ENC. For a cluster computer system (1995 onwards), simply multiply the number of desktop systems that make up the cluster, add extra systems to represents login or management nodes, and double the cost to represent high-speed interconnect (about double the standard), and external storage arrays. For cloud systmes (2005 onwards), simply assume multiple virtual systems are available with a small overhead.
+
+Operating computer systems is either by the command line, GUI (graphic user interface), or voice activation. Each of these has a variation in difficulty noted in the text (which also represents operating system development), and speed. Voice activation is the slowest and easiest, requiring twice as long as GUI usage, which in turn takes twice as long as the command line interface. 
+
+See the section for Computing under 2.3 Tactical Task Resolution, and the Intelligence-based skill, Craft (Computing) under 1.6 Skills and Knowledges for use.
+
+*1980 Desktop*. CRT (Cathode Ray Tube) screen, a dot matrix or daisywheel printer, 64KB of RAM, tape or disk drive, 8 bit procesor of 2-3 MHz. Network via acoustic coupler or 300 baud modem. Computer operations are based on a command-line interface -2 to skill roll, 5 ENC, $2000.
+
+*1985 Desktop*. CRT screen with colour, a dot matrix or daisywheel printer, 512KB of RAM, disk and 10 MB hard drive, 16 bit processor of 10MHz. Network via 10BASE5 coaxial ethernet and 1200 baud modem. Computer operations are based on a command-line interface -1 to skill rolls, 5 ENC, $2000.
+
+*1990 Desktop*. CRT screen with advanced colours, fast dot matrix or heavy laser printer (+2 ENC), 4 MB of RAM, disk and 40MB hard drive, 16 bit processor of 25 MHz. Network via 10BASE-T ethernet and 9600 baud modem. Computer operations are based on a command-line interface with additional graphics +0 to skill rolls, 5 ENC, $2000.
+
+*1995 Desktop*. CRT screen with advanced colours, fast dot matrix or heavy laser printer (+2 ENC), 8 MB RAM, disk, CD drive, and 1GB hard drive, 32 bit processor of 120 MHz. Network via 100BASE-T ethernet and 28.8k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
+
+*2000* Desktop*. CRT screen with high resolution or LCD (Liquid Crystal Display), laser printer (+1 ENC), 16 MB RAM, disk, CD drive, and 10 GB hard drive, 32 bit 800 MHz processor. Network via 100BASE-T ethernet and 56k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
+
+*2005* Desktop*. LCD screen, laser printer (+1 ENC), 1GB RAM, DVD drive, 500 GB hard drive, 32 bit multicore processor of 2.5 GHz. Network via 1 Gb ethernet, 56k modem, and wireless. Internet connectivity. Computer operations are based on a graphics user interface +2 to skill rolls, 5 ENC, $2000.
+
+*2010* Desktop*. LCD screen, laser printer (+1 ENC), 8GB RAM, DVD drive, 1 TB hard drive, 64 bit multicore multiprocessor processor of 2.5 GHz. Network via 1 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
+
+*2015* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 16GB RAM, DVD drive, 4 TB hard drive, 64 bit multicore multiprocessor processor of 2.5 GHz. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
+
+*2020* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 32GB RAM, Blu-ray drive, 10 TB hard drive, 64 bit multicore multiprocessor of 2.5 GHz with GPGPUs. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
+
+*2025* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer and scanner (+1 ENC), 64GB RAM, Ultra-HD drive, 40 TB hard drive, 64 bit multicore multi processor of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
+
+*2030* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer (+1 ENC), 128GB RAM, Ultra-HD drive, 400 TB hard drive, 128 bit multicore multi processor of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on voice activation +3 to skill rolls, 5 ENC, $2000.
 
 **Communications Equipment**
 
