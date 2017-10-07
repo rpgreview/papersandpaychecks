@@ -1366,25 +1366,38 @@ One matter which is screened out of the game is general household costs, utiliti
 
 **Hobby Equipment**
 
-For whatever Hobby skill a character has taken there is a set of tools, equipment, or even animals appropriate to the hobby which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment weighs 5kgs.
+For whatever Hobby skill a character has taken there is a set of tools, equipment, or even animals appropriate to the hobby which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
+
+**Armour**
+
+For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
+
+Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 3 points of physical armour protection and 5 points of fire damage reduction.
+
+Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 1, 3, or 5 points or armour respectively, plus converts 4, 8, or 16 points of penetrating bullet damage to flat crushing damage. A bullet will still hurt (a lot) but the character will *probably* not be dead. Armour cost is $200, $400, or $800.
+
 
 **Computer Equipment**
 
 **Communications Equipment**
 
+
+
+
+
 ## 2.7 Special Equipment
 
 **Charles Atlas Manual of Bodily Strength**
 
-"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength weighs 2.0 kilograms and costs $2000.
+"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength has an ENC of 1 and costs $2000.
 
 **Knuth's The Art of Computing Programming**
 
 > *On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right 
-> answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*
+answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*  
 > Charles Babbage, *Passages from the life of a philosopher*, 1864
 
-These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume weighs 1.5 kilograms and costs $1000 for the set. 
+These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume has an ENC of 1 costs $250 each. 
 
 **Potion of Socialability**
 
@@ -1398,7 +1411,7 @@ The capacity of alcoholic drinks to provide sociability is well known and presen
 > *Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*
 > Ambrose Bierce, *The Devil's Dictionary*, 1967.
 
-This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each with a neglible weight.
+This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each.
 
 # 3.0 Non-Player Characters
 
@@ -3200,7 +3213,7 @@ Sandy Petersen, Lynn Willis, Greg Stafford, *Ghostbusters*, West End Games, 1986
 
 Kevin Davies and David Brown, *Murphy's World*, Peregrine Creative Services, 1995
 
-Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, *D20 Modern*, Wizards of the Coast, 2002
+Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, *D20 Modern Roleplaying Game*, Wizards of the Coast, 2002
 
 Paul Czege, *My Life With Master*, Half Meme Press, 2003
 
