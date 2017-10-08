@@ -414,7 +414,7 @@ The abstract level rate of advancedment is however the same, depending on the nu
 
 The Reputation value of a character represents how well known they are to others. Simply roll 2d6 and add the bonus as determined from their level and attempt to achieve a difficulty value according to the level of detail and the social distance. Remembering a co-worker's name (+3) who works on the same floor (+3), for example, is a 'very easy' task (+6). Remembering a two-year old project (-3) which a worker in a different company (-4) was involved in would be 'nearly impossible' (-7), assuming that in both cases the character is 6th level.
 
-Each level brings improvements to a character based on their profession. To represent character development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
+Each level brings improvements to a character based on their profession. This includes improvements to skills and knowledges and acquisition of new perks. To represent personality development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
 
 Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
 
@@ -422,7 +422,7 @@ Note that there is no level after 10. After several projects at this level, havi
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Athletics (Strength), Intimidate, Melee, Profession, Craft (structural), Athletics (stamina), Carousing, Perception. 
+Profession Skills: Athletics (Strength), Athletics (stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various) 
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
@@ -443,7 +443,7 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Language (various)
+Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Knowledge (General), Language (various)
  
 
 | Level | Wage     | Perks		   |
@@ -463,10 +463,10 @@ Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), 
 
 Prime Requisite: Wisdom
 Starting Age: 15+1d6
-Profession Skills: Craft (Computing), Administration, Profession, Sleight, Concentration, Perception, Act, Lie
+Profession Skills: Craft (Computing), Knowledge (General), Administration, Profession, Sleight, Concentration, Sense (various), Act, Lie
 
-_"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly._
-David Wiegleb, Jan 24, 2017
+> Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.   
+> David Wiegleb, Jan 24, 2017
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -485,7 +485,7 @@ David Wiegleb, Jan 24, 2017
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d6
-Profession Skills: Intimidate, Profession, Craft (electronic), Craft (mechanical), Craft (structural), Carousing, Concentration, Perception, 
+Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
@@ -504,7 +504,7 @@ Profession Skills: Intimidate, Profession, Craft (electronic), Craft (mechanical
 
 Prime Requisite: Perception
 Starting Age: 15+2d4
-Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Perception
+Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -523,7 +523,7 @@ Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (S
 
 Prime Requisite: Charisma
 Starting Age: 15+3d4
-Profession Skills: Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
+Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 | Level | Wage     |  Perks		|
 |-------|----------|--------------------|
