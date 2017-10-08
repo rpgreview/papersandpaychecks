@@ -193,7 +193,6 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 > Welcome to hell. The veal-fattening pen.
 
-
 # 1.0 Character Generation
 
 ## 1.1 Example of Play
@@ -426,7 +425,7 @@ Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength), Athletics (stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various) 
 
-Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
+Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Whilst not known for the intellect, they are known for their ability to lift heavy things which often comes with significant sex appeal. As a result, some office workers react to labourers with a peculiar combination of envy and disgust. Labourers are the only profession that gains points in physical characteristics as their level improves. They have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -447,6 +446,7 @@ Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Knowledge (General), Language (various)
  
+Description: A scientist works with their mind for the livelihood. Typically found in academia and research industries, scientists are rather notorious for having detailed knowledge on specific subjects, and not much in the way of practical skills. As a result their office-environments are often an "sheltered workshop for the intellectually able". Despite their intelligence, they are often subject to unkind comments about their social skills, pay rates, and sometimes even personal hygiene. In turn, scientsist will smile and ponder the myriad of ways to remove the nuclear force that holds their interlocutors atoms together. Scientists have average pay, some unusual perks, and have a late starting age. 
 
 | Level | Wage     | Perks		   |
 |-------|----------|-----------------------|
@@ -466,6 +466,8 @@ Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), 
 Prime Requisite: Wisdom
 Starting Age: 15+1d6
 Profession Skills: Craft (Computing), Knowledge (General), Administration, Profession, Sleight, Concentration, Sense (various), Act, Lie
+
+Description: An administrator works with their judgement for their livelihood. Stunningly practical in the intellectual sense, it is administrators who are often the real backbone of an organisation ensuring that the paperwork is filled properly, the bills are paid on time, and the stationery cabinet stock is up-to-date. Despite this they are usually looked down upon by the supposed geniuses and decision-makers in an organisation who would otherwise forget these mundane tasks. Those who are wise know however that the administrators are the true power behind any company - which is why wise people often become administrators. They have some rather practical and surprising perks, which makes up for some unspectacular pay. Administrators start young in life.
 
 > Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.   
 > David Wiegleb, Jan 24, 2017
@@ -489,6 +491,8 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d6
 Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
+Description: A tradesperson works with their clever hands for their livelihood with a variety of practical physical skills. If it is a electro-mechanical device and it's broken, the tradeperson can fix it. This represents not only those professions in the manufacturing industry, or construction, but also the hands-on specialist technical workers. Tradespeople start off with poor renumeration, but one which improves over time. They start their career at a young age.
+
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
 | 1	| $400     | Union membership	|
@@ -507,6 +511,8 @@ Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), P
 Prime Requisite: Perception
 Starting Age: 15+2d4
 Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
+
+Description: A researcher works with their insight and investigative skills for their livelihood. It is their stubborn ability to pore over details looking for the hidden causes of things which makes a researcher especially valuable in an organisation. Nevertheless, they are easily overlooked as they often work long hours and away from the social lives of others, and receive a rather poor renumeration as a result. Researchers start their career at an average age.
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -527,6 +533,8 @@ Prime Requisite: Charisma
 Starting Age: 15+3d4
 Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
+Description: A manager works with force of personality for their livelihood. Which means they get everyone else to do the real work, whereas they make the decisions of what work needs to be done. This often means meeting with other managers and arguing over corporate goals, resource allocation, and who is going to buy the third bottle of Maison Veuve Clicquot. It is notable that managers have very few practical skills, but they do have some amazing social perks. Whilst they may start in exciting jobs in sales, those who toe the line can often find themselves on a very fruitful career.  Managers start their career at a later age.
+
 | Level | Wage     |  Perks		|
 |-------|----------|--------------------|
 | 1	| $600     | Tower of Iron Will	|
@@ -539,7 +547,6 @@ Profession Skills: Knowledge (General), Administration, Profession, Carousing, A
 | 8	| $1900    | Department Manager	|
 | 9	| $2200    | Chutzpah		|
 | 10	| $2500    | Superannuation    	|
-
 
 ## 1.6 Skills and Knowledges
 
@@ -562,7 +569,6 @@ Characters also receive a number of skills and knowledges during their childhood
 Character are limited in the number of skills points they can spend per level. They are limited by their INT characteristic for the total number of skill points available per level and they are limited by the Profession on the number of skill points that can be spent on a particular skill or knowledge (or specialisation). For professional skills, a +1 bonus costs 1 experience points, a +2 bonus costs 3 experience points, and a +3 bonus costs 6 experience points. For non-professional skills, the cost is double.
 
 > Allie Viate, the office clown and skilled administrator, has just advanced to 4th level. With their INT of 13, they receive 5 skills points. They spend 1 point for +1 on the three professional skills on Craft (Computing), Administration, Concentration. Based on a recent experience with a aggressive fishmonger armed with haddock, they decide they need +1 on melee, a non-professional skill, for 2 skills points.
-
 
 ### Strength Based Skills
 
