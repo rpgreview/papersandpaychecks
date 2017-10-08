@@ -1151,9 +1151,9 @@ This table and description can also be used for characters who find themselves i
 
 **Lie**
 
-"He offered alternative facts"
-Kellyanne Conway denies Trump press secretary lied
-https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternative-facts-lies
+> "He offered alternative facts"   
+> Kellyanne Conway denies Trump press secretary lied   
+> https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternative-facts-lies
 
 A character must make a Lie check each round each time that they tell another character something that they know is untrue, or they withhold information which they believe is pertinent. The ability of a character to tell a lie depends on the plausibility of the lie (often subjective to the target) and the target's gullibility. Lying is a contested skill, against the target's Insight, however this skill begins with a -4 penalty. A handful of people have the perceptive ability to truly pick up on the unconscious nonverbal communication (kinesics) when one is being told a lie. This ability is incorporated into the Perception score. Cleverly applied, a lie can a very powerful tool in physical, social, or mental combat.
 
@@ -1371,6 +1371,14 @@ Occassionally a PC Worker may find themselves in need of specialist clothing for
 Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 2, 4, or 8 points of armour or double that (4, 8, or 16 points) if protecting against firearms. A bullet will still hurt (a lot) but the character will *probably* not be dead. This body armour costs $200, $400, or $800, respectively and the third level is only available after 1985. A fourth level of body armour, made from spider-goats is available from 2030 onwards. It has an ENC of 2 and protects for 16 points against all forms of attack. It costs $1200. 
 
 **Clothing**
+
+A character's Standard of Living provides appropriate clothes to their standard for home life, and acceptable clothes for the workplace. There are however, special clothes which provide bonues to various skills. These include:
+
+*Party Outfit* A fashionable set of clothes that is an absolute knockout at social gatherings regardless of social setting. Each outfit weights 1 ENC. An outfit that provides +1 to Carousing will cost $100, one that provides +2 to Carousing will cost $200, and one that provides +3 to Carousing will cost $400. A provocative version provides the same bonus and same cost for the Seduction skill. 
+
+*Workplace Outfit* Favoured among managers and those who wish to protect themselves from managers, this power suit can be used to either Bully or Lie. All power suits weights 1 ENC. A suit that adds +1 to either Bully or Inspire, as desired by the character, will cost $200. If the suit provides a +2 bonus to either of the skills, it will cost $400, and if it provides +3, the suit will cost $800.
+
+*Orator's Attire* Unlike the power suit, the Orator's Attire is more designed to be inviting and put people at ease. Each suit weights 1 ENC. An outfit that provides +1 to Inspire will cost $200, one that provides +2 to will cost $300, and one that provides +3 will cost $400.
 
 **Communications Equipment**
 
