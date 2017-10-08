@@ -10,11 +10,14 @@ Published by the RPG Review Cooperative, Inc. (incorporated in the State of Vict
 
 
 Keep The Borderlands by Michael Cole
+Palaces of the Silver Princess by Michael Cole
+Fantasy Papers & Paychecks by Lev Lafayette
 The Cheerleader Profession by Fred
 Snail mail magic communications by Fred
 The Door-to-Door Wandering Monster by Fred
 So You Want it Darker? by Lev Lafayette and Jay Patterson
 Charles The Tall, Daniel Callahan
+Crime and Punishment by Lev Lafayette
 
 ## Keep The Borderlands
 
@@ -175,7 +178,12 @@ Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationshi
 President Fey Rowe
 
 
-## The cheerleader speciality class:
+# Palaces of the Silver Princess
+
+# Fantasy Papers and Paychecks
+
+
+# The cheerleader speciality class:
 
 Able to perform gymnastics similar to that of a monk class in AD&D with the
 special ability at higher levels called cleavage shake which works only on those
@@ -185,7 +193,7 @@ or until someone (usually a mate/spouse) slaps you for staring. Some GMs may add
 male gender version which has the special ability simple called abs involving the
 male cheerleader showing bare mid-drift. All other effects are the same.
 
-## Snail mail magic communications device(item):
+# Snail mail magic communications device(item):
 
 This magical device can be constructed out of many different types of boxes that
 vary in size or shape with the single requirement that they all have a slot in
@@ -265,4 +273,12 @@ planning mighty sieges against distant kingdoms; his cow-orkers have no idea why
 That was three years ago. Since then, Charles the Tall's behavior has not changed,
 although his shoulders are more slumped, and he visits the Little Adventurer's Room
 more regularly.
+
+
+# Crime and Punishment
+
+"Please, Your Honor," whined Pauper William Nodes, 27, in a London court last week, "don't part me and the rat." The judge looked appraisingly at Nodes' pet rat in a cage on the barristers' table, frowned severely at Nodes. Clearing his throat he then did British Justice: "I sentence you, William Nodes, to six months in prison as an incorrigible rogue. The rat will be sent to a good home."
+
+Time Magazine, Foreign News: Rogue's Rat, Monday, Jan. 22, 1934
+http://content.time.com/time/magazine/article/0,9171,746859,00.html
 

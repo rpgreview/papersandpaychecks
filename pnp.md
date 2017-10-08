@@ -1362,10 +1362,6 @@ One matter which is screened out of the game is general household costs, utiliti
 | 9-11		| $800	| Above average. Large mortgaged suburban house or large townhouse, excess of modern utilities, never short of necessities, high quality food, drinks, and excellent meals etc | 
 | 12		| $1300	| Very rich. Very large owned multistory suburban house or large inner-city townhouse, latest in utilities, the best quality in foods, drinks, and exceptional meals  |
 
-**Hobby Equipment**
-
-For whatever Hobby skill a character has taken there is a set of tools, equipment, or even animals appropriate to the hobby which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
-
 **Armour**
 
 For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
@@ -1374,6 +1370,10 @@ Occassionally a PC Worker may find themselves in need of specialist clothing for
 
 Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 2, 4, or 8 points of armour or double that (4, 8, or 16 points) if protecting against firearms. A bullet will still hurt (a lot) but the character will *probably* not be dead. This body armour costs $200, $400, or $800, respectively and the third level is only available after 1985. A fourth level of body armour, made from spider-goats is available from 2030 onwards. It has an ENC of 2 and protects for 16 points against all forms of attack. It costs $1200. 
 
+**Clothing**
+
+**Communications Equipment**
+
 **Computer Equipment**
 
 > The Computer is happy. The Computer is crazy. The Computer will help you become happy. This will drive you crazy.
@@ -1381,7 +1381,7 @@ Finally there is various forms of armour designed against bullets. It is rare, b
 
 For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliyt and cost. 
 
-Portable systems (laptops) are available from 1985 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC.
+Portable systems (laptops) are available from 1990 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC. Portable systems do not have printer peripherals and use an LCD screen.
 
 For mainframe systems (1980 to 1995) assume specifications 5 years ahead of the desktop (i.e., 1980 mainframe will use a 1985 desktop specifications), and will cost ten times as much and 50 ENC. For a cluster computer system (1995 onwards), simply multiply the number of desktop systems that make up the cluster, add extra systems to represents login or management nodes, and double the cost to represent high-speed interconnect (about double the standard), and external storage arrays. For cloud systmes (2005 onwards), simply assume multiple virtual systems are available with a small overhead.
 
@@ -1393,35 +1393,44 @@ See the section for Computing under 2.3 Tactical Task Resolution, and the Intell
 
 *1985 Desktop*. CRT screen with colour, a dot matrix or daisywheel printer, 512KB of RAM, disk and 10 MB hard drive, 16 bit processor of 10MHz. Network via 10BASE5 coaxial ethernet and 1200 baud modem. Computer operations are based on a command-line interface -1 to skill rolls, 5 ENC, $2000.
 
-*1990 Desktop*. CRT screen with advanced colours, fast dot matrix or heavy laser printer (+2 ENC), 4 MB of RAM, disk and 40MB hard drive, 16 bit processor of 25 MHz. Network via 10BASE-T ethernet and 9600 baud modem. Computer operations are based on a command-line interface with additional graphics +0 to skill rolls, 5 ENC, $2000.
+*1990 Desktop*. CRT screen with advanced colours or LCD (Liquid Crystal Display) in black and white, fast dot matrix or heavy laser printer (+2 ENC), 4 MB of RAM, disk and 40MB hard drive, 16 bit processor of 25 MHz. Network via 10BASE-T ethernet and 9600 baud modem. Computer operations are based on a command-line interface with additional graphics +0 to skill rolls, 5 ENC, $2000.
 
-*1995 Desktop*. CRT screen with advanced colours, fast dot matrix or heavy laser printer (+2 ENC), 8 MB RAM, disk, CD drive, and 1GB hard drive, 32 bit processor of 120 MHz. Network via 100BASE-T ethernet and 28.8k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
+*1995 Desktop*. CRT screen with advanced colours or LCD screen with basic colours, fast dot matrix or heavy laser printer (+2 ENC), 8 MB RAM, disk, CD drive, and 1GB hard drive, 32 bit processor of 120 MHz. Network via 100BASE-T ethernet and 28.8k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
 
-*2000* Desktop*. CRT screen with high resolution or LCD (Liquid Crystal Display), laser printer (+1 ENC), 16 MB RAM, disk, CD drive, and 10 GB hard drive, 32 bit 800 MHz processor. Network via 100BASE-T ethernet and 56k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
+*2000* Desktop*. CRT screen with high resolution or LCD screen, laser printer (+1 ENC), 16 MB RAM, disk, CD drive, and 10 GB hard drive, 32 bit 800 MHz processor. Network via 100BASE-T ethernet and 56k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
 
-*2005* Desktop*. LCD screen, laser printer (+1 ENC), 1GB RAM, DVD drive, 500 GB hard drive, 32 bit multicore processor of 2.5 GHz. Network via 1 Gb ethernet, 56k modem, and wireless. Internet connectivity. Computer operations are based on a graphics user interface +2 to skill rolls, 5 ENC, $2000.
+*2005* Desktop*. LCD screen, laser printer (+1 ENC), 1GB RAM, DVD drive, 500 GB hard drive, 32 bit multicore processors of 2.5 GHz. Network via 1 Gb ethernet, 56k modem, and wireless. Internet connectivity. Computer operations are based on a graphics user interface +2 to skill rolls, 5 ENC, $2000.
 
-*2010* Desktop*. LCD screen, laser printer (+1 ENC), 8GB RAM, DVD drive, 1 TB hard drive, 64 bit multicore multiprocessor processor of 2.5 GHz. Network via 1 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
+*2010* Desktop*. LCD screen, laser printer (+1 ENC), 8GB RAM, DVD drive, 1 TB hard drive, 64 bit multicore multiprocessor processors of 2.5 GHz. Network via 1 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
 
-*2015* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 16GB RAM, DVD drive, 4 TB hard drive, 64 bit multicore multiprocessor processor of 2.5 GHz. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
+*2015* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 16GB RAM, DVD drive, 4 TB hard drive, 64 bit multicore multiprocessor processors of 2.5 GHz. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
 
-*2020* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 32GB RAM, Blu-ray drive, 10 TB hard drive, 64 bit multicore multiprocessor of 2.5 GHz with GPGPUs. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
+*2020* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 32GB RAM, Blu-ray drive, 10 TB hard drive, 64 bit multicore multiprocessors of 2.5 GHz with GPGPUs. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
 
-*2025* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer and scanner (+1 ENC), 64GB RAM, Ultra-HD drive, 40 TB hard drive, 64 bit multicore multi processor of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
+*2025* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer and scanner (+1 ENC), 64GB RAM, Ultra-HD drive, 40 TB hard drive, 64 bit multicore multi processors of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
 
-*2030* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer (+1 ENC), 128GB RAM, Ultra-HD drive, 400 TB hard drive, 128 bit multicore multi processor of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on voice activation +3 to skill rolls, 5 ENC, $2000.
+*2030* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer (+1 ENC), 128GB RAM, Ultra-HD drive, 400 TB hard drive, 128 bit multicore multi processors of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on voice activation +3 to skill rolls, 5 ENC, $2000.
 
-**Communications Equipment**
+**Firearms**
 
+**Melee Weapons**
 
+**Outdoor Equipment**
 
+**Professional Equipment**
+
+For whatever Professional skill a character has taken there is a set of tools, equipment, or even animals appropriate to the profession which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
 
 
 ## 2.7 Special Equipment
 
+**Armani Suit**
+
 **Charles Atlas Manual of Bodily Strength**
 
 "The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength has an ENC of 1 and costs $2000.
+
+**Little Black Cocktail Dress**
 
 **Knuth's The Art of Computing Programming**
 
@@ -1451,8 +1460,8 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  15 	|  +2	     | Profession	  | Labourer |
-| Intelligence	    |   8	|  -1	     | Level	          | 3	 |
+| Strength	    |  15 	|  +2	     | Profession	  | Techician, Labourer |
+| Intelligence	    |   8	|  -1	     | Level	          | 1, 2	 |
 | Wisdom 	    |   6	|  -2        | Movement (running) |  |
 | Dexterity	    |  13 	|  +1        | Wounds (Physical)  |   |
 | Perception	    |  11 	|  +0 	     | Wounds (Mental)    |   |
@@ -1545,8 +1554,8 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   7	|  -2	     | Profession	  | Scientist |
-| Intelligence	    |   17	|  +3	     | Level	          | 6 |
+| Strength	    |   7	|  -2	     | Profession	  | Administrator, Scientist |
+| Intelligence	    |   17	|  +3	     | Level	          | 1, 5 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   11	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   10	|  +0 	     | Wounds (Mental)    |   |
@@ -1570,8 +1579,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   10	|  +0	     | Profession	  | Scientist |
-| Intelligence	    |   17	|  +3	     | Level	          | 9 |
+| Strength	    |   10	|  +0	     | Profession	  | Administrator, Scientist |
+| Intelligence	    |   17	|  +3	     | Level	          | 1, 8 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   12	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   5	|  -3  	     | Wounds (Mental)    |   |
@@ -1594,8 +1603,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   7	|  -2	     | Profession	  | Administrator |
-| Intelligence	    |   8	|  -1	     | Level	          | 3 |
+| Strength	    |   7	|  -2	     | Profession	  | Manager, Administrator |
+| Intelligence	    |   8	|  -1	     | Level	          | 1, 2 |
 | Wisdom 	    |   16	|  +3        | Movement (running) |   |
 | Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   14	|  +2        | Wounds (Mental)    |   |
@@ -1617,8 +1626,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   11	|  +0	     | Profession	  | Administrator |
-| Intelligence	    |   12	|  +1	     | Level	          | 6 |
+| Strength	    |   11	|  +0	     | Profession	  | Manager, Administrator |
+| Intelligence	    |   12	|  +1	     | Level	          | 2, 4 |
 | Wisdom 	    |   15	|  +2        | Movement (running) |   |
 | Dexterity	    |   5	|  -3        | Wounds (Physical)  |   |
 | Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
@@ -1640,8 +1649,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   3	|  -4	     | Profession	  | Administrator |
-| Intelligence	    |   13	|  +1	     | Level	          | 9 |
+| Strength	    |   3	|  -4	     | Profession	  | Manager, Scientist, Administrator |
+| Intelligence	    |   13	|  +1	     | Level	          | 1, 1, 7 |
 | Wisdom 	    |   18	|  +4        | Movement (running) |   |
 | Dexterity	    |   7	|  -2        | Wounds (Physical)  |   |
 | Perception	    |   7	|  -2 	     | Wounds (Mental)    |   |
@@ -1775,8 +1784,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   4	|  -3	     | Profession	  | Researcher |
-| Intelligence	    |   13	|  +1	     | Level	          | 9 |
+| Strength	    |   4	|  -3	     | Profession	  | Manager, Researcher |
+| Intelligence	    |   13	|  +1	     | Level	          | 3, 6 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   9	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
@@ -1820,8 +1829,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   10	|  +0	     | Profession	  | Manager |
-| Intelligence	    |   6	|  -2	     | Level	          | 6 |
+| Strength	    |   10	|  +0	     | Profession	  | Researcher, Manager |
+| Intelligence	    |   6	|  -2	     | Level	          | 3, 3 |
 | Wisdom 	    |   6	|  -2        | Movement (running) |   |
 | Dexterity	    |   10	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
@@ -3250,6 +3259,8 @@ Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, *D20 Modern Roleplaying G
 Paul Czege, *My Life With Master*, Half Meme Press, 2003
 
 Dave Webb, R. Hyrum Savage, *Solid! The D20 Blaxploitation Experience*, Dos Hermanos Publishing, 2005
+
+James Norbury, *Corporation*, Brutal Games, 2009
 
 Cam Banks, Rob Donoghue, *Leverage: The Roleplaying Game*, Margaret Weis Productions, 2010
 
