@@ -183,6 +183,8 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame.
 
+**Skill Points** The number of points a character can spend per level on skills and knowledges. It is based on the average of the character's INT.
+
 **Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame.
 
 **Worker** A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
@@ -372,7 +374,7 @@ In addition to the aforementioned primary characteristics there is also a number
 
 **Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
 
-**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest. At five times their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
+**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonuses (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest.
 
 > "Go to a Mensa gathering. In no other place will you find so many unemployed PhDs with strong opinions on Scrabble rules."
 > --Robert Allen, 2017, `https://www.quora.com/Why-do-so-many-high-IQ-people-amount-to-nothing/answer/Robert-Allen-52`
@@ -551,13 +553,16 @@ Characters also receive a number of skills and knowledges during their childhood
 
 | Rolled Wealth	| Skill and Knowledges									|
 |---------------|---------------------------------------------------------------------------------------|
-| 2		| Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge (Laws) 1, Hobby 1, Perception 1, Pilot 1, Carousing 1 | 
+| 2		| Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge 1, Hobby 1, Perception 1, Pilot 1, Carousing 1 | 
 | 3-5		| Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1 |
 | 6-8		| Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1 |
 | 9-11		| Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1, | 
 | 12		| Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1 |
 
-Character are limited in the number of skills points they can spend per level. They are limited by their INT characteristic for the total number of skill points available and they are limited by the Profession on the number of skill points that can be spent on a particular skill or knowledge (or specialisation). That limit is two for all Profession skills and knowledges and one for all other skills and knowledges.
+Character are limited in the number of skills points they can spend per level. They are limited by their INT characteristic for the total number of skill points available per level and they are limited by the Profession on the number of skill points that can be spent on a particular skill or knowledge (or specialisation). For professional skills, a +1 bonus costs 1 experience points, a +2 bonus costs 3 experience points, and a +3 bonus costs 6 experience points. For non-professional skills, the cost is double.
+
+> Allie Viate, the office clown and skilled administrator, has just advanced to 4th level. With their INT of 13, they receive 5 skills points. They spend 1 point for +1 on the three professional skills on Craft (Computing), Administration, Concentration. Based on a recent experience with a aggressive fishmonger armed with haddock, they decide they need +1 on melee, a non-professional skill, for 2 skills points.
+
 
 ### Strength Based Skills
 
