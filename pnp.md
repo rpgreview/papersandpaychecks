@@ -1375,23 +1375,45 @@ One matter which is screened out of the game is general household costs, utiliti
 
 **Armour**
 
-For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
+*Leather Jacket*: For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
 
-Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 5 points of physical armour protection and 5 points of fire damage reduction.
+*Fire Proximity Suit and Hazmat*: Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 5 points of physical armour protection and 5 points of fire damage reduction.
 
-Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 2, 4, or 8 points of armour or double that (4, 8, or 16 points) if protecting against firearms. A bullet will still hurt (a lot) but the character will *probably* not be dead. This body armour costs $200, $400, or $800, respectively and the third level is only available after 1985. A fourth level of body armour, made from spider-goats is available from 2030 onwards. It has an ENC of 2 and protects for 16 points against all forms of attack. It costs $1200. 
+*Bullet Proof Armour* There is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 2, 4, or 8 points of armour or double that (4, 8, or 16 points) if protecting against firearms. A bullet will still hurt (a lot) but the character will *probably* not be dead. This body armour costs $200, $400, or $800, respectively and the third level is only available after 1985. A fourth level of body armour, made from spider-goats is available from 2030 onwards. It has an ENC of 2 and protects for 16 points against all forms of attack. It costs $1200. 
 
 **Clothing**
 
 A character's Standard of Living provides appropriate clothes to their standard for home life, and acceptable clothes for the workplace. There are however, special clothes which provide bonues to various skills. These include:
 
-*Party Outfit* A fashionable set of clothes that is an absolute knockout at social gatherings regardless of social setting. Each outfit weights 1 ENC. An outfit that provides +1 to Carousing will cost $100, one that provides +2 to Carousing will cost $200, and one that provides +3 to Carousing will cost $400. A provocative version provides the same bonus and same cost for the Seduction skill. 
+*Actor's Wardrobe*: To the untrained eye, an actor's wardrobe is just a hodge-podge of various garments that look like they have come from an opportunity shop. In reality this is a carefully selected range which allows for bonuses to the Act skill through disguise. The wardrobe consist of a collection of a dozen outfits with an ENC of 1 each and makeup, for a bonus of +1 to Acting and a cost of $200. A larger wardrobe and makeup kit will cost $300 for a bonus of +2.
 
-*Workplace Outfit* Favoured among managers and those who wish to protect themselves from managers, this power suit can be used to either Bully or Lie. All power suits weights 1 ENC. A suit that adds +1 to either Bully or Inspire, as desired by the character, will cost $200. If the suit provides a +2 bonus to either of the skills, it will cost $400, and if it provides +3, the suit will cost $800.
+*Party Outfit*: A fashionable set of clothes that is an absolute knockout at social gatherings regardless of social setting. Each outfit weights 1 ENC. An outfit that provides +1 to Carousing will cost $100, one that provides +2 to Carousing will cost $200, and one that provides +3 to Carousing will cost $400. A provocative version provides the same bonus and same cost for the Seduction skill. 
 
-*Orator's Attire* Unlike the power suit, the Orator's Attire is more designed to be inviting and put people at ease. Each suit weights 1 ENC. An outfit that provides +1 to Inspire will cost $200, one that provides +2 to will cost $300, and one that provides +3 will cost $400.
+*Workplace Outfit*: Favoured among managers and those who wish to protect themselves from managers, this power suit can be used to either Bully or Lie. All power suits weights 1 ENC. A suit that adds +1 to either Bully or Inspire, as desired by the character, will cost $200. If the suit provides a +2 bonus to either of the skills, it will cost $400, and if it provides +3, the suit will cost $800.
 
-**Communications Equipment**
+*Orator's Attire*: Unlike the power suit, the Orator's Attire is more designed to be inviting and put people at ease. Each suit weights 1 ENC. An outfit that provides +1 to Inspire will cost $200, one that provides +2 to will cost $300, and one that provides +3 will cost $400.
+
+**Communications and Electronics Equipment**
+
+Communications and electronic equipment is various much dependent on technological developments. Over time many of their functions merge into single hand-held devices.
+
+*Camera*: A camera captures still or moving images on either photographic film or electronic sensor. Early cameras use photographic film, whereas more modern versions use digital medium, which has an advantage of improved storage medium. All cameras use the Craft (Visual Art) skill for the production of the art, and Craft (mechanical) or Craft (electronic) for construction, modification, and repairs. Cameras can be generally described as cheap, average, or expensive. Cheap cameras are easy to use (+2 to Visual Art skill), but are capped with a maximum result of 14. Average cameras have no modification to use, but are capped in with a maximum result of 18. Expensive cameras are difficult to use (-2 to Visual Art skill), but have no maximum result cap. All still cameras have a ENC of 1, and cost $100 (cheap), $200 (average), or $400 (expensive). Video cameras have an ENC of 2, and cost $300, $600, and $1200 respectively.
+
+*Mobile Phone, 1980*: From the 1980s to around 1995 mobile phones were oversized, expensive, and with very limited battery life. They have an ENC of 2, and cost $5000, and have approximately an one hour talk time (and a ten hour recharge). They were most common in Scandanavia and Japan.
+
+*Mobile Phone, 1990*: In the 1990s the adoption of the 2G GSM network, improved battery technology, and better components reduces the ENC of a mobile phone to 1, the cost to $1000, and increases the talk time to three hours with a five hour recharge.
+
+*Mobile Phone, 2000*: In the 2000s, using a 3G network, mobile phones are increasingly feature-rich with limited Internet access. By this stage they have an effective ENC of 0, the cost is down to $500, talk time is increased to five hours with a five hour recharge. 
+
+*Mobile Phone, 2010*: In the 2010s, using the 4G WiMAX standard, mobile phones have fully integrated Internet access. Mobile phones of this era also incorporate a cheap camera and radio as standard. ENC of 0, cost $500, talk time is increased to fifteen hours with a two hour recharge.
+
+*Mobile Phone, 2020*: In the 2010s, using the 5G, mobile phones have fully integrated Internet access, an expensive camera, radio, and all the computational capacity of a 2010 desktop computer. ENC of 0, cost $500, talk time is increased to twenty-five hours with a one hour recharge.
+
+*Mobile Phone, 2030*: In the 2020s, using the 6G WiMAX standard, mobile phones have fully integrated Internet access, expensive camera, radio, and the all the computation capacity of a 2020 desktop computer. ENC of 0, cost $500, talk time is increased to fifty hours with a one hour recharge.
+
+*Radio*: A 1970s-2000s portable radio allows for reception of broadcast signals either on various broadcasting transmissions (AM, FM, Shortwave). They have an ENC of 0-2, and cost from $10 to $500 depending on the quality of the system. More expensive systems are have a greater sensitivity to broadcasts, and a longer lifespan. After the 2000s radios are almost universally incorporated into mobile phones.
+
+*Walkie-Talkie*: Also known as a handheld radio transceiver, this is effectively an inexpensive, limited range, mobile phone. Typical range is around 50km, with a variety of channels of frequency transmission and reception. Effective ENC is 0, cost is $100 for a pair. 
 
 **Computer Equipment**
 
@@ -1400,11 +1422,11 @@ A character's Standard of Living provides appropriate clothes to their standard 
 
 For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliyt and cost. 
 
-Portable systems (laptops) are available from 1990 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC. Portable systems do not have printer peripherals and use an LCD screen.
+Portable systems (laptops, tablets) are available from 1990 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC. Portable systems do not have printer peripherals and use an LCD screen.
 
 For mainframe systems (1980 to 1995) assume specifications 5 years ahead of the desktop (i.e., 1980 mainframe will use a 1985 desktop specifications), and will cost ten times as much and 50 ENC. For a cluster computer system (1995 onwards), simply multiply the number of desktop systems that make up the cluster, add extra systems to represents login or management nodes, and double the cost to represent high-speed interconnect (about double the standard), and external storage arrays. For cloud systmes (2005 onwards), simply assume multiple virtual systems are available with a small overhead.
 
-Operating computer systems is either by the command line, GUI (graphic user interface), or voice activation. Each of these has a variation in difficulty noted in the text (which also represents operating system development), and speed. Voice activation is the slowest and easiest, requiring twice as long as GUI usage, which in turn takes twice as long as the command line interface. 
+Operating computer systems is either by the command line, GUI (graphic user interface), or voice activation. Each of these has a variation in difficulty noted in the text (which also represents operating system development), and speed. Voice activation is the slowest and easiest, requiring twice as long as GUI usage, which in turn takes twice as long as the command line interface. Real hackers use the command line. 
 
 See the section for Computing under 2.3 Tactical Task Resolution, and the Intelligence-based skill, Craft (Computing) under 1.6 Skills and Knowledges for use.
 
@@ -1466,9 +1488,6 @@ The comments made on firearms, above, also apply for melee weapons. *Papers & Pa
 *Sword*: Possibly the rarest of weapons encountered in *Papers & Paychecks* it is plausible that a character may encounter a fencing sword, or, if they are at a museum or expensive hotel, an arming sword. A fencing sword is particularly well balanced weapon and is +2 to the melee skill to use, has an ENC of 1, and causes 2x damage. An arming sword has a +1 bonus to use, an ENC of 2, and causes 3x damage.
 
 **Outdoor Equipment**
-
-
-
 
 
 **Professional Equipment**
