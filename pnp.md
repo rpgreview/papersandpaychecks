@@ -983,7 +983,6 @@ The Boss should show interest in how players use these results as it represents 
 > 
 > Rodney: *nods* Drops mic.
 
-
 # 2.0 Actions and The Environment
 
 ## 2.1 Time and Core Mechanic
@@ -1057,6 +1056,7 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 -- all out defense, -3 to hit, no attack
 -- all out damage reduction, -1x damage, but no attack 
 -- retreat
+
 
 **Bully**
 
@@ -1431,6 +1431,24 @@ See the section for Computing under 2.3 Tactical Task Resolution, and the Intell
 *2030* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer (+1 ENC), 128GB RAM, Ultra-HD drive, 400 TB hard drive, 128 bit multicore multi processors of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on voice activation +3 to skill rolls, 5 ENC, $2000.
 
 **Firearms**
+
+Many roleplaying games in a modern or futuristic setting provide a very long list of firearms, with specific models, bullet sizes, rate-of-fire, range, damage decrements with range, recoil, snap-shot numbers etc. This might be appropriate for a game that is centered on gun combat, and it often extraordinary to see such lists when the game is *not* centered on such activities. *Papers & Paychecks* is *not* a game centered on gun combat. It does happen *sometimes* and because it represents a mortal threat to the characters it is important, but the list significantly reduced in detail and quanity. With this in mind, the following firearms are offered: crossbow, handgun, submachine gun, assault rifle, and sniper rifle. 
+
+Due to various technological improvements and targetting systems, each firearm receives a +1 bonus to skill use every ten years i.e., +0 to the firearms skill at 1975, +1 at 1985, +2 at 1995, +3 at 2005, +4 at 2015, +5 at 2025, +6 at 2035, to a truly frightening +7 at 2045. If a firearm is denoted as semi-automatic, it can fire three bullets per action at -1 to the skill roll. If the firearm is capable of burst fire, it can fire five rounds, at -2 to hit for five rounds, per action. In addition, in burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m seperation between the targets.
+
+Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict', 
+
+*Crossbow*: Less of a combat weapon and more of a hobby, the crossbow is a late medieval weapon that is still available as an exotic device. Relatively silent compared to guns. Requires a reloading action after each round. $200, 2 ENC, 1x damage.
+
+*Handgun*: A standard side-arm for law enforcement officers, sporting enthusiasts, and criminals alike with a medium range. Can fire single-shot, or semi-automatic per action. Requires a reloading action 10 rounds. $100, 1 ENC, 3x damage. 
+
+*Submachine Gun*: A short-barelled machine gun with limited range but a rapid rate of fire. Can fire single-shot, semi-automatic, or burst. Requires a reloading action after 20 rounds. $300, 2 ENC, 3x damage.
+
+*Assault Rifle*: A long-barelled rifle with medium range and a rapid rate of fire. Can fire single-shot, semi-automatic, or burst each eaction. Requires a reloading action after 30 rounds. $400, 3 ENC, 4x damage.
+
+*Rifle*. A long-barelled rifle with long range and a low rate of fire. Can fire single-shot. Requires a reloading action after 10 rounds. $500, 3 ENC, 4x damage.
+
+[Range, Bullet exchange]
 
 **Melee Weapons**
 
