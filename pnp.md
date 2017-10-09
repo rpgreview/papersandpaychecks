@@ -4,7 +4,7 @@
 
 by Lev Lafayette
 
-Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson
+Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson, Karl Brown, Joe Grech
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
@@ -1436,23 +1436,40 @@ Many roleplaying games in a modern or futuristic setting provide a very long lis
 
 Due to various technological improvements and targetting systems, each firearm receives a +1 bonus to skill use every ten years i.e., +0 to the firearms skill at 1975, +1 at 1985, +2 at 1995, +3 at 2005, +4 at 2015, +5 at 2025, +6 at 2035, to a truly frightening +7 at 2045. If a firearm is denoted as semi-automatic, it can fire three bullets per action at -1 to the skill roll. If the firearm is capable of burst fire, it can fire five rounds, at -2 to hit for five rounds, per action. In addition, in burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m seperation between the targets.
 
-Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict', 
+Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict'. Characters receive a bonus of +2 up to their PER skill in meters, and -2 from the listed range to double that value.
 
-*Crossbow*: Less of a combat weapon and more of a hobby, the crossbow is a late medieval weapon that is still available as an exotic device. Relatively silent compared to guns. Requires a reloading action after each round. $200, 2 ENC, 1x damage.
+*Crossbow*: Less of a combat weapon and more of a hobby, the crossbow is a late medieval weapon that is still available as an exotic device. Relatively silent compared to guns. Requires a reloading action after each round. $200, 2 ENC, 1x damage, range 50m.
 
-*Handgun*: A standard side-arm for law enforcement officers, sporting enthusiasts, and criminals alike with a medium range. Can fire single-shot, or semi-automatic per action. Requires a reloading action 10 rounds. $100, 1 ENC, 3x damage. 
+*Handgun*: A standard side-arm for law enforcement officers, sporting enthusiasts, and criminals alike with a medium range. Can fire single-shot, or semi-automatic per action. Requires a reloading action 10 rounds. $100, 1 ENC, 3x damage, range 50m. 
 
-*Submachine Gun*: A short-barelled machine gun with limited range but a rapid rate of fire. Can fire single-shot, semi-automatic, or burst. Requires a reloading action after 20 rounds. $300, 2 ENC, 3x damage.
+*Submachine Gun*: A short-barelled machine gun with limited range but a rapid rate of fire. Can fire single-shot, semi-automatic, or burst. Requires a reloading action after 20 rounds. $300, 2 ENC, 3x damage, range 50m.
 
-*Assault Rifle*: A long-barelled rifle with medium range and a rapid rate of fire. Can fire single-shot, semi-automatic, or burst each eaction. Requires a reloading action after 30 rounds. $400, 3 ENC, 4x damage.
+*Assault Rifle*: A long-barelled rifle with medium range and a rapid rate of fire. Can fire single-shot, semi-automatic, or burst each eaction. Requires a reloading action after 30 rounds. $400, 3 ENC, 4x damage, range 100m.
 
-*Rifle*. A long-barelled rifle with long range and a low rate of fire. Can fire single-shot. Requires a reloading action after 10 rounds. $500, 3 ENC, 4x damage.
-
-[Range, Bullet exchange]
+*Rifle*. A long-barelled rifle with long range and a low rate of fire. Can fire single-shot. Requires a reloading action after 10 rounds. $500, 3 ENC, 4x damage, range 250m.
 
 **Melee Weapons**
 
+The comments made on firearms, above, also apply for melee weapons. *Papers & Paychecks* is not a combat-heavy game, at least not in most cases. Nevertheless there are a few situations where weapons of various might be used. 
+
+*Improvised*: Improvished crushing weapons include a half-brick, a thrown rock (using melee skill, up to STR metres in base range), a sturdy chunk of wood, a chair, or similar. Because they are not designed to be used in combat melee attacks with such weapons are at -2. A one-handed improvised weapon has an ENC of 1 and causes 1x damage. A two-handed improvised weapon has an ENC of 2 and causes 2x damage.
+
+> Michael J. "Crocodile" Dundee: That's not a knife. That's a knife.`
+> Paul Hogan, Crocodile Dundee, 1986
+
+*Knife*: A small knife has an effective ENC of 0, and does 1x damage and can be thrown up to STR metres in base range. A large knife is the sort used for gutting fish, hacking away through very big steaks and the like. It has an ENC of 1 and does 2x damage. 
+
+*Club*: Often found in the form of sporting equipment, like a cricket or baseball bat, this one or two-handed weapon has an ENC of 2, and does 1x damage (one-handed) or 2x damage (two-handed).
+
+*Axe*: In the one-handed hatched variety which can be used as a melee weapon and which can also be thrown up to STR meters in range, an axe has an ENC of 1 and does 2x damage. As a two-handed weapon it has a modifier of -1 to use, due to being unbalanced, an ENC of 2, and does 3x damage.
+
+*Sword*: Possibly the rarest of weapons encountered in *Papers & Paychecks* it is plausible that a character may encounter a fencing sword, or, if they are at a museum or expensive hotel, an arming sword. A fencing sword is particularly well balanced weapon and is +2 to the melee skill to use, has an ENC of 1, and causes 2x damage. An arming sword has a +1 bonus to use, an ENC of 2, and causes 3x damage.
+
 **Outdoor Equipment**
+
+
+
+
 
 **Professional Equipment**
 
