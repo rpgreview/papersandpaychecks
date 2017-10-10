@@ -726,7 +726,7 @@ A Pilot skill check is used when a character is operating a vehicle. Typically t
 
 **Ride**
 
-A Ride skill check is used when a character is operating an animal as a mount. This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amount modern office-workers.
+A Ride skill check is used when a character is operating an animal as a mount, or operating a human-powered vehicle (the "animal" is the driver). This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amount modern office-workers.
 
 **Sleight**
 
@@ -1498,14 +1498,27 @@ Sometimes characters have to go outside into "The Big Room". You know, the room 
 
 *Two-Person Tent*: The modern camping tent consist of a lightweight waterproof fabric, frame, and tarpaulin. As with sleeping bags, price depends on quality, and provides bonuses like bonus Survival rolls according to time (i.e., +1 from 1975-1995, +2 from 1996-2020, +3 from 2021 onwards) due to material and construction improvements. $200-$800, ENC 3.
 
-
 **Professional Equipment**
 
 For whatever Professional skill a character has taken there is a set of tools, equipment, or even animals appropriate to the profession which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
 
 **Vehicles**
 
+*Bicycle*: A two-wheeled, human-pedal-powered, vehicle which includes pneumatic tires, chain-driven sprockets and tension-spoked wheels. Whilst specialist versions exist for particular environments (racer, road bike, hybrid, mountain bike), which can be elaborated at the Boss's desire, the statistics here assume a hybrid bike. The *ride* skill is used for using a bike, but they're mostly fairly easy to operate. Technological and material developments mean that bicycles have +1 ENC and -2 Move from 1975-1995, +0 ENC and +0 Move from 1996-2020, and -1 ENC and +2 Move from 2021 onwards. The Movement rate for a bicycle is twice the character's STR. Bicycles have enormous variation in cost and quality, ranging from $100 to $3000, with an ENC of 10.
 
+*Economy Car*: A variety of small, cars, including the two-door microcars, hatchbacks, and city-cars. Can fit two people with some comfort and four with somewhat less. Includes a small luggage area. Prior to 1985 an economy car will manage 8km/litre of fuel, from 1985 to 2005 it will manage 12km/litre, from 2006 to 2025 it will do 16km/litre, and after that electric cars will be in use. The maximum speed of an economy car is 150kmph (c40m per second), will weigh 750kg, and has a fuel tank capacity of 50 litres. Cost $5000-$15000
+
+*Sedan*: The standard mid-sized car, known as a Saloon in the United Kingdom, and also including station-wagons in this context. Easily fits four people and with extensive luggage area. Prior to 1985 an sedan will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9km/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an sedan is 200kmph (c55m per second), will weigh 1200kg, and has a fuel tank capacity of 75 litres. Cost $7500-$25000
+
+*Luxury Car*: A mid-sized car, but designed for comfort, additional functionality, and quality in design. Statistics are generally as of the standard sedan, but with everything smoother, quieter, and more luxurious. Cost $55000-$250000 and upwards.
+
+*Sports Car*: A streamlined, low-profile, two-person vehicle designed for speed and maneuverability. Minimal luggaage area. Prior to 1985 a sports car will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9km/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an economy car is 300kmph (c80m per second), will weigh 750kg, and has a fuel tank capacity of 50 litres. Cost $55000-$250000 and upwards.
+
+*Off-Road Car*: A larger, four to six-person vehicle designed off-road usage with an optional four-wheel drive, which is more difficult to use (-2 to Pilot (Ground Vehicle), but allows access to road areas that no other car can manage. Comes with a significant luggage area. Prior to 1985 an off-road car will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9m/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an off-road car is 150kmph (c40m per second), will weigh 1200kg, and has a fuel tank capacity of 75 litres. Cost $7500-$25000 and upwards.
+
+*Utility/Van/Minibus*: A large vehicle designed for the transport of goods (van, utility) or people (people) with a maximum capacity of 16 people or equivalent luggage. Prior to 1985 a utility/van/minibus will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9km/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an utility/van/minibus car is 150kmph (c40m per second), will weigh 1500kg, and has a fuel tank capacity of 75 litres. Cost Cost $10000-$50000.
+
+*Truck/Bus*: A large vehicle designed for the transport of goods (truck) or people (bus) with a maximum capacity of 80 people or equivalent luggage. Prior to 1985 a truck/bus will manage 4km/litre of fuel, from 1985 to 2005 it will manage 6km/litre, from 2006 to 2025 it will do 9km/litre, and after that electric cars will be in use. The maximum speed of an truck/bus car is 150kmph (c40m per second), will weigh 4500kg, and has a fuel tank capacity of 70 litres. Cost Cost $30000-$150000.
 
 ## 2.7 Special Equipment
 
