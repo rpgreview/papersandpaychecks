@@ -686,7 +686,7 @@ A Profession skill check is made to indicate how well a character satisfies the 
 
 **Survival**
 
-A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional  specialiations.
+A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional  specialiations. In all cases, Survival includes first aid knowledge.
 
 ### Dexterity Based Skills
 
@@ -1488,10 +1488,23 @@ The comments made on firearms, above, also apply for melee weapons. *Papers & Pa
 
 **Outdoor Equipment**
 
+Sometimes characters have to go outside into "The Big Room". You know, the room that connects all the other rooms together, the one with the bright yellow light and blue or grey ceiling during work hours and with the ambient lights during sleeping time. There are rare and curious situations when workers are scurried away to holiday camps in rural areas for a "corporate retreat" or a similar team-building exercise. The following items of equipment are the small selection for such adventures.
+
+*Camping Basics*: Rather than listing each item individually, this is a backpack of outdoor survival equipment which a sensible person would take with them (test with WIS + Survival with a +4 bonus to remember). It includes a compass, a cooking stove and pot, knife and fork, firestarters, local maps, powerful torch, hand shovel, and a roll of toilet paper. $100, ENC 3
+
+*First Aid Kit*: Also found in sensible workplaces, a first aid kt consists of an instruction booklet, supply of band-aids, gause dressings, eye dressings, various bandages, sterile gloves, tweezers, cleansing wipes, antiseptic spray or cream, mild painkillers, distilled water, emergency rescue blanket, instant ice-pack, scissors, etc). $100, ENC 2
+
+*Sleeping Bag and Bedroll*: Insulated bedding equipment with zippers for retaining heat, water repellent exterior, and sleeping mat. Price depends on quality. Protection from the elements has improved over time, +1 to Survival rolls from 1975-1995, +2 from 1996-2020, +3 from 2021 onwards. $50-$150 ENC 2
+
+*Two-Person Tent*: The modern camping tent consist of a lightweight waterproof fabric, frame, and tarpaulin. As with sleeping bags, price depends on quality, and provides bonuses like bonus Survival rolls according to time (i.e., +1 from 1975-1995, +2 from 1996-2020, +3 from 2021 onwards) due to material and construction improvements. $200-$800, ENC 3.
+
 
 **Professional Equipment**
 
 For whatever Professional skill a character has taken there is a set of tools, equipment, or even animals appropriate to the profession which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
+
+**Vehicles**
+
 
 
 ## 2.7 Special Equipment
