@@ -812,7 +812,6 @@ The Department Manager enables the character to have CHA+Level-3 *teams* assigne
 
 > What? Did you seriously expect that you'd become the head of the company? Ha! You work for the man for forty years of your life and you'll get to be Vice-President. No further.
 
-
 **Ego Whip**
 
 With the Ego Whip perk the character gains the ability to creatively to identify and attack the character's sense of conscious self, generating a sense of worthlessness and despair in the target. A character who invokes this attack gains a +3 bonus in social combat, and leaves the character physically stunned for one tactical round. It may only be used once per target, per encounter. The attack counts as an action.
