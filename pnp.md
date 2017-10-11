@@ -1522,15 +1522,27 @@ For whatever Professional skill a character has taken there is a set of tools, e
 
 ## 2.7 Special Equipment
 
-**Armani Suit**
+Normal equipment gives expected functionality and benefits, often with game system abstractions that match normal expectations of the equipment in question. "Special equipment" provides benefits that outside of this range. As a result they are incredible rare and expensive and should be treated like exotic 'magic items'. Why is this so? Because they *are* actually characters, like the "Monsters" in section 3.8, sapient spirits entrapped in prosaic items. As a result, they have intellectual characteristics and psychological dispositions, and will whisper suggestions in the minds of their holders.
 
-**Charles Atlas Manual of Bodily Strength**
 
-"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength has an ENC of 1 and costs $2000.
+**Armani Suit of Integrity**
+
+INT 11 (+0), WIS 16 (+2), CHA 18 (+4), E+2 N+1 F+3 P+1 (Champion)
+
+At first sight this appears to be a rather scintillating version of Orator's Attire (2.6, clothing), indeed, it does provide a +3 to Inspire. In addition however it provides an automatical Intellect Fortress (1.7, perks) without the spoken invocation simply by being in the presence of one so attired. It also provides +2 CHA to the wearer. However, the Suit of Integrity is also determined that the wearer lives up to their inspiring charisma as will make suggestions of honesty to the wearer. It will attempt a psychological attack against the wearer if they lie outright, and will darken when the character attempt to weasel their way out of a situation by being not-quite-honest. ENC 1, costs $4000
+
+> Miranda: Ummm that was incredible. Was it good for you?   
+Fletcher: I've had better.   
+*Liar, Liar* (1997)
+
+**Charles Atlas Manual of Bodily Strength, Annotated**
+
+"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. The Manual of Bodily Strength has an ENC of 1 and costs $4000.
 
 **Little Black Cocktail Dress**
 
-**Knuth's The Art of Computing Programming**
+
+**Knuth's The Art of Computing Programming, Annotated**
 
 > *On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right 
 answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*  
