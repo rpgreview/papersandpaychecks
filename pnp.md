@@ -1522,12 +1522,13 @@ For whatever Professional skill a character has taken there is a set of tools, e
 
 ## 2.7 Special Equipment
 
-Normal equipment gives expected functionality and benefits, often with game system abstractions that match normal expectations of the equipment in question. "Special equipment" provides benefits that outside of this range. As a result they are incredible rare and expensive and should be treated like exotic 'magic items'. Why is this so? Because they *are* actually characters, like the "Monsters" in section 3.8, sapient spirits entrapped in prosaic items. As a result, they have intellectual characteristics and psychological dispositions, and will whisper suggestions in the minds of their holders.
+Normal equipment gives expected functionality and benefits, often with game system abstractions that match normal expectations of the equipment in question. "Special equipment" provides benefits that outside of this range. As a result they are incredible rare and expensive and should be treated like exotic 'magic items'. Why is this so? Because they *are* actually characters, like the "Monsters" in section 3.8, sapient spirits entrapped in prosaic items, although they are quite powerful in comparison and unlike the 'monsters', they are not directly malicious towards humans but rather are exasperated by their their moral failings and will frustrate such plans. 
 
+As a result, special equipment has intellectual characteristics and psychological dispositions, and will whisper suggestions in the minds of their holders. They also have critical triggers when characters ignore these warnings, at which point they will seek to take control of the trangressor using psychic combat and possess the character. They surprisingly respect character integrity however, and this is short-term and will release their control once the dangerous period is over. 
 
 **Armani Suit of Integrity**
 
-INT 11 (+0), WIS 16 (+2), CHA 18 (+4), E+2 N+1 F+3 P+1 (Champion)
+INT 18 (+4), WIS 22 (+6), CHA 26 (+8), E+3 N+2 F+4 P+2 (Champion)
 
 At first sight this appears to be a rather scintillating version of Orator's Attire (2.6, clothing), indeed, it does provide a +3 to Inspire. In addition however it provides an automatical Intellect Fortress (1.7, perks) without the spoken invocation simply by being in the presence of one so attired. It also provides +2 CHA to the wearer. However, the Suit of Integrity is also determined that the wearer lives up to their inspiring charisma as will make suggestions of honesty to the wearer. It will attempt a psychological attack against the wearer if they lie outright, and will darken when the character attempt to weasel their way out of a situation by being not-quite-honest. ENC 1, costs $4000
 
@@ -1559,10 +1560,13 @@ The capacity of alcoholic drinks to provide sociability is well known and presen
 
 **Ring of The Significant Other**
 
-> *Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*
-> Ambrose Bierce, *The Devil's Dictionary*, 1967.
+> *Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*    
+Ambrose Bierce, *The Devil's Dictionary*, 1967.
 
-This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each.
+Ring 1: E+2 S+5 F+4 J+2	(Provider)
+Ring 2: I+2 S+5 F+4 J+2 (Protector)
+
+This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. In most cases the wearing of a marriage ring will receive a +2 bonus against Seduction attempts made against them. However, a Ring of Significant Other is *also* sapient paired device where the two devices are in a quantum entangled communication with each other. A Ring of Significant Other will be able to provide warnings to one wearer of the state of the other wearer, providing a sort of limited telepathy between the two wearers that is at the will of the two rings whose personality (provider and protector) they will seek to encourage. A Ring of Significant Other will also prevent the wearer via psychic attack from causing harm to the other wearer, including (and especially) acts of unapproved infidelity, and issue a warning via the second ring. A ring of Significant Other costs $10000+ each.
 
 # 3.0 Non-Player Characters
 
