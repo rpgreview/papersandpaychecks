@@ -4,7 +4,11 @@
 
 by Lev Lafayette
 
-Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson, Karl Brown, Joe Grech
+### Playtesters and Reviewers
+
+Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson, Karl Brown, Joe Grech
+
+### Publication
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
@@ -12,11 +16,30 @@ ISBN 978-0-9946388-0-9
 
 Released under Creative Commons Attribution-NonCommercial 3.0 Australia License (CC BY-NC 3.0 AU)
 
+Licensed commercial printing of *Papers & Paychecks* is also available from Cameron Duffy and Jason Keller.
+
 "Fear and Loathing in Wellington", originally "My Life with Boss", published in RPG Review Issue 7, 2010 by Dan L'Estrange. Modified for *Papers & Paychecks*.
 
 "Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
 
 Artwork by Dan 'Smif' Smith, Randall Munroe (under license, see: `https://xkcd.com/license.html`), and Pexels (under CC0 license, see `https://www.pexels.com/search/office/`)
+
+## Special Thanks to Our Kickstarter Backers
+
+### Boss Level Supporters
+
+Cameron Duffy, Jason Keller, prancelot, Dean Sayers, shane, Daryl McLaurine, Fred Lock,  Mike Bryant,  Adam Alexander,  Michael Cole,  Joseph Mannino,  Suraj Peiris,  Denny Carr,  Daniel Tosello, Shining Arrow, Dingo, Sean Doyle,  Mario Butter, Joe Rapoza, Rodney Brown, David Cameron Staples,  Erica Hoehn,  Bud Wright,  Johnny Casady,  Martin Paulo,  Josh Cullinan, 
+
+### Manager Level Supporters
+
+Jonathan Hoffenberg, Timothy Salisbury, Dan Smith, Charlie Day, Dean Nicolson, Greg Thomas, Pookie UK, Mike Emrick, Ray Hall, Lars Colson, Thomas Sounness, Brandon Oakley, Jason Scott, Charles Schley, Pete Tracy, Geoffrey Sperl, Lucas Trerice, Tristrim Murnane, Shane, Keith Stattenfield, Yuessir, DZC, Adrienne, Delphi Psmith, Adrian Anastas, Gordon Duke, Shay Telfer, Stephen William Spirgis, James M. Yager, Paul May, Stean Vitasovic, Andrew Daborn, Cat Rambo, Julian Dellar, Sam Sexton, Phillip Harte, Edward Jones, Edwin F. Kobeski, Karl David Brown, Dr Mark Bivens, Peter Cobcroft, Charles William Modzinski, Martin Dennis, Aaron, Trent Boyd
+
+### Team Leader Level Supporters
+
+Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrraine, John Michael Hess, 
+Slorder, Bruce Cload, Ian McFarlin, telanthar, Greg Chapin, Dustin Vogel, Andrew Sharp, Matt Brose,
+Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keamy, Kean, Larry Birdsong Jr., Christian-Rolf Grün, George Gordon, Olivier Dauba, Phillip Hada, F. John Rickert, Mitchell Christov, Glenn Chambers, William Savige, Chris Garland, C David Dent, Brendan Meghani, Steven Westdahl, D Larson, Tom Goerger, Peter Hartman, Daniel Norton, Rachel Krupnick, Tim Wade, Kevin Sonney, Christopher Horelly, mark hutton, Jason Fewings, Owlglass, John Klapak, Michael Pleier, Donnovan Knight, Rabi Fiotto, Alexandre Hotte-Vukobrat, Erik Ashby, Joseph Hallett, Paul Kensler, Theo Lane, Andrew Murphy, Hans Sagan, Erik Talvola, Matthew-Donald Sangster, Richard Halpin, Kim Flintoff, James Fellows, Nick Golovachenko, Les Mallett, Seth A Spurlock, Carl Gilchrist, Rob Klug, Jonathon Dyer, John Hughes, Thomas Giaquinto, Lochdur, Ota Ulc, meow, Darwin Bromley, Ira Kroll, Chris Stronach, Michael Heaney, Brent Knorr, Jade, Cormac Doyle, Andrew Ward, Jonas Schiött, Garth Nix, Peter Birdsall, BlazeWard7, Damien, Daniel Robichaud, Alan Batson, Jon Swabey, Julian Fairhall, Jim Cheetham, Marc Kevin Hall, pauli, Safeer Syed, Paul Smith, Egrek, Brett Easterbrook, David Waldron, Steven G. Saunders, Paul Bone,  Julien Goodwin, Chris Nienhuis, Adam Whitcomb, Chris Constantin, Jack Gulick, Dee Echo, Patrice Mermoud,  Donald A. Turner, Jeremy Byrne, John Webster, Lachlan Smith, Contesse,  Mark Westbrook, Damon & Peni Griffin, Adrian Smith
+
 
 # Table of Contents
 
@@ -3542,6 +3565,16 @@ Union Membership
 =======================================================================
 
 
-
-
 <img src"https://raw.githubusercontent.com/rpgreview/papersandpaychecks/efb22e0d3279cee5c9d6ad99f6f2b312f7e39939/images/%20bannedtechops.jpg" />
+
+
+## Publishing
+
+
+*Papers & Paychecks* is available through the RPG Review Cooperative, Inc. and also through the licensed publishers Cameron Duffy and Jason Keller.
+
+
+	
+
+
+
