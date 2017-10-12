@@ -28,11 +28,11 @@ Artwork by Dan 'Smif' Smith, Randall Munroe (under license, see: `https://xkcd.c
 
 ### Boss Level Supporters
 
-Cameron Duffy, Jason Keller, prancelot, Dean Sayers, shane, Daryl McLaurine, Fred Lock,  Mike Bryant,  Adam Alexander,  Michael Cole,  Joseph Mannino,  Suraj Peiris,  Denny Carr,  Daniel Tosello, Shining Arrow, Dingo, Sean Doyle,  Mario Butter, Joe Rapoza, Rodney Brown, David Cameron Staples,  Erica Hoehn,  Bud Wright,  Johnny Casady,  Martin Paulo,  Josh Cullinan, 
+Cameron Duffy, Jason Keller, Luke Gutzwiller, Dean Sayers, Shane A. Leslie, Daryl McLaurine,Fred Wilms,  Mike Bryant,  Adam Alexander,  Michael Cole,  Joseph Mannino,  Suraj Peiris,  Denny Carr,  Daniel Tosello, Shining Arrow, Dingo, Sean Doyle,  Mario Butter, Joe Rapoza, Rodney Brown, David Cameron Staples,  Erica Hoehn,  Bud Wright,  Johnny Casady,  Martin Paulo,  Josh Cullinan, 
 
 ### Manager Level Supporters
 
-Jonathan Hoffenberg, Timothy Salisbury, Dan Smith, Charlie Day, Dean Nicolson, Greg Thomas, Pookie UK, Mike Emrick, Ray Hall, Lars Colson, Thomas Sounness, Brandon Oakley, Jason Scott, Charles Schley, Pete Tracy, Geoffrey Sperl, Lucas Trerice, Tristrim Murnane, Shane, Keith Stattenfield, Yuessir, DZC, Adrienne, Delphi Psmith, Adrian Anastas, Gordon Duke, Shay Telfer, Stephen William Spirgis, James M. Yager, Paul May, Stean Vitasovic, Andrew Daborn, Cat Rambo, Julian Dellar, Sam Sexton, Phillip Harte, Edward Jones, Edwin F. Kobeski, Karl David Brown, Dr Mark Bivens, Peter Cobcroft, Charles William Modzinski, Martin Dennis, Aaron, Trent Boyd
+Jonathan Hoffenberg, Timothy Salisbury, Dan Smith, Charlie Day, Dean Nicolson, Greg Thomas, Pookie, Mike Emrick, Ray Hall, Lars Colson, Thomas Sounness, Brandon Oakley, Jason Scott, Charles Schley, Pete Tracy, Geoffrey Sperl, Lucas Trerice, Tristrim Murnane, Shane, Keith Stattenfield, Yuessir, Daniel Callahan, Adrien42, Delphi Psmith, Adrian Anastas, Gordon Duke, Shay Telfer, Stephen William Spirgis, James M. Yager, Paul May, Stean Vitasovic, Andrew Daborn, Cat Rambo, Julian Dellar, Sam Sexton, Phillip Harte, Edward Jones, Edwin F. Kobeski, Karl David Brown, Dr Mark Bivens, Peter Cobcroft, Charles William Modzinski, Martin Dennis, Aaron, Trent Boyd
 
 ### Team Leader Level Supporters
 
