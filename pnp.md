@@ -4,11 +4,7 @@
 
 by Lev Lafayette
 
-### Playtesters and Reviewers
-
-Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson, Karl Brown, Joe Grech
-
-### Publication
+Playtesters and Reviewers: Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
@@ -16,30 +12,11 @@ ISBN 978-0-9946388-0-9
 
 Released under Creative Commons Attribution-NonCommercial 3.0 Australia License (CC BY-NC 3.0 AU)
 
-Licensed commercial printing of *Papers & Paychecks* is also available from Cameron Duffy and Jason Keller.
-
 "Fear and Loathing in Wellington", originally "My Life with Boss", published in RPG Review Issue 7, 2010 by Dan L'Estrange. Modified for *Papers & Paychecks*.
 
 "Code of Cthulhu", published in RPG Review Issue 21, September 2013, by David Cameron Staples. Modified for *Papers & Paychecks*.
 
 Artwork by Dan 'Smif' Smith, Randall Munroe (under license, see: `https://xkcd.com/license.html`), and Pexels (under CC0 license, see `https://www.pexels.com/search/office/`)
-
-## Special Thanks to Our Kickstarter Backers
-
-### Boss Level Supporters
-
-Cameron Duffy, Jason Keller, prancelot, Dean Sayers, shane, Daryl McLaurine, Fred Lock,  Mike Bryant,  Adam Alexander,  Michael Cole,  Joseph Mannino,  Suraj Peiris,  Denny Carr,  Daniel Tosello, Shining Arrow, Dingo, Sean Doyle,  Mario Butter, Joe Rapoza, Rodney Brown, David Cameron Staples,  Erica Hoehn,  Bud Wright,  Johnny Casady,  Martin Paulo,  Josh Cullinan, 
-
-### Manager Level Supporters
-
-Jonathan Hoffenberg, Timothy Salisbury, Dan Smith, Charlie Day, Dean Nicolson, Greg Thomas, Pookie UK, Mike Emrick, Ray Hall, Lars Colson, Thomas Sounness, Brandon Oakley, Jason Scott, Charles Schley, Pete Tracy, Geoffrey Sperl, Lucas Trerice, Tristrim Murnane, Shane, Keith Stattenfield, Yuessir, DZC, Adrienne, Delphi Psmith, Adrian Anastas, Gordon Duke, Shay Telfer, Stephen William Spirgis, James M. Yager, Paul May, Stean Vitasovic, Andrew Daborn, Cat Rambo, Julian Dellar, Sam Sexton, Phillip Harte, Edward Jones, Edwin F. Kobeski, Karl David Brown, Dr Mark Bivens, Peter Cobcroft, Charles William Modzinski, Martin Dennis, Aaron, Trent Boyd
-
-### Team Leader Level Supporters
-
-Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrraine, John Michael Hess, 
-Slorder, Bruce Cload, Ian McFarlin, telanthar, Greg Chapin, Dustin Vogel, Andrew Sharp, Matt Brose,
-Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keamy, Kean, Larry Birdsong Jr., Christian-Rolf Grün, George Gordon, Olivier Dauba, Phillip Hada, F. John Rickert, Mitchell Christov, Glenn Chambers, William Savige, Chris Garland, C David Dent, Brendan Meghani, Steven Westdahl, D Larson, Tom Goerger, Peter Hartman, Daniel Norton, Rachel Krupnick, Tim Wade, Kevin Sonney, Christopher Horelly, mark hutton, Jason Fewings, Owlglass, John Klapak, Michael Pleier, Donnovan Knight, Rabi Fiotto, Alexandre Hotte-Vukobrat, Erik Ashby, Joseph Hallett, Paul Kensler, Theo Lane, Andrew Murphy, Hans Sagan, Erik Talvola, Matthew-Donald Sangster, Richard Halpin, Kim Flintoff, James Fellows, Nick Golovachenko, Les Mallett, Seth A Spurlock, Carl Gilchrist, Rob Klug, Jonathon Dyer, John Hughes, Thomas Giaquinto, Lochdur, Ota Ulc, meow, Darwin Bromley, Ira Kroll, Chris Stronach, Michael Heaney, Brent Knorr, Jade, Cormac Doyle, Andrew Ward, Jonas Schiött, Garth Nix, Peter Birdsall, BlazeWard7, Damien, Daniel Robichaud, Alan Batson, Jon Swabey, Julian Fairhall, Jim Cheetham, Marc Kevin Hall, pauli, Safeer Syed, Paul Smith, Egrek, Brett Easterbrook, David Waldron, Steven G. Saunders, Paul Bone,  Julien Goodwin, Chris Nienhuis, Adam Whitcomb, Chris Constantin, Jack Gulick, Dee Echo, Patrice Mermoud,  Donald A. Turner, Jeremy Byrne, John Webster, Lachlan Smith, Contesse,  Mark Westbrook, Damon & Peni Griffin, Adrian Smith
-
 
 # Table of Contents
 
@@ -81,7 +58,7 @@ Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keam
 
 4.0 The Boss Book
 4.1 Being The Boss
-4.2 Episode and Season Design
+4.2 Episode and Session Design
 4.3 Running The Session
 
 5.0 Scenarios : Fear and Loathing in Wellington
@@ -104,7 +81,7 @@ Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keam
 
 ## 0.2 Preface
 
-Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society" in which you play the part of workers and students glorious trying to succeed against a world of antagonists, and antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
+Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society" in which you play the part of workers and students gloriously trying to succeed against a world of antagonists, and an antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
 
 The title comes from the memorable artwork of Will McLean in the first edition of the *Advanced Dungeons & Dragons Dungeon Masters Guide*. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that *Papers and Paychecks" would make a great roleplaying game, but this is the first time that the idea has seen completion. Of course, few workers these days deal as much with "papers", let alone "paychecks", but the game would hardly have the same ring to it if it was called "Emails and Direct Deposits". Such is the nature of being in a "industralized and technological society".
 
@@ -112,21 +89,21 @@ Roleplaying games have been an enormous success story in recent decades, startin
 
 Note the word 'plausibility'. *Papers and Paychecks* posits a world that is downright hostile to the player characters. The metaphysical foundation, if you like, is resistentialism. This is a supposedly joke philosophy based around the widespread anecdotal evidence of an apparent malice of inanimate objects against people, the word itself coined by Paul Jennings in 1948 as a response to existentialism, and claimed that it was developed by a fictional character, Pierre-Marie Ventre, itself a play on the name Jean-Paul Sartre.
 
-But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly by the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor: "Anything that can go wrong, will go wrong and at the worst possible time".
+But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism has a long and established history prior to Jennings, as encapsulated by "Murphy's Law" and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor, who stated: "Anything that can go wrong, will go wrong and at the worst possible time".
 
-Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives, yet the the time in which they decide to incompetently help proves disasterous. It is the role of The Boss to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
+Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives yet the time in which they decide to incompetently help proves disasterous. It is the role of The Boss to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
 
 Although presented partially as a spoof, "Papers and Paychecks" is nevertheless a traditional roleplaying game, by what is meant is that it consists of several players, each taking a character (a "player-character" or PC) and their role in a story scenario designed by another player, The Boss, who adjudicates the expressed actions of the player's characters and the environment in which they occur, including the activities of non-player characters (NPCs), and introduces new plot elements as appropriate to generate a narrative flow. Usually it is played face-to-face, engaging in the primitive behaviour of actual physical socialisation, it can also be played in electronic communication as well, although real-time communication is recommended over asynchronous methods. 
 
-There are five chapters to this book which explains tha game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This include the PCs characteristics, profession and wage band, their talents, personality, and starting equipment. For thos familiar with roleplaying games, this is a standard system but with the addition of the Luck attribute for narrative purposes.
+There are five chapters to this book which explains tha game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This includes the PCs characteristics, profession and wage band, their talents, personality, and starting equipment. For those familiar with roleplaying games, this is a standard system but with the addition of the Luck attribute for narrative purposes.
 
-By the end of the first chapter, the player is ready for action in an antagonistic enviroment, and the second chapter explains in detail exactly what sort of activities they can engage in. This includes an elaboration of the core mechanic game system, the tactical and strategic time scales, the giving and receiving of physical, mental, and social damage, and details of personal equipment. As a principle of game design, detail of the activiies is based around the setting. Obviously this includes a lot less violence than a roleplaying game in a fantastic setting of wizards and dragons, but a lot more on problems relating to technology and bureaucracy.
+By the end of the first chapter, the player is ready for action in an antagonistic enviroment, and the second chapter explains in detail exactly what sort of activities they can engage in. This includes an elaboration of the core mechanic game system, the tactical and strategic time scales, the giving and receiving of physical, mental, and social damage, and details of personal equipment. As a principle of game design, details of the activities is based around the setting. Obviously this includes a lot less violence than a roleplaying game in a fantastic setting of wizards and dragons, but a lot more on problems relating to technology and bureaucracy.
 
 A collection of non-player characters is offered as the third chapter, broken up according to profession and across various levels of ability. These can serve as example characters whom The Boss can introduce to a storyline, or, if the player is in a hurry, a quick template to introduce a new player-character to the game. For those familiar with such things this is the equivalent of the "Monster Manual".
 
 The fourth chapter is The Boss book. It's full of advice on what it means to take up the role of moderator, adjudicator, narrator, director, and performer of the non-player characters. It also provides valuable information on setting, scenario, and episode design, along with ideas for the physical gaming environment.
 
-The final chapter is an entire season of *Papers and Paychecks*, consisting of five episodes designed for beginning characters as they make their way into the first serious job. The episodes can be run independently, but are most enjoyable when the first links between them are brought together. 
+The final chapter is an entire season of *Papers and Paychecks*, consisting of five episodes designed for beginner characters as they make their way into their first serious job. The episodes can be run independently, but are most enjoyable when the first links between them are brought together. 
 
 The book concludes with a set of supplementary appendicies; a collection of source material from which a Boss can delve into and develop their own project scenarios, some charts and tables for game play in summary, a business organisation chart, a *Dramatis Personae* chart for the Boss to keep track of NPCs during a session, and a résumé (aka character sheet) for major characters.
 
@@ -134,7 +111,7 @@ At the end of the day however, the main purpose of "Papers and Paychecks" is enj
 
 This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
 
-By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
+By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
 
 This game has been published by the RPG Review Cooperative, an incorporated and non-profit association. Nobody associated with the Cooperative is making any money from this - all proceeds go to the association for the benefit of promoting our shared hobby - and as such we are particularly grateful for the genorsity of our backers on Kickstarter. We are also deeply honoured to have the artistic skills of Dan 'Smif' Smith for the cover art. Special thanks is also given to the playtesters, who reviewed and tested the game, pulled it apart and put it back together again into the working product you see before you. 
 
@@ -154,9 +131,9 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 ## 0.4 Core Mechanic
 
-The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As Quick Resolution of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
+The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. The die roll is applied to the PCs characteristic and skill bonus, along with any environment modifiers, against a target number which will vary according to the difficulty of the task. As a Quick Resolution of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
 
-> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the quick resolution method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages of rats by trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the same jump should also have the same difficulty - and as it should be in the future. Don't forget it!
+> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the quick resolution method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages of rats by trolley through a sewer system underneath a campus - however they reach a point where the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attempts the same jump should also have the same difficulty - and as it should be in the future. Don't forget it!
 
 | Difficulty		| Rating	|
 |-----------------------|---------------|
@@ -169,22 +146,22 @@ The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 d
 | Heroic		| 17		|
 | Nearly Impossible	| 19		|
 
-The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, the have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
+The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, they have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
 
 If the success is just equal to the value they receive a marginal success, but with consequences, determined by The Boss. If the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. The player may decide to forgo the success and have a failure without consequences. If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
 
 > "Wait, every marginal success is also a failure?"
 > "Yes, welcome to *Papers & Paychecks*, a world where... things are against us!
 
-The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average Taks), a further consequnce is applied in addition to the failure.
+The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average Taks), a further consequence is applied in addition to the failure.
 
-Note the initial sentence that the die roll is to be used "used in dramatic circumstances". If a character is sufficiently unhurried or has sufficient resources they can opt to ignore the die roll at take a flat 7 plus modifiers result instead; these are 'prosaic circumstances'. By 'prosaic' this means that the character has at least twice the time to take than what would be required for a dramatic action, or in the case of financial transactions, they are able to pay twice the cost. In a sense, characters are caught in the famous project management trilemma; good, cheap, or fast - pick two.
+Note the initial sentence that the die roll is to be used "used in dramatic circumstances". If a character is sufficiently unhurried or has sufficient resources they can opt to ignore the die roll and take a flat 7 plus modifiers result instead; these are 'prosaic circumstances'. By 'prosaic' this means that the character has at least twice the time to take than what would be required for a dramatic action, or in the case of financial transactions, they are able to pay twice the cost. In a sense, characters are caught in the famous project management trilemma; good, cheap, or fast - pick two.
 
 Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
 
 ## 0.5 Glossary
 
-**Action**: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
+**Action**: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount of effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
 
 **Boss, The**: A special type of player who manages the world, the actions of Non-Player Characters, who sets the scene, scenario, and challenges for Player-Characters. The Boss acts as both a narrator and referree.
 
@@ -206,8 +183,6 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame.
 
-**Skill Points** The number of points a character can spend per level on skills and knowledges. It is based on the average of the character's INT.
-
 **Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame.
 
 **Worker** A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
@@ -216,11 +191,12 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 > Welcome to hell. The veal-fattening pen.
 
+
 # 1.0 Character Generation
 
 ## 1.1 Example of Play
 
-The following is the opening scene of four players of "Papers and Paperchecks". 'The Boss', has set the game with a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
+The following is the opening scene of five players of "Papers and Paperchecks". 'The Boss', has set the game within a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
  
 > *The Boss*: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
 > 
@@ -238,7 +214,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *The Boss*: OK, make an 'Electrical Technician' roll at +2.
 > 
-> (Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their adding their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences".
+> (Gerald's player rolls a 2d6 - as per the original cartoon for "Papers and Paychecks"- and checks their resume or character sheet for their skill rating. They add their skill and attribute bonus plus the +2 bonus, scoring an 10 in total, above the normal target number of 8. The result is a "success with consequences".
 > 
 > *The Boss*: Congratulations, the machine roars into action. Except now it says 'Refill Beans'. (Note that the consequence is proportional to the success)
 > 
@@ -250,7 +226,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > (Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
 > 
-> Mary: Just as well that was one of main skills. Now please let us have a coffee!
+> Mary: Just as well that was one of my main skills. Now please let us have a coffee!
 > 
 > (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
 > 
@@ -258,7 +234,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *Walter*: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
 > 
-> *The Boss*: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
+> *The Boss*: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit and that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
 > 
 > *Walter*: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
 > 
@@ -277,7 +253,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *Seth*: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
 > 
-> *The Boss*: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
+> *The Boss*: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed a diet rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
 > 
 > *Mary*: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
 > 
@@ -317,15 +293,15 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 
 ## 1.2 Luck Rating
 
-All player characters start with a Luck rating of 3 points. As a meta-game characteristic this is established prior to anything else. It represents the ability of the players to change the result of a random roll that is under their control within the story. For example. a player, during character generation, has their heart set on taking up the Scientist character class. Alas, the genetic die is not with them and they roll a paltry 7 from 3d6 to determine their Intelligence characteristic. A moment is spent as the player considers the possibility of playing a fairly dim scientist, but they decide against it spending one of their three Luck points to change the score of 7 to 18, the maximum that could be rolled.
+All player characters start with a Luck rating of 3 points. As a meta-game characteristic this is established prior to anything else. It represents the ability of the players to change the result of a random roll that is under their control within the story. For example, during character generation a player has their heart set on taking up the Scientist character class. Alas, the genetic die is not with them and they roll a paltry 7 from 3d6 to determine their Intelligence characteristic. A moment is spent as the player considers the possibility of playing a fairly dim scientist, but they decide against it spending one of their three Luck points to change the score of 7 to 18, the maximum that could be rolled.
 
-> Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as the wish - even for or against other characters.
+> Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as they wish - even for or against other characters.
 
-During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disasterous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck poin for making life difficult for their own character. 
+During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disasterous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck point for making life difficult for their own character. 
 
-On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs Workers for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
+On a metagame level Luck points can awarded by dressing outrageously in character, providing a stack of possible NPCs Workers for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resistentialist environment.
 
-Keep in mind that these are an metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
+Keep in mind that these are a metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
 
 Note that for certain NPCs or items of equipment, the Boss may allocate Luck points to such characters reflecting their importance in the wider story. Unlike points for PC Workers, these will not improve.
 
@@ -372,7 +348,7 @@ Characters in *Papers and Paychecks* have level one starting age based on their 
 | Old Age (60 to 79)	| -30% to Dex, -20% to Str, Con, +20% to Wis, Cha |
 | Venerable (80+)	| -50% to Dex, -30% to Str, Con, +30% to Wis, Cha |
 
-Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporting both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPC. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
+Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporting both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPC. Player-characters may, of course, choose whatever sex or ethnic background that they desire regardless of die-roll results.
 
 The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay for relevant professions and for Wisdom to represent their prudent expenditures and investments. 
 
@@ -392,36 +368,36 @@ For example, a character with a Strength of 18 will receive a +4 bonus for all S
 | 18-19	|       +4    |    +40%    |
 | etc	|       etc   |    etc     |
 
-In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
+In addition to the aforementioned primary characteristics, there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
-**Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
+**Strength**: Strength represents their mass, musculature, and health. By itself, Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
 
-**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonuses (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest.
+**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest. At five times their INT, a character must "forget" old skills that have not been used if they wish to learn new skills, equal to their learning rate.
 
 > "Go to a Mensa gathering. In no other place will you find so many unemployed PhDs with strong opinions on Scrabble rules."
 > --Robert Allen, 2017, `https://www.quora.com/Why-do-so-many-high-IQ-people-amount-to-nothing/answer/Robert-Allen-52`
 
-**Wisdom**: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, moral reasoning, and common sense. Wisdom however does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself. An important exception is that a character's Wisdom bonus times 10% directly contributes as a wage bonus, representing both prudent investments and expenditure, plus performance bonuses. This applies to all professions, and effectively doubles the bonus for Administrators. A character's Wisdom determines their Mental Hit Points.
+**Wisdom**: Wisdom represents the character's stability of mind, willpower, intellectual clarity, judgement, moral reasoning, and common sense. Wisdom, however, does not contribute significantly to secondary characteristics or skills, with most resolution tests being based directly on tests against the characteristic itself. An important exception is that a character's Wisdom bonus times 10% directly contributes as a wage bonus, representing both prudent investments and expenditure, plus performance bonuses. This applies to all professions, and effectively doubles the bonus for Administrators. A character's Wisdom determines their Mental Hit Points.
 
-**Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills, and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc. Note that a character with a high Dexterity effectively increases their movement rate per round, albeit in a coarsely-grained fashion.
+**Dexterity**: Dexterity represents fine manipulation, reflexes, flexibility, balance, and hand-eye coordination. It is used in a significant number of physical skills and is also fairly common in direct characteristic tests. A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc. Note that a character with a high Dexterity effectively increases their movement rate per round, albeit in a coarsely-grained fashion.
 
 **Perception**: Perception represents the character's awareness and ability to receive and interpret information from their sensory systems and is typically associated with a character's general level of health relative to their size (i.e., their constitution in the vernacular). Perception only affects a handful of skills, but is possibly the most common characteristic test.
 
-**Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills. Charisma is used for Social Hit Points.
+**Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for the loyalty of friends and associates. It does not, however, contribute significantly to secondary skills. Charisma is used for Social Hit Points.
 
 ## 1.5 Professions
 
 "Papers and Paychecks" has six character professions, each of which has a related primary characteristic. The player chooses which character profession they belong to and in most cases will select the profession with that primary characterstic. Not only are many of the character's activities most successful with that related value, but they will also receive a pay bonus.
 
-The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strenth of 18, would receive a 40% bonus in their paycheck.
+The professions, and their related primary characteristics, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strength of 18, would receive a 40% bonus in their paycheck.
 
-As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
+As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquiring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
 
 This is also a "class and level" game. The "classes" are, of course, represented by the various professions. Unlike however traditional games, the "class" is not a straight-jacket which restricts the character, in "Papers and Paychecks" the profession is a flexible set of options. Characters may also change their profession as they wish, and often a character will have multiple professions representing a change in employment (e.g., a level 4 Labourer and level 6 Tradesperson). The character will receive the payrate according to the work that they are currently doing. If this sounds unfair, ask a migrant cleaner with a PhD in nuclear physics how they feel about it.
 
 Each character has a level, representing their pay band and the base net wages that they receive. This level is determined by how many "projects" that they have completed, a "project" being the equivalent of a "scenario" in a fantasy RPG. On average, a character can expect to participate in one project per annum. Different professions have different starting ages, and different rates of pay. 
 
-The abstract level rate of advancedment is however the same, depending on the number of projects completed. *Papers & Paychecks_ assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
+The abstract level rate of advancement is, however, the same, depending on the number of projects completed. *Papers & Paychecks_ assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result, the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels, however, it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
 
 | Level | Projects | Reputation	| Average Age |
 |-------|----------|------------|-------------|
@@ -438,17 +414,17 @@ The abstract level rate of advancedment is however the same, depending on the nu
 
 The Reputation value of a character represents how well known they are to others. Simply roll 2d6 and add the bonus as determined from their level and attempt to achieve a difficulty value according to the level of detail and the social distance. Remembering a co-worker's name (+3) who works on the same floor (+3), for example, is a 'very easy' task (+6). Remembering a two-year old project (-3) which a worker in a different company (-4) was involved in would be 'nearly impossible' (-7), assuming that in both cases the character is 6th level.
 
-Each level brings improvements to a character based on their profession. This includes improvements to skills and knowledges and acquisition of new perks. To represent personality development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
+Each level brings improvements to a character based on their profession. To represent character development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
 
-Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
+Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderfu that younger people are following in your footsteps", and such-like. At a certain point, the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
 
 ### 1.5.1 Labourer
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Athletics (Strength), Athletics (stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various) 
+Profession Skills: Athletics (Strength), Intimidate, Melee, Profession, Craft (structural), Athletics (stamina), Carousing, Perception. 
 
-Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Whilst not known for the intellect, they are known for their ability to lift heavy things which often comes with significant sex appeal. As a result, some office workers react to labourers with a peculiar combination of envy and disgust. Labourers are the only profession that gains points in physical characteristics as their level improves. They have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
+Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Nevertheless there are several significant advantages to playing a labourer. Firstly, they are the only profession that gains points in physical characteristics as their level improves. Secondly, labourers have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -467,9 +443,8 @@ Description: A labourer works with their hands for the livelihood. Typically fou
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Knowledge (General), Language (various)
+Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Language (various)
  
-Description: A scientist works with their mind for the livelihood. Typically found in academia and research industries, scientists are rather notorious for having detailed knowledge on specific subjects, and not much in the way of practical skills. As a result their office-environments are often an "sheltered workshop for the intellectually able". Despite their intelligence, they are often subject to unkind comments about their social skills, pay rates, and sometimes even personal hygiene. In turn, scientsist will smile and ponder the myriad of ways to remove the nuclear force that holds their interlocutors atoms together. Scientists have average pay, some unusual perks, and have a late starting age. 
 
 | Level | Wage     | Perks		   |
 |-------|----------|-----------------------|
@@ -488,12 +463,10 @@ Description: A scientist works with their mind for the livelihood. Typically fou
 
 Prime Requisite: Wisdom
 Starting Age: 15+1d6
-Profession Skills: Craft (Computing), Knowledge (General), Administration, Profession, Sleight, Concentration, Sense (various), Act, Lie
+Profession Skills: Craft (Computing), Administration, Profession, Sleight, Concentration, Perception, Act, Lie
 
-Description: An administrator works with their judgement for their livelihood. Stunningly practical in the intellectual sense, it is administrators who are often the real backbone of an organisation ensuring that the paperwork is filled properly, the bills are paid on time, and the stationery cabinet stock is up-to-date. Despite this they are usually looked down upon by the supposed geniuses and decision-makers in an organisation who would otherwise forget these mundane tasks. Those who are wise know however that the administrators are the true power behind any company - which is why wise people often become administrators. They have some rather practical and surprising perks, which makes up for some unspectacular pay. Administrators start young in life.
-
-> Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.   
-> David Wiegleb, Jan 24, 2017
+_"Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly._
+David Wiegleb, Jan 24, 2017
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -512,9 +485,7 @@ Description: An administrator works with their judgement for their livelihood. S
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d6
-Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
-
-Description: A tradesperson works with their clever hands for their livelihood with a variety of practical physical skills. If it is a electro-mechanical device and it's broken, the tradeperson can fix it. This represents not only those professions in the manufacturing industry, or construction, but also the hands-on specialist technical workers. Tradespeople start off with poor renumeration, but one which improves over time. They start their career at a young age.
+Profession Skills: Intimidate, Profession, Craft (electronic), Craft (mechanical), Craft (structural), Carousing, Concentration, Perception, 
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
@@ -533,9 +504,7 @@ Description: A tradesperson works with their clever hands for their livelihood w
 
 Prime Requisite: Perception
 Starting Age: 15+2d4
-Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
-
-Description: A researcher works with their insight and investigative skills for their livelihood. It is their stubborn ability to pore over details looking for the hidden causes of things which makes a researcher especially valuable in an organisation. Nevertheless, they are easily overlooked as they often work long hours and away from the social lives of others, and receive a rather poor renumeration as a result. Researchers start their career at an average age.
+Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Perception
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -554,9 +523,7 @@ Description: A researcher works with their insight and investigative skills for 
 
 Prime Requisite: Charisma
 Starting Age: 15+3d4
-Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
-
-Description: A manager works with force of personality for their livelihood. Which means they get everyone else to do the real work, whereas they make the decisions of what work needs to be done. This often means meeting with other managers and arguing over corporate goals, resource allocation, and who is going to buy the third bottle of Maison Veuve Clicquot. It is notable that managers have very few practical skills, but they do have some amazing social perks. Whilst they may start in exciting jobs in sales, those who toe the line can often find themselves on a very fruitful career.  Managers start their career at a later age.
+Profession Skills: Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 | Level | Wage     |  Perks		|
 |-------|----------|--------------------|
@@ -571,6 +538,7 @@ Description: A manager works with force of personality for their livelihood. Whi
 | 9	| $2200    | Chutzpah		|
 | 10	| $2500    | Superannuation    	|
 
+
 ## 1.6 Skills and Knowledges
 
 Skills and other actions in "Papers and Paychecks" are determined by the following procedure, as per the original cartoon:  2d6 + characteristic bonus or penalty + environment bonuses or penalty versus a target number with variation from that target number determining degrees of success. There are no "natural" successes or failures from rolling a '2' or '12', for example, as a result; a character *could* succeed with a natural roll of '2' if their bonuses are high enough or fail with a '12' if their penalties are sufficiently severe. Further elaboration of the resolution of action will be found in chapter two, especially sections 2.3 and 2.4
@@ -583,27 +551,25 @@ Characters also receive a number of skills and knowledges during their childhood
 
 | Rolled Wealth	| Skill and Knowledges									|
 |---------------|---------------------------------------------------------------------------------------|
-| 2		| Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge 1, Hobby 1, Perception 1, Pilot 1, Carousing 1 | 
+| 2		| Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge (Laws) 1, Hobby 1, Perception 1, Pilot 1, Carousing 1 | 
 | 3-5		| Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1 |
 | 6-8		| Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1 |
 | 9-11		| Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1, | 
 | 12		| Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1 |
 
-Character are limited in the number of skills points they can spend per level. They are limited by their INT characteristic for the total number of skill points available per level and they are limited by the Profession on the number of skill points that can be spent on a particular skill or knowledge (or specialisation). For professional skills, a +1 bonus costs 1 experience points, a +2 bonus costs 3 experience points, and a +3 bonus costs 6 experience points. For non-professional skills, the cost is double.
-
-> Allie Viate, the office clown and skilled administrator, has just advanced to 4th level. With their INT of 13, they receive 5 skills points. They spend 1 point for +1 on the three professional skills on Craft (Computing), Administration, Concentration. Based on a recent experience with a aggressive fishmonger armed with haddock, they decide they need +1 on melee, a non-professional skill, for 2 skills points.
+Character are limited in the number of skills points they can spend per level. They are limited by their INT characteristic for the total number of skill points available and they are limited by the Profession on the number of skill points that can be spent on a particular skill or knowledge (or specialisation). That limit is two for all Profession skills and knowledges and one for all other skills and knowledges.
 
 ### Strength Based Skills
 
-There are few Strength based skills, but they have a wide application. Strength-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Strength based skills, but they have a wide application. Strength-based skills have a default of -2 for the unskilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
 **Athletics (Strength)**
 
-An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculture. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints and hurdles.
+An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculature. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints and hurdles.
 
 **Athletics (stamina)**
 
-A Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, long distance running etc.
+An Athletics (stamina) skill check is made when a character is engaging in a event which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, long distance running etc.
 
 **Climb**
 
@@ -621,7 +587,7 @@ A Jump check is used when a player dictates that the character will attempt to l
 
 A Melee check when a character is attempting to hit something with the fists, or use any number of hand-based weapons, all of which can be used as optional specialisations as fighting styles (e.g., brawling, swords, axe and mace etc). The Melee check is contested against the defense of the opponent and the difference is used to determine the damage caused.
 
-> There are only a few combat skills in *Papers & Paychecks*. It's not that violent actions don't occur, they certainly do and they're dramatic enough in their own right. However the attention given to them as part of the game system is relatively reduced and proportional to their importance. 
+> There are only a few combat skills in *Papers & Paychecks*. It's not that violent actions don't occur, they certainly do and they're dramatic enough in their own right. However, the attention given to them as part of the game system is relatively reduced and proportional to their importance. 
 
 **Swim**
 
@@ -629,7 +595,7 @@ A Swim check is necessary each round that a character is in water, with a succes
 
 ### Intelligence Based Skills
 
-There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
+There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unskilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
 
 **Craft (Computing)**
 
@@ -641,7 +607,7 @@ A Craft (chemical) check is used when a character is mixing chemicals. In most c
 
 **Craft (pharmaceutical)**
 
-A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective doseages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
+A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective dosages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
 
 **Craft (writing)**
 
@@ -655,9 +621,9 @@ An Investigate skill check is used to apply forensics, discover clues, and engag
 
 **Knowledge (various)** 
 
-A Knowledge skill check is used against any critical application of a theoretical knowledge. Many other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
+A Knowledge skill check is used against any critical application of a theoretical knowledge. Many other skills consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
 
-> The character Seth is a post-graduate health scientist. Their player, with a truly impressive 7 skill points per level, spends 1 to increase the Knowledge (Science), a required specialisation, and 2 on the optional specialisations of biology and medicine i.e., Knowledge (Science, Biology), Knowledge (Science, Medicine), and 1 on medical practioners i.e., Knowledge (Science, Medics).
+> The character Seth is a post-graduate health scientist. Their player, with a truly impressive 7 skill points per level, spends 1 to increase the Knowledge (Science), a required specialisation, and 2 on the optional specialisations of biology and medicine i.e., Knowledge (Science, Biology), Knowledge (Science, Medicine), and 1 on medical practitioners i.e., Knowledge (Science, Medics).
 
 **Knowledge (Arts)** 
 
@@ -681,11 +647,11 @@ A Knowledge (General - specialisation) skill check is required whenever a charac
 
 **Language (various)**
 
-A Language (specialisation) skill check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there is dramatic reasons for the test, whether resulting from success or failure. A language is a required specialisation. Closely related languages will have a close default with each other.
+A Language (specialisation) skill check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there are dramatic reasons for the test, whether resulting from success or failure. A language is a required specialisation. Closely related languages will have a close default with each other.
 
 ### Wisdom Based Skills
 
-There are a few Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
+There are a few Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unskilled, existing in the middle of influence of natural ability and training.
 
 **Administration**
 
@@ -709,11 +675,11 @@ A Profession skill check is made to indicate how well a character satisfies the 
 
 **Survival**
 
-A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional  specialiations. In all cases, Survival includes first aid knowledge.
+A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavenging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional specialisations.
 
 ### Dexterity Based Skills
 
-There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training, except for the Craft skills which are at -6, as component knowledge is required.
+There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unskilled, existing in the middle of influence of natural ability and training, except for the Craft skills which are at -6, as component knowledge is required.
 
 **Craft (electronic)**
 
@@ -729,11 +695,11 @@ A Craft (structural) skill check is used when a character is producing various i
 
 **Craft (visual art)**
 
-A Craft (visual art) skill check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video, all of which can be taken as optional specialisations.
+A Craft (visual art) skill check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellery, sculpture, and video, all of which can be taken as optional specialisations.
 
 **Firearms**
 
-A Firearms skill check is used whenever a character uses a portable baralled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anarchronisms such as muskets and crossbows. 
+A Firearms skill check is used whenever a character uses a portable barrelled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anachronisms such as muskets and crossbows. 
 
 **Gymnastics**
 
@@ -749,7 +715,7 @@ A Pilot skill check is used when a character is operating a vehicle. Typically t
 
 **Ride**
 
-A Ride skill check is used when a character is operating an animal as a mount, or operating a human-powered vehicle (the "animal" is the driver). This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amount modern office-workers.
+A Ride skill check is used when a character is operating an animal as a mount. This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amount modern office-workers.
 
 **Sleight**
 
@@ -761,7 +727,7 @@ A Stealth skill check is used when a character is hiding, stalking, or shadowing
 
 ### Perception Based Skills
 
-There are few Perception based skills, but they have a wide application. Perception-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Perception based skills, but they have a wide application. Perception-based skills have a default of -2 for the unskilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
 **Insight**
 
@@ -773,7 +739,7 @@ A Sense skill check is made when a character applies their senses to make an eva
 
 ### Charisma Based Skills
 
-There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the natural ability of the character.
+There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of -2 for the unskilled, recognising that these skills are heavily influenced by the natural ability of the character.
 
 **Act**
 
@@ -799,17 +765,17 @@ A Lie skill check is an attempt to mislead whether by blather, emphasis, omissio
 
 > "Challenge, and not desire, lies at the heart of seduction.", Jean Baudrillard, *The Ecstasy of Communication*, 1987
 
-A Seduce skill check is made when a character wishes to lead another character astray (Latin: *seducere* "to lead astray"). This typically mean to persuade the other character to engage in sexual behaviour, but the same skill can be used for bribery or other dereliction of duty as seduction involves significant use of metaphor and enticement. 
+A Seduce skill check is made when a character wishes to lead another character astray (Latin: *seducere* "to lead astray"). This typically means to persuade the other character to engage in sexual behaviour, but the same skill can be used for bribery or other dereliction of duty as seduction involves significant use of metaphor and enticement. 
 
 ## 1.7 Perks
 
 **Apprentice**
 
-With the Apprentice perk, a character has assigned to them a 1st level character of the same profession, sometimes referred to as "archaic" by archiac speakers. The Apprentice will be mostly loyal and mostly enthusiastic, carrying out the tasks allocated to them by the main character. Each time the Apprentice advances a level, a check with a target number of 11 is required, adding the character's CHA modifier. If failed, the Apprentice has spread their wings and found a new employer.
+With the Apprentice perk, a character has assigned to them a 1st level character of the same profession, sometimes referred to as "archaic" by archaic speakers. The Apprentice will be mostly loyal and mostly enthusiastic, carrying out the tasks allocated to them by the main character. Each time the Apprentice advances a level, a check with a target number of 11 is required, adding the character's CHA modifier. If failed, the Apprentice has spread their wings and found a new employer.
 
 **Augury**
 
-With the Augury perk a character can seemingly predict the future. In reality it is the result of carefuly research, planning, and insight. After a successful strategic research check a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
+With the Augury perk a character can seemingly predict the future. In reality, it is the result of careful research, planning, and insight. After a successful strategic research check, a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
 
 **Bureaucratic Dodge**
 
@@ -834,6 +800,7 @@ By spending two strategic turns researching a particular topic a character may g
 The Department Manager enables the character to have CHA+Level-3 *teams* assigned to them, in the same manner as the Team Leader. Each team provides an extra 10% bonus to the base pay.
 
 > What? Did you seriously expect that you'd become the head of the company? Ha! You work for the man for forty years of your life and you'll get to be Vice-President. No further.
+
 
 **Ego Whip**
 
@@ -861,11 +828,11 @@ The File system Knowledge perk provide the character the physical and virtual or
 
 **Laboratory Equipment**
 
-The Laboratory Equipmemt perk enables the character to have access to appropriate specialist equipment, such as Bunsen burners, microscopes, laboratory glassware, autoclaves, chemical (especially reagents) and biological safety cabinets. Some skills, such as Craft (chemical) and Craft (pharmaceutical), are not possible without access to a laboratory.
+The Laboratory Equipment perk enables the character to have access to appropriate specialist equipment, such as Bunsen burners, microscopes, laboratory glassware, autoclaves, chemical (especially reagents) and biological safety cabinets. Some skills, such as Craft (chemical) and Craft (pharmaceutical), are not possible without access to a laboratory.
 
 **Library Access**
 
-Acquiring public library access is something that everyone can do; but the Library Access perk is a collection of unusual rights, that provides for a wider scale of information, restricted borrowings, and additional assistance from library staff. The Library Access perk provide an additional +2 bonus to research and other information gathering tasks when the character uses a library. 
+Acquiring public library access is something that everyone can do; but the Library Access perk is a collection of unusual rights, that provides for a wider scale of information, restricted borrowings, and additional assistance from library staff. The Library Access perk provides an additional +2 bonus to research and other information gathering tasks when the character uses a library. 
 
 **Magic Missile**
 
@@ -913,11 +880,11 @@ The Team Leader perk enables the character to have CHA+Level-3 other characters 
 
 **Tower of Iron Will**
 
-With the Tower of Iron Will perk, the character ignores an uncomfortable reality through sheer willpower alone, and can ignore the effects of any wound for a period of time, as long as they make a WIS check with a target number of 11. Reality however has a harsh way of reasserting itself and the wound will take effect after two tactical turns for physical wounds, or a strategic turn for mental and social wounds.
+With the Tower of Iron Will perk, the character ignores an uncomfortable reality through sheer willpower alone, and can ignore the effects of any wound for a period of time, as long as they make a WIS check with a target number of 11. Reality, however, has a harsh way of reasserting itself and the wound will take effect after two tactical turns for physical wounds, or a strategic turn for mental and social wounds.
 
 **Union Membership**
 
-Union membership is an important perk which equalises the labour market which is usually in favour of employers (many employees, fewer employers). This perk however represents membership of a strong union, and thus whilst many characters in *Papers & Paychecks* can get union membership (or some sort of professional association) the benefits become evident at different levels, according to profession. Union membership provides a 10% bonus to a character's wage, and a reduction in social damage attacks by co-workers (including managers) by 25%.
+Union membership is an important perk which equalises the labour market which is usually in favour of employers (many employees, fewer employers). This perk, however, represents membership of a strong union, and thus whilst many characters in *Papers & Paychecks* can get union membership (or some sort of professional association) the benefits become evident at different levels, according to profession. Union membership provides a 10% bonus to a character's wage, and a reduction in social damage attacks by co-workers (including managers) by 25%.
 
 ## 1.8 Personality
 
@@ -930,7 +897,7 @@ Whilst the player is given a choice about the personality values of their Type, 
 
 **Favorite world: Extraversion/Introversion**
 
-Extraversion and Introversion are preferences in MBTI, which may not map to actual activities. In a general sense, Extraverted characters are outward-focussed by preference, whereas Intraverted characters are inward-focussed by preference. This does not mean that extraverted characters necessarily prefer action to thought (or vice-versa for introverts), but rather their actions have different reasons; the extravert will think in order to engage with the extrernal world, the introvert will act in order to engage with their inner world. 
+Extraversion and Introversion are preferences in MBTI, which may not map to actual activities. In a general sense, Extraverted characters are outward-focussed by preference, whereas Intraverted characters are inward-focussed by preference. This does not mean that extraverted characters necessarily prefer action to thought (or vice-versa for introverts), but rather their actions have different reasons; the extravert will think in order to engage with the external world, the introvert will act in order to engage with their inner world. 
 
 Socially, extraverted characters are often engaged in the company of others, and are energised by social interactions, especially with a wide variety of individuals and ideas. Introverted characters prefer smaller close-knit groups, or even their own company. This should not be confused with social anxiety issues; an extraverted character could suffer from stage fright, just as an introverted person could be perfectly fine with other people; they would just *prefer* to bury their nose in a book.
 
@@ -1004,6 +971,7 @@ The Boss should show interest in how players use these results as it represents 
 > Boss: Drops mic, eh?
 > 
 > Rodney: *nods* Drops mic.
+
 
 # 2.0 Actions and The Environment
 
@@ -1079,7 +1047,6 @@ The purpose of combat is to hurt someone; except you can get hurt as well.
 -- all out damage reduction, -1x damage, but no attack 
 -- retreat
 
-
 **Bully**
 
 A successful Bully check, contested by an opponent's Wisdom check, persuades another character to attempt to behave in a certain way by use of real or implied threats. The ability to Bully is significantly altered by the quantity of people that the attempt is applied against (individuals in a group get their own check and a bonus for being part of a group), the demanded action, and the position of the attacker. An interesting aspect of the Bully skill is that whilst it is tactical, the effects are strategic and ablative; an additional Wisdom check, at +1 per strategic turn of work, is allowed, until the bullied target succeed. A single check is made for the number of consective standard actions taken on a Bully check.
@@ -1107,6 +1074,7 @@ Bully in a position to use or threaten violence +4
 **Brawl**
 
 Brawl is a context combat skill. When a character announces a Brawl in almost all cases they are attempting to apply physical violence to their opponent. When a character carries out a Brawl attack, the defender may react and defend themselves also with a Brawl check. The difference between the two values equals the amount of damage caused, modified by the weapon. 
+
 
 **Climb**
 
@@ -1150,14 +1118,15 @@ If the equipment is availble, a character may attempt to improve the surface the
 
 The difficulty of a Computing check depends on the activity being carried out.
 
-| Target Number	| Example	|
-|---------------|---------------|
-| 7 		| Use a word processor effectively, use simple commands, attach a peripheral.	|
-| 9 		| Basic use of spreadsheet, simple use of a database, use options to commands, insert a internal card. |
-| 11 		| Apply simple formulae in a spreadsheet or database, write a simple script, use complex commands, compile a simple program, troubleshoot a failed network connection, bypass an insecure computer system |
-| 13 		| Write a complex spreadsheet or database query, write a complex script, compile a program with depedencies, network an office and peripherals, build a PC from components, determine basic security flaws in an unpatched operating system. | 
-| 15 		| Exploit basic security flaws, identity complex security flaws | 
-| 17		| Exploit complex security flaws	|
+
+Very easy	5 Use a word processor effectively, use simple commands, attach a peripheral,
+Easy	7 Basic use of spreadsheet, simple use of a database, use options to commands, insert a internal card
+Average	9 Apply simple formulae in a spreadsheet or database, write a simple script, use complex commands, compile a simple program, troubleshoot a failed network connection, bypass an insecure computer system
+Tough	11 Write a complex spreadsheet or database query, write a complex script, compile a program with depedencies, network an office and peripherals, build a PC from components, determine basic security flaws in an unpatched operating system. 
+Challenging	13 exploit basic security flaws, identity complex security flaws 
+Formidable 	15 exploit complex security flaws
+Heroic	17 
+Nearly impossible	19
 
 The number of standard actions taken to carry out an activity very much depends on the scale and complexity of the task. For example, finding a file or keyphrase in a collection of files is either very easy or easy, and will remain of that difficulty regardless of the scale; it is the time that may be of an issue. Conducting such a search on a personal computer (laptop or desktop) will take 3 standard actions, on a small office network of it would take several standard actions, for a large corporate network anywhere up to 1000 standard actions or more. Note however that just a single roll is required; the time taken is the processsing of the search; assume two standard actions to type the command, and then one standard action per personal directory for the processing of a command.
 
@@ -1184,9 +1153,9 @@ This table and description can also be used for characters who find themselves i
 
 **Lie**
 
-> "He offered alternative facts"   
-> Kellyanne Conway denies Trump press secretary lied   
-> https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternative-facts-lies
+"He offered alternative facts"
+Kellyanne Conway denies Trump press secretary lied
+https://www.theguardian.com/commentisfree/2017/jan/23/kellyanne-conway-alternative-facts-lies
 
 A character must make a Lie check each round each time that they tell another character something that they know is untrue, or they withhold information which they believe is pertinent. The ability of a character to tell a lie depends on the plausibility of the lie (often subjective to the target) and the target's gullibility. Lying is a contested skill, against the target's Insight, however this skill begins with a -4 penalty. A handful of people have the perceptive ability to truly pick up on the unconscious nonverbal communication (kinesics) when one is being told a lie. This ability is incorporated into the Perception score. Cleverly applied, a lie can a very powerful tool in physical, social, or mental combat.
 
@@ -1369,7 +1338,7 @@ In *Papers & Paychecks* equipment is purchased with cash, rather like a traditio
 
 **Technological Development**
 
-*Papers & Paychecks* is firmly set in the advanced industrial period, anywhere from around 1970 onwards. The game is designed to cover the development of a character from their first years in a job until retirement - around a fifty year period. Giving some leeway in the starting year of a *Papers and Paychecks* saga, the starting year should be anywhere from 1980 to 2000 and retirement from 2030 to 2050. This is, as we know, a a period of significant technological change and as a result the equipment examples also must accurately represent those changes.
+*Papers & Paychecks* is firmly set in the advanced industrial period, anywhere from around 1970 onwards. The game is designed to cover the development of a character from their first years in a job until retirement - around a fifty year period. Giving some leeway in the starting year of a *Papers and Paychecks* saga, the starting year should be anywhere from 1970 to 2000 and retirement from 2020 to 2050. This is, as we know, a a period of significant technological change and as a result the equipment examples also must accurately represent those changes.
 
 Where appropriate various items of equipment are provided with reference to their time of general introduction to the consumer market and future developments from that point. Some of this is inevitably speculative, as if even this designer cannot predict the future with the required level of accuracy. Where the description of equipment in the game conflicts with reality, reality wins and The Boss should modify appropriately. The game avoids abstract methods of technological developments in favour of concrete examples.
 
@@ -1395,178 +1364,34 @@ One matter which is screened out of the game is general household costs, utiliti
 | 9-11		| $800	| Above average. Large mortgaged suburban house or large townhouse, excess of modern utilities, never short of necessities, high quality food, drinks, and excellent meals etc | 
 | 12		| $1300	| Very rich. Very large owned multistory suburban house or large inner-city townhouse, latest in utilities, the best quality in foods, drinks, and exceptional meals  |
 
+**Hobby Equipment**
+
+For whatever Hobby skill a character has taken there is a set of tools, equipment, or even animals appropriate to the hobby which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
+
 **Armour**
 
-*Leather Jacket*: For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
+For the fashion conscious there is no going past the traditional leather jacket, with comes with a varying cost, Encumbrance, defense value, and Carousing value which has fascinatingly inverted values. A *stylish* jacket will have a cost of $400, a +1 bonus to Carousing, a ENC value of 1. A *protective* jacket will cost $200, has an ENC value of 2, and will reduce damage by 2 points. A jacket that is *stylish* and *protetcive* costs $600, provides a +1 to Carousing, reduces damage by 2 points, and has an ENC value of 2. A faux leather jacket costs $100, and has an ENC value of 1. If a perception check by other characters (target number 11) is *failed* it will provide a +1 Carousing bonus. If they succeed, it will have a -1 penalty - these values are reversed when the other members of the social circle are animal liberationists of various stripes.
 
-*Fire Proximity Suit and Hazmat*: Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 5 points of physical armour protection and 5 points of fire damage reduction.
+Occassionally a PC Worker may find themselves in need of specialist clothing for full-body protection such as a Fire Proximity Suit or Hazmat Suit, although it would be a particularly cruel Boss that makes such items required for a scenario (i.e., ensure that this happens at least a few times). There are several types of Hazmat suit of which the FPS is the most common. All have an ENC value of 3, which provides full body protection. A FPS will protect from 5-15 points of fire hand heat damage with a price of $500 to $1500, proportional on the degree of proetction. Hazmat suits protect against chemical, nuclear, or biological agents and will include respirators. Typical cost is $300 for simple coveralls against most chemical protection (no damage reduction, only 2 ENC) up to $2000 for a fully enclosed NBC suit with internal oxygen supply which provides 3 points of physical armour protection and 5 points of fire damage reduction.
 
-*Bullet Proof Armour* There is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 2, 4, or 8 points of armour or double that (4, 8, or 16 points) if protecting against firearms. A bullet will still hurt (a lot) but the character will *probably* not be dead. This body armour costs $200, $400, or $800, respectively and the third level is only available after 1985. A fourth level of body armour, made from spider-goats is available from 2030 onwards. It has an ENC of 2 and protects for 16 points against all forms of attack. It costs $1200. 
+Finally there is various forms of armour designed against bullets. It is rare, but not unknown, for characters in *Papers & Paychecks* to require these. These come in values of 1, 2, or 3 ENC and each level protects for 1, 3, or 5 points or armour respectively, plus converts 4, 8, or 16 points of penetrating bullet damage to flat crushing damage. A bullet will still hurt (a lot) but the character will *probably* not be dead. Armour cost is $200, $400, or $800.
 
-**Clothing**
-
-A character's Standard of Living provides appropriate clothes to their standard for home life, and acceptable clothes for the workplace. There are however, special clothes which provide bonues to various skills. These include:
-
-*Actor's Wardrobe*: To the untrained eye, an actor's wardrobe is just a hodge-podge of various garments that look like they have come from an opportunity shop. In reality this is a carefully selected range which allows for bonuses to the Act skill through disguise. The wardrobe consist of a collection of a dozen outfits with an ENC of 1 each and makeup, for a bonus of +1 to Acting and a cost of $200. A larger wardrobe and makeup kit will cost $300 for a bonus of +2.
-
-*Party Outfit*: A fashionable set of clothes that is an absolute knockout at social gatherings regardless of social setting. Each outfit weights 1 ENC. An outfit that provides +1 to Carousing will cost $100, one that provides +2 to Carousing will cost $200, and one that provides +3 to Carousing will cost $400. A provocative version provides the same bonus and same cost for the Seduction skill. 
-
-*Workplace Outfit*: Favoured among managers and those who wish to protect themselves from managers, this power suit can be used to either Bully or Lie. All power suits weights 1 ENC. A suit that adds +1 to either Bully or Inspire, as desired by the character, will cost $200. If the suit provides a +2 bonus to either of the skills, it will cost $400, and if it provides +3, the suit will cost $800.
-
-*Orator's Attire*: Unlike the power suit, the Orator's Attire is more designed to be inviting and put people at ease. Each suit weights 1 ENC. An outfit that provides +1 to Inspire will cost $200, one that provides +2 to will cost $300, and one that provides +3 will cost $400.
-
-**Communications and Electronics Equipment**
-
-Communications and electronic equipment is various much dependent on technological developments. Over time many of their functions merge into single hand-held devices.
-
-*Camera*: A camera captures still or moving images on either photographic film or electronic sensor. Early cameras use photographic film, whereas more modern versions use digital medium, which has an advantage of improved storage medium. All cameras use the Craft (Visual Art) skill for the production of the art, and Craft (mechanical) or Craft (electronic) for construction, modification, and repairs. Cameras can be generally described as cheap, average, or expensive. Cheap cameras are easy to use (+2 to Visual Art skill), but are capped with a maximum result of 14. Average cameras have no modification to use, but are capped in with a maximum result of 18. Expensive cameras are difficult to use (-2 to Visual Art skill), but have no maximum result cap. All still cameras have a ENC of 1, and cost $100 (cheap), $200 (average), or $400 (expensive). Video cameras have an ENC of 2, and cost $300, $600, and $1200 respectively.
-
-*Mobile Phone, 1980*: From the 1980s to around 1995 mobile phones were oversized, expensive, and with very limited battery life. They have an ENC of 2, and cost $5000, and have approximately an one hour talk time (and a ten hour recharge). They were most common in Scandanavia and Japan.
-
-*Mobile Phone, 1990*: In the 1990s the adoption of the 2G GSM network, improved battery technology, and better components reduces the ENC of a mobile phone to 1, the cost to $1000, and increases the talk time to three hours with a five hour recharge.
-
-*Mobile Phone, 2000*: In the 2000s, using a 3G network, mobile phones are increasingly feature-rich with limited Internet access. By this stage they have an effective ENC of 0, the cost is down to $500, talk time is increased to five hours with a five hour recharge. 
-
-*Mobile Phone, 2010*: In the 2010s, using the 4G WiMAX standard, mobile phones have fully integrated Internet access. Mobile phones of this era also incorporate a cheap camera and radio as standard. ENC of 0, cost $500, talk time is increased to fifteen hours with a two hour recharge.
-
-*Mobile Phone, 2020*: In the 2010s, using the 5G, mobile phones have fully integrated Internet access, an expensive camera, radio, and all the computational capacity of a 2010 desktop computer. ENC of 0, cost $500, talk time is increased to twenty-five hours with a one hour recharge.
-
-*Mobile Phone, 2030*: In the 2020s, using the 6G WiMAX standard, mobile phones have fully integrated Internet access, expensive camera, radio, and the all the computation capacity of a 2020 desktop computer. ENC of 0, cost $500, talk time is increased to fifty hours with a one hour recharge.
-
-*Radio*: A 1970s-2000s portable radio allows for reception of broadcast signals either on various broadcasting transmissions (AM, FM, Shortwave). They have an ENC of 0-2, and cost from $10 to $500 depending on the quality of the system. More expensive systems are have a greater sensitivity to broadcasts, and a longer lifespan. After the 2000s radios are almost universally incorporated into mobile phones.
-
-*Walkie-Talkie*: Also known as a handheld radio transceiver, this is effectively an inexpensive, limited range, mobile phone. Typical range is around 50km, with a variety of channels of frequency transmission and reception. Effective ENC is 0, cost is $100 for a pair. 
 
 **Computer Equipment**
 
-> The Computer is happy. The Computer is crazy. The Computer will help you become happy. This will drive you crazy.
-> *Paranoia*, 1984
+**Communications Equipment**
 
-For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliyt and cost. 
 
-Portable systems (laptops, tablets) are available from 1990 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC. Portable systems do not have printer peripherals and use an LCD screen.
 
-For mainframe systems (1980 to 1995) assume specifications 5 years ahead of the desktop (i.e., 1980 mainframe will use a 1985 desktop specifications), and will cost ten times as much and 50 ENC. For a cluster computer system (1995 onwards), simply multiply the number of desktop systems that make up the cluster, add extra systems to represents login or management nodes, and double the cost to represent high-speed interconnect (about double the standard), and external storage arrays. For cloud systmes (2005 onwards), simply assume multiple virtual systems are available with a small overhead.
 
-Operating computer systems is either by the command line, GUI (graphic user interface), or voice activation. Each of these has a variation in difficulty noted in the text (which also represents operating system development), and speed. Voice activation is the slowest and easiest, requiring twice as long as GUI usage, which in turn takes twice as long as the command line interface. Real hackers use the command line. 
-
-See the section for Computing under 2.3 Tactical Task Resolution, and the Intelligence-based skill, Craft (Computing) under 1.6 Skills and Knowledges for use.
-
-*1980 Desktop*. CRT (Cathode Ray Tube) screen, a dot matrix or daisywheel printer, 64KB of RAM, tape or disk drive, 8 bit procesor of 2-3 MHz. Network via acoustic coupler or 300 baud modem. Computer operations are based on a command-line interface -2 to skill roll, 5 ENC, $2000.
-
-*1985 Desktop*. CRT screen with colour, a dot matrix or daisywheel printer, 512KB of RAM, disk and 10 MB hard drive, 16 bit processor of 10MHz. Network via 10BASE5 coaxial ethernet and 1200 baud modem. Computer operations are based on a command-line interface -1 to skill rolls, 5 ENC, $2000.
-
-*1990 Desktop*. CRT screen with advanced colours or LCD (Liquid Crystal Display) in black and white, fast dot matrix or heavy laser printer (+2 ENC), 4 MB of RAM, disk and 40MB hard drive, 16 bit processor of 25 MHz. Network via 10BASE-T ethernet and 9600 baud modem. Computer operations are based on a command-line interface with additional graphics +0 to skill rolls, 5 ENC, $2000.
-
-*1995 Desktop*. CRT screen with advanced colours or LCD screen with basic colours, fast dot matrix or heavy laser printer (+2 ENC), 8 MB RAM, disk, CD drive, and 1GB hard drive, 32 bit processor of 120 MHz. Network via 100BASE-T ethernet and 28.8k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
-
-*2000* Desktop*. CRT screen with high resolution or LCD screen, laser printer (+1 ENC), 16 MB RAM, disk, CD drive, and 10 GB hard drive, 32 bit 800 MHz processor. Network via 100BASE-T ethernet and 56k modem. Internet connectivity. Computer operations are based on graphics user interface with +1 to skill rolls, 5 ENC, $2000.
-
-*2005* Desktop*. LCD screen, laser printer (+1 ENC), 1GB RAM, DVD drive, 500 GB hard drive, 32 bit multicore processors of 2.5 GHz. Network via 1 Gb ethernet, 56k modem, and wireless. Internet connectivity. Computer operations are based on a graphics user interface +2 to skill rolls, 5 ENC, $2000.
-
-*2010* Desktop*. LCD screen, laser printer (+1 ENC), 8GB RAM, DVD drive, 1 TB hard drive, 64 bit multicore multiprocessor processors of 2.5 GHz. Network via 1 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
-
-*2015* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 16GB RAM, DVD drive, 4 TB hard drive, 64 bit multicore multiprocessor processors of 2.5 GHz. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphic user interface +2 to skill rolls, 5 ENC, $2000.
-
-*2020* Desktop*. LCD screen, laser printer and scanner (+1 ENC), 32GB RAM, Blu-ray drive, 10 TB hard drive, 64 bit multicore multiprocessors of 2.5 GHz with GPGPUs. Network via 10 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
-
-*2025* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer and scanner (+1 ENC), 64GB RAM, Ultra-HD drive, 40 TB hard drive, 64 bit multicore multi processors of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on a graphics and voice activation +2 to skill rolls, 5 ENC, $2000.
-
-*2030* Desktop*. OLED (Organic Light Emitting Device) screen, laser printer (+1 ENC), 128GB RAM, Ultra-HD drive, 400 TB hard drive, 128 bit multicore multi processors of 2.5 GHz with GPGPUs. Network via 100 Gb ethernet and wireless. Internet connectivity. Computer operations are based on voice activation +3 to skill rolls, 5 ENC, $2000.
-
-**Firearms**
-
-Many roleplaying games in a modern or futuristic setting provide a very long list of firearms, with specific models, bullet sizes, rate-of-fire, range, damage decrements with range, recoil, snap-shot numbers etc. This might be appropriate for a game that is centered on gun combat, and it often extraordinary to see such lists when the game is *not* centered on such activities. *Papers & Paychecks* is *not* a game centered on gun combat. It does happen *sometimes* and because it represents a mortal threat to the characters it is important, but the list significantly reduced in detail and quanity. With this in mind, the following firearms are offered: crossbow, handgun, submachine gun, assault rifle, and sniper rifle. 
-
-Due to various technological improvements and targetting systems, each firearm receives a +1 bonus to skill use every ten years i.e., +0 to the firearms skill at 1975, +1 at 1985, +2 at 1995, +3 at 2005, +4 at 2015, +5 at 2025, +6 at 2035, to a truly frightening +7 at 2045. If a firearm is denoted as semi-automatic, it can fire three bullets per action at -1 to the skill roll. If the firearm is capable of burst fire, it can fire five rounds, at -2 to hit for five rounds, per action. In addition, in burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m seperation between the targets.
-
-Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict'. Characters receive a bonus of +2 up to their PER skill in meters, and -2 from the listed range to double that value.
-
-*Crossbow*: Less of a combat weapon and more of a hobby, the crossbow is a late medieval weapon that is still available as an exotic device. Relatively silent compared to guns. Requires a reloading action after each round. $200, 2 ENC, 1x damage, range 50m.
-
-*Handgun*: A standard side-arm for law enforcement officers, sporting enthusiasts, and criminals alike with a medium range. Can fire single-shot, or semi-automatic per action. Requires a reloading action 10 rounds. $100, 1 ENC, 3x damage, range 50m. 
-
-*Submachine Gun*: A short-barelled machine gun with limited range but a rapid rate of fire. Can fire single-shot, semi-automatic, or burst. Requires a reloading action after 20 rounds. $300, 2 ENC, 3x damage, range 50m.
-
-*Assault Rifle*: A long-barelled rifle with medium range and a rapid rate of fire. Can fire single-shot, semi-automatic, or burst each eaction. Requires a reloading action after 30 rounds. $400, 3 ENC, 4x damage, range 100m.
-
-*Rifle*. A long-barelled rifle with long range and a low rate of fire. Can fire single-shot. Requires a reloading action after 10 rounds. $500, 3 ENC, 4x damage, range 250m.
-
-**Melee Weapons**
-
-The comments made on firearms, above, also apply for melee weapons. *Papers & Paychecks* is not a combat-heavy game, at least not in most cases. Nevertheless there are a few situations where weapons of various might be used. 
-
-*Improvised*: Improvished crushing weapons include a half-brick, a thrown rock (using melee skill, up to STR metres in base range), a sturdy chunk of wood, a chair, or similar. Because they are not designed to be used in combat melee attacks with such weapons are at -2. A one-handed improvised weapon has an ENC of 1 and causes 1x damage. A two-handed improvised weapon has an ENC of 2 and causes 2x damage.
-
-> Michael J. "Crocodile" Dundee: That's not a knife. That's a knife.`
-> Paul Hogan, Crocodile Dundee, 1986
-
-*Knife*: A small knife has an effective ENC of 0, and does 1x damage and can be thrown up to STR metres in base range. A large knife is the sort used for gutting fish, hacking away through very big steaks and the like. It has an ENC of 1 and does 2x damage. 
-
-*Club*: Often found in the form of sporting equipment, like a cricket or baseball bat, this one or two-handed weapon has an ENC of 2, and does 1x damage (one-handed) or 2x damage (two-handed).
-
-*Axe*: In the one-handed hatched variety which can be used as a melee weapon and which can also be thrown up to STR meters in range, an axe has an ENC of 1 and does 2x damage. As a two-handed weapon it has a modifier of -1 to use, due to being unbalanced, an ENC of 2, and does 3x damage.
-
-*Sword*: Possibly the rarest of weapons encountered in *Papers & Paychecks* it is plausible that a character may encounter a fencing sword, or, if they are at a museum or expensive hotel, an arming sword. A fencing sword is particularly well balanced weapon and is +2 to the melee skill to use, has an ENC of 1, and causes 2x damage. An arming sword has a +1 bonus to use, an ENC of 2, and causes 3x damage.
-
-**Outdoor Equipment**
-
-Sometimes characters have to go outside into "The Big Room". You know, the room that connects all the other rooms together, the one with the bright yellow light and blue or grey ceiling during work hours and with the ambient lights during sleeping time. There are rare and curious situations when workers are scurried away to holiday camps in rural areas for a "corporate retreat" or a similar team-building exercise. The following items of equipment are the small selection for such adventures.
-
-*Camping Basics*: Rather than listing each item individually, this is a backpack of outdoor survival equipment which a sensible person would take with them (test with WIS + Survival with a +4 bonus to remember). It includes a compass, a cooking stove and pot, knife and fork, firestarters, local maps, powerful torch, hand shovel, and a roll of toilet paper. $100, ENC 3
-
-*First Aid Kit*: Also found in sensible workplaces, a first aid kt consists of an instruction booklet, supply of band-aids, gause dressings, eye dressings, various bandages, sterile gloves, tweezers, cleansing wipes, antiseptic spray or cream, mild painkillers, distilled water, emergency rescue blanket, instant ice-pack, scissors, etc). $100, ENC 2
-
-*Sleeping Bag and Bedroll*: Insulated bedding equipment with zippers for retaining heat, water repellent exterior, and sleeping mat. Price depends on quality. Protection from the elements has improved over time, +1 to Survival rolls from 1975-1995, +2 from 1996-2020, +3 from 2021 onwards. $50-$150 ENC 2
-
-*Two-Person Tent*: The modern camping tent consist of a lightweight waterproof fabric, frame, and tarpaulin. As with sleeping bags, price depends on quality, and provides bonuses like bonus Survival rolls according to time (i.e., +1 from 1975-1995, +2 from 1996-2020, +3 from 2021 onwards) due to material and construction improvements. $200-$800, ENC 3.
-
-**Professional Equipment**
-
-For whatever Professional skill a character has taken there is a set of tools, equipment, or even animals appropriate to the profession which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
-
-**Vehicles**
-
-*Bicycle*: A two-wheeled, human-pedal-powered, vehicle which includes pneumatic tires, chain-driven sprockets and tension-spoked wheels. Whilst specialist versions exist for particular environments (racer, road bike, hybrid, mountain bike), which can be elaborated at the Boss's desire, the statistics here assume a hybrid bike. The *ride* skill is used for using a bike, but they're mostly fairly easy to operate. Technological and material developments mean that bicycles have +1 ENC and -2 Move from 1975-1995, +0 ENC and +0 Move from 1996-2020, and -1 ENC and +2 Move from 2021 onwards. The Movement rate for a bicycle is twice the character's STR. Bicycles have enormous variation in cost and quality, ranging from $100 to $3000, with an ENC of 10.
-
-*Economy Car*: A variety of small, cars, including the two-door microcars, hatchbacks, and city-cars. Can fit two people with some comfort and four with somewhat less. Includes a small luggage area. Prior to 1985 an economy car will manage 8km/litre of fuel, from 1985 to 2005 it will manage 12km/litre, from 2006 to 2025 it will do 16km/litre, and after that electric cars will be in use. The maximum speed of an economy car is 150kmph (c40m per second), will weigh 750kg, and has a fuel tank capacity of 50 litres. Cost $5000-$15000
-
-*Sedan*: The standard mid-sized car, known as a Saloon in the United Kingdom, and also including station-wagons in this context. Easily fits four people and with extensive luggage area. Prior to 1985 an sedan will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9km/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an sedan is 200kmph (c55m per second), will weigh 1200kg, and has a fuel tank capacity of 75 litres. Cost $7500-$25000
-
-*Luxury Car*: A mid-sized car, but designed for comfort, additional functionality, and quality in design. Statistics are generally as of the standard sedan, but with everything smoother, quieter, and more luxurious. Cost $55000-$250000 and upwards.
-
-*Sports Car*: A streamlined, low-profile, two-person vehicle designed for speed and maneuverability. Minimal luggaage area. Prior to 1985 a sports car will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9km/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an economy car is 300kmph (c80m per second), will weigh 750kg, and has a fuel tank capacity of 50 litres. Cost $55000-$250000 and upwards.
-
-*Off-Road Car*: A larger, four to six-person vehicle designed off-road usage with an optional four-wheel drive, which is more difficult to use (-2 to Pilot (Ground Vehicle), but allows access to road areas that no other car can manage. Comes with a significant luggage area. Prior to 1985 an off-road car will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9m/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an off-road car is 150kmph (c40m per second), will weigh 1200kg, and has a fuel tank capacity of 75 litres. Cost $7500-$25000 and upwards.
-
-*Utility/Van/Minibus*: A large vehicle designed for the transport of goods (van, utility) or people (people) with a maximum capacity of 16 people or equivalent luggage. Prior to 1985 a utility/van/minibus will manage 6km/litre of fuel, from 1985 to 2005 it will manage 9km/litre, from 2006 to 2025 it will do 12km/litre, and after that electric cars will be in use. The maximum speed of an utility/van/minibus car is 150kmph (c40m per second), will weigh 1500kg, and has a fuel tank capacity of 75 litres. Cost Cost $10000-$50000.
-
-*Truck/Bus*: A large vehicle designed for the transport of goods (truck) or people (bus) with a maximum capacity of 80 people or equivalent luggage. Prior to 1985 a truck/bus will manage 4km/litre of fuel, from 1985 to 2005 it will manage 6km/litre, from 2006 to 2025 it will do 9km/litre, and after that electric cars will be in use. The maximum speed of an truck/bus car is 150kmph (c40m per second), will weigh 4500kg, and has a fuel tank capacity of 70 litres. Cost Cost $30000-$150000.
 
 ## 2.7 Special Equipment
 
-Normal equipment gives expected functionality and benefits, often with game system abstractions that match normal expectations of the equipment in question. "Special equipment" provides benefits that outside of this range. As a result they are incredible rare and expensive and should be treated like exotic 'magic items'. Why is this so? Because they *are* actually characters, like the "Monsters" in section 3.8, sapient spirits entrapped in prosaic items, although they are quite powerful in comparison and unlike the 'monsters', they are not directly malicious towards humans but rather are exasperated by their their moral failings and will frustrate such plans. 
+**Charles Atlas Manual of Bodily Strength**
 
-As a result, special equipment has intellectual characteristics and psychological dispositions, and will whisper suggestions in the minds of their holders. They also have critical triggers when characters ignore these warnings, at which point they will seek to take control of the trangressor using psychic combat and possess the character. They surprisingly respect character integrity however, and this is short-term and will release their control once the dangerous period is over. 
+"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. If a character misses a strategic turn they lose two day's value and will lose musculture if they do not. The Manual of Bodily Strength has an ENC of 1 and costs $2000.
 
-**Armani Suit of Integrity**
-
-INT 18 (+4), WIS 22 (+6), CHA 26 (+8), E+3 N+2 F+4 P+2 (Champion)
-
-At first sight this appears to be a rather scintillating version of Orator's Attire (2.6, clothing), indeed, it does provide a +3 to Inspire. In addition however it provides an automatical Intellect Fortress (1.7, perks) without the spoken invocation simply by being in the presence of one so attired. It also provides +2 CHA to the wearer. However, the Suit of Integrity is also determined that the wearer lives up to their inspiring charisma as will make suggestions of honesty to the wearer. It will attempt a psychological attack against the wearer if they lie outright, and will darken when the character attempt to weasel their way out of a situation by being not-quite-honest. ENC 1, costs $4000
-
-> Miranda: Ummm that was incredible. Was it good for you?   
-Fletcher: I've had better.   
-*Liar, Liar* (1997)
-
-**Charles Atlas Manual of Bodily Strength, Annotated**
-
-"The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. The Manual of Bodily Strength has an ENC of 1 and costs $4000.
-
-**Little Black Cocktail Dress**
-
-
-**Knuth's The Art of Computing Programming, Annotated**
+**Knuth's The Art of Computing Programming**
 
 > *On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right 
 answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*  
@@ -1583,13 +1408,10 @@ The capacity of alcoholic drinks to provide sociability is well known and presen
 
 **Ring of The Significant Other**
 
-> *Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*    
-Ambrose Bierce, *The Devil's Dictionary*, 1967.
+> *Marriage, n. A community consisting of a master, a mistress, and two slaves, making in all, two.*
+> Ambrose Bierce, *The Devil's Dictionary*, 1967.
 
-Ring 1: E+2 S+5 F+4 J+2	(Provider)
-Ring 2: I+2 S+5 F+4 J+2 (Protector)
-
-This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. In most cases the wearing of a marriage ring will receive a +2 bonus against Seduction attempts made against them. However, a Ring of Significant Other is *also* sapient paired device where the two devices are in a quantum entangled communication with each other. A Ring of Significant Other will be able to provide warnings to one wearer of the state of the other wearer, providing a sort of limited telepathy between the two wearers that is at the will of the two rings whose personality (provider and protector) they will seek to encourage. A Ring of Significant Other will also prevent the wearer via psychic attack from causing harm to the other wearer, including (and especially) acts of unapproved infidelity, and issue a warning via the second ring. A ring of Significant Other costs $10000+ each.
+This pair of rings are exchanged between significant others in the public ritual of marriage. In the establishment of this relationship certain contractual obligations are entered into depending on the jurisdiction. Characters wearing a Ring of Significant Other will receive a +2 bonus against Seduction attempts made against them. A ring of Significant Other costs $2000 each.
 
 # 3.0 Non-Player Characters
 
@@ -1597,8 +1419,8 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  15 	|  +2	     | Profession	  | Techician, Labourer |
-| Intelligence	    |   8	|  -1	     | Level	          | 1, 2	 |
+| Strength	    |  15 	|  +2	     | Profession	  | Labourer |
+| Intelligence	    |   8	|  -1	     | Level	          | 3	 |
 | Wisdom 	    |   6	|  -2        | Movement (running) |  |
 | Dexterity	    |  13 	|  +1        | Wounds (Physical)  |   |
 | Perception	    |  11 	|  +0 	     | Wounds (Mental)    |   |
@@ -1691,8 +1513,8 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   7	|  -2	     | Profession	  | Administrator, Scientist |
-| Intelligence	    |   17	|  +3	     | Level	          | 1, 5 |
+| Strength	    |   7	|  -2	     | Profession	  | Scientist |
+| Intelligence	    |   17	|  +3	     | Level	          | 6 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   11	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   10	|  +0 	     | Wounds (Mental)    |   |
@@ -1716,8 +1538,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   10	|  +0	     | Profession	  | Administrator, Scientist |
-| Intelligence	    |   17	|  +3	     | Level	          | 1, 8 |
+| Strength	    |   10	|  +0	     | Profession	  | Scientist |
+| Intelligence	    |   17	|  +3	     | Level	          | 9 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   12	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   5	|  -3  	     | Wounds (Mental)    |   |
@@ -1740,8 +1562,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   7	|  -2	     | Profession	  | Manager, Administrator |
-| Intelligence	    |   8	|  -1	     | Level	          | 1, 2 |
+| Strength	    |   7	|  -2	     | Profession	  | Administrator |
+| Intelligence	    |   8	|  -1	     | Level	          | 3 |
 | Wisdom 	    |   16	|  +3        | Movement (running) |   |
 | Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   14	|  +2        | Wounds (Mental)    |   |
@@ -1763,8 +1585,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   11	|  +0	     | Profession	  | Manager, Administrator |
-| Intelligence	    |   12	|  +1	     | Level	          | 2, 4 |
+| Strength	    |   11	|  +0	     | Profession	  | Administrator |
+| Intelligence	    |   12	|  +1	     | Level	          | 6 |
 | Wisdom 	    |   15	|  +2        | Movement (running) |   |
 | Dexterity	    |   5	|  -3        | Wounds (Physical)  |   |
 | Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
@@ -1786,8 +1608,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   3	|  -4	     | Profession	  | Manager, Scientist, Administrator |
-| Intelligence	    |   13	|  +1	     | Level	          | 1, 1, 7 |
+| Strength	    |   3	|  -4	     | Profession	  | Administrator |
+| Intelligence	    |   13	|  +1	     | Level	          | 9 |
 | Wisdom 	    |   18	|  +4        | Movement (running) |   |
 | Dexterity	    |   7	|  -2        | Wounds (Physical)  |   |
 | Perception	    |   7	|  -2 	     | Wounds (Mental)    |   |
@@ -1921,8 +1743,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   4	|  -3	     | Profession	  | Manager, Researcher |
-| Intelligence	    |   13	|  +1	     | Level	          | 3, 6 |
+| Strength	    |   4	|  -3	     | Profession	  | Researcher |
+| Intelligence	    |   13	|  +1	     | Level	          | 9 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   9	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
@@ -1966,8 +1788,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   10	|  +0	     | Profession	  | Researcher, Manager |
-| Intelligence	    |   6	|  -2	     | Level	          | 3, 3 |
+| Strength	    |   10	|  +0	     | Profession	  | Manager |
+| Intelligence	    |   6	|  -2	     | Level	          | 6 |
 | Wisdom 	    |   6	|  -2        | Movement (running) |   |
 | Dexterity	    |   10	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
@@ -3397,8 +3219,6 @@ Paul Czege, *My Life With Master*, Half Meme Press, 2003
 
 Dave Webb, R. Hyrum Savage, *Solid! The D20 Blaxploitation Experience*, Dos Hermanos Publishing, 2005
 
-James Norbury, *Corporation*, Brutal Games, 2009
-
 Cam Banks, Rob Donoghue, *Leverage: The Roleplaying Game*, Margaret Weis Productions, 2010
 
 ## 6.2 Charts and Tables
@@ -3565,16 +3385,6 @@ Union Membership
 =======================================================================
 
 
+
+
 <img src"https://raw.githubusercontent.com/rpgreview/papersandpaychecks/efb22e0d3279cee5c9d6ad99f6f2b312f7e39939/images/%20bannedtechops.jpg" />
-
-
-## Publishing
-
-
-*Papers & Paychecks* is available through the RPG Review Cooperative, Inc. and also through the licensed publishers Cameron Duffy and Jason Keller.
-
-
-	
-
-
-
