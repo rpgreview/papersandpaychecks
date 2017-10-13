@@ -1059,50 +1059,50 @@ If a character has more than a quarter of their STR in doses, they must make a S
 
 **General**
 
-A tactical round is a period of six seconds. It is used for physically dramatic actions where immediate time as of the essence which includes, as per the great time-honoured tradition of roleplaying games, of physical combat. Each tactical round's activity begins with the character with the highest physical initiative score, based on their Dexterity, and then proceeds in order to the lowest. A tactical round should be perceived as an abstract method for organising time and the sequence of action declarations when, of course, activity occurs in a continuous rate.
+A tactical round is a period of six seconds. It is used for physically dramatic actions where immediate time as of the essence which includes, as per the great time-honoured tradition of roleplaying games, of physical combat. Each tactical round's activity begins with the character with the highest initiative score, based on their Dexterity, Wisdom, or Charism as appropriate to their action, and then proceeds in order to the lowest. A tactical round should be perceived as an abstract method for organising time and the sequence of action declarations when, of course, activity occurs in a continuous rate.
 
-A character typically may take two 'standard actions' in a tactical round. A standard action usually means make a skill roll or a move. In addition to standard actions there are short actions. A 'short action' is something that is performed quickly and can be combined with a standard action (e.g., get a something out of your pocket). A character is limited to two short actions per standard action, plus the character's DEX bonus. If the DEX bonus reduces this quantity to less to 0 or less then the character may has to count short actions as standard actions; all other things being equal this would only occur if the character has a DEX of 5 or less. Finally, there is a small number of actions (('free actions') which effectively take no time at all (e.g., drop an item).
+A character typically may take two 'standard actions' in a tactical round. A standard action usually means make a skill roll or a move. In addition to standard actions there are short actions. A 'short action' is something that is performed quickly and can be combined with a standard action (e.g., get a something out of your pocket whilst taking a move action). A character is limited to two short actions per standard action, plus the character's DEX bonus. If the DEX bonus reduces this quantity to less to 0 or less then the character may has to count short actions as standard actions; all other things being equal this would only occur if the character has a DEX of 5 or less. Finally, there is a small number of actions ('free actions') which effectively take no time at all (e.g., drop an item).
 
-**Physical Conflict**
+**Tactical Conflict**
 
-Physical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11; those that succeed make act as per normal on that tactical round and all subsequent rounds. Those that fail will have that number subtracted from their initial defense check (which is also usually based on Brawl). A character receives one standard action at 5 points or less of Dexterity, two from 6 to 15, three from 16 to 25 etc, and an equal number of defensive reactions.
+Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11; those that succeed make act as per normal on that tactical round and all subsequent rounds. Those that fail will have that number subtracted from their initial defense check (which is also usually based on Brawl). A character receives one standard action at 5 points or less of Dexterity, Wisdom, or Charisma (depending on whether it is a physical, mental, or social conflict), two from 6 to 15, three from 16 to 25 etc, and an equal number of defensive reactions.
 
-The purpose of combat is to hurt someone; except you can get hurt as well.
+The difference between the attack action and the defensive reaction provides a margin of success or failure. The weapon used provides a multiplier to the damage inflicted. From this number armour is subtracted, defining the damage inflicted.
 
-1. Initiative
-- based on Dexterity (for physical), based on Wisdom (for mental), based on total Level (for social)
-- Maneuvers 
--- normal attack, normal defense
--- all out attack, +3 to hit, no defense
--- all out damage, +1x damage, no defense
--- all out defense, -3 to hit, no attack
--- all out damage reduction, -1x damage, but no attack 
--- retreat
+Characters may declare a variety of basic tactical maneuvers. These include:
+
+* Normal attack, normal defense.
+* Damaging attack, +1x damage, x0.5 defense.
+* Defensive stance, No attack, x1.5 defense. 
+* Beserk attack, x1.5 attack, no defense.
+* Damage reduction, x0.5 attack, -1x damage.
+ 
+A defensive stance effectively uses a standard action to add to the character's defense.
 
 
 **Bully**
 
 A successful Bully check, contested by an opponent's Wisdom check, persuades another character to attempt to behave in a certain way by use of real or implied threats. The ability to Bully is significantly altered by the quantity of people that the attempt is applied against (individuals in a group get their own check and a bonus for being part of a group), the demanded action, and the position of the attacker. An interesting aspect of the Bully skill is that whilst it is tactical, the effects are strategic and ablative; an additional Wisdom check, at +1 per strategic turn of work, is allowed, until the bullied target succeed. A single check is made for the number of consective standard actions taken on a Bully check.
 
-1 standard action of Bullying -2 
-2 standard actions of Bullying -1
-4 standard actions of Bullying +0
-6 standard actions of Bullying +1
-8 standard actions of Bullying +2
-10 standard actions of Bullying +3
-12 standard actions of Bullying +4
+* 1 standard action of Bullying -2 
+* 2 standard actions of Bullying -1
+* 4 standard actions of Bullying +0
+* 6 standard actions of Bullying +1
+* 8 standard actions of Bullying +2
+* 10 standard actions of Bullying +3
+* 12 standard actions of Bullying +4
 
-Single target +0
-Two targets -1
-Three targets -2
-Four targets -3
+* Single target +0
+* Two targets -1
+* Three targets -2
+* Four targets -3
 etc
 
-Bully in superior position in organisation +0
-Bully in direct managerial position over target +2
-Bully in inferior position in organisation -4
-Bully not in organisation +0 (must use external threats)
-Bully in a position to use or threaten violence +4
+* Bully in superior position in organisation +0
+* Bully in direct managerial position over target +2
+* Bully in inferior position in organisation -4
+* Bully not in organisation +0 (must use external threats)
+* Bully in a position to use or threaten violence +4
 
 **Brawl**
 
@@ -1545,9 +1545,9 @@ For whatever Professional skill a character has taken there is a set of tools, e
 
 ## 2.7 Special Equipment
 
-Normal equipment gives expected functionality and benefits, often with game system abstractions that match normal expectations of the equipment in question. "Special equipment" provides benefits that outside of this range. As a result they are incredible rare and expensive and should be treated like exotic 'magic items'. Why is this so? Because they *are* actually characters, like the "Monsters" in section 3.8, sapient spirits entrapped in prosaic items, although they are quite powerful in comparison and unlike the 'monsters', they are not directly malicious towards humans but rather are exasperated by their their moral failings and will frustrate such plans. 
+Normal equipment gives expected functionality and benefits, often with game system abstractions that match normal expectations of the equipment in question. "Special equipment" provides benefits that outside of this range. As a result they are incredible rare and expensive and should be treated like exotic 'magic items'. Why is this so? Because they *are* actually characters, like the "Monsters" in section 3.8, sapient spirits entrapped in prosaic items, although they are quite powerful in comparison and unlike the 'monsters', they are not directly malicious towards humans but rather are exasperated by their their moral failings and will frustrate such plans.
 
-As a result, special equipment has intellectual characteristics and psychological dispositions, and will whisper suggestions in the minds of their holders. They also have critical triggers when characters ignore these warnings, at which point they will seek to take control of the trangressor using psychic combat and possess the character. They surprisingly respect character integrity however, and this is short-term and will release their control once the dangerous period is over. 
+As a result, special equipment has intellectual characteristics and psychological dispositions, and will telepathically whisper suggestions in the minds of their holders acting like their conscience. They also have critical triggers when characters ignore these warnings, at which point they will seek to take control of the trangressor using psychic combat and possess the character. They surprisingly respect character integrity however, and this is short-term and will release their control once the dangerous period is over. 
 
 **Armani Suit of Integrity**
 
@@ -1562,9 +1562,6 @@ Fletcher: I've had better.
 **Charles Atlas Manual of Bodily Strength, Annotated**
 
 "The Insult that Made a Man out of Mac"! A manual that will train, from one strategic turn a day, into a Strength bonus. Every 10 days that a character makes use of the manual they will gain +1 STR, up to a maximum of +4. The Manual of Bodily Strength has an ENC of 1 and costs $4000.
-
-**Little Black Cocktail Dress**
-
 
 **Knuth's The Art of Computing Programming, Annotated**
 
