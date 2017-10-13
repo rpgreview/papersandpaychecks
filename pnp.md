@@ -1207,18 +1207,20 @@ A character must make a Lie check each round each time that they tell another ch
 
 A character must make a Swim check each round while they are in water. A successful check will allow the character to move at one quarter of their normal rate. A failure without consequences means that they have made no progress, and a failure with consequences means that they are beginning to drown.
 
-Target numbers for Swim checks depend on the ferocity of the water, which is measured by the Douglas Scale. This is  also called the "international sea and swell scale", and was devised in the 1920s by Captain H.P. Douglas of the Royal Navy, who knew a little bit about the subject. The Target Number starts with a  base of 5, and increases by an additional +2 per level on the Scale.
+Target numbers for Swim checks depend on the ferocity of the water, which is measured by the Douglas Scale. This is  also called the "international sea and swell scale", and was devised in the 1920s by Captain H.P. Douglas of the Royal Navy, who knew a little bit about the subject. The Target Number starts with a  base of 5, and increases by an additional +2 per level on the Scale up to moderate, then +3 after that.
 
-5	0 	no wave 	Calm (Glassy)
-7	1 	0–0.10 		Calm (rippled)
-9	2 	0.10–0.50 	Smooth
-11	3 	0.50–1.25 	Slight
-13	4 	1.25–2.50 	Moderate
-15	5 	2.50–4.00 	Rough
-17	6 	4.00–6.00 	Very rough
-19	7 	6.00–9.00 	High
-21	8 	9.00–14.00 	Very high
-23	9 	14.00+ 		Phenomenal
+| Target Number	| Douglas Scale	| Wave Height	| Description	|
+|---------------|---------------|---------------|---------------|
+|	5	|	0 	| no wave 	| Calm (Glassy)	|
+|	7	|	1 	| 0–0.10 	| Calm (rippled) |
+|	9	|	2 	| 0.10–0.50 	| Smooth	|
+|	11	|	3 	| 0.50–1.25 	| Slight	|
+|	13	|	4 	| 1.25–2.50 	| Moderate	|
+|	15	|	5 	| 2.50–4.00	| Rough		|
+|	18	|	6 	| 4.00–6.00 	| Very rough	|
+|	21	|	7 	| 6.00–9.00 	| High		|
+|	24	|	8 	| 9.00–14.00 	| Very high	|
+|	27	|	9 	| 14.00+ 	| Phenomenal	|
 
 If a character's head is underwater they begin to drown. See Section 2.2 for the unfortunate effects of Drowning. Note for Boss; if the weather is right, water roughness is known to change quite quickly, especially at sea. 
 
@@ -3359,15 +3361,20 @@ Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 ## 5.5 Season 1, Episode 4
 
 # 6.0 Appendicies
+
 ## 6.1 Source Material
 
-**Dramatic Structure**
+**Books**
+
+Brett Easton Ellis, *American Psycho*, Vintage Books, 1991
 
 Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
 
-**Films and Books**
+**Films and Television Series**
 
-American Psycho (film and book)
+Mary Harron (dir), *American Psycho*, Lionsgate Films, 2000
+
+Chris Morris (dir), *Four Lions*, Film4Productions, Optimum Releasing, 2010
 
 **Reality Checking**
 
