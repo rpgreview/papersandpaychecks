@@ -204,11 +204,11 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Quick Resolution**: Where a Target Number for a skill or knowledge is assigned 'on the fly' based on a description of the circumstances. This should be consistent if the characters encounter the same task.
 
-**Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame.
+**Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame. Also known as a *round*.
 
 **Skill Points** The number of points a character can spend per level on skills and knowledges. It is based on the average of the character's INT.
 
-**Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame.
+**Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame. Also known as a *turn*.
 
 **Worker** A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
 
