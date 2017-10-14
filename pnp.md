@@ -36,9 +36,7 @@ Jonathan Hoffenberg, Timothy Salisbury, Dan Smith, Charlie Day, Dean Nicolson, G
 
 ### Team Leader Level Supporters
 
-Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrraine, John Michael Hess, 
-Slorder, Bruce Cload, Ian McFarlin, telanthar, Greg Chapin, Dustin Vogel, Andrew Sharp, Matt Brose,
-Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keamy, Kean, Larry Birdsong Jr., Christian-Rolf Grün, George Gordon, Olivier Dauba, Phillip Hada, F. John Rickert, Mitchell Christov, Glenn Chambers, William Savige, Chris Garland, C David Dent, Brendan Meghani, Steven Westdahl, D Larson, Tom Goerger, Peter Hartman, Daniel Norton, Rachel Krupnick, Tim Wade, Kevin Sonney, Christopher Horelly, mark hutton, Jason Fewings, Owlglass, John Klapak, Michael Pleier, Donnovan Knight, Rabi Fiotto, Alexandre Hotte-Vukobrat, Erik Ashby, Joseph Hallett, Paul Kensler, Theo Lane, Andrew Murphy, Hans Sagan, Erik Talvola, Matthew-Donald Sangster, Richard Halpin, Kim Flintoff, James Fellows, Nick Golovachenko, Les Mallett, Seth A Spurlock, Carl Gilchrist, Rob Klug, Jonathon Dyer, John Hughes, Thomas Giaquinto, Lochdur, Ota Ulc, meow, Darwin Bromley, Ira Kroll, Chris Stronach, Michael Heaney, Brent Knorr, Jade, Cormac Doyle, Andrew Ward, Jonas Schiött, Garth Nix, Peter Birdsall, BlazeWard7, Damien, Daniel Robichaud, Alan Batson, Jon Swabey, Julian Fairhall, Jim Cheetham, Marc Kevin Hall, pauli, Safeer Syed, Paul Smith, Egrek, Brett Easterbrook, David Waldron, Steven G. Saunders, Paul Bone,  Julien Goodwin, Chris Nienhuis, Adam Whitcomb, Chris Constantin, Jack Gulick, Dee Echo, Patrice Mermoud,  Donald A. Turner, Jeremy Byrne, John Webster, Lachlan Smith, Contesse,  Mark Westbrook, Damon & Peni Griffin, Adrian Smith
+Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrraine, John Michael Hess, Slorder, Bruce Cload, Ian McFarlin, telanthar, Greg Chapin, Dustin Vogel, Andrew Sharp, Matt Brose, Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keamy, Kean, Larry Birdsong Jr., Christian-Rolf Grün, George Gordon, Olivier Dauba, Phillip Hada, F. John Rickert, Mitchell Christov, Glenn Chambers, William Savige, Chris Garland, C David Dent, Brendan Meghani, Steven Westdahl, D Larson, Tom Goerger, Peter Hartman, Daniel Norton, Rachel Krupnick, Tim Wade, Kevin Sonney, Christopher Horelly, mark hutton, Jason Fewings, Owlglass, John Klapak, Michael Pleier, Donnovan Knight, Rabi Fiotto, Alexandre Hotte-Vukobrat, Erik Ashby, Joseph Hallett, Paul Kensler, Theo Lane, Andrew Murphy, Hans Sagan, Erik Talvola, Matthew-Donald Sangster, Richard Halpin, Kim Flintoff, James Fellows, Nick Golovachenko, Les Mallett, Seth A Spurlock, Carl Gilchrist, Rob Klug, Jonathon Dyer, John Hughes, Thomas Giaquinto, Lochdur, Ota Ulc, meow, Darwin Bromley, Ira Kroll, Chris Stronach, Michael Heaney, Brent Knorr, Jade, Cormac Doyle, Andrew Ward, Jonas Schiött, Garth Nix, Peter Birdsall, BlazeWard7, Damien, Daniel Robichaud, Alan Batson, Jon Swabey, Julian Fairhall, Jim Cheetham, Marc Kevin Hall, pauli, Safeer Syed, Paul Smith, Egrek, Brett Easterbrook, David Waldron, Steven G. Saunders, Paul Bone,  Julien Goodwin, Chris Nienhuis, Adam Whitcomb, Chris Constantin, Jack Gulick, Dee Echo, Patrice Mermoud,  Donald A. Turner, Jeremy Byrne, John Webster, Lachlan Smith, Contesse,  Mark Westbrook, Damon & Peni Griffin, Adrian Smith
 
 
 # Table of Contents
@@ -188,7 +186,9 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Boss, The**: A special type of player who manages the world, the actions of Non-Player Characters, who sets the scene, scenario, and challenges for Player-Characters. The Boss acts as both a narrator and referree.
 
-**Character**: A *natural* person (as opposed to a *legal* person, which includes companies and associations) in the *Papers & Paychecks* world. Characters are of two broad types, "Player-Characters" (PCs), those whose actions are primarily determined by a player (c.f.,), and "Non-Player Characters" (NPCs), whose actions are determined by The Boss. See also *Worker*.
+**Bruises**: Short-term and typically non-critical damage, whether inflicted from physical, mental, or social conflict. See also *wounds*. When a character has reached 0 bruises, they are unconscious, shocked, or ostracised. The character may not act until they have recovered or healed. 
+
+**Character**: A *natural* person (as opposed to a *legal* person, which includes companies and associations) in the *Papers & Paychecks* world. Characters are of two broad types, "Player-Characters" (PCs), those whose actions are primarily determined by a player, and "Non-Player Characters" (NPCs), whose actions are determined by The Boss. See also *Worker*.
 
 **Characteristic**: An foundational value for a character which is less subject to trained improvement. The range for starting characters is the sum of 3d6. The characteristics are Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (PER), and Charisma (CHA).
 
@@ -206,11 +206,13 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Tactical Action**: Immediate actions by a character which can be carried out within a ten-second time-frame. Also known as a *round*.
 
-**Skill Points** The number of points a character can spend per level on skills and knowledges. It is based on the average of the character's INT.
+**Skill Points**: The number of points a character can spend per level on skills and knowledges. It is based on the character's INT bonus.
 
 **Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame. Also known as a *turn*.
 
-**Worker** A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
+**Worker**: A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
+
+**Wounds**: Deadly physical, mental, or social damage. When a character is reduced to zero wounds they are either dead, insane, or incarcerated. In either situation the character is out-of-the-game.
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/vealfattening.jpg" />
 
@@ -396,7 +398,7 @@ In addition to the aforementioned primary characteristics there is also a number
 
 **Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
 
-**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + INT bonuses (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest.
+**Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + the character's INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest.
 
 > "Go to a Mensa gathering. In no other place will you find so many unemployed PhDs with strong opinions on Scrabble rules."
 > --Robert Allen, 2017, `https://www.quora.com/Why-do-so-many-high-IQ-people-amount-to-nothing/answer/Robert-Allen-52`
@@ -1065,7 +1067,7 @@ A character typically may take two 'standard actions' in a tactical round. A sta
 
 **Tactical Conflict**
 
-Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11; those that succeed make act as per normal on that tactical round and all subsequent rounds. Those that fail will have that number subtracted from their initial defense check (which is also usually based on Brawl). A character receives one standard action at 5 points or less of Dexterity, Wisdom, or Charisma (depending on whether it is a physical, mental, or social conflict), two from 6 to 15, three from 16 to 25 etc, and an equal number of defensive reactions.
+Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations; those that succeed make act as per normal on that tactical round and all subsequent rounds. Those that fail will have that number subtracted from their initial defense check (which is also usually based on Brawl). A character receives one standard action at 5 points or less of Dexterity, Wisdom, or Charisma (depending on whether it is a physical, mental, or social conflict), two from 6 to 15, three from 16 to 25 etc, and an equal number of defensive reactions.  
 
 The difference between the attack action and the defensive reaction provides a margin of success or failure. The weapon used provides a multiplier to the damage inflicted. From this number armour is subtracted, defining the damage inflicted.
 
@@ -1073,36 +1075,35 @@ Characters may declare a variety of basic tactical maneuvers. These include:
 
 * Normal attack, normal defense.
 * Damaging attack, +1x damage, x0.5 defense.
-* Defensive stance, No attack, x1.5 defense. 
-* Beserk attack, x1.5 attack, no defense.
+* Defensive stance, no attack, x1.5 defense. 
+* Beserk attack, x1.5 attack, x0.5 defense. 
 * Damage reduction, x0.5 attack, -1x damage.
  
-A defensive stance effectively uses a standard action to add to the character's defense.
-
+A defensive stance effectively uses a standard action to add to the character's defense. Note that in most cases damage received in tactical conflict is mental or social bruising (shock or embarrassment). Physical damage can be bruises or wounds, depending on the damage.
 
 **Bully**
 
 A successful Bully check, contested by an opponent's Wisdom check, persuades another character to attempt to behave in a certain way by use of real or implied threats. The ability to Bully is significantly altered by the quantity of people that the attempt is applied against (individuals in a group get their own check and a bonus for being part of a group), the demanded action, and the position of the attacker. An interesting aspect of the Bully skill is that whilst it is tactical, the effects are strategic and ablative; an additional Wisdom check, at +1 per strategic turn of work, is allowed, until the bullied target succeed. A single check is made for the number of consective standard actions taken on a Bully check.
 
-* 1 standard action of Bullying -2 
-* 2 standard actions of Bullying -1
-* 4 standard actions of Bullying +0
-* 6 standard actions of Bullying +1
-* 8 standard actions of Bullying +2
-* 10 standard actions of Bullying +3
-* 12 standard actions of Bullying +4
+1 standard action of Bullying -2 
+2 standard actions of Bullying -1
+4 standard actions of Bullying +0
+6 standard actions of Bullying +1
+8 standard actions of Bullying +2
+10 standard actions of Bullying +3
+12 standard actions of Bullying +4
 
-* Single target +0
-* Two targets -1
-* Three targets -2
-* Four targets -3
-etc
+Single target +0
+Two targets -1
+Three targets -2
+Four targets -3
+etc	-1
 
-* Bully in superior position in organisation +0
-* Bully in direct managerial position over target +2
-* Bully in inferior position in organisation -4
-* Bully not in organisation +0 (must use external threats)
-* Bully in a position to use or threaten violence +4
+Bully in superior position in organisation +0
+Bully in direct managerial position over target +2
+Bully in inferior position in organisation -4
+Bully not in organisation +0 (must use external threats)
+Bully in a position to use or threaten violence +4
 
 **Brawl**
 
@@ -1182,6 +1183,10 @@ For a long jump, a horizontal move, the distance is equal to the result in metre
 
 This table and description can also be used for characters who find themselves in an unexpected aerial velocity. "Jumping" sometimes is not entirely voluntary.
 
+**Fire**
+
+
+
 **Lie**
 
 > "He offered alternative facts"   
@@ -1233,21 +1238,20 @@ A strategic turn is a period of around four hours. It is used for non-immediate 
 
 **Strategic Conflict**
 
-
-
+One very important aspect of strategic conflict is that it is typical way that wounds are caused in social or mental conflict, whether initiated through gossip, investigation, or carefully-crafted psychological damage.
 
 
 ## 2.5 Damage and Healing
 
-*Papers & Paychecks* uses a unified damage system. Damage is based on the weapon type and circumstances.
+*Papers & Paychecks* uses a unified damage system. Damage is based on the weapon type and circumstances and is differentiated between deadly *wounds* and less dangerous *bruises*. All wounds also cause bruising damage, but bruises only cause a wound for every 5 points of bruising.
 
-Calculate difference between attack roll and defense roll (e.g., 13 vs 10 = 3); that's the base damage. A multiplier is applied to this base damage depending on the equipment, skill, or position, and reductions to damage based on armour. 
+To work out the damage caused, calculate difference between attack roll and defense roll (e.g., 13 vs 10 = 3). This provides the the base damage. A multiplier is applied to this base damage depending on the equipment, skill, or position, and reductions to damage based on armour. 
 
-For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x
+For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x. Determine whether the damage is *wounds* or *bruises*. For physical weapons, 'bashing' weapons cause *bruises*, whereas impaling, stabbing, explosive, shredding, burning, eviscerating, and basically anything that gets under the skin, causes wounds.
 
-Physical wounds are applied against STR-based physical hit points; if a character reaches 0 physical hit points they are unconscious and are out-of-project. If they are reduced to negative the character is is dead and out-of-game.
+Physical damage is applied against STR-based physical hit points. If a character reaches 0 physical bruises they are knocked unconscious. If they are reduced to zero wounds the character is is dead and out-of-game.
 
-Mental wounds are applied against WIS-based mental hit points; if a character reaches 0 mental hit points they suffer a mental breakdown and are out-of-project. If they are reduced to negative mental hit points they are driven permanently insane, and are out-of-game.
+Mental damage applied against WIS-based mental hit points. If a character reaches 0 mental bruises they are in a state of mental shock and cannot react.  
 
 Social wounds are applied against CHA-base social hit points; if a character is reduced to 0 social hit points they suffer a serious loss of reputation and are out-of-project. If they are reduced to negative social hit points they have suffered a "social death" and are out-of-game.
 
@@ -1507,18 +1511,18 @@ Resolution of the use of firearms is covered in section 1.6 Skills and Knowledge
 
 The comments made on firearms, above, also apply for melee weapons. *Papers & Paychecks* is not a combat-heavy game, at least not in most cases. Nevertheless there are a few situations where weapons of various might be used. 
 
-*Improvised*: Improvished crushing weapons include a half-brick, a thrown rock (using melee skill, up to STR metres in base range), a sturdy chunk of wood, a chair, or similar. Because they are not designed to be used in combat melee attacks with such weapons are at -2. A one-handed improvised weapon has an ENC of 1 and causes 1x damage. A two-handed improvised weapon has an ENC of 2 and causes 2x damage.
+*Improvised*: Improvished crushing weapons include a half-brick, a thrown rock (using melee skill, up to STR metres in base range), a sturdy chunk of wood, a chair, or similar. Because they are not designed to be used in combat melee attacks with such weapons are at -2. A one-handed improvised weapon has an ENC of 1 and causes 1x damage in bruises. A two-handed improvised weapon has an ENC of 2 and causes 2x damage in bruises.
 
 > Michael J. "Crocodile" Dundee: That's not a knife. That's a knife.`
 > Paul Hogan, Crocodile Dundee, 1986
 
-*Knife*: A small knife has an effective ENC of 0, and does 1x damage and can be thrown up to STR metres in base range. A large knife is the sort used for gutting fish, hacking away through very big steaks and the like. It has an ENC of 1 and does 2x damage. 
+*Knife*: A small knife has an effective ENC of 0, and does 1x damage in wounds and can be thrown up to STR metres in base range. A large knife is the sort used for gutting fish, hacking away through very big steaks and the like. It has an ENC of 1 and does 2x damage in wounds. 
 
-*Club*: Often found in the form of sporting equipment, like a cricket or baseball bat, this one or two-handed weapon has an ENC of 2, and does 1x damage (one-handed) or 2x damage (two-handed).
+*Club*: Often found in the form of sporting equipment, like a cricket or baseball bat, this one or two-handed weapon has an ENC of 2, and does 1x damage (one-handed) or 2x damage (two-handed) in bruises.
 
-*Axe*: In the one-handed hatched variety which can be used as a melee weapon and which can also be thrown up to STR meters in range, an axe has an ENC of 1 and does 2x damage. As a two-handed weapon it has a modifier of -1 to use, due to being unbalanced, an ENC of 2, and does 3x damage.
+*Axe*: In the one-handed hatched variety which can be used as a melee weapon and which can also be thrown up to STR meters in range, an axe has an ENC of 1 and does 2x damage. As a two-handed weapon it has a modifier of -1 to use, due to being unbalanced, an ENC of 2, and does 3x damage in wounds.
 
-*Sword*: Possibly the rarest of weapons encountered in *Papers & Paychecks* it is plausible that a character may encounter a fencing sword, or, if they are at a museum or expensive hotel, an arming sword. A fencing sword is particularly well balanced weapon and is +2 to the melee skill to use, has an ENC of 1, and causes 2x damage. An arming sword has a +1 bonus to use, an ENC of 2, and causes 3x damage.
+*Sword*: Possibly the rarest of weapons encountered in *Papers & Paychecks* it is plausible that a character may encounter a fencing sword, or, if they are at a museum or expensive hotel, an arming sword. A fencing sword is particularly well balanced weapon and is +2 to the melee skill to use, has an ENC of 1, and causes 2x damage. An arming sword has a +1 bonus to use, an ENC of 2, and causes 3x damage in wounds.
 
 **Outdoor Equipment**
 
