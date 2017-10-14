@@ -1191,7 +1191,6 @@ A semi-automatic fire action allows three bullets per action at -1 to the skill 
 
 Shooting a target is a contested skill against a defense roll, with bonus for the speed or actions of the character, partially represented by their DEX bonus. There bonus depending on the degree of cover that a character has afforded themselves as a result of any Move actions or existing position: +8 bonuse if they are almost entirely behind cover, +6 for exposure of head or similar, +4 for head, shoulders, and chest, and +2 for half-cover (such as crouching, kneeling). A character who is attacked with surprise has an effective DEX of 0, which represents a -5 penalty. 
 
-
 **Lie**
 
 > "He offered alternative facts"   
@@ -1243,7 +1242,21 @@ A strategic turn is a period of around four hours. It is used for non-immediate 
 
 **Strategic Conflict**
 
-One very important aspect of strategic conflict is that it is typical way that wounds are caused in social or mental conflict, whether initiated through gossip, investigation, or carefully-crafted psychological damage.
+One very important aspect of strategic conflict is that it is typical way that wounds are caused in social or mental conflict, whether initiated through gossip, investigation, or carefully-crafted psychological damage. Whereas the difference between "bruises" and "wounds" with physical damage depends much more on the weapon, with mental and social attacks it is usually time-dependent. 
+
+**Analysis**
+
+**Carousing**
+
+**Gaslighting**
+
+**Gossip**
+
+**Invention**
+
+**Legal Contest**
+
+**Research**
 
 
 ## 2.5 Damage and Healing
