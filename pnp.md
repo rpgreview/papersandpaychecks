@@ -1059,7 +1059,7 @@ If a character has more than a quarter of their STR in doses, they must make a S
 
 **General**
 
-A tactical round is a period of six seconds. It is used for physically dramatic actions where immediate time as of the essence which includes, as per the great time-honoured tradition of roleplaying games, of physical combat. Each tactical round's activity begins with the character with the highest initiative score, based on their Dexterity, Wisdom, or Charism as appropriate to their action, and then proceeds in order to the lowest. A tactical round should be perceived as an abstract method for organising time and the sequence of action declarations when, of course, activity occurs in a continuous rate.
+A tactical round is a period of six seconds. It is used fo dramatic actions where immediate time as of the essence which includes, as per the great time-honoured tradition of roleplaying games, of physical conflict. Each tactical round's activity begins with the character with the highest initiative score, based on their Dexterity, Wisdom, or Charism as appropriate to their action, and then proceeds in order to the lowest. A tactical round should be perceived as an abstract method for organising time and the sequence of action declarations when, of course, activity occurs in a continuous rate.
 
 A character typically may take two 'standard actions' in a tactical round. A standard action usually means make a skill roll or a move. In addition to standard actions there are short actions. A 'short action' is something that is performed quickly and can be combined with a standard action (e.g., get a something out of your pocket whilst taking a move action). A character is limited to two short actions per standard action, plus the character's DEX bonus. If the DEX bonus reduces this quantity to less to 0 or less then the character may has to count short actions as standard actions; all other things being equal this would only occur if the character has a DEX of 5 or less. Finally, there is a small number of actions ('free actions') which effectively take no time at all (e.g., drop an item).
 
@@ -1226,6 +1226,15 @@ If a character's head is underwater they begin to drown. See Section 2.2 for the
 
 
 ## 2.4 Strategic Task Resolution
+
+**General**
+
+A strategic turn is a period of around four hours. It is used for non-immediate actions where various actions such as planning, treachery, research etc are carried out. Because the actions are non-immediate, initiative scores are not usually required. A tactical turn should be perceived as an abstract method for organising longer-term action declarations. Note that the workday includes two strategic actions, punctuated by a lunch-break. Normally The Boss will request actions on the "morning turn" and the "afternoon turn". 
+
+**Strategic Conflict**
+
+
+
 
 
 ## 2.5 Damage and Healing
