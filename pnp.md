@@ -1185,6 +1185,11 @@ This table and description can also be used for characters who find themselves i
 
 **Fire**
 
+Use of the DEX-based Firearms skill (section 1.6) governs the base chance for firearms. Firearms have a base range which indicates a normal to hit chance. In addition there is a point-blank range up to PER in meters which receives a +2 bonus to hit, and a long range up to double the base range which carries a -2 penalty and an extreme range which is at -4. There is also scale and speed modifiers; a character with a STR (for SIZ) of less than 5, receives a benefit of -2 to hit for each point below 5. From 5-15 there is no change, and from 16 upwards, there is a +2 bonus to hit for every 10 points.
+
+A semi-automatic fire action allows three bullets per action at -1 to the skill roll. A burst fire action releases five rounds, at -2 to hit per five rounds, per action. Burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m seperation between the targets.
+
+Shooting a target is a contested skill against a defense roll, with bonus for the speed or actions of the character, partially represented by their DEX bonus. There bonus depending on the degree of cover that a character has afforded themselves as a result of any Move actions or existing position: +8 bonuse if they are almost entirely behind cover, +6 for exposure of head or similar, +4 for head, shoulders, and chest, and +2 for half-cover (such as crouching, kneeling). A character who is attacked with surprise has an effective DEX of 0, which represents a -5 penalty. 
 
 
 **Lie**
@@ -1495,7 +1500,7 @@ Many roleplaying games in a modern or futuristic setting provide a very long lis
 
 Due to various technological improvements and targetting systems, each firearm receives a +1 bonus to skill use every ten years i.e., +0 to the firearms skill at 1975, +1 at 1985, +2 at 1995, +3 at 2005, +4 at 2015, +5 at 2025, +6 at 2035, to a truly frightening +7 at 2045. If a firearm is denoted as semi-automatic, it can fire three bullets per action at -1 to the skill roll. If the firearm is capable of burst fire, it can fire five rounds, at -2 to hit for five rounds, per action. In addition, in burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m seperation between the targets.
 
-Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict'. Characters receive a bonus of +2 up to their PER skill in meters, and -2 from the listed range to double that value.
+Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict'. Characters receive a bonus of +2 up to their PER skill in meters, and -2 from the listed range to double that value as long range, and -4 to three times the listed range for extreme range.
 
 *Crossbow*: Less of a combat weapon and more of a hobby, the crossbow is a late medieval weapon that is still available as an exotic device. Relatively silent compared to guns. Requires a reloading action after each round. $200, 2 ENC, 1x damage, range 50m.
 
