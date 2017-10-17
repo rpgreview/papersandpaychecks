@@ -89,7 +89,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 5.4 Season 1, Episode 3
 5.5 Season 1, Episode 4
 
-6.0 Appendicies
+6.0 Appendices
 6.1 Source Material
 6.2 Charts and Tables
 6.3 Business Organisation Chart
@@ -106,37 +106,37 @@ Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and 
 
 The title comes from the memorable artwork of Will McLean in the first edition of the *Advanced Dungeons & Dragons Dungeon Masters Guide*. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that *Papers and Paychecks" would make a great roleplaying game, but this is the first time that the idea has seen completion. Of course, few workers these days deal as much with "papers", let alone "paychecks", but the game would hardly have the same ring to it if it was called "Emails and Direct Deposits". Such is the nature of being in a "industralized and technological society".
 
-Roleplaying games have been an enormous success story in recent decades, starting with the original table-top versions and even some computer versions, in aggregate reaching out to tens of millions of people worldwide. The opportunity is provided in these games to engage in improvised storytelling within the structure of a rules system. The rules keeps the storytelling within the bounds of plausibility and the character's capabilities with some level of consistency. 
+Roleplaying games have been an enormous success story in recent decades, starting with the original table-top versions and even some computer versions, in aggregate reaching out to tens of millions of people worldwide. The opportunity is provided in these games to engage in improvised storytelling within the structure of a rules system. The rules keep the storytelling within the bounds of plausibility and the character's capabilities within some level of consistency. 
 
 Note the word 'plausibility'. *Papers and Paychecks* posits a world that is downright hostile to the player characters. The metaphysical foundation, if you like, is resistentialism. This is a supposedly joke philosophy based around the widespread anecdotal evidence of an apparent malice of inanimate objects against people, the word itself coined by Paul Jennings in 1948 as a response to existentialism, and claimed that it was developed by a fictional character, Pierre-Marie Ventre, itself a play on the name Jean-Paul Sartre.
 
-But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly by the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor: "Anything that can go wrong, will go wrong and at the worst possible time".
+But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly by the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor: "Anything that can go wrong, will go wrong, and at the worst possible time".
 
-Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives, yet the the time in which they decide to incompetently help proves disasterous. It is the role of The Boss to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
+Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives, yet the the time in which they decide to incompetently help proves disastrous. It is the role of The Boss, the participant who narrates the story and moderates the game, to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
 
-Although presented partially as a spoof, "Papers and Paychecks" is nevertheless a traditional roleplaying game, by what is meant is that it consists of several players, each taking a character (a "player-character" or PC) and their role in a story scenario designed by another player, The Boss, who adjudicates the expressed actions of the player's characters and the environment in which they occur, including the activities of non-player characters (NPCs), and introduces new plot elements as appropriate to generate a narrative flow. Usually it is played face-to-face, engaging in the primitive behaviour of actual physical socialisation, it can also be played in electronic communication as well, although real-time communication is recommended over asynchronous methods. 
+Although presented partially as a spoof, "Papers and Paychecks" is nevertheless a traditional roleplaying game, in that it consists of several players, each taking a character (a "player-character" or PC) and their role in a story scenario designed by another player, The Boss, who adjudicates the expressed actions of the player's characters and the environment in which they occur, including the activities of non-player characters (NPCs), and introduces new plot elements as appropriate to generate a narrative flow. Usually it is played face-to-face, engaging in the primitive behaviour of actual physical socialisation, it can also be played through electronic communication as well, although real-time communication is recommended over asynchronous methods. 
 
-There are five chapters to this book which explains tha game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This include the PCs characteristics, profession and wage band, their talents, personality, and starting equipment. For thos familiar with roleplaying games, this is a standard system but with the addition of the Luck attribute for narrative purposes.
+There are five chapters to this book which explains the game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This includes the PCs characteristics, profession and wage band, their talents, personality, and starting equipment.
 
-By the end of the first chapter, the player is ready for action in an antagonistic enviroment, and the second chapter explains in detail exactly what sort of activities they can engage in. This includes an elaboration of the core mechanic game system, the tactical and strategic time scales, the giving and receiving of physical, mental, and social damage, and details of personal equipment. As a principle of game design, detail of the activiies is based around the setting. Obviously this includes a lot less violence than a roleplaying game in a fantastic setting of wizards and dragons, but a lot more on problems relating to technology and bureaucracy.
+By the end of the first chapter, the player is ready for action in an antagonistic environment, and the second chapter explains in detail exactly what sort of activities they can engage in. This includes an elaboration of the core mechanic game system, the tactical and strategic time scales, the giving and receiving of physical, mental, and social damage, and details of personal equipment. As a principle of game design, detail of the activities is based around the setting. Obviously this includes a lot less violence than a roleplaying game in a fantastic setting of wizards and dragons, but a lot more on problems relating to malfunctioning technology and incompetent bureaucracy.
 
-A collection of non-player characters is offered as the third chapter, broken up according to profession and across various levels of ability. These can serve as example characters whom The Boss can introduce to a storyline, or, if the player is in a hurry, a quick template to introduce a new player-character to the game. For those familiar with such things this is the equivalent of the "Monster Manual".
+A collection of non-player characters is offered as the third chapter, broken up according to profession and across various levels of ability. These can serve as example characters whom The Boss can introduce to a storyline, or, if the player is in a hurry, a quick template to introduce a new player-character to the game. For those familiar with such things this is the equivalent of a "Monster Manual".
 
 The fourth chapter is The Boss book. It's full of advice on what it means to take up the role of moderator, adjudicator, narrator, director, and performer of the non-player characters. It also provides valuable information on setting, scenario, and episode design, along with ideas for the physical gaming environment.
 
 The final chapter is an entire season of *Papers and Paychecks*, consisting of five episodes designed for beginning characters as they make their way into the first serious job. The episodes can be run independently, but are most enjoyable when the first links between them are brought together. 
 
-The book concludes with a set of supplementary appendicies; a collection of source material from which a Boss can delve into and develop their own project scenarios, some charts and tables for game play in summary, a business organisation chart, a *Dramatis Personae* chart for the Boss to keep track of NPCs during a session, and a résumé (aka character sheet) for major characters.
+The book concludes with a set of supplementary appendices; a collection of source material from which a Boss can delve into and develop their own project scenarios, some charts and tables for game play in summary, a business organisation chart, a *Dramatis Personae* chart for the Boss to keep track of NPCs during a session, and a résumé (a.k.a. character sheet) for major characters.
 
-At the end of the day however, the main purpose of "Papers and Paychecks" is enjoyment. Consider this "Rule 0" of the game. If the game is not enjoyable then something has gone wrong and it needs to be addressed. It doesn't have to be *fun*, as such, to use the etymological sense i.e., foolish. Players as well as characters can have their own assumptions challenged, and things will not always go well for their characters (indeed, in *Papers & Paychecks* they can go very bad indeed). But rather it will give "enjoyment" and the act of exploring the shared imaginary space of a fictional universe that is like many of our own lives turned "up to eleven" will be provide entertainment, amusement, and perhaps even a little bit of insight. 
+At the end of the day however, the main purpose of "Papers and Paychecks" is enjoyment. Consider this "Rule 0" of the game. If the game is not enjoyable then something has gone wrong and it needs to be addressed. It doesn't have to be *fun*, as such, to use the etymological sense i.e., foolish. Players as well as characters can have their own assumptions challenged, and things will not always go well for their characters (indeed, in *Papers & Paychecks* they can go very badly indeed). But rather it will give "enjoyment" and the act of exploring the shared imaginary space of a fictional universe that is like many of our own lives turned "up to eleven" will be provide entertainment, amusement, and perhaps even a little bit of insight. 
 
-This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a hard and fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
+This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
 
-By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
+By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occasionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
 
-This game has been published by the RPG Review Cooperative, an incorporated and non-profit association. Nobody associated with the Cooperative is making any money from this - all proceeds go to the association for the benefit of promoting our shared hobby - and as such we are particularly grateful for the genorsity of our backers on Kickstarter. We are also deeply honoured to have the artistic skills of Dan 'Smif' Smith for the cover art. Special thanks is also given to the playtesters, who reviewed and tested the game, pulled it apart and put it back together again into the working product you see before you. 
+This game has been published by the RPG Review Cooperative, an incorporated and non-profit association. Nobody associated with the Cooperative is making any money from this - all proceeds go to the association for the benefit of promoting our shared hobby - and as such we are particularly grateful for the generosity of our backers on Kickstarter. We are also deeply honoured to have the artistic skills of Dan 'Smif' Smith for the cover art. Special thanks is also given to the playtesters, who reviewed and tested the game, pulled it apart and put it back together again into the working product you see before you. 
 
-Have fun and remember: "Les choses sont contre nous"!
+Enjoy the game and remember: "Les choses sont contre nous"!
 
 
 Lev Lafayette
@@ -144,9 +144,9 @@ Melbourne, 2017
 
 ## 0.3 Dice
 
-The polyhedral dice of tabletop roleplaying games are a well-established feature, original a mathematical tool in schools, and are readily available from hobby stores or online. A random selection from the appropriate set of options in a card deck can also be used. Dice are used to simulate the effects of various effects which are simply too fiddly to add up in the imperfect model that RPGs represent, and to create a sense of tension and uncertainty. If for some reason such dice are not available a deck of playing cards can be an equal substitute with the appropriate number range taken out as needed i.e., 1-4, 1-6, 1-8, 1-10, 1-12 and a 1-10 with black or red suit cards to determine whether the range is 1-10 (clubs or spades) or 11-20 (hearts or diamonds).
+The polyhedral dice of tabletop roleplaying games are a well-established feature, originally a mathematical tool in schools, and are readily available from hobby stores or online. Dice are used to simulate the effects of various effects which are simply too fiddly to add up in the imperfect model that RPGs represent, and to create a sense of tension and uncertainty. If for some reason such dice are not available a deck of playing cards can be an equal substitute with the appropriate number range taken out as needed i.e., 1-4, 1-6, 1-8, 1-10, 1-12 and a 1-10 with black or red suit cards to determine whether the range is 1-10 (clubs or spades) or 11-20 (hearts or diamonds).
 
-"Papers and Paychecks" uses the standard set; the four-sided dice, the six-sided, the eight-sided, the ten-sided, the twelve-sided, and the twenty-sided. Depending on the rule being applied the value on the die's face is the score that is applied. An exception is the ten-sided dice which can either be used as a single ten-sided value, or, if two are used (different colours is recommended), where one of the two represents the decimal place of tens, whereas the other represents a value of ones, creating a percentage value. A result of '00' would equate to 100, giving a range of 1 to 100.
+"Papers and Paychecks" uses the standard set; the four-sided dice, the six-sided, the eight-sided, the ten-sided, the twelve-sided, and the twenty-sided. Depending on the rule being applied the value on the die's face is the score that is applied. An exception is the ten-sided dice which can either be used as a single ten-sided value, or, if two are used (different colours is recommended), where one of the two represents the decimal place of tens, whereas the other represents a value of ones, creating a percentage value. A result of '00' would equate to 100, giving a range of 1 to 100. Alternatively, you may be able to find a one-hundred-sided dice. These are frequently poorly designed with a each dice having a hidden tendency to roll low or high. As such they are perfect for "Papers and Paychecks"; after all "Les choses sont contre nous"!
 
 Standard dice notation is used throughout Papers and Paychecks; a quantity of dice is specificed first followed by the 'd' notation to represent 'dice', and then the dice-value. If necessary addition and subraction may be added. Thus, by example, 2d6+4 would mean the sum of two six-sixed dice plus 4, a range of 6 to 16, 3d6 would mean the sum of three six-sided die rolls giving a range of 3 to 18, d100 would represent the percentage value explained above. 
 
@@ -154,7 +154,7 @@ Standard dice notation is used throughout Papers and Paychecks; a quantity of di
 
 The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 die roll to be used in dramatic circumstances, either tactical or strategic. This is applied with characteristic and skill bonus plus environment modifiers against a target number which will vary according to the difficulty of the task. As Quick Resolution of the target numbers the following table can be used, with Target Numbers equating to the difficulty for "an average person" without modifications from specialist training, and as if negative modifiers for lacking such training existed. These target numbers can be used as a "quick and dirty" alternative to the more explicit detailed modifiers used described in chapter 2. However a couple of warnings; use one or the other, but not both at the same time, and for The Boss, be consistent.
 
-> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the quick resolution method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages of rats by trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a c3m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attemps the same jump should also have the same difficulty - and as it should be in the future. Don't forget it!
+> For example, A Boss decides to reserve the detailed calculations in the rules for strategic actions and the quick resolution method for fast, tactical circumstances. In a series of unfortunate events our workers find themselves transporting several cages of rats by trolley through a sewer system underneath a campus - however they reach a point where it the only way across is a 3 m standing jump with a caged rat in a wet and dark environment, a difficulty that The Boss quickly decides is "Tough". The next character that attempts the same jump should also have the same difficulty - and as it should be in the future. Don't forget it!
 
 | Difficulty		| Rating	|
 |-----------------------|---------------|
@@ -169,16 +169,16 @@ The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 d
 
 The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, the have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
 
-If the success is just equal to the value they receive a marginal success, but with consequences, determined by The Boss. If the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. The player may decide to forgo the success and have a failure without consequences. If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
+If the success is just equal to the value the player has two choices. First, the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. Alternatively, the player may decide to forgo the success and have a failure without consequences. If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
 
 > "Wait, every marginal success is also a failure?"
 > "Yes, welcome to *Papers & Paychecks*, a world where... things are against us!
 
-The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average Taks), a further consequnce is applied in addition to the failure.
+The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average task), a further consequence is applied in addition to the failure.
 
 Note the initial sentence that the die roll is to be used "used in dramatic circumstances". If a character is sufficiently unhurried or has sufficient resources they can opt to ignore the die roll at take a flat 7 plus modifiers result instead; these are 'prosaic circumstances'. By 'prosaic' this means that the character has at least twice the time to take than what would be required for a dramatic action, or in the case of financial transactions, they are able to pay twice the cost. In a sense, characters are caught in the famous project management trilemma; good, cheap, or fast - pick two.
 
-Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
+Regardless of whether a situation is 'dramatic' or 'prosaic', modifiers to a given check or roll 'stack' (i.e., combine for a cumulative effect) if they come from different sources, but do not stack if they have the same source (e.g., two uses of a skill roll).
 
 ## 0.5 Glossary
 
@@ -200,7 +200,7 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Player**: A real-life participant in the game. Players either manage the behaviour of Player-Characters in the game (c.f.,) or, in a particular case, take up the special role of The Boss. All players have a 'social contract' with other players to help keep the game enjoyable and interesting for everyone. Also known as "Rule 0.5", it is famously expressed by roleplayer Will Wheaton during his keynote speech at the Penny Arcade Expo (PAX) in August 2007: "Don't be a dick".
 
-**Prosaic Action**: Any check that does not require a roll of the dice, and does not represent a situation where the character is vexed by uncertainity or narrative tension. The character opts for an average result instead of a normal die roll, but undergoes the same scope of results as a 'Dramatic Action'.
+**Prosaic Action**: Any check that does not require a roll of the dice, and does not represent a situation where the character is vexed by uncertainty or narrative tension. The character opts for an average result instead of a normal die roll, but undergoes the same scope of results as a 'Dramatic Action'.
 
 **Quick Resolution**: Where a Target Number for a skill or knowledge is assigned 'on the fly' based on a description of the circumstances. This should be consistent if the characters encounter the same task.
 
@@ -210,9 +210,7 @@ Regardless of whether a situation is 'dramatic' or 'prosiac', modifiers to a giv
 
 **Strategic Action**: Involved actions by a character which can be carried out within a four-hour time-frame. Also known as a *turn*.
 
-**Worker**: A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidiuous.
-
-**Wounds**: Deadly physical, mental, or social damage. When a character is reduced to zero wounds they are either dead, insane, or incarcerated. In either situation the character is out-of-the-game.
+**Worker** A character in Papers & Paychecks who works, *almost* synonymous with NPC or PC. Distinguished from "worker", which can refer to any almost character. *Owners* tend to stay out of play and behind the scenes, making them even more insidious.
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/vealfattening.jpg" />
 
@@ -252,15 +250,15 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > (Mary's player rolls a 2d6 plus their bonuses, scoring a total of 8 - a bare success, with consequences.)
 > 
-> Mary: Just as well that was one of main skills. Now please let us have a coffee!
+> Mary: Just as well that was one of my main skills. Now please let us have a coffee!
 > 
-> (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consquence. It will make for a good event in another scene)
+> (The Boss considers having the milk in fridge go off, but decides against it, for now - and notes it down as a future consequence. It will make for a good event in another scene)
 > 
 > *The Boss*: Well now you all have coffee according to your preferred tastes. You are in the meeting room preparing the activities for the week. Walter's phone rings. It's the head of department, Professor Fleur Power.
 > 
 > *Walter*: I suppose I'd better answer it. "Hello professor! How can we help you this fine day?"
 > 
-> *The Boss*: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
+> *The Boss*: Professor Power complains about the weather. However she does mention that the Dean has received a message that the Minister of Health is making a surprise visit and that there needs to be a breakthrough this week on cardiovascular disease to receive more funding.
 > 
 > *Walter*: "Umm.. The Minister does know that that we just can't generate scientific discoveries like that?"
 > 
@@ -307,7 +305,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *Seth*: Maybe if we just temporarily move somebody else's directory? What else is there?
 > 
-> *The Boss*: Well there's a large dataset of the early detection of schizophrenia in adolescents...
+> *The Boss*: Well there's a large dataset on the early detection of schizophrenia in adolescents...
 > 
 > *Mary*: You can move that data to one of the local drives - here on my personal computer.
 > 
@@ -323,9 +321,9 @@ All player characters start with a Luck rating of 3 points. As a meta-game chara
 
 > Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as the wish - even for or against other characters.
 
-During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disasterous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck poin for making life difficult for their own character. 
+During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disastrous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck point for making life difficult for their own character. 
 
-On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs Workers for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the resesntialist environment.
+On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs Workers for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the Resisentialist environment.
 
 Keep in mind that these are an metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
 
@@ -333,27 +331,27 @@ Note that for certain NPCs or items of equipment, the Boss may allocate Luck poi
 
 ## 1.3 Background
 
-The Background of a character in *Papers & Paychecks* initially consists of their starting wealth. In a general sense the price of a good equals the price of the good in the location of the game's setting, around 2016-2017 which is presumed to be in a advanced economy (e.g., North America, Europe, Australia, New Zealand, Japan, Republic of Korea). In "Papers and Paychecks" characters have a starting wealth along with the income that they receive according to their level and profession. Starting wealth is random, based on a 2d6 roll, times $1000. This random roll also determines the net value of the character's inheritence. The value of this inheritence will be ten times the character's starting wealth.
+The Background of a character in *Papers & Paychecks* initially consists of their starting wealth. In a general sense the price of a good equals the price of the good in the location of the game's setting, around 2016-2017 which is presumed to be in a advanced economy (e.g., North America, Europe, Australia, New Zealand, Japan, Republic of Korea). In "Papers and Paychecks" characters have a starting wealth along with the income that they receive according to their level and profession. Starting wealth is random, based on a 2d6 roll, times $1000. This random roll also determines the net value of the character's inheritance. The value of this inheritance will be ten times the character's starting wealth.
 
-The time that this inheritence is received will be on the (2d6*2) + 20th year of the character. This value will typically be kept in secret by the The Boss as part of the character's development. Note that a player may spend a Luck Point to determine exactly what age they will receive their inheritence and, in some cases, this may even occur before the start of play.
+The time that this inheritance is received will be on the (2d6*2) + 20th year of the character. This value will typically be kept in secret by the The Boss as part of the character's development. Note that a player may spend a Luck Point to determine exactly what age they will receive their inheritance and, in some cases, this may even occur before the start of play.
 
-> Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritence received, which make a total of 24 years when I receive a cool $1.2 million."
+> Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritance received, which make a total of 24 years when I receive a cool $1.2 million."
 > 
 > "You are *cold*", responds the Boss.
 > 
 > "But only for the greater good!", the player retorts.
 
-Other background features should be derived from the initial wealth roll. Characters with a high initial wealth, for example, will typically come from good neighbourhoods with a stable family life. At the other end of the scale are the poor in their tenement housing in their rough neighbourhoods with above average incidence of petty drug problems, violence and property crimes. As the distribution would indicate, most people fit around the middle.
+Other background features should be derived from the initial wealth roll. Characters with a high initial wealth, for example, will typically come from good neighbourhoods with a stable family life. At the other end of the scale are the poor in their tenement housing in their rough neighbourhoods with above average incidence of petty drug problems, violence, and property crimes. As the distribution would indicate, most people fit around the middle.
 
 Whilst it is rarely necessary when a player initially generates their character, over time a player may develop a complex background and current history for their character, including relations with immediate family, close friends, intimate associations, rivals and enemies and so forth. Such a background can provide a rich resource for The Boss to develop scenarios and a well-developed and probable background will receive rewards in the form of having such associated characters being part of the project scenarios and with the reward of Luck Points.
 
 ## 1.4 Characteristics
 
-Characteristics are the basic attribitues of a *Papers and Paychecks* character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Perception (PER), and Charisma (CHA). 
+Characteristics are the basic attributes of a *Papers and Paychecks* character. They are used to determine innate abilities which are not augmented by skills, and they determine the default values for various skills. As with numerous other games, Characteristics are determined by the sum of a 3d6 rolls, six times in order, for Strength (STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Perception (PER), and Charisma (CHA). 
 
 Players are reminded of their Luck Rating (1.2) and may wish to take the opportunity to use at least one point when generating these values. "Papers and Paychecks" is "realistic" insofar that characteristics are random, but "narrativist", in the sense that players can intervene if they so choose to ensure that they have the sort of character they want. 
 
-Characters in *Papers and Paychecks* have level one starting age based on their profession. However as the age category for all level one characters is based on the "young adult" age category the practical effect is that they will begin with the same range of characteristic values. Again, as a "realistic" game there is significant modifications according to age. The effects of each aging step are non-cumulative.
+Characters in *Papers and Paychecks* have level one starting age based on their profession. However as the age category for all level one characters is based on the "young adult" age category the practical effect is that they will begin with the same range of characteristic values. Again, as a "realistic" game there is significant modifications according to age. The effects of each ageing step are non-cumulative.
 
 |Starting Age		| Character Profession	|
 |-----------------------|-----------------------|
@@ -374,7 +372,7 @@ Characters in *Papers and Paychecks* have level one starting age based on their 
 | Old Age (60 to 79)	| -30% to Dex, -20% to Str, Con, +20% to Wis, Cha |
 | Venerable (80+)	| -50% to Dex, -30% to Str, Con, +30% to Wis, Cha |
 
-Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporting both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating gradual change throughout the species along with epigenetic influences as well. The Boss should keep these distributions in mind when generating NPC. Player-characters may, of course, choose whatever sex or ethnic background that they desire regadless of die-roll results.
+Sexual dimorphism in the human species across cultures is a well-documented reality; in game terms this would mean that female characters would, on average, have a Strength attribute about 10% less (incorporating both size and health), but a bonus Dexterity of around 10% more. Likewise 'racial' (clinal) differences indicating, from a zoological point of view, a minimal gradual change in average physical characteristics throughout the species along with epigenetic influences on all characteristics as well. The Boss should keep these distributions in mind when generating NPC. Player-characters may, of course, choose whatever sex or ethnic background that they desire regardless of die-roll results.
 
 The result of the 3d6 roll gives a range of 3-18. A universal table for bonuses or penalties for characteristic values is applied for skill tests similar tests when the characteristic in question is invoked. In addition the bonus multiplied by 10% is used for pay for relevant professions and for Wisdom to represent their prudent expenditures and investments. 
 
@@ -396,7 +394,7 @@ For example, a character with a Strength of 18 will receive a +4 bonus for all S
 
 In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
-**Strength**: Strength represents their mass, musculture, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
+**Strength**: Strength represents their mass, musculature, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
 
 **Intelligence**: Intelligence is a combination of a character's memory, reasoning, and general education. Almost the reverse of Strength, it is not used for many unskilled actions with the exception of occasional pure logic problems or general knowledge questions, but it is used a great deal as the default value for many skills. Intelligence is a major factor in the number of skill points a character acquires per level; 4 + the character's INT bonus (a character can have as low as 0 skill points per level, i.e. "too stupid to learn"). Intelligence also sets a hard limit to the number of skill points that a character can invest.
 
@@ -413,17 +411,17 @@ In addition to the aforementioned primary characteristics there is also a number
 
 ## 1.5 Professions
 
-"Papers and Paychecks" has six character professions, each of which has a related primary characteristic. The player chooses which character profession they belong to and in most cases will select the profession with that primary characterstic. Not only are many of the character's activities most successful with that related value, but they will also receive a pay bonus.
+"Papers and Paychecks" has six character professions, each of which has a related primary characteristic. The player chooses which character profession they belong to and in most cases will select the profession with that primary characteristic. Not only are many of the character's activities most successful with that related value, but they will also receive a pay bonus.
 
-The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strenth of 18, would receive a 40% bonus in their paycheck.
+The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strength of 18, would receive a 40% bonus in their paycheck.
 
-As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
+As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquiring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
 
-This is also a "class and level" game. The "classes" are, of course, represented by the various professions. Unlike however traditional games, the "class" is not a straight-jacket which restricts the character, in "Papers and Paychecks" the profession is a flexible set of options. Characters may also change their profession as they wish, and often a character will have multiple professions representing a change in employment (e.g., a level 4 Labourer and level 6 Tradesperson). The character will receive the payrate according to the work that they are currently doing. If this sounds unfair, ask a migrant cleaner with a PhD in nuclear physics how they feel about it.
+This is also a "class and level" game. The "classes" are, of course, represented by the various professions. Unlike however traditional games, the "class" is not a straight-jacket which restricts the character, in "Papers and Paychecks" the profession is a flexible set of options. Characters may also change their profession as they wish, and often a character will have multiple professions representing a change in employment (e.g., a level 4 Labourer and level 6 Technician). The character will receive the pay rate according to the work that they are currently doing. If this sounds unfair, ask a migrant cleaner with a PhD in nuclear physics how they feel about it.
 
-Each character has a level, representing their pay band and the base net wages that they receive. This level is determined by how many "projects" that they have completed, a "project" being the equivalent of a "scenario" in a fantasy RPG. On average, a character can expect to participate in one project per annum. Different professions have different starting ages, and different rates of pay. 
+Each character has a level, representing their pay band and the base net wages that they receive. This level is determined by how many "projects" that they have completed, a "project" being the equivalent of a "scenario" or “adventure” in a fantasy RPG. On average, a character can expect to participate in one project per annum. Different professions have different starting ages, and different rates of pay. 
 
-The abstract level rate of advancedment is however the same, depending on the number of projects completed. *Papers & Paychecks_ assumes that low-level characters will undergo one or perhaps two major projects in an exceptional, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
+The abstract level rate of advancement is however the same, depending on the number of projects completed. *Papers & Paychecks assumes that low-level characters will undergo one or perhaps two major projects in an exceptional year, with the rest of their time engaging in operational work. As a result the sum total of a character's level can be used to estimate the character's age as well, at least at low levels. At higher levels however it is not unusual for characters to become more project-focussed. Very experienced and successful characters may find that they are constantly in project roles, as major troubleshooters.
 
 | Level | Projects | Reputation	| Average Age |
 |-------|----------|------------|-------------|
@@ -438,11 +436,11 @@ The abstract level rate of advancedment is however the same, depending on the nu
 | 9	| 34       | +3		|     50      |
 | 10	| 65       | +4		|     58      |
 
-The Reputation value of a character represents how well known they are to others. Simply roll 2d6 and add the bonus as determined from their level and attempt to achieve a difficulty value according to the level of detail and the social distance. Remembering a co-worker's name (+3) who works on the same floor (+3), for example, is a 'very easy' task (+6). Remembering a two-year old project (-3) which a worker in a different company (-4) was involved in would be 'nearly impossible' (-7), assuming that in both cases the character is 6th level.
+The Reputation value of a character represents how well known they are to others. Simply roll 2d6 and add the bonus as determined from their level and attempt to achieve a difficulty value according to the level of detail and the social distance. Remembering a co-worker's name (+3) who works on the same floor (+3), for example, is a 'very easy' task (+6). Remembering a two-year old project (-3) in which a worker in a different company (-4) was involved in would be 'nearly impossible' (-7), assuming that in both cases the character is 6th level.
 
 Each level brings improvements to a character based on their profession. This includes improvements to skills and knowledges and acquisition of new perks. To represent personality development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
 
-Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderul that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
+Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderful that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
 
 ### 1.5.1 Labourer
 
@@ -471,7 +469,7 @@ Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Knowledge (General), Language (various)
  
-Description: A scientist works with their mind for the livelihood. Typically found in academia and research industries, scientists are rather notorious for having detailed knowledge on specific subjects, and not much in the way of practical skills. As a result their office-environments are often an "sheltered workshop for the intellectually able". Despite their intelligence, they are often subject to unkind comments about their social skills, pay rates, and sometimes even personal hygiene. In turn, scientsist will smile and ponder the myriad of ways to remove the nuclear force that holds their interlocutors atoms together. Scientists have average pay, some unusual perks, and have a late starting age. 
+Description: A scientist works with their mind for the livelihood. Typically found in academia, research industries, and in hospitals, scientists are rather notorious for having detailed knowledge on specific subjects, and not much in the way of practical skills. As a result their office-environments are often an "sheltered workshop for the intellectually able". Despite their intelligence, they are often subject to unkind comments about their social skills, pay rates, and sometimes even personal hygiene. In turn, scientists will smile and ponder the myriad of ways to remove the nuclear force that holds their interlocutors atoms together. Scientists have average pay, some unusual perks, and have a late starting age. 
 
 | Level | Wage     | Perks		   |
 |-------|----------|-----------------------|
@@ -492,7 +490,7 @@ Prime Requisite: Wisdom
 Starting Age: 15+1d6
 Profession Skills: Craft (Computing), Knowledge (General), Administration, Profession, Sleight, Concentration, Sense (various), Act, Lie
 
-Description: An administrator works with their judgement for their livelihood. Stunningly practical in the intellectual sense, it is administrators who are often the real backbone of an organisation ensuring that the paperwork is filled properly, the bills are paid on time, and the stationery cabinet stock is up-to-date. Despite this they are usually looked down upon by the supposed geniuses and decision-makers in an organisation who would otherwise forget these mundane tasks. Those who are wise know however that the administrators are the true power behind any company - which is why wise people often become administrators. They have some rather practical and surprising perks, which makes up for some unspectacular pay. Administrators start young in life.
+Description: An administrator works with their judgement for their livelihood. Stunningly practical in the intellectual sense, it is administrators who are often the real backbone of an organisation ensuring that the paperwork is filled properly, the bills are paid on time, and the stationery cabinet stock is up-to-date. Despite this they are usually looked down upon by the supposed geniuses and decision-makers in an organisation who would otherwise forget these mundane tasks. Those who are wise know however that the administrators are the true power behind any company - which is why wise people often become administrators. They have some rather practical and surprising perks, which makes up for unspectacular pay. Administrators start young in life.
 
 > Just-In-Time" becomes "Shit-Out-Of-Luck" pretty quickly.   
 > David Wiegleb, Jan 24, 2017
@@ -516,7 +514,7 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d6
 Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
-Description: A tradesperson works with their clever hands for their livelihood with a variety of practical physical skills. If it is a electro-mechanical device and it's broken, the tradeperson can fix it. This represents not only those professions in the manufacturing industry, or construction, but also the hands-on specialist technical workers. Tradespeople start off with poor renumeration, but one which improves over time. They start their career at a young age.
+Description: A tradesperson works with their clever hands for their livelihood with a variety of practical physical skills. If it is a electro-mechanical device and it's broken, the tradesperson can fix it. This represents not only those professions in the manufacturing industry, or construction, but also the hands-on specialist technical workers. Tradespeople start off with poor renumeration, but one which improves over time. They start their career at a young age.
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
@@ -601,19 +599,19 @@ There are few Strength based skills, but they have a wide application. Strength-
 
 **Athletics (Strength)**
 
-An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculture. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints and hurdles.
+An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculature. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints, and hurdles. {if incorporate melee into this add combat sports like boxing, wrestling, brawling etc}
 
 **Athletics (stamina)**
 
-A Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, long distance running etc.
+An Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, triathlons, free-diving, long distance running, etc. Many workplace social cliques revolve around cycling, jogging, and other endurance activities.
 
 **Climb**
 
-A Climb check is used whenever a character is required to move along a steep incline, defined as 45 degrees or more. Encumbrance penalties apply to Climb checks.
+A Climb check is used whenever a character is required to move along a steep incline, defined as 45 degrees or more. Encumbrance penalties apply to Climb checks. Rock climbing is often included in dreaded 'team building retreats'.
 
 **Intimidate**
 
-An Intimidate check is used when a character wishes to make another character comply to their wishes through use of a physical threat.
+An Intimidate check is used when a character wishes to make another character comply to their wishes through use of a physical threat. See also 'Bully'.
 
 **Jump**
 
@@ -671,7 +669,7 @@ A Knowledge (Laws - specialisation) skill check is used whenever a character wis
 
 **Knowledge (Sciences)**
 
-A Knowledge (Sciences - specialisation) skill check is required whenever a character wishes to evaluate objective facts. This includes broad scientific disciplines, both physical and social (biology, physics, chemistry, engineering, economics, medicine, sociology, history, psychology), institutions (research bodies, universities), and people (various scientists according to broad discipline).
+A Knowledge (Sciences - specialisation) skill check is required whenever a character wishes to evaluate objective facts. This includes broad scientific disciplines, both physical and social (biology, physics, chemistry, engineering, economics, medicine, sociology, history, psychology), institutions (research bodies, universities), and people (various scientists according to broad discipline). Note that first aid is covered by the Survival skill.  
 
 **Knowledge (Philosophy)**
 
@@ -711,11 +709,11 @@ A Profession skill check is made to indicate how well a character satisfies the 
 
 **Survival**
 
-A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional  specialiations. In all cases, Survival includes first aid knowledge.
+A Survival skill check is made whenever a character is unable to access shelter and nutrition a manner mediated by position or finance. In other words, they're not renting but squatting, and not buying food, but scrounging and scavanging food. The most application of the skill in *Papers & Paychecks* is in the urban environment, it can also be used for various wilderness settings (grasslands, desert, ocean, woodlands, jungle). All of these are optional  specialiations. In all cases, Survival includes first aid knowledge. Most workplaces are required to have a designated qualified first aid officer
 
 ### Dexterity Based Skills
 
-There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training, except for the Craft skills which are at -6, as component knowledge is required.
+There are several Dexterity based skills and they tend to have an average focus. Dexterity-based skills have a default of -4 for the unskilled, existing in the middle of influence of natural ability and training, except for the Craft skills which are at -6, as component knowledge is required.
 
 **Craft (electronic)**
 
@@ -727,15 +725,15 @@ A Craft (mechanic) skill check is used to build and repair mechanical equipment,
 
 **Craft (structural)**
 
-A Craft (structural) skill check is used when a character is producing various items related to the home, building and construction industry from various materials including wood, metal, or concrete. It includes various furnishings and fittings, structural painting, plastering, tiling, cement laying, plumbing, and building electrics, all of which can be taken as optional specialisations.
+A Craft (structural) skill check is used when a character is producing various items related to the home, building and construction industry from various materials including wood, metal, plastic, or concrete. It includes various furnishings and fittings, structural painting, plastering, tiling, cement laying, plumbing, and building electrics, all of which can be taken as optional specialisations.
 
 **Craft (visual art)**
 
-A Craft (visual art) skill check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellry, sculpture, and video, all of which can be taken as optional specialisations.
+A Craft (visual art) skill check is used when a character is engaging in the production, repair, or restoration of items of fine art through an object medium (i.e., excluding acting, music, etc). This includes painting, jewellery, sculpture, and video, all of which can be taken as optional specialisations.
 
 **Firearms**
 
-A Firearms skill check is used whenever a character uses a portable baralled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anarchronisms such as muskets and crossbows. 
+A Firearms skill check is used whenever a character uses a portable barelled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anarchronisms such as muskets and crossbows. {what about tasers?}
 
 **Gymnastics**
 
@@ -751,15 +749,15 @@ A Pilot skill check is used when a character is operating a vehicle. Typically t
 
 **Ride**
 
-A Ride skill check is used when a character is operating an animal as a mount, or operating a human-powered vehicle (the "animal" is the driver). This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amount modern office-workers.
+A Ride skill check is used when a character is operating an animal as a mount, or operating a human-powered vehicle (the "animal" is the driver). This usually means a horse or camel, or more rarely elephants. Despite popular culture references it usually doesn't include bears or dire wolves. Specialisation is required, but there is an association between similar mounts. Note that this is a fairly rare skill amont modern office-workers.
 
 **Sleight**
 
-A Sleight skill check is used when a character is engaging is various acts that use both deception and fine-finger control; this includes various stage magic tricks, palming objects, and pickpocketing.
+A Sleight skill check is used when a character is engaging is various acts that use both deception and fine-finger control; this includes various stage magic tricks, palming objects, pickpocketing, and slipping rats into lab-coat pockets. In an office setting often used to "borrow" staplers and other high value stationary.
 
 **Stealth**
 
-A Stealth skill check is used when a character is hiding, stalking, or shadowing other characters or even animals. Note that for Stealth activities the inverse of the STR modifier is also often applied. 
+A Stealth skill check is used when a character is hiding in broom closets, stalking, or shadowing other characters or even animals. Note that for Stealth activities the inverse of the STR modifier is also often applied. The smaller you are the easier the skill and vice-versa.
 
 ### Perception Based Skills
 
@@ -775,7 +773,7 @@ A Sense skill check is made when a character applies their senses to make an eva
 
 ### Charisma Based Skills
 
-There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the natural ability of the character.
+There are few Charisma based skills, but they have a wide application. Charisma-based skills have a default of -2 for the unskilled, recognising that these skills are heavily influenced by the natural ability of the character.
 
 **Act**
 
@@ -783,11 +781,11 @@ An Act skill check is made when a character attempts to take on a role and prete
 
 **Carousing**
 
-A Carousing skill check is made when a character is engaging in imbibing in intoxicating drinks and other recreational pharmaceuticals, dancing like nobody is watching, and generally being the life of party.
+A Carousing skill check is made when a character is engaging in imbibing in intoxicating drinks and other recreational pharmaceuticals, dancing like nobody is watching, and generally being the life of party. An essential skill for making the most of conference networking opportunities.
  
 **Bully**
 
-A Bully skill check is made when a character attempts to make another character or characters comply with threats, stated or implied. Bullying is significantly more difficult if the bullier lacks social position or is attempted against a group of people.
+A Bully skill check is made when a character attempts to make another character or characters comply with threats, stated or implied. Bullying is significantly more difficult if the bullier lacks social position or is attempted against a group of people. In the *Papers & Paychecks* world this skill is frequently used by work-place superiors.
 
 **Inspire**
 
@@ -801,27 +799,27 @@ A Lie skill check is an attempt to mislead whether by blather, emphasis, omissio
 
 > "Challenge, and not desire, lies at the heart of seduction.", Jean Baudrillard, *The Ecstasy of Communication*, 1987
 
-A Seduce skill check is made when a character wishes to lead another character astray (Latin: *seducere* "to lead astray"). This typically mean to persuade the other character to engage in sexual behaviour, but the same skill can be used for bribery or other dereliction of duty as seduction involves significant use of metaphor and enticement. 
+A Seduce skill check is made when a character wishes to lead another character astray (Latin: *seducere* "to lead astray"). This typically means to persuade the other character to engage in sexual behaviour, but the same skill can be used for bribery or other dereliction of duty as seduction involves significant use of metaphor and enticement. Similarly, inducing another to consume too many beverages at the office Christmas party would be another use of this skill.
 
 ## 1.7 Perks
 
 **Apprentice**
 
-With the Apprentice perk, a character has assigned to them a 1st level character of the same profession, sometimes referred to as "archaic" by archiac speakers. The Apprentice will be mostly loyal and mostly enthusiastic, carrying out the tasks allocated to them by the main character. Each time the Apprentice advances a level, a check with a target number of 11 is required, adding the character's CHA modifier. If failed, the Apprentice has spread their wings and found a new employer.
+With the Apprentice perk, a character has assigned to them a 1st level character of the same profession. The Apprentice will be mostly loyal and mostly enthusiastic, carrying out the tasks allocated to them by the main character. Each time the Apprentice advances a level, a check with a target number of 11 is required, adding the character's CHA modifier. If failed, the Apprentice has spread their wings and found a new employer.
 
 **Augury**
 
-With the Augury perk a character can seemingly predict the future. In reality it is the result of carefuly research, planning, and insight. After a successful strategic research check a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
+With the Augury perk a character can seemingly predict the future. In reality it is the result of careful research, planning, and insight. After a successful strategic research check a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
 
 **Bureaucratic Dodge**
 
-With the Bureaucratic Dodge perk, the character can avoid red tape. Three times each project the character has the capacity to simply avoid any administrative or organisational blocker within their own organisation and move to their next contact or obtain the appropriate documentation etc, through the use of a particular organisational rules (e.g., invoking an occupational health and safety clause, a fire regulation, etc.
+With the Bureaucratic Dodge perk, the character can avoid red tape. Three times each project the character has the capacity to simply avoid any administrative or organisational blocker within their own organisation and move to their next contact or obtain the appropriate documentation etc, through the use of a particular organisational rules (e.g., invoking an occupational health and safety clause, a fire regulation, workplace equity policies, etc.)
 
 **Conference Attendance**
 
-With the Conference Attendance perk once per project a character may attend an expenses paid (accommodation, flight, meals) international conference. Depending on the subject matter the Conference will provide a +1 bonus to skill checks made in the current project that are relevant from the conference subject, a contact, plus one item of new equipment from a trade stand valued no more than $1000. Note that the conference subject is determined before the project. 
+With the Conference Attendance perk once per project a character may attend an expenses paid (accommodation, flight, meals) international conference. Depending on the subject matter the Conference will provide all of the following: a +1 bonus to skill checks made in the current project that are relevant from the conference subject, a contact, plus one item of new equipment from a trade stand valued no more than $1000. Note that the conference subject is determined before the project. 
 
-> Watch this one; whilst normally it is a matter for the player to determine what the conference was, along with the contact and equipment, The Boss might intervene and determine these. This is typically a good thing as it means that the character will have a necessary role in the plot. Or The Boss is invoking a particularly nasty consequence. 
+> Watch this one; whilst normally it is a matter for the player to determine what the conference was, along with the contact and equipment, The Boss might intervene and determine these. This is typically a good thing as it means that the character will have a necessary role in the plot. Alternatively The Boss could be invoking a particularly nasty consequence. 
 
 **Chutzpah**
 
@@ -835,7 +833,7 @@ By spending two strategic turns researching a particular topic a character may g
 
 The Department Manager enables the character to have CHA+Level-3 *teams* assigned to them, in the same manner as the Team Leader. Each team provides an extra 10% bonus to the base pay.
 
-> What? Did you seriously expect that you'd become the head of the company? Ha! You work for the man for forty years of your life and you'll get to be Vice-President. No further.
+> What? Did you seriously expect that you'd become the head of the company? Ha! You work for forty years of your life and you'll get to be Vice-President. No further.
 
 **Ego Whip**
 
@@ -843,11 +841,11 @@ With the Ego Whip perk the character gains the ability to creatively to identify
 
 **Intellect Fortress**
 
-With the Intellect Fortress perk the character gains bonus hit points equal to their best skill level (not including characteristics) and distributed between the social, mental, and physical hit points. These cannot be healed, are the first points which are removed as a result of combat, but can "regenerate" between projects. They represent an force of will based on the character's own extended sense of self - and that can be chipped away by others.
+With the Intellect Fortress perk the character gains bonus hit points equal to their best skill level (not including characteristics) and distributed equally between the social, mental, and physical hit points. These cannot be healed, are the first points which are removed as a result of combat, but can "regenerate" between projects. They represent an force of will based on the character's own extended sense of self - and that can be chipped away by others.
 
 **Id Insinuation**
 
-With the Id Insinuation perk the character gains the ability to question the motives of an opposing character suggesting that they are being inspired by base desires, leading to an internal moral response of the character against themselves. A character who invokes this attack gains a +2 bonus in social combat. It may only be used once per target, per encounter. The attack counts as an action.
+With the Id Insinuation perk the character gains the ability to question the motives of an opposing character suggesting that they are being inspired by base desires, leading to an internal moral response of the opposing character against themselves. A character who invokes this attack gains a +2 bonus in social combat. It may only be used once per target, per encounter. The attack counts as an action.
 
 **Intellect Fortress**
 
@@ -863,7 +861,7 @@ The File system Knowledge perk provide the character the physical and virtual or
 
 **Laboratory Equipment**
 
-The Laboratory Equipmemt perk enables the character to have access to appropriate specialist equipment, such as Bunsen burners, microscopes, laboratory glassware, autoclaves, chemical (especially reagents) and biological safety cabinets. Some skills, such as Craft (chemical) and Craft (pharmaceutical), are not possible without access to a laboratory.
+The Laboratory Equipment perk enables the character to have access to appropriate specialist equipment, such as vacuum ovens, PET scanners, qPCR thermocyclers, cell culture incubators, microscopes, laboratory glassware, autoclaves, chemicals (especially reagents) and biological safety cabinets. Some skills, such as Craft (chemical) and Craft (pharmaceutical), are not possible without access to a laboratory.
 
 **Library Access**
 
@@ -911,7 +909,7 @@ The Superannuation perk is the final reward of a character and is common across 
 
 **Team Leader**
 
-The Team Leader perk enables the character to have CHA+Level-3 other characters assigned to them in the same manner as the Apprentice perk, and subject to the same tests. As with the Appentice the new characters in the Team are also 1st level. Note that if the modifiers reduces the number of team members to zero or less, the character receives no benefit from this perk. Each time the character advances a level, a new 1st level character joins the team. 
+The Team Leader perk enables the character to have CHA+Level-3 other characters assigned to them in the same manner as the Apprentice perk, and subject to the same tests. As with the Apprentice the new characters in the Team are also 1st level. Note that if the modifiers reduces the number of team members to zero or less, the character receives no benefit from this perk. Each time the Team Leader character advances a level, a new 1st level character joins the team. 
 
 **Tower of Iron Will**
 
@@ -932,7 +930,7 @@ Whilst the player is given a choice about the personality values of their Type, 
 
 **Favorite world: Extraversion/Introversion**
 
-Extraversion and Introversion are preferences in MBTI, which may not map to actual activities. In a general sense, Extraverted characters are outward-focussed by preference, whereas Intraverted characters are inward-focussed by preference. This does not mean that extraverted characters necessarily prefer action to thought (or vice-versa for introverts), but rather their actions have different reasons; the extravert will think in order to engage with the extrernal world, the introvert will act in order to engage with their inner world. 
+Extraversion and Introversion are preferences in MBTI, which may not map to actual activities. In a general sense, Extraverted characters are outward-focussed by preference, whereas Intraverted characters are inward-focussed by preference. This does not mean that extraverted characters necessarily prefer action to thought (or vice-versa for introverts), but rather their actions have different reasons; the extravert will think in order to engage with the external world, the introvert will act in order to engage with their inner world. 
 
 Socially, extraverted characters are often engaged in the company of others, and are energised by social interactions, especially with a wide variety of individuals and ideas. Introverted characters prefer smaller close-knit groups, or even their own company. This should not be confused with social anxiety issues; an extraverted character could suffer from stage fright, just as an introverted person could be perfectly fine with other people; they would just *prefer* to bury their nose in a book.
 
@@ -946,17 +944,17 @@ A Sensing character will prefer to recall events as a set of facts, whereas the 
 
 Thinking and Feeling are preferential choices when making decisions in the MBTI. Characters with a Thinking preference tend to look towards internal consistency as their primary source with a degree of detached fairness, whereas characters with a Feeling preference tend towards the particular circumstances and feelings of the people involved.
 
-Characters who prefer Thinking for decision making are not necessarily "thinkers" or more intelligent or rational, and likewise people who have Feeling for decision making are not necessarily more sensate, or even more empathic. The MBTI eveluates preferences, not ability. 
+Characters who prefer Thinking for decision making are not necessarily "thinkers" or more intelligent or rational, and likewise people who have Feeling for decision making are not necessarily more sensate, or even more empathic. The MBTI evaluates preferences, not ability. 
 
 **Orientation: Judging/Perception**
 
-Judging and Perception are perferential choices when orientating one's self to the external world. Characters with a Judging preference prefer an organized and planned approach to life that has a high degree of structure so they can be make contingencies. A Perceiving character has a preference of living that has a higher degree of flexibility and spontaneity so they can adapt to new circumstances.
+Judging and Perception are preferential choices when orientating one's self to the external world. Characters with a Judging preference prefer an organised and planned approach to life that has a high degree of structure so they can be make contingencies. A Perceiving character has a preference of living that has a higher degree of flexibility and spontaneity so they can adapt to new circumstances.
 
-Characters who prefer Judging are not necessarily judgemental, and characters who prefer Perceiving are not necessarily more perceptive. It is an expresssion of how one prefers to organise their interactions with the external world.
+Characters who prefer Judging are not necessarily judgemental, and characters who prefer Perceiving are not necessarily more perceptive. It is an expression of how one prefers to organise their interactions with the external world.
 
 **Game Use**
 
-With an assignment or from random determination, characters will have MBTI values for the four paired values. From here, a bonus is derived in the same manner that is done for characteristics, based on the dominant value of the pair or for the first value if the bonus is +0. When a situation arises when a preference is called (e.g., a matter of world preference, of information gathering, of decision making, of world orientation) the player may optionally roll 2d6 against a target number of 7 (easy) to *guide* their approach, adding the appropriate bonuse. The degree of 'success' above the target number establishes a commitment to a particular approach to the dominant pair, and likewise the degree of 'failure' represents a commitment to the opposite pair.
+With an assignment or from random determination, characters will have MBTI values for the four paired values. From here, a bonus is derived in the same manner that is done for characteristics, based on the dominant value of the pair or for the first value if the bonus is +0. When a situation arises when a preference is called (e.g., a matter of world preference, of information gathering, of decision making, of world orientation) the player may optionally roll 2d6 against a target number of 7 (easy) to *guide* their approach, adding the appropriate bonuses. The degree of 'success' above the target number establishes a commitment to a particular approach to the dominant pair, and likewise the degree of 'failure' represents a commitment to the opposite pair.
 
 For example: Russel Wrench, a mild mannered computer programmer, has randomly determined the paired characteristics: Extraversion 6 (-2) which becomes Introversion (+2), Sensing 9 which becomes Intuition (+1), Thinking 12 (+1), and Judging 14 (+2). The player marks these scores and values in the character sheet under "Personality".
 
@@ -1011,7 +1009,7 @@ The Boss should show interest in how players use these results as it represents 
 
 ## 2.1 Time and Core Mechanic
 
-A brief reiteration of the core mechanic is provided here: 2d6 plus modifiers versus a target number for dramatic actions or a flat 7 plus modifiers versus a target number for prosiac actions. The target number is either determined in a quick method, as provided in section 0.4, _or_ in a detailed method, with modifiers described in this chapter. Do not use both at the same time.
+A brief reiteration of the core mechanic is provided here: 2d6 plus modifiers versus a target number for dramatic actions or a flat 7 plus modifiers versus a target number for prosaic actions. The target number is either determined in a quick method, as provided in section 0.4, _or_ in a detailed method, with modifiers described in this chapter. Do not use both at the same time.
 
 Character actions occur in either a tactical or strategic time-frame. The former is for immediate and quick actions that can be carried out in ten-seconds. The latter is for involved actions carried out over a four-hour time-frame. This implies two tactical actions per shift in a workday (morning and afternoon) with a brief lunch-break in between, or equivalent for night-shift workers.
 
@@ -1026,15 +1024,15 @@ For each multiple of the calculated STR value (i.e., .25 STR, .50 STR, 1.00 STR,
 > "That was so wrong" 
 > Princess Leia, lying in bed with Luke Skywalker, in Robot Chicken: Star Wars, 2007
 
-It is, of course, quite possible for a character to drink so fast that they injest several multiples of alcohol simultaneously, and thus may have to make multiple tests of their degree of alcohol poisoning (or a fiendish individual may force additional alcohol into a person who has already passed out). The fourth to sixth failed checks indicate temporarily waking prior to vomiting, and the eighth and ninth failures indicate vomiting *without* waking. If this occurs they'd better have some friends nearby, otherwise they will be subject to the "Drowning and Suffocation" rules, in addition to taking 1d6 damage per failure due to alcoholic poisoning. This is a method of acquiring permanent fame by some in the music industry. 
+It is, of course, quite possible for a character to drink so fast that they ingest several multiples of alcohol simultaneously, and thus may have to make multiple tests of their degree of alcohol poisoning (or a fiendish individual may force additional alcohol into a person who has already passed out). The fourth to sixth failed checks indicate temporarily waking prior to vomiting, and the eighth and ninth failures indicate vomiting *without* waking. If this occurs they'd better have some friends nearby, otherwise they will be subject to the "Drowning and Suffocation" rules, in addition to taking 1d6 damage per failure due to alcoholic poisoning. This is a method of acquiring permanent fame by some in the music industry. 
 
-A character's effective dosage is reduced by 1 per hour that they do not consumer further alcohol. A character who has failed at least two rolls from a session and then sleeps will be subject to a hangover, unless they undertake sufficient precautions (e.g., a litre of water, 2 paracetomal, and a multivitamin is recommended). If a character has a hangover they must make a standard characteristic roll or be sick as per a second failure. They will also suffer a -2 to all skill rolls for the remainder of the day.
+A character's effective dosage is reduced by 1 per hour that they do not consumer further alcohol. A character who has failed at least two rolls from a session and then sleeps will be subject to a hangover, unless they undertake sufficient precautions (e.g., a litre of water, 2 paracetamol, and a multivitamin is recommended). If a character has a hangover they must make a standard characteristic roll or be sick as per a second failure. They will also suffer a -2 to all skill rolls for the remainder of the day.
  
 **Drowning and Suffocation**
 
-A character's capacity to hold their breath is equal to twice their Constitution score; if they engage in any actions whilst in this situation that counts as an additional round's worth (so an active character can only hold their breath for half as long), exertion is four times the at-rest consumption, and maximun exertion is eight times. Once the character is out of breath, they must make a Constitution characteristic test with a target number of 5, and increasing one per round. If the Constitution check is failed, they fall unconscious (dropping to zero hit points immediately), and will lose one hit point every round from then on. Water is not the only substance a character can drown in. A character can drown in sand, mud, snow, grain etc. Most appropriately, circumstances may occur where a character drowns in paperwork. *Wouldn't that be ironic?*
+A character's capacity to hold their breath is equal to twice their Constitution score; if they engage in any actions whilst in this situation that counts as an additional round's worth (so an active character can only hold their breath for half as long), exertion is four times the at-rest consumption, and maximum exertion is eight times. Once the character is out of breath, they must make a Constitution characteristic test with a target number of 5, and increasing one per round. If the Constitution check is failed, they fall unconscious (dropping to zero hit points immediately), and will lose one hit point every round from then on. Water is not the only substance a character can drown in. A character can drown in sand, mud, snow, grain etc. Most appropriately, circumstances may occur where a character drowns in paperwork. *Wouldn't that be ironic?*
 
-Gradual suffocation uses similar rules to drowning. If there is no availability of air, use the same rules as above. If the body is in an enclosed space the process will be slower. A person trapped in a coffin or a sealed stationary cabinet for example will use up their oxygen supply in approximately five and a half hours. The boot of a car is not sealed so suffocation would not apply, unless the boot has been especially designed to be airtight, and cars themselves are not airtight either. For places that are airtight, multiple the example of the stationary cabinet according to volume. An alternative is the replacement of the existing air supply in a vehicle or other enclosed space (e.g., supplying carbon monoxide to a car). This typically takes several minutes, then apply the general rules for drowning. 
+Gradual suffocation uses similar rules to drowning. If there is no availability of air, use the same rules as above. If the body is in an enclosed space the process will be slower. A person trapped in a coffin or a sealed stationary cabinet for example will use up their oxygen supply in approximately five and a half hours. The boot of a car is not sealed so suffocation would not apply, unless the boot has been especially designed to be airtight, and cars themselves are not airtight either. For places that are airtight, multiply the example of the stationary cabinet according to volume. An alternative is the replacement of the existing air supply in a vehicle or other enclosed space (e.g., supplying carbon monoxide to a car). This typically takes several minutes, then apply the general rules for drowning. 
 
 **Falling**
 
@@ -1047,15 +1045,15 @@ If a character falls each second after that they may attempt at a -5 DEX test to
 
 Similar rules for alcohol also apply to other drugs, that is, there is a standard dose and a constitution break-point at .25 STR, .50 STR, .75 STR, etc, with target number checks at 7, 9, 11 etc. Broad categoies are provided here for "up, down, and sideways", and the Boss should note the typical differences in strength between various versions of the same general drug type and differences in delivery methods, and perscription versus street purity and dosage.
 
-*Amphetamines, Cocaine and Other 'Uppers'*. Therapeutic doses (up to a quarter of a character's STR) are used to stabilise moods, provide alertness, and treat obesity. At this level a character receives +1 INT and suffers no ill short-term effects. From a quarter to a half of their STR in dosage, the character also gains an additional temporary +1 STR and will have an additional strategic move of wakefulness, which will require an additional stragetic move of sleep after the effect wears off. *Burn tomorrow's energy today*. An additional strategic action from half to equal to their STR in doseage, then two times their STR, four times, and so on.
+*Amphetamines, Cocaine and Other 'Uppers'*. Therapeutic doses (up to a quarter of a character's STR) are used to stabilise moods, provide alertness, and treat obesity. At this level a character receives +1 INT and suffers no ill short-term effects. From a quarter to a half of their STR in dosage, the character also gains an additional temporary +1 STR and will have an additional strategic move of wakefulness, which will require an additional strategic move of sleep after the effect wears off. *Burn tomorrow's energy today*. An additional strategic action from half to equal to their STR in dosage, then two times their STR, four times, and so on.
 
-If a character has more than a quarter of their STR in doses, they must make a STR check. A failed check represents nervousness, changes in libido (either increased or reduced, equal chance of either), and increased confidence. A second failed check results in irritability, obsessiveness, and grandoisity, resulting in -1 CHA. A third and fourth failed check indicates an increasingly cumulative effect to negative CHA, as delusions, auditory hallucinations, and paranoia becomes prevalent. Failed checks beyond this represents cardiovascular physical damage of 1d6 per failure, and psychosis of 1d6 mental damage per failure. 
+If a character has more than a quarter of their STR in doses, they must make a STR check. A failed check represents nervousness, changes in libido (either increased or reduced, equal chance of either), and increased confidence. A second failed check results in irritability, obsessiveness, and grandiosity, resulting in -1 CHA. A third and fourth failed check indicates an increasingly cumulative effect to negative CHA, as delusions, auditory hallucinations, and paranoia becomes prevalent. Failed checks beyond this represents cardiovascular physical damage of 1d6 per failure, and psychosis of 1d6 mental damage per failure. 
 
-*Cannabis, Mescaline, LSD, and other 'Sideways'* Therapeutic doses (up to a quarter of a character's STR) of psychoactives are used for anti-nausea and sometimes psychotherapeutic experiments. Given that powerful psychoactives are almost invariably illegal medical research and use is proportionally rare. At a thereapeutic dose, the character gains 1d6 points of healing of mental damage and experiences euphoria. From a quarter to a half of their STR in dosage, the character can gain an additional 1d6 of mental damage or suffer 1d6 mental damage (equal chance of either), but will also experiences hallucinations. Increased doses (at three quarters and equal to the characters STR) has the same cumulative effect. Beyond that, there is no additional effect.
+*Cannabis, Mescaline, LSD, and other 'Sideways'* Therapeutic doses (up to a quarter of a character's STR) of psychoactives are used for anti-nausea and sometimes psychotherapeutic experiments. Given that powerful psychoactives are almost invariably illegal medical research and use is proportionally rare. At a therapeutic dose, the character gains 1d6 points of healing of mental damage and experiences euphoria. From a quarter to a half of their STR in dosage, the character can gain an additional 1d6 of mental damage or suffer 1d6 mental damage (equal chance of either), but will also experiences hallucinations. Increased doses (at three quarters and equal to the characters STR) has the same cumulative effect. Beyond that, there is no additional effect.
 
-*Heroin, Opiates, Barbituates, and other 'Downers'* Therapeutic doses (up to a quarter of a character's STR) are used to provid for pain relief and palliative care, with the immediate side-effects of euphoria and calmness. At this level a character can ignore the physical effects of up to half their STR in damage, and gains +1 WIS and +1 manual DEX with steadyness. From a quarter to a half of their STR in doseage, the character can ignore the effects of up to their STR in damage, and also gains an additional temporary +1 WIS. There is no additional benefit from further doseage.
+*Heroin, Opiates, Barbiturates, and other 'Downers'* Therapeutic doses (up to a quarter of a character's STR) are used to provide for pain relief and palliative care, with the immediate side-effects of euphoria and calmness. At this level a character can ignore the physical effects of up to half their STR in damage, and gains +1 WIS and +1 manual DEX with steadiness. From a quarter to a half of their STR in dosage, the character can ignore the effects of up to their STR in damage, and also gains an additional temporary +1 WIS. There is no additional benefit from further dosage.
 
-If a character has more than a quarter of their STR in doses, they must make a STR check. A failed check represents nausea, vomiting, and stumbling with -2 DEX. A second failed causes immobility as the character collapses in place. A third failed introduces stupor, being unable to move or react, a fifth unconsciousness, a sixth a deep unconsciouness with a medical skill is required to revive the character and eighth and additional failed checks resulting in corony failure with 1d6 physical damage.
+If a character has more than a quarter of their STR in doses, they must make a STR check. A failed check represents nausea, vomiting, and stumbling with -2 DEX. A second failed causes immobility as the character collapses in place. A third failed introduces stupor, being unable to move or react, a fifth unconsciousness, a sixth a deep unconsciousness with a medical skill is required to revive the character and eighth and additional failed checks resulting in coronary failure with 1d6 physical damage.
 
 ## 2.3 Tactical Task Resolution
 
@@ -1083,7 +1081,7 @@ A defensive stance effectively uses a standard action to add to the character's 
 
 **Bully**
 
-A successful Bully check, contested by an opponent's Wisdom check, persuades another character to attempt to behave in a certain way by use of real or implied threats. The ability to Bully is significantly altered by the quantity of people that the attempt is applied against (individuals in a group get their own check and a bonus for being part of a group), the demanded action, and the position of the attacker. An interesting aspect of the Bully skill is that whilst it is tactical, the effects are strategic and ablative; an additional Wisdom check, at +1 per strategic turn of work, is allowed, until the bullied target succeed. A single check is made for the number of consective standard actions taken on a Bully check.
+A successful Bully check, contested by an opponent's Wisdom check, persuades another character to behave in a certain way by use of real or implied threats. The ability to Bully is significantly altered by the quantity of people that the attempt is applied against (individuals in a group get their own check and a bonus for being part of a group), the demanded action, and the position of the attacker. An interesting aspect of the Bully skill is that whilst it is tactical, the effects are strategic and ablative; an additional Wisdom check, at +1 per strategic turn of work, is allowed, until the bullied target succeed. A single check is made for the number of consecutive standard actions taken on a Bully check.
 
 1 standard action of Bullying -2 
 2 standard actions of Bullying -1
@@ -1097,7 +1095,7 @@ Single target +0
 Two targets -1
 Three targets -2
 Four targets -3
-etc	-1
+etc
 
 Bully in superior position in organisation +0
 Bully in direct managerial position over target +2
@@ -1137,7 +1135,7 @@ Less than 10cm: -4
 
 A character with one limb missing or unavailable has a penalty of -2 for climbing, and -4 for two limbs missing (it is difficult, but far from impossible for a paraplegic to climb). 
 
-If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall (see Falling, EDIT). 
+If the character has a critical success they can move up to 1/2 their normal speed. If they succeed, or succeed with consequences, they can move at 1/4 of their normal rate. If they fail, they do not move at all. If they critically fail, they will fall (see Falling, 2.2). 
 
 A character's Dexterity whilst climbing for the purpose of avoidance (such as dodging), is equal to the movement modifiers given above (e.g., a character who is moving at 1/4 of their normal Speed will have 1/4 of their normal Dexterity; this will usually mean that they are quite an easy target).
 
@@ -1160,7 +1158,7 @@ The difficulty of a Computing check depends on the activity being carried out.
 | 15 		| Exploit basic security flaws, identity complex security flaws | 
 | 17		| Exploit complex security flaws	|
 
-The number of standard actions taken to carry out an activity very much depends on the scale and complexity of the task. For example, finding a file or keyphrase in a collection of files is either very easy or easy, and will remain of that difficulty regardless of the scale; it is the time that may be of an issue. Conducting such a search on a personal computer (laptop or desktop) will take 3 standard actions, on a small office network of it would take several standard actions, for a large corporate network anywhere up to 1000 standard actions or more. Note however that just a single roll is required; the time taken is the processsing of the search; assume two standard actions to type the command, and then one standard action per personal directory for the processing of a command.
+The number of standard actions taken to carry out an activity very much depends on the scale and complexity of the task. For example, finding a file or keyphrase in a collection of files is either very easy or easy, and will remain of that difficulty regardless of the scale; it is the time that may be of an issue. Conducting such a search on a personal computer (laptop or desktop) will take 3 standard actions, on a small office network of it would take several standard actions, for a large corporate network anywhere up to 1000 standard actions or more. Note however that just a single roll is required; the time taken is the processing of the search; assume two standard actions to type the command, and then one standard action per personal directory for the processing of a command.
 
 Another common activity, especially from player characters, is attempts to bypass computer security. This can be achieved through two basic methods. The first, heavily emulated in various roleplaying games, is to find flaws in the operating system which can be exploited. Whilst it depends on the operating system and how regularly it is patched, the general level of difficulty is quite high. The second, an easier method in many ways, is various forms of social engineering and trickery against users. In this case the exploit depends on how careful the user in question is. Typically user passwords can be obtained from either through brute force, educated guesses, or a well-timed wrench-blow to sensitive areas of their anatomy.
 
@@ -1179,7 +1177,7 @@ Jump is heavily modified by the velocity of the character from the round prior t
 | 16m/round	| +4		|
 | etc		| etc		| 
 
-For a long jump, a horizontal move, the distance is equal to the result in metres. At the midpoint of the jump, the character will have a vertical height of equal to one-quarter of the horizontal distance. For a high jump, a verticle move, the distance jumped is equal to one quarter of the result in meters. 
+For a long jump, a horizontal move, the distance is equal to the result in metres. At the midpoint of the jump, the character will have a vertical height of equal to one-quarter of the horizontal distance. For a high jump, a vertical move, the distance jumped is equal to one quarter of the result in meters. 
 
 This table and description can also be used for characters who find themselves in an unexpected aerial velocity. "Jumping" sometimes is not entirely voluntary.
 
@@ -1454,7 +1452,7 @@ Communications and electronic equipment is various much dependent on technologic
 
 *Camera*: A camera captures still or moving images on either photographic film or electronic sensor. Early cameras use photographic film, whereas more modern versions use digital medium, which has an advantage of improved storage medium. All cameras use the Craft (Visual Art) skill for the production of the art, and Craft (mechanical) or Craft (electronic) for construction, modification, and repairs. Cameras can be generally described as cheap, average, or expensive. Cheap cameras are easy to use (+2 to Visual Art skill), but are capped with a maximum result of 14. Average cameras have no modification to use, but are capped in with a maximum result of 18. Expensive cameras are difficult to use (-2 to Visual Art skill), but have no maximum result cap. All still cameras have a ENC of 1, and cost $100 (cheap), $200 (average), or $400 (expensive). Video cameras have an ENC of 2, and cost $300, $600, and $1200 respectively.
 
-*Mobile Phone, 1980*: From the 1980s to around 1995 mobile phones were oversized, expensive, and with very limited battery life. They have an ENC of 2, and cost $5000, and have approximately an one hour talk time (and a ten hour recharge). They were most common in Scandanavia and Japan.
+*Mobile Phone, 1980*: From the 1980s to around 1995 mobile phones were oversized, expensive, and with very limited battery life. They have an ENC of 2, and cost $5000, and have approximately an one hour talk time (and a ten hour recharge). They were most common in Scandinavia and Japan.
 
 *Mobile Phone, 1990*: In the 1990s the adoption of the 2G GSM network, improved battery technology, and better components reduces the ENC of a mobile phone to 1, the cost to $1000, and increases the talk time to three hours with a five hour recharge.
 
@@ -1462,7 +1460,7 @@ Communications and electronic equipment is various much dependent on technologic
 
 *Mobile Phone, 2010*: In the 2010s, using the 4G WiMAX standard, mobile phones have fully integrated Internet access. Mobile phones of this era also incorporate a cheap camera and radio as standard. ENC of 0, cost $500, talk time is increased to fifteen hours with a two hour recharge.
 
-*Mobile Phone, 2020*: In the 2010s, using the 5G, mobile phones have fully integrated Internet access, an expensive camera, radio, and all the computational capacity of a 2010 desktop computer. ENC of 0, cost $500, talk time is increased to twenty-five hours with a one hour recharge.
+*Mobile Phone, 2020*: In the 2020s, using the 5G standard, mobile phones have fully integrated Internet access, an expensive camera, radio, and all the computational capacity of a 2010 desktop computer. ENC of 0, cost $500, talk time is increased to twenty-five hours with a one hour recharge.
 
 *Mobile Phone, 2030*: In the 2020s, using the 6G WiMAX standard, mobile phones have fully integrated Internet access, expensive camera, radio, and the all the computation capacity of a 2020 desktop computer. ENC of 0, cost $500, talk time is increased to fifty hours with a one hour recharge.
 
@@ -1475,11 +1473,11 @@ Communications and electronic equipment is various much dependent on technologic
 > The Computer is happy. The Computer is crazy. The Computer will help you become happy. This will drive you crazy.
 > *Paranoia*, 1984
 
-For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliyt and cost. 
+For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliy and cost. 
 
 Portable systems (laptops, tablets) are available from 1990 onwards. They cost twice as much as a desktop system with half the performance (in terms of RAM, hard disk, and processor speed), and ENC. Portable systems do not have printer peripherals and use an LCD screen.
 
-For mainframe systems (1980 to 1995) assume specifications 5 years ahead of the desktop (i.e., 1980 mainframe will use a 1985 desktop specifications), and will cost ten times as much and 50 ENC. For a cluster computer system (1995 onwards), simply multiply the number of desktop systems that make up the cluster, add extra systems to represents login or management nodes, and double the cost to represent high-speed interconnect (about double the standard), and external storage arrays. For cloud systmes (2005 onwards), simply assume multiple virtual systems are available with a small overhead.
+For mainframe systems (1980 to 1995) assume specifications 5 years ahead of the desktop (i.e., 1980 mainframe will use a 1985 desktop specifications), and will cost ten times as much and 50 ENC. For a cluster computer system (1995 onwards), simply multiply the number of desktop systems that make up the cluster, add extra systems to represents login or management nodes, and double the cost to represent high-speed interconnect (about double the standard), and external storage arrays. For cloud systems (2005 onwards), simply assume multiple virtual systems are available with a small overhead.
 
 Operating computer systems is either by the command line, GUI (graphic user interface), or voice activation. Each of these has a variation in difficulty noted in the text (which also represents operating system development), and speed. Voice activation is the slowest and easiest, requiring twice as long as GUI usage, which in turn takes twice as long as the command line interface. Real hackers use the command line. 
 
@@ -1511,25 +1509,25 @@ See the section for Computing under 2.3 Tactical Task Resolution, and the Intell
 
 Many roleplaying games in a modern or futuristic setting provide a very long list of firearms, with specific models, bullet sizes, rate-of-fire, range, damage decrements with range, recoil, snap-shot numbers etc. This might be appropriate for a game that is centered on gun combat, and it often extraordinary to see such lists when the game is *not* centered on such activities. *Papers & Paychecks* is *not* a game centered on gun combat. It does happen *sometimes* and because it represents a mortal threat to the characters it is important, but the list significantly reduced in detail and quanity. With this in mind, the following firearms are offered: crossbow, handgun, submachine gun, assault rifle, and sniper rifle. 
 
-Due to various technological improvements and targetting systems, each firearm receives a +1 bonus to skill use every ten years i.e., +0 to the firearms skill at 1975, +1 at 1985, +2 at 1995, +3 at 2005, +4 at 2015, +5 at 2025, +6 at 2035, to a truly frightening +7 at 2045. If a firearm is denoted as semi-automatic, it can fire three bullets per action at -1 to the skill roll. If the firearm is capable of burst fire, it can fire five rounds, at -2 to hit for five rounds, per action. In addition, in burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m seperation between the targets.
+Due to various technological improvements and targeting systems, each firearm receives a +1 bonus to skill use every ten years i.e., +0 to the firearms skill at 1975, +1 at 1985, +2 at 1995, +3 at 2005, +4 at 2015, +5 at 2025, +6 at 2035, to a truly frightening +7 at 2045. If a firearm is denoted as semi-automatic, it can fire three bullets per action at -1 to the skill roll. If the firearm is capable of burst fire, it can fire five rounds, at -2 to hit for five rounds, per action. In addition, in burst fire mode a firearm can conduct a spray attack against multiple targets, at -2 per additional target, and with 1 round lost per 5m separation between the targets.
 
 Resolution of the use of firearms is covered in section 1.6 Skills and Knowledges under 'Firearms', and 2.3 Tactical Task Resolution under 'Physical Conflict'. Characters receive a bonus of +2 up to their PER skill in meters, and -2 from the listed range to double that value as long range, and -4 to three times the listed range for extreme range.
 
 *Crossbow*: Less of a combat weapon and more of a hobby, the crossbow is a late medieval weapon that is still available as an exotic device. Relatively silent compared to guns. Requires a reloading action after each round. $200, 2 ENC, 1x damage, range 50m.
 
-*Handgun*: A standard side-arm for law enforcement officers, sporting enthusiasts, and criminals alike with a medium range. Can fire single-shot, or semi-automatic per action. Requires a reloading action 10 rounds. $100, 1 ENC, 3x damage, range 50m. 
+*Handgun*: A standard side-arm for law enforcement officers, sporting enthusiasts, and criminals alike with a medium range. Can fire single-shot, or semi-automatic per action. Requires a reloading action every 10 rounds. $100, 1 ENC, 3x damage, range 50m. 
 
-*Submachine Gun*: A short-barelled machine gun with limited range but a rapid rate of fire. Can fire single-shot, semi-automatic, or burst. Requires a reloading action after 20 rounds. $300, 2 ENC, 3x damage, range 50m.
+*Submachine Gun*: A short-barrelled machine gun with limited range but a rapid rate of fire. Can fire single-shot, semi-automatic, or burst. Requires a reloading action after 20 rounds. $300, 2 ENC, 3x damage, range 50m.
 
-*Assault Rifle*: A long-barelled rifle with medium range and a rapid rate of fire. Can fire single-shot, semi-automatic, or burst each eaction. Requires a reloading action after 30 rounds. $400, 3 ENC, 4x damage, range 100m.
+*Assault Rifle*: A long-barrelled rifle with medium range and a rapid rate of fire. Can fire single-shot, semi-automatic, or burst each action. Requires a reloading action after 30 rounds. $400, 3 ENC, 4x damage, range 100m.
 
-*Rifle*. A long-barelled rifle with long range and a low rate of fire. Can fire single-shot. Requires a reloading action after 10 rounds. $500, 3 ENC, 4x damage, range 250m.
+*Rifle*. A long-barrelled rifle with long range and a low rate of fire. Can fire single-shot. Requires a reloading action after 10 rounds. $500, 3 ENC, 4x damage, range 250m.
 
 **Melee Weapons**
 
 The comments made on firearms, above, also apply for melee weapons. *Papers & Paychecks* is not a combat-heavy game, at least not in most cases. Nevertheless there are a few situations where weapons of various might be used. 
 
-*Improvised*: Improvished crushing weapons include a half-brick, a thrown rock (using melee skill, up to STR metres in base range), a sturdy chunk of wood, a chair, or similar. Because they are not designed to be used in combat melee attacks with such weapons are at -2. A one-handed improvised weapon has an ENC of 1 and causes 1x damage in bruises. A two-handed improvised weapon has an ENC of 2 and causes 2x damage in bruises.
+*Improvised*: Improvised crushing weapons include a half-brick, a thrown rock (using melee skill, up to STR metres in base range), a sturdy chunk of wood, a chair, or similar. Because they are not designed to be used in combat melee attacks with such weapons are at -2. A one-handed improvised weapon has an ENC of 1 and causes 1x damage. A two-handed improvised weapon has an ENC of 2 and causes 2x damage.
 
 > Michael J. "Crocodile" Dundee: That's not a knife. That's a knife.`
 > Paul Hogan, Crocodile Dundee, 1986
