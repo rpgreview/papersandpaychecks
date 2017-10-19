@@ -71,7 +71,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 3.1 Labourers
 3.2 Scientists
 3.3 Administrators
-3.4 Technicians
+3.4 Tradesperson
 3.5 Researchers
 3.6 Managers
 3.7 Bestiary
@@ -335,11 +335,9 @@ The Background of a character in *Papers & Paychecks* initially consists of thei
 
 The time that this inheritance is received will be on the (2d6*2) + 20th year of the character. This value will typically be kept in secret by the The Boss as part of the character's development. Note that a player may spend a Luck Point to determine exactly what age they will receive their inheritance and, in some cases, this may even occur before the start of play.
 
-> Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritance received, which make a total of 24 years when I receive a cool $1.2 million."
-> 
-> "You are *cold*", responds the Boss.
-> 
-> "But only for the greater good!", the player retorts.
+> Andrew is designing a character for *Papers & Paychecks* and rolls a '12' on 2d6 for $120,000 worth of starting wealth. Having read ahead the player likes the idea of playing a Scientist, dedicated to fighting evil in the office place. "I'll be like the office Batman!", the player exclaims. "Except I'll need even more money. I'll spend a Luck point to *kill my parents early*, and turn that result to '2' on 2d6 for age of inheritance received, which make a total of 24 years when I receive a cool $1.2 million."   
+"You are *cold*", responds the Boss.    
+"But only for the greater good!", the player retorts.
 
 Other background features should be derived from the initial wealth roll. Characters with a high initial wealth, for example, will typically come from good neighbourhoods with a stable family life. At the other end of the scale are the poor in their tenement housing in their rough neighbourhoods with above average incidence of petty drug problems, violence, and property crimes. As the distribution would indicate, most people fit around the middle.
 
@@ -358,7 +356,7 @@ Characters in *Papers and Paychecks* have level one starting age based on their 
 | 15+1d4 (average 17-18)| Labourers		|
 | 15+3d4 (average 22-23)| Scientists		|
 | 15+1d6 (average 18-19)| Administrators	|
-| 15+1d6 (average 18-19)| Technicians		|
+| 15+1d6 (average 18-19)| Tradesperson		|
 | 15+2d4 (average 20)   | Researchers		|
 | 15+3d4 (average 22-23)| Managers		|
 
@@ -417,7 +415,7 @@ The professions, and their related primary characteristic, are: Labourer (Streng
 
 As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquiring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
 
-This is also a "class and level" game. The "classes" are, of course, represented by the various professions. Unlike however traditional games, the "class" is not a straight-jacket which restricts the character, in "Papers and Paychecks" the profession is a flexible set of options. Characters may also change their profession as they wish, and often a character will have multiple professions representing a change in employment (e.g., a level 4 Labourer and level 6 Technician). The character will receive the pay rate according to the work that they are currently doing. If this sounds unfair, ask a migrant cleaner with a PhD in nuclear physics how they feel about it.
+This is also a "class and level" game. The "classes" are, of course, represented by the various professions. Unlike however traditional games, the "class" is not a straight-jacket which restricts the character, in "Papers and Paychecks" the profession is a flexible set of options. Characters may also change their profession as they wish, and often a character will have multiple professions representing a change in employment (e.g., a level 4 Labourer and level 6 Tradesperson). The character will receive the pay rate according to the work that they are currently doing. If this sounds unfair, ask a migrant cleaner with a PhD in nuclear physics how they feel about it.
 
 Each character has a level, representing their pay band and the base net wages that they receive. This level is determined by how many "projects" that they have completed, a "project" being the equivalent of a "scenario" or “adventure” in a fantasy RPG. On average, a character can expect to participate in one project per annum. Different professions have different starting ages, and different rates of pay. 
 
@@ -514,7 +512,7 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d6
 Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
-Description: A tradesperson works with their clever hands for their livelihood with a variety of practical physical skills. If it is a electro-mechanical device and it's broken, the tradesperson can fix it. This represents not only those professions in the manufacturing industry, or construction, but also the hands-on specialist technical workers. Tradespeople start off with poor renumeration, but one which improves over time. They start their career at a young age.
+Description: A tradesperson works with their clever hands for their livelihood with a variety of practical physical skills. If it is a electro-mechanical device and it's broken, the tradesperson can fix it. This represents not only those professions in the manufacturing industry, or construction, but also the hands-on specialist technical workers (as a result, "tradesperson" and "technician" can sometimes be used interchangeably, depending on the type of work). Tradespeople start off with poor renumeration, but one which improves over time. They start their career at a young age.
 
 | Level | Wage     | Perks              |
 |-------|----------|--------------------|
@@ -869,7 +867,7 @@ Acquiring public library access is something that everyone can do; but the Libra
 
 **Magic Missile**
 
-The Magic Missile perk is the ability of a character to succeed in either a Knowledge or Craft skill, depending on Profession (Researcher or Technician, respectively). The character will receive level-5 magic missiles per strategic turn, which will result in an automatic '12' to their die roll. This represents that at sometime in the past the character has researched exactly this subject or carried out this particular practical task.
+The Magic Missile perk is the ability of a character to succeed in either a Knowledge or Craft skill, depending on Profession (Researcher or Tradesperson, respectively). The character will receive level-5 magic missiles per strategic turn, which will result in an automatic '12' to their die roll. This represents that at sometime in the past the character has researched exactly this subject or carried out this particular practical task.
 
 **Multitasking**
 
@@ -1600,7 +1598,7 @@ Fletcher: I've had better.
 answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.*  
 > Charles Babbage, *Passages from the life of a philosopher*, 1864
 
-These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Technician or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume has an ENC of 1 costs $250 each. 
+These four famous volumes contain many aspects of programming algorithms and analysis of their levels of efficiency. Each volumee will take five strategic turns to read, and a successful INT test with a target number of 15. If the check is failed, the character may check again at 13, 11, and to a minimum of 9. On the completion of all four volumes, the character gains an additional level in Tradesperson (technical) or Scientist, as desired. When the books are present, a character engaging in any strategic Craft (Computing) or Knowledge (Science - Computing) test the character receives a +2 bonus. Each volume has an ENC of 1 costs $250 each. 
 
 **Potion of Socialability**
 
@@ -1833,11 +1831,11 @@ Nota bene: This name was not made up. Everything else was however.
 
 
 
-## 3.4 Technicians
+## 3.4 Tradesperson
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   9	|  -1	     | Profession	  | Technician |
+| Strength	    |   9	|  -1	     | Profession	  | Tradesperson |
 | Intelligence	    |  10	|  +0	     | Level	          | 3 |
 | Wisdom 	    |   9	|  -1        | Movement (running) |   |
 | Dexterity	    |  14 	|  +2        | Wounds (Physical)  |   |
@@ -1854,12 +1852,12 @@ Nota bene: This name was not made up. Everything else was however.
 |               |          |            |           |            |
 |               |          |            |           |            |
 
-*Harry Baals*, a technician, E+1 N+1 F+1 P+2 (Champion)
+*Harry Baals*, a tradesperson, E+1 N+1 F+1 P+2 (Champion)
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   12	|  +1	     | Profession	  | Technician |
+| Strength	    |   12	|  +1	     | Profession	  | Tradesperson |
 | Intelligence	    |   11	|  +0	     | Level	          | 6 |
 | Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   16	|  +3        | Wounds (Physical)  |   |
@@ -1876,12 +1874,12 @@ Nota bene: This name was not made up. Everything else was however.
 |               |          |            |           |            |
 |               |          |            |           |            |
 
-*Wendy West-Breese*, an administrator, E+1 S+2 T+3 P+2 (Promoter) 
+*Wendy West-Breese*, an tradesperson, E+1 S+2 T+3 P+2 (Promoter) 
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   8	|  -1	     | Profession	  | Technician |
+| Strength	    |   8	|  -1	     | Profession	  | Tradesperson |
 | Intelligence	    |  10 	|  +0	     | Level	          | 9 |
 | Wisdom 	    |  10 	|  +0        | Movement (running) |   |
 | Dexterity	    |  14 	|  +2        | Wounds (Physical)  |   |
@@ -1899,7 +1897,7 @@ Nota bene: This name was not made up. Everything else was however.
 |               |          |            |           |            |
 
 
-*Hardy Ballitch*, I+1 S+2 T+2 P+2 (Crafter)
+*Hardy Ballitch*, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
 
 
 ## 3.5 Researchers
