@@ -1242,11 +1242,9 @@ A strategic turn is a period of around four hours. It is used for non-immediate 
 
 One very important aspect of strategic conflict is that it is typical way that wounds are caused in social or mental conflict, whether initiated through gossip, investigation, or carefully-crafted psychological damage. Whereas the difference between "bruises" and "wounds" with physical damage depends much more on the weapon, with mental and social attacks it is usually time-dependent. 
 
-**Analysis**, **Research**, and **Synthesis**
+**Analysis, Research, and Synthesis**
 
-The usual trajectory of an investigation is research first, analysis, and finally synthesis. This process can occur across a range of disciplines (business, science, language, literature, mathematics, music etc). 
-
-*Research* is the ability to acquire information, and usually depends on whether the character has an appropriate skill to the subject being researched. *Analysis* is the ability to break up a complex problem or issue into its components and to illustrate the relationship between the components. *Synthesis* is the ability to make insightful discovery from the analysis, or invent new relationships.
+The usual trajectory of an investigation is research first, analysis, and finally synthesis. This process can occur across a range of disciplines (business, science, language, literature, mathematics, music etc). *Research* is the ability to acquire information, and usually depends on whether the character has an appropriate skill to the subject being researched. *Analysis* is the ability to break up a complex problem or issue into its components and to illustrate the relationship between the components. *Synthesis* is the ability to make insightful discovery from the analysis, or invent new relationships.
 
 When approached as a strategic task, The Boss may decide for simple actions (e.g., one that takes only a single strategic turn), that a single skill check be taken, whether by the skill in question (to represent research), or with Investigate or Insight (to represent analysis or synthesis). Otherwise The Boss should consider the individual components and complexity of the research chain, which can vary. For example, data acquisition might be difficult, (e.g., requiring 4 strategic turns and a high target number), the analysis however could be easy (e.g., a single strategic turn, and a low target number), and the synthesis of average complexity (e.g., a single turn, average target number). 
 
@@ -1255,6 +1253,13 @@ As with other skill checks in *Papers & Paychecks*, the closeness of a the final
 The technical and office resources available can also modify the time and difficulty significantly, even to the point of making it impossible. A character's research can only be as good as the resources they have available; analysis tools can provide a significant reduction in time (e.g., big data analytics). Synthesis is really a creative process, but can be enhanced by several characters - only if they understand the analysis - participating and bouncing ideas off each other. The assignment of time and target numbers. The overall point is to treat research, analysis, and synthesis as plot contributions, and the means to spur the PC Workers to action. 
 
 **Gaslighting**
+
+Gaslighting is a series of psychological attacks against an individual group designed to bring them to doubt their own memory, perception, and sanity. The in practise techniques are varied, but specific examples are from the 1938 play and 1944 film adaption from where the activity gets its name. In game terms it is abstracted by the use of any Charisma skill that could be used for manipulation (e.g., Act, Bully, Inspire, Lie, Seduce), against a contested WIS-based ability check. Modifiers to the check are very dependent on the actions taken out by the active character and the degree of trust that the target has with the attacker. Quite often a gaslighter will engage in some actions of Mental bruises to weaken the victim's resistance before launching the gaslight attack. Nevertheless, it is *almost* impossible to make a target believe impossible things ("Are you going to believe me or your own eyes?"). The default modifier is -6, meaning that the attacker has to engage in significant preparation for the chance of a successful attack.
+
+Each gaslighting attack takes a strategic turn. The difference in between the gaslighting attacker and the WIS resistance determines the effect. If the result favours the attacker, the victim receives 1 Mental wound per point of difference. If the the defender succeeds they can cure 1 Mental Wound per point of difference from previous damage caused by the attacker. If the defender has already cured all their Mental wounds or has not acquired to begin with, they will doubt the attacker and their motives, and may make an INT check with +1 per point of succeed and a target number of 11, to gain the realisation that they are under attack. Under these circumstances the target may decide to turn the tables and entrap and gaslight the attacker!
+
+Gaslighting is easier if there is a group attacking, and harder if there is a group of defenders. For 2 attackers acting in concert the attack bonus is +1, if 4 the bonus is +2, and if 8 or more the bonus is +3. The same bonuses are apply for defenders. A fascinating situation can erupt when two parties are attempting to gaslight each other.
+
 
 **Gossip**
 
