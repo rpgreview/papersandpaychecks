@@ -550,6 +550,8 @@ Description: A researcher works with their insight and investigative skills for 
 
 ### 1.5.6 Manager
 
+> Contribute to an integrated customer driven service delivery culture by providing a consultative, customer-centric approach whilst working collaboratively across the Division with the enabling partners to achieve a timely, innovative and seamless integrated service delivery outcome for our customers.     
+
 Prime Requisite: Charisma
 Starting Age: 15+3d4
 Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
@@ -1240,7 +1242,17 @@ A strategic turn is a period of around four hours. It is used for non-immediate 
 
 One very important aspect of strategic conflict is that it is typical way that wounds are caused in social or mental conflict, whether initiated through gossip, investigation, or carefully-crafted psychological damage. Whereas the difference between "bruises" and "wounds" with physical damage depends much more on the weapon, with mental and social attacks it is usually time-dependent. 
 
-**Analysis**
+**Analysis**, **Research**, and **Synthesis**
+
+The usual trajectory of an investigation is research first, analysis, and finally synthesis. This process can occur across a range of disciplines (business, science, language, literature, mathematics, music etc). 
+
+*Research* is the ability to acquire information, and usually depends on whether the character has an appropriate skill to the subject being researched. *Analysis* is the ability to break up a complex problem or issue into its components and to illustrate the relationship between the components. *Synthesis* is the ability to make insightful discovery from the analysis, or invent new relationships.
+
+When approached as a strategic task, The Boss may decide for simple actions (e.g., one that takes only a single strategic turn), that a single skill check be taken, whether by the skill in question (to represent research), or with Investigate or Insight (to represent analysis or synthesis). Otherwise The Boss should consider the individual components and complexity of the research chain, which can vary. For example, data acquisition might be difficult, (e.g., requiring 4 strategic turns and a high target number), the analysis however could be easy (e.g., a single strategic turn, and a low target number), and the synthesis of average complexity (e.g., a single turn, average target number). 
+
+As with other skill checks in *Papers & Paychecks*, the closeness of a the final value of a check to the target number represents the relative degree of success. It is possible to *almost* receive the information required, or receive it with some flaws, or even, if the roll is good enough, to receive all the information and receive additional and beneficial news.
+
+The technical and office resources available can also modify the time and difficulty significantly, even to the point of making it impossible. A character's research can only be as good as the resources they have available; analysis tools can provide a significant reduction in time (e.g., big data analytics). Synthesis is really a creative process, but can be enhanced by several characters - only if they understand the analysis - participating and bouncing ideas off each other. The assignment of time and target numbers. The overall point is to treat research, analysis, and synthesis as plot contributions, and the means to spur the PC Workers to action. 
 
 **Carousing**
 
@@ -1251,8 +1263,6 @@ One very important aspect of strategic conflict is that it is typical way that w
 **Invention**
 
 **Legal Contest**
-
-**Research**
 
 
 ## 2.5 Damage and Healing
