@@ -1254,8 +1254,6 @@ As with other skill checks in *Papers & Paychecks*, the closeness of a the final
 
 The technical and office resources available can also modify the time and difficulty significantly, even to the point of making it impossible. A character's research can only be as good as the resources they have available; analysis tools can provide a significant reduction in time (e.g., big data analytics). Synthesis is really a creative process, but can be enhanced by several characters - only if they understand the analysis - participating and bouncing ideas off each other. The assignment of time and target numbers. The overall point is to treat research, analysis, and synthesis as plot contributions, and the means to spur the PC Workers to action. 
 
-**Carousing**
-
 **Gaslighting**
 
 **Gossip**
@@ -1263,6 +1261,26 @@ The technical and office resources available can also modify the time and diffic
 **Invention**
 
 **Legal Contest**
+
+**Revelry**
+
+> Graham: You guys are being attacked   
+Monster: DO I SEE THAT HAPPENING?!?!  
+Graham: No, you're outside by the Tavern   
+Monster: COOL, I GET DRUNK   
+Graham: Sigh... there are seven ogres surrounding you   
+Galstaff: How could they surround us? I had Mordenkainen's Magical Watchdog cast   
+Graham: No you didn't!   
+Monster: I'M GETTING DRUNK, ARE THERE ANY GIRLS THERE?   
+-- Dead Alewives *Summoner Geeks*, 1996
+
+Revelry is the ability to engage in excess drink, partake in dangerous recreational pharmaceuticals, engage in sexual pleasures of wild abandon etc, with others in a manner that is pleasurable. It consists of two components, *carousing* and *stamina*, both governed by the skills of the same name. Usually such partying only lasts for only one to three strategic turns, depending on the activity in question and the relative success of the skill check. Target numbers depend on the relative degree that the environment is conducive to the activity, with modifiers according to the quality of technological assistance that might be available. 
+
+Carousing skill checks in this context refers to ability of the character to be charismatic in the festive environment, and perhaps even gain some useful information, allies, or reputation whilst doing so, whereas a failed check represents poor behaviour, and suffering Social wounds (1d6 for a failure, 2d6 for a failure of 4 or more, 3d6 for a failure of 8 or more etc). Stamina skill checks, against the Athletics (Stamina) skill, will have similar results for Physical wounds. It is very possible for a character to succeed in Carousing and fail in their Stamina check, for example, acquiring quite a reputation for being a "party animal", and with poor recollection of what they actually go up to (c.f., "The Hangover" movie series).
+
+The enticements of Revelrous activity can be strong; the base target number to resist such inducements is only 7 plus or minus WIS modifier, but can be modified by generosity ("I'm at a bar here now down in the Fourth Sector. Taffy Lewis's on the line. Why don't you come on down here and have a drink?") and quality of the offer ("I don't think so, Mr. Deckard. That's not my kind of place."). A character who is already engaging in reverly will be more prone to engage in further revelry (-2 to resistance checks). 
+
+One of the further issues of engaging in such behaviour is that a character is obviously unable to engage in whatever their current project is whilst engaging in revelry, and perhaps for some time afterwards whilst recovering. Thus whilst there is a tradition of PCs in other games to engage in such activity in non-critical situations as a bit of a joke, they sober up with the situation gets serious. To encourage PC Workers in *Papers & Paychecks* to be amusingly irresponsible, any character who volunarily engages in revelry when they should be working received a Player Point.
 
 
 ## 2.5 Damage and Healing
