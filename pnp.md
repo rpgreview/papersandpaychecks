@@ -962,9 +962,6 @@ For example: Russel Wrench, a mild mannered computer programmer, has randomly de
 
 The Keirsey Temperament Sorter provides roles which can be mapped to MBTI values. These are provided here as a shortcut for players to make an "at a glance" overall decision of a character's behaviour. Kersey assessed characters on whether they were orientated by preference towards the concrete and the abstract, then whether they were cooperative or utilitarian, then informative or directive, and finally expressive or attentive. This provides multi-level temperament, role, and role variants.
 
-There is also a random roll opportuniy for quick generation of personality types. Simply roll 1d6 for each of the four personality pairs and provide a value of +1 to +3 to either Extraversion/Introversion, Sensing/Intuition, Thinking/Feeling, Judging/Perceiving. This can be easiest achieved by assigning +1 to +3 to first paired value when the die roll is from 1 to 3, and +1 to +3 to the second paired value when the die roll is 4 to 6. Note that this does not give the same distribution of personality traits as expected by the MBTI.
-
-For example: Walter's player loves random determination of traits. "Makes me feel alive!", they exclaim. "I want a *random* personality!", and rolls four 1d6 and gets 3, 4, 2, and 5. The first result is +3 Extraversion ("Oh yeah! Everyone listen to me!"), +1 to Sensing, +2 to Thinking, and +2 to Perceiving. "A Promoter! That's perfect!"
 
 | MBTI	| Kiersey Role Variant	| Kiersey Descriptives				|
 |-------|-----------------------|-----------------------------------------------|
