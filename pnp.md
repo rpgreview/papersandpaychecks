@@ -100,6 +100,24 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 ## 0.1 Foreword
 
+It has been said, by wiser folks than I, that you can make a game out of just about anything.
+
+The best advice my father gave me, however unwittingly, was that it was much easier to get along in "life" if you knew how to "play the game". And he was right; everything can be viewed through that prism. When I served in the US Navy, I learned Navy Regs front to back, thereby knowing just how to play that game whilst retaining some autonomy.
+
+All of modern life is about rules: traffic laws, taxes, zoning, punching a time-clock (or the white collar equivalent); hidden and obvious, we are governed by rules. Rules are not just legislated; society's rules are not even written down, which would explain a great deal of the incivility running rampant on the World Wide Web.
+
+This is a game about rules and bending them *where* you can, and ignoring them *if* you can when you don’t like them and seemingly functioning within those rules all the time. 
+
+Inspiration for a game can come from the oddest places. This game was inspired by a cartoon drawn by Will McLean (now sadly deceased) that was used in the 1st Edition *AD&D Dungeon Master's Guide*. The authors style it as *"A roleplaying game of workers and students in an industrialized and technological society."*
+
+Knowing full well what can happen to an RPG when the rules lawyers get their grubby little snouts buried in the guts of the rules, I will be listening for tales of how frustrated they became when they finally figured out that there are no work-arounds for life.
+
+Some of the elements of this game will seem familiar, in a topsy-turvy fashion, to be sure, just a little bass-ackwards. Leveling up means a promotion; cross-training is allowed so career paths are wide open, from mailing room to penthouse. When viewed through that prism of gaming mentioned earlier, even the humdrum and mundane can made to be fun. That’s why I play games, to have fun. What is your motivation?
+
+
+Timothy J Kask
+Oct. 30, 2017
+
 ## 0.2 Preface
 
 Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society" in which you play the part of workers and students glorious trying to succeed against a world of antagonists, and antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
@@ -1260,7 +1278,6 @@ Gaslighting is a series of psychological attacks against an individual group des
 Each gaslighting attack takes a strategic turn. The difference in between the gaslighting attacker and the WIS resistance determines the effect. If the result favours the attacker, the victim receives 1 Mental wound per point of difference. If the the defender succeeds they can cure 1 Mental Wound per point of difference from previous damage caused by the attacker. If the defender has already cured all their Mental wounds or has not acquired to begin with, they will doubt the attacker and their motives, and may make an INT check with +1 per point of succeed and a target number of 11, to gain the realisation that they are under attack. Under these circumstances the target may decide to turn the tables and entrap and gaslight the attacker!
 
 Gaslighting is easier if there is a group attacking, and harder if there is a group of defenders. For 2 attackers acting in concert the attack bonus is +1, if 4 the bonus is +2, and if 8 or more the bonus is +3. The same bonuses are apply for defenders. A fascinating situation can erupt when two parties are attempting to gaslight each other.
-
 
 **Gossip**
 
