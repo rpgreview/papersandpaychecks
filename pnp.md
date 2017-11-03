@@ -79,7 +79,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 4.0 The Boss Book
 4.1 Being The Boss
-4.2 Episode and Season Design
+4.2 Episode and Session Design
 4.3 Running The Session
 
 5.0 Scenarios : Fear and Loathing in Wellington
@@ -120,7 +120,7 @@ Oct. 30, 2017
 
 ## 0.2 Preface
 
-Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society" in which you play the part of workers and students glorious trying to succeed against a world of antagonists, and antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
+Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society" in which you play the part of workers and students gloriously trying to succeed against a world of antagonists, and an antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
 
 The title comes from the memorable artwork of Will McLean in the first edition of the *Advanced Dungeons & Dragons Dungeon Masters Guide*. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that *Papers and Paychecks" would make a great roleplaying game, but this is the first time that the idea has seen completion. Of course, few workers these days deal as much with "papers", let alone "paychecks", but the game would hardly have the same ring to it if it was called "Emails and Direct Deposits". Such is the nature of being in a "industralized and technological society".
 
@@ -128,13 +128,13 @@ Roleplaying games have been an enormous success story in recent decades, startin
 
 Note the word 'plausibility'. *Papers and Paychecks* posits a world that is downright hostile to the player characters. The metaphysical foundation, if you like, is resistentialism. This is a supposedly joke philosophy based around the widespread anecdotal evidence of an apparent malice of inanimate objects against people, the word itself coined by Paul Jennings in 1948 as a response to existentialism, and claimed that it was developed by a fictional character, Pierre-Marie Ventre, itself a play on the name Jean-Paul Sartre.
 
-But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly by the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor: "Anything that can go wrong, will go wrong, and at the worst possible time".
+But of course we all know better than that. Let our motto be: "Les choses sont contre nous" ("Things are against us"). Resistentialism and it has a long and established history well prior to Jennings, as encapsulated by "Murphy's Law" (itself possibly by the mathematician de Morgan, but he already has his own law) and completely expressed by Finagle's Law of Dynamic Negatives, by John W. Campbell, science fiction writer and editor who stated: "Anything that can go wrong, will go wrong, and at the worst possible time".
 
 Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives, yet the the time in which they decide to incompetently help proves disastrous. It is the role of The Boss, the participant who narrates the story and moderates the game, to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
 
 Although presented partially as a spoof, "Papers and Paychecks" is nevertheless a traditional roleplaying game, in that it consists of several players, each taking a character (a "player-character" or PC) and their role in a story scenario designed by another player, The Boss, who adjudicates the expressed actions of the player's characters and the environment in which they occur, including the activities of non-player characters (NPCs), and introduces new plot elements as appropriate to generate a narrative flow. Usually it is played face-to-face, engaging in the primitive behaviour of actual physical socialisation, it can also be played through electronic communication as well, although real-time communication is recommended over asynchronous methods. 
 
-There are five chapters to this book which explains the game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This includes the PCs characteristics, profession and wage band, their talents, personality, and starting equipment.
+There are five chapters to this book which explains tha game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This includes the PCs characteristics, profession and wage band, their talents, personality, and starting equipment. For those familiar with roleplaying games, this is a standard system but with the addition of the Luck attribute for narrative purposes.
 
 By the end of the first chapter, the player is ready for action in an antagonistic environment, and the second chapter explains in detail exactly what sort of activities they can engage in. This includes an elaboration of the core mechanic game system, the tactical and strategic time scales, the giving and receiving of physical, mental, and social damage, and details of personal equipment. As a principle of game design, detail of the activities is based around the setting. Obviously this includes a lot less violence than a roleplaying game in a fantastic setting of wizards and dragons, but a lot more on problems relating to malfunctioning technology and incompetent bureaucracy.
 
@@ -142,7 +142,7 @@ A collection of non-player characters is offered as the third chapter, broken up
 
 The fourth chapter is The Boss book. It's full of advice on what it means to take up the role of moderator, adjudicator, narrator, director, and performer of the non-player characters. It also provides valuable information on setting, scenario, and episode design, along with ideas for the physical gaming environment.
 
-The final chapter is an entire season of *Papers and Paychecks*, consisting of five episodes designed for beginning characters as they make their way into the first serious job. The episodes can be run independently, but are most enjoyable when the first links between them are brought together. 
+The final chapter is an entire season of *Papers and Paychecks*, consisting of five episodes designed for beginner characters as they make their way into their first serious job. The episodes can be run independently, but are most enjoyable when the first links between them are brought together. 
 
 The book concludes with a set of supplementary appendices; a collection of source material from which a Boss can delve into and develop their own project scenarios, some charts and tables for game play in summary, a business organisation chart, a *Dramatis Personae* chart for the Boss to keep track of NPCs during a session, and a résumé (a.k.a. character sheet) for major characters.
 
@@ -150,7 +150,7 @@ At the end of the day however, the main purpose of "Papers and Paychecks" is enj
 
 This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
 
-By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occasionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
+By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
 
 This game has been published by the RPG Review Cooperative, an incorporated and non-profit association. Nobody associated with the Cooperative is making any money from this - all proceeds go to the association for the benefit of promoting our shared hobby - and as such we are particularly grateful for the generosity of our backers on Kickstarter. We are also deeply honoured to have the artistic skills of Dan 'Smif' Smith for the cover art. Special thanks is also given to the playtesters, who reviewed and tested the game, pulled it apart and put it back together again into the working product you see before you. 
 
@@ -185,14 +185,14 @@ The core mechanic of Papers & Paychecks, as per the original cartoon, is a 2d6 d
 | Heroic		| 17		|
 | Nearly Impossible	| 19		|
 
-The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, the have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
+The Target Numbers also however represent a grade of success or failure. If a character makes the test equal to or above the target number, they have achieved a success. If they have a result below the target number the character has failed in their task. The degree of success (or failure) also makes a difference. 
 
 If the success is just equal to the value the player has two choices. First, the player chooses a success for the character, the Boss will apply a proportional failure either immediately or at a later date. Alternatively, the player may decide to forgo the success and have a failure without consequences. If they succeed at a grade above the target number (e.g., a result of 11 or more for an average task) the character has succeeded without consequences. If they succeed two grades above (e.g., a result of 13 or more for an average task), the character succeeds with a benefit. Likewise if they succeed three grades above, they receive two benefits. The player may choose an benefits equal to a successful skill roll or similar check, either immediately or in the future.
 
 > "Wait, every marginal success is also a failure?"
 > "Yes, welcome to *Papers & Paychecks*, a world where... things are against us!
 
-The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average task), a further consequence is applied in addition to the failure.
+The same applies for failed skill rolls. If a character's skill check is within the immediate grade range below the Target Number of difficulty (e.g., a result of 7 or 8 on an Average task), the result is a marginal failure with no further consequences. If the result is a grade below (e.g., a result of 6 or 7 on an Average Taks), a further consequence is applied in addition to the failure.
 
 Note the initial sentence that the die roll is to be used "used in dramatic circumstances". If a character is sufficiently unhurried or has sufficient resources they can opt to ignore the die roll at take a flat 7 plus modifiers result instead; these are 'prosaic circumstances'. By 'prosaic' this means that the character has at least twice the time to take than what would be required for a dramatic action, or in the case of financial transactions, they are able to pay twice the cost. In a sense, characters are caught in the famous project management trilemma; good, cheap, or fast - pick two.
 
@@ -200,7 +200,7 @@ Regardless of whether a situation is 'dramatic' or 'prosaic', modifiers to a giv
 
 ## 0.5 Glossary
 
-**Action**: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
+**Action**: An activity that a character performs. An action may be applied in tactical or strategic time scales. Tactical actions include standard actions, which take a moderate amount of effort and time, short actions, which are quick but not not unlimited in time, and free actions, which are effectively zero time actions.
 
 **Boss, The**: A special type of player who manages the world, the actions of Non-Player Characters, who sets the scene, scenario, and challenges for Player-Characters. The Boss acts as both a narrator and referree.
 
@@ -238,7 +238,7 @@ Regardless of whether a situation is 'dramatic' or 'prosaic', modifiers to a giv
 
 ## 1.1 Example of Play
 
-The following is the opening scene of four players of "Papers and Paperchecks". 'The Boss', has set the game with a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
+The following is the opening scene of five players of "Papers and Paperchecks". 'The Boss', has set the game within a small university research team. The other players have the characters of Walter, the team leader, a low-level manager, Ingrid, a computer scientist, Seth, a post-graduate health scientist, Mary, an administrator, and Gerald, a technician.
  
 > *The Boss*: It's Monday morning at the office - small, cold, and underfunded, because those things provide great inspiration to scientific research.  However, the sweet nectar of coffee is available. Except the machine isn't working again.
 > 
@@ -295,7 +295,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *Seth*: Well that brings my score from +5 to +7, I should succeed at this. (Rolls a 11 in total). OK, I made it clean, thanks to the bonus.
 > 
-> *The Boss*: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been feed rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
+> *The Boss*: Well there is the SHR, or spontaneously hypertensive rat. You also know that the medical school does have some of these and there's a special dataset that's been studying the effects of diet. There's three populations of rat, one that's been fed a diet high in fat, sodium, and alcohol, one that's been fed a diet rich in potassium, calcium, and magnesium, and a control group that's been fed a normal diet, whatever that is for a lab rat. 
 > 
 > *Mary*: "I'm not sure which rat I'll have the most sympathy for. The one that's spent its life on chips, soda, and booze and is sick or the one that's healthy and have been eating wholegrains and raw vegetables"
 > 
@@ -327,7 +327,7 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 > 
 > *Mary*: You can move that data to one of the local drives - here on my personal computer.
 > 
-> *The Boss*: You begin to move the dataset of the early detection of schizophrenia in adolescents  from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
+> *The Boss*: You begin to move the dataset of the early detection of schizophrenia in adolescents from the cluster to a Mary's personal computer. About half way through there is a network error and the connection is lost. Now half the data is on Mary's computer and half of it is still on the cluster. The phone starts ringing - the caller ID indicates that it's the head of the psychology department...
 > 
 > (Let's leave our poor group of co-workers who have put themselves in the position of discovering questionable data that they perhaps should not have, and now possibly have been caught moving another research team's data. Will they still have their jobs? What else could possibly go wrong? Quite a lot! This is, after all, "Papers and Paychecks"!)
 
@@ -337,13 +337,13 @@ The following is the opening scene of four players of "Papers and Paperchecks". 
 
 All player characters start with a Luck rating of 3 points. As a meta-game characteristic this is established prior to anything else. It represents the ability of the players to change the result of a random roll that is under their control within the story. For example. a player, during character generation, has their heart set on taking up the Scientist character class. Alas, the genetic die is not with them and they roll a paltry 7 from 3d6 to determine their Intelligence characteristic. A moment is spent as the player considers the possibility of playing a fairly dim scientist, but they decide against it spending one of their three Luck points to change the score of 7 to 18, the maximum that could be rolled.
 
-> Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as the wish - even for or against other characters.
+> Other games have similar metagame currency; the *James Bond007* game had Hero/Survival points, *Rolemaster* (in a certain Companion) had Fate Points, FATE, as the name indicates, has Fate Points, *Savage Worlds* has Bennies and so forth. A crucial difference between the Luck points used in *Papers & Paychecks* is that because it is a meta-game award to the player, the number of Luck points belongs to the player, which they can use as they wish - even for or against other characters.
 
 During the course of a story, a player who engages in particularly spectacular in-character behaviour may be awarded additional Luck points. Within the game itself, this opportunity occurs on a roll of '2' or '12', representing the extremes of skill tests, and can be expressed as particularly inspirational speeches and expositions of circumstances. Yes, a player who rolls a disastrous value for their character (a '2'), and invokes all sorts of problems for their character - even if they succeed in the skill roll due to various bonuses - can receive a bonus Luck point for making life difficult for their own character. 
 
 On a metagame level it can awarded by dressing outrageously in character, providing a stack of possible NPCs Workers for The Boss, or providing an utter feast for those attending the session. In a nutshell, that which makes the session truly astounding and special. Likewise failure to contribute (e.g., missing a session, going completely against the character) can cause the loss of a Luck point. A player whose character who has negative Luck points will find that The Boss will fudge random events against them - which can be very bad in the Resisentialist environment.
 
-Keep in mind that these are an metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
+Keep in mind that these are a metagame award to the players, not just to the characters, effectively a rating of how well they have 'acted' in character and their contribution to the game group. Hence the resume tracks the total points awarded and the points that the player has left. If a player takes up another character within their same group they can transfer their Luck points to the new character. 
 
 Note that for certain NPCs or items of equipment, the Boss may allocate Luck points to such characters reflecting their importance in the wider story. Unlike points for PC Workers, these will not improve.
 
@@ -408,7 +408,7 @@ For example, a character with a Strength of 18 will receive a +4 bonus for all S
 | 18-19	|       +4    |    +40%    |
 | etc	|       etc   |    etc     |
 
-In addition to the aforementioned primary characteristics there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
+In addition to the aforementioned primary characteristics, there is also a number of secondary, derived, or enumerated characteristics (pick whichever term suits your group and their level of geekdom, but "secondary" will be used as the lowest common denominator). 
 
 **Strength**: Strength represents their mass, musculature, and health. By itself Strength doesn't contribute much in terms of skills (the characteristic bonus is applied in melee combat), but it does include a number of secondary characteristics. Also, various physical feats are dependent on Strength, including lifting things, moving things, shoving them over, the distance they can jump, and so forth. See sections 2.3 (Tactical Task Resolution) and 2.4 (Strategic Task Resolution) for further details. A human character's Move is based on half their Strength, representing the number of metres per second. A character's Strength determines their Physical Hit Points.
 
@@ -423,13 +423,13 @@ In addition to the aforementioned primary characteristics there is also a number
 
 **Perception**: Perception represents the character's awareness and ability to receive and interpret information from their sensory systems and is typically associated with a character's general level of health relative to their size (i.e., their constitution in the vernacular). Perception only affects a handful of skills, but is possibly the most common characteristic test.
 
-**Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for loyalty of friends and associates. It does not, however, contribute significantly to secondary skills. Charisma is used for Social Hit Points.
+**Charisma**: Charisma is a combination personality, popularity, appearance, and social status. Charisma modifiers are used in a large variety of social skills, as well as tests for the loyalty of friends and associates. It does not, however, contribute significantly to secondary skills. Charisma is used for Social Hit Points.
 
 ## 1.5 Professions
 
 "Papers and Paychecks" has six character professions, each of which has a related primary characteristic. The player chooses which character profession they belong to and in most cases will select the profession with that primary characteristic. Not only are many of the character's activities most successful with that related value, but they will also receive a pay bonus.
 
-The professions, and their related primary characteristic, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strength of 18, would receive a 40% bonus in their paycheck.
+The professions, and their related primary characteristics, are: Labourer (Strength)., Scientist (Intelligence)., Administrator (Wisdom)., Tradesperson (Dexterity)., Researcher (Perception)., Manager (Charisma). The pay bonus or penalty they receive is equal to ten times the characteristic bonus as a percentage. That is, a Labourer with the extraordinary Strength of 18, would receive a 40% bonus in their paycheck.
 
 As with other classic games, "Papers and Paychecks" is a "gold piece system", but in reverse. Whereas in traditional RPGs one received "experience points" for acquiring treasure, in "Papers and Paychecks" your character will receive "treasure" (i.e., a paycheck) for having experience. 
 
@@ -621,7 +621,7 @@ An Athletics (strength) skill check is made when a character wishes to engage in
 
 **Athletics (stamina)**
 
-An Athletics (stamina) skill check is made when a character is engaging in a events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, triathlons, free-diving, long distance running, etc. Many workplace social cliques revolve around cycling, jogging, and other endurance activities.
+An Athletics (stamina) skill check is made when a character is engaging in events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, triathlons, free-diving, long distance running, etc. Many workplace social cliques revolve around cycling, jogging, and other endurance activities.
 
 **Climb**
 
@@ -647,7 +647,7 @@ A Swim check is necessary each round that a character is in water, with a succes
 
 ### Intelligence Based Skills
 
-There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unksilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
+There are many Intelligence based skills and they tend to have a relatively narrow focus. Intelligence-based skills have a default of -6 for the unskilled, recognising that it is far more difficult to figure out a problem from first principles in lieu of training.
 
 **Craft (Computing)**
 
@@ -659,7 +659,7 @@ A Craft (chemical) check is used when a character is mixing chemicals. In most c
 
 **Craft (pharmaceutical)**
 
-A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective doseages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
+A Craft (pharmaceutical) check is used to compound drugs, whether to produce a tablet, liquid, or even gaseous medicine. This includes the ability to dispense safe and effective dosages to aid healing, or conversely, to deliberately provide poisonous dosages. Use of this skill is effective for hospital pharmaceutical professions, clinical pharmacy, ambulatory care, veterinary pharmacy etc.
 
 **Craft (writing)**
 
@@ -673,9 +673,9 @@ An Investigate skill check is used to apply forensics, discover clues, and engag
 
 **Knowledge (various)** 
 
-A Knowledge skill check is used against any critical application of a theoretical knowledge. Many other skill consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
+A Knowledge skill check is used against any critical application of a theoretical knowledge. Many other skills consist of a combination of knowledge and practise ("know how"), whereas knowledge skills are a combination of theory and knowledge ("know what"). There are several knowledge skills (like Craft skills) and each have an optional specialisations. 
 
-> The character Seth is a post-graduate health scientist. Their player, with a truly impressive 7 skill points per level, spends 1 to increase the Knowledge (Science), a required specialisation, and 2 on the optional specialisations of biology and medicine i.e., Knowledge (Science, Biology), Knowledge (Science, Medicine), and 1 on medical practioners i.e., Knowledge (Science, Medics).
+> The character Seth is a post-graduate health scientist. Their player, with a truly impressive 7 skill points per level, spends 1 to increase the Knowledge (Science), a required specialisation, and 2 on the optional specialisations of biology and medicine i.e., Knowledge (Science, Biology), Knowledge (Science, Medicine), and 1 on medical practitioners i.e., Knowledge (Science, Medics).
 
 **Knowledge (Arts)** 
 
@@ -699,11 +699,11 @@ A Knowledge (General - specialisation) skill check is required whenever a charac
 
 **Language (various)**
 
-A Language (specialisation) skill check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there is dramatic reasons for the test, whether resulting from success or failure. A language is a required specialisation. Closely related languages will have a close default with each other.
+A Language (specialisation) skill check is required when conversing in a language, but also applying the game system rules of when checks should be made - that is, only if the characters are rushed in their communication and there are dramatic reasons for the test, whether resulting from success or failure. A language is a required specialisation. Closely related languages will have a close default with each other.
 
 ### Wisdom Based Skills
 
-There are a few Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unksilled, existing in the middle of influence of natural ability and training.
+There are a few Wisdom based skills and they tend to have an average focus. Wisdom-based skills have a default of -4 for the unskilled, existing in the middle of influence of natural ability and training.
 
 **Administration**
 
@@ -751,7 +751,7 @@ A Craft (visual art) skill check is used when a character is engaging in the pro
 
 **Firearms**
 
-A Firearms skill check is used whenever a character uses a portable barelled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anarchronisms such as muskets and crossbows. {what about tasers?}
+A Firearms skill check is used whenever a character uses a portable barrelled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anachronisms such as muskets and crossbows. {what about tasers?}
 
 **Gymnastics**
 
@@ -779,7 +779,7 @@ A Stealth skill check is used when a character is hiding in broom closets, stalk
 
 ### Perception Based Skills
 
-There are few Perception based skills, but they have a wide application. Perception-based skills have a default of -2 for the unksilled, recognising that these skills are heavily influenced by the physical ability of the character.
+There are few Perception based skills, but they have a wide application. Perception-based skills have a default of -2 for the unskilled, recognising that these skills are heavily influenced by the physical ability of the character.
 
 **Insight**
 
@@ -827,7 +827,7 @@ With the Apprentice perk, a character has assigned to them a 1st level character
 
 **Augury**
 
-With the Augury perk a character can seemingly predict the future. In reality it is the result of careful research, planning, and insight. After a successful strategic research check a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
+With the Augury perk a character can seemingly predict the future. In reality it is the result of careful research, planning, and insight. After a successful strategic research check, a character with an Augury perk can also predict upcoming critical disasters and weaknesses up to six strategic turns ahead.
 
 **Bureaucratic Dodge**
 
