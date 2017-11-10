@@ -944,7 +944,11 @@ Robert Hogan
 
 Like much of the corporate world, *Papers & Paychecks* uses the Myers-Briggs Type Indicator as a summary of a character's personality, and mapped to the Keirsey Temperament Sorter, both of which are derived from Jungian psychology. Like most aspects of roleplaying games, this is expressed in the simplified form, without auxiliary functions for example. In other games this is the equivalent of their "alignment". As a roleplaying game, a player should play according to the role of their character. 
 
-Whilst the player is given a choice about the personality values of their Type, within the range of 3-18, and an option is designed for random generation on 3d6. Note that contrary to original expectations the four dichotomies of MBTI tend towards a more normal distribution rather than a bipolar distribution. In addition the formal MBTI uses absolute values rather than a continuum.
+Whilst the player is given a choice about the personality values of their Type, within the range of 3-18, and an option is designed for random generation. Note that contrary to original expectations the four dichotomies of MBTI tend towards a more normal distribution rather than a bipolar distribution. In addition the formal MBTI uses absolute values rather than a continuum.
+
+For random generation simply roll 1d6 for each of the four personality pairs and provide a value of +1 to +3 to either Extraversion/Introversion, Sensing/Intuition, Thinking/Feeling, Judging/Perceiving. This can be easiest achieved by assigning +1 to +3 to first paired value when the die roll is from 1 to 3, and +1 to +3 to the second paired value when the die roll is 4 to 6. Note that this does not give the same distribution of personality traits as expected by the MBTI.
+
+> For example: Walter's player loves random determination of traits. "Makes me feel alive!", they exclaim. "I want a *random* personality!", and rolls four 1d6 and gets 3, 4, 2, and 5. The first result is +3 Extraversion ("Oh yeah! Everyone listen to me!"), +1 to Sensing, +2 to Thinking, and +2 to Perceiving. "A Promoter! That's perfect!"  
 
 **Favorite world: Extraversion/Introversion**
 
