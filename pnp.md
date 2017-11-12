@@ -1289,9 +1289,25 @@ Gossip is the spreading of rumours of unsavoury behaviour, words, or motives abo
 
 If the recipients of the rumour succeecd in the contest of skills they will have sufficient doubt of ther veracity of the story. If they are friendly to the victim they will certainly inform them that they are under attack and of the source. Further they will gain a continuing bonus of +4 against any further attempts of the rumour-monger to spread information in the future. The victim and their allies may then attempt to remove the cause of the gossip with evidence, real or contrived, also requiring a Lie or Inspire skill check. However because gossip is easier to spread than to defend, it comes with a penalty of -2, and there is difficulty in locating those who have been subject to the rumour. Again three subjects can receive counter-gossip information per Strategic turn. A calculating victim probably realises that if they have sufficient Social hit points to begin with that perhaps the best counter to gossip is to start a new set of rumours against the source themselves. The chaos that this causes in the workplace is, of course, up to The Boss to explore fully.
 
-**Invention**
+**Invention and Repair**
+
+There are multiple levels of invention and repair. The most basic is "jury-rigging", making temporary repairs and modfications from whatever is at hand. This is typically carried out as a Craft skill and can provide an effective and temporary 10% bonus to one aspect of a working item, with a corresponding 10% loss in another area. Or it can temporarily ignore the damage to an item and allow to function for a period as intended. The Craft skill will take several rounds (2d10*10) to carry out and the item will operational in its changed state for a variant number of strategic turns (1d6). The randomness is an inherent part of the jury-rigging.
+
+Craft skills can also be used for repairs. A damaged item can be repaired by a crafter with access to tools at a rate of 1 hit point per strategic turn per standard success check.
+
+For an invention, is the creation of a new item of the same scale and complexity as those on the equipment list. This initially requires a concept roll with a target number of 20. This is typically Craft or Knowledge skills, but others are far from unknown. With the new concept available, the item will require 1000 successful strategic tests also with a target number of 20. This can be carried out by a single genius with plenty of time in their hands, or a team of extremely skilled and innovative thinkers. 
 
 **Legal Contest**
+
+A legal contest is carried out with two characters using a two-contested skill rolls. The first relates to the facts of the matter, and is determined by a contest between with an Knowledge (Laws) skills, with modifications based on the known objective reality of situation. Being "caught red-handed", for example, would be a penalty of -4 or more. This is followed by a contest of any Charisma-based skill acting as a supplementary. Half the effect of the margin of success in the Charisma contest can be used as modification to the effect of the Knowledge (Laws) skill contest. The net result of this contest acts as a Social Bruising bewteen the lawyers of the contesting legal parties.
+
+The result for the defendent however is more serious; instead they take Social Wounds, whether the case is civil or criminal. Further, there is a multiplier depending on the seriousness of the offense. Whilst obviously this will vary significantly according to the individual jurisdiction, the following can provide a rough guide.
+
+1* Social Wound Damage: Personal possession of a controlled substance., Petty theft., Trespass., Petty forgery., Resisting arrest., assault., Possession of a controlled weapon etc. Essentially anything that constitutes a "misdemeanor" in U.S. legal terms.
+
+2* Social Wound Damage: Commercial possession of a controlled substance., Criminal conspiracy., Theft., Burglary., Forgery., Assault with serious injury, Bribery., Possession of a deadly controlled weapon., Robbery, Invasion of privacy. Essentially anything that constitutes a minor felony in U.S. legal terms.
+
+3* Social Wound Damage and higher: Various forms of homocide, Kidnapping, Violent sexual assaults etc. 
 
 **Revelry**
 
