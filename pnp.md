@@ -1868,13 +1868,11 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Act           | +2       |  +2        |           | +4         |
+| Administration  | +3     |  +3        |           | +6         |
+| Carousing     |  +2      |  +1        |           | +3         |
+| Lie           | +1       |  +2        |           | +3         |
+| Profession    |  +3      |  +1        |           | +4         |
 
 
 *Jennifer Taglia*, an administrator, E+1 N+2 F+2 J+1 (Teacher):
@@ -1882,8 +1880,8 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   11	|  +0	     | Profession	  | Manager, Administrator |
-| Intelligence	    |   12	|  +1	     | Level	          | 2, 4 |
+| Strength	    |   11	|  +0	     | Profession	  | Administrator |
+| Intelligence	    |   12	|  +1	     | Level	          | 6 |
 | Wisdom 	    |   15	|  +2        | Movement (running) |   |
 | Dexterity	    |   5	|  -3        | Wounds (Physical)  |   |
 | Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
@@ -1891,14 +1889,14 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
+| Administration   | +2    | +5         |           | +7         |
+| Concentration | +2       | +5         |           | +7         |
+| Craft (Computing) | +1   | +4         |           | +5         |
+| Lie           | +2       | +1         |           | +3        |
+| Knowledge (General)    | +1      | +1           |           |  +2          |
+| Profession    | +2       | +5         |           |  +7          |
+| Sense (seeing) | -1      | +5           |           | +4          |
+| Sleight        | -3      | +1           |           | -2          |
 
 *Jack Kanoff*, an administrator, I+1 N+2 F+3 J+1 (Counsellor)
 
@@ -1922,7 +1920,7 @@ Nota bene: This name was not made up. Everything else was however.
 |               |          |            |           |            |
 |               |          |            |           |            |
 
-
+*Tai Ping*, an administrator, E+3 S+3 F+3 J+3 (Provider) 
 
 ## 3.4 Tradesperson
 
