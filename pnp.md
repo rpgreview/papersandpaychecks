@@ -1782,14 +1782,14 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
+| Craft (Computing) 	  | +4   | +3   |           |  +7        |
+| Craft (chemical)        | +4   | +3   |           |  +7        |
+| Craft (pharmaceutical)  | +4   | +3   |           |  +7        |
+| Investigate             | +4   | +3   |           |  +7        |
+| Knowledge (Sciences)    | +4   | +3   |           |  +7        |
+| Knowledge (Philosophy)  | +4   | +3   |           |  +7        |
+| Knowledge (General)     | +4   | +3   |           |  +7        |
+| Language (Mandarin)     | +4   | +3   |           |  +7        |
 
 *Terry Dactyl*, a scientist, I+2 N+2 T+3 J+1 (Mastermind)
 
@@ -1805,13 +1805,19 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Act           |  +0        | +1           |           |   +1         |
+| Administration|  +1        | +1         |           |     +2       |
+| Concentration |  +1        | +1         |           |     +2       |
+| Craft (Computing) |  +3        |  +5          |           |  +8          |
+| Craft (Writing)   |  +3        |  +5          |           |  +8          |
+| Investigate   |     +3     | +5           |           |    +8        |
+| Knowledge (General) |  +3  | +5           |           |    +8        |
+| Knowledge (Sciences - Biochemistry) |  +3        | +5           |           |  +8          |
+| Knowledge (Sciences - Zoology)      |  +3        | +5          |           |   +8          |
+| Language (English)  |   +3       | +3           |           |  +6          |
+| Language (German)   |   +3       | +2           |           |  +5          |
+| Profession    |   +1       |  +3          |           |    +4        |
+| Sleight       |  +0        |  +1         |           |     +1       |
 
 *Dr. Shit Fun Chew*, a scientist, E+1 N+2 T+2 P+2 (Inventor)
 
