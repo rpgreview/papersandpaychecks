@@ -1338,10 +1338,9 @@ To work out the damage caused, calculate difference between attack roll and defe
 
 For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x. Determine whether the damage is *wounds* or *bruises*. For physical weapons, 'bashing' weapons cause *bruises*, whereas impaling, stabbing, explosive, shredding, burning, eviscerating, and basically anything that gets under the skin, causes wounds.
 
-Physical damage is applied against STR-based physical hit points. If a character reaches 0 physical bruises they are knocked unconscious. If they are reduced to zero wounds the character is is dead and out-of-game. Mental damage applied against WIS-based mental hit points. If a character reaches 0 mental bruises they are in a state of mental shock and cannot react. Social wounds are applied against CHA-base social hit points; if a character is reduced to 0 social hit points they suffer a serious loss of reputation and are out-of-project. If they are reduced to negative social hit points they have suffered a "social death" and are out-of-game.
+Physical damage is applied against STR-based physical hit points. If a character reaches zero physical hit points from bruises they are knocked unconscious. Any further physical damage is treated as wounds. If they are reduced to zero wounds the character is is dead and out-of-game. Mental damage is applied against WIS-based mental hit points. If a character reaches zero mental hit points in bruises they are in a state of mental shock and cannot react. Any further mental damage is treated as wounds. If they are reduced to zero mental wounds they are permanently mentally incapacitated and out-of-game. Social damage are applied against CHA-base social hit points; if a character is reduced to zero social hit points in bruises they suffer a serious loss of reputation and are out-of-project. Any further damage is treated as wounds. If they are reduced to zero social hit points in wounds they have suffered a "social death" and are out-of-game.
 
 A character naturally heals 1 Physical Bruise per 60-STR (unmodified) tactical rounds, and 1 Physical Wound per 60-STR (unmodified) strategic turns. A successful Survival skill check will heal 1d3 Physical Wounds, 1d6 Physical Bruises, and double the rate of healing. Mental Bruises are likewise recovered 1 point per 60-WIS (unmodified) tactical rounds, a 1 Mental Wound per 60-WIS (unmodified) turns. A successful Inspire skill check will heal 1d3 Mental Wounds, 1d6 Mental Bruises, and double the rate of healing. Finally Social Bruises are naturally recovered at a rate of 1 per 60-CHA (unmodified) strategic turns, and Social Wounds at 60-CHA (unmodified) *days*. There is no skill that cures social damage.
-
 
 > **Code of Cthulhu**
 > 
@@ -1741,7 +1740,6 @@ This pair of rings are exchanged between significant others in the public ritual
 | Sense (hearing)      | -1   | +2           |           | +1         |
 
 *Chris P. Bacon*, a labourer, E+1 N+2 F+3 J+1 (Teacher)
-
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
