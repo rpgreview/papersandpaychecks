@@ -1912,13 +1912,16 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Act           |   +4   | +4             |           |   +8         |
+| Administration   | +4        |  +1           |           |  +5          |
+| Concentration    | +4         | +7           |           |  +11          |
+| Craft (Computing)   | +4          | +8           |           |  +12          |
+| Craft (Pharmaceutical)   | +4   | +1           |           |   +5         |
+| Investigate        |  +1        | +1           |           |   +2       |
+| Knowledge (General)   | +1         | +9           |           |  +10          |
+| Profession              |  +4         | +9           |           |  +13          |
+| Seduce              |   +1       |  +1          |           |            | +2
+| Language (Cantonese)       | +1         |  +1          |           |   +2         |
 
 *Tai Ping*, an administrator, E+3 S+3 F+3 J+3 (Provider) 
 
@@ -1935,9 +1938,6 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
 |               |          |            |           |            |
