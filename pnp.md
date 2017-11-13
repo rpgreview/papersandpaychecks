@@ -1699,23 +1699,22 @@ This pair of rings are exchanged between significant others in the public ritual
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  15 	|  +2	     | Profession	  | Techician, Labourer |
 | Intelligence	    |   8	|  -1	     | Level	          | 1, 2	 |
-| Wisdom 	    |   6	|  -2        | Movement (running) |  |
+| Wisdom 	    |   6	|  -2        | Movement (running) | 13 |
 | Dexterity	    |  13 	|  +1        | Wounds (Physical)  |   |
 | Perception	    |  11 	|  +0 	     | Wounds (Mental)    |   |
 | Charisma	    |  13	|  +1        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
+| Athletics (Strength) |   +2     | +2          |           |  +4        |
+| Athletics (Stamina)  |   +2     | +1          |           |  +3        |
+| Craft (mechanical)   |   +1     | +1          |           |  +2        |
+| Carousing            |   +1     | +2          |           |  +3        |
+| Knowledge (General)  |   -1     | +2          |           |  +1        |
+| Intimidate           |   +2     | +1          |           |  +3        |
 
 *Fleur Power*, a labourer E+1 S+2 T+1 J+2 (Supervisor)
+
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1729,16 +1728,20 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
+| Athletics (Strength) | +3   | +3           |           | +6         |
+| Athletics (Stamina)  | +3   | +3           |           | +6         |
+| Intimidate           | +3   | +4           |           | +7         |
+| Melee                | +3   | +4           |           | +7         |
+| Knowledge (General)  | +0   | +3           |           | +3         |
+| Profession           | -1   | +6           |           | +5         |
+| Craft (structural)   | +0   | +4           |           | +4         |
+| Carousing	       | -1   | +3           |           | +2         |
+| Sense (sight)        | -1   | +2           |           | +1         |
+| Sense (smell)        | -1   | +2           |           | +1         |
+| Sense (hearing)      | -1   | +2           |           | +1         |
 
 *Chris P. Bacon*, a labourer, E+1 N+2 F+3 J+1 (Teacher)
+
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
