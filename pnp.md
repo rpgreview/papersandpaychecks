@@ -1358,7 +1358,7 @@ A character naturally heals 1 Physical Bruise per 60-STR (unmodified) tactical r
 > 
 > Shit. Um... press "c". Defense roll 12
 > 
-> You can see the full details of the Java invocation. And you can see the fateful curse "tomcat" mixed in with the strange moon language. Take 3 points of mental wounds.
+> You can see the full details of the Java invocation. And you can see the fateful curse "tomcat" mixed in with the strange moon language. Take 3 points of mental bruises.
 > 
 > Dammit. Um, do I have any service owner contact details?
 > 
@@ -1366,7 +1366,7 @@ A character naturally heals 1 Physical Bruise per 60-STR (unmodified) tactical r
 > 
 > I think I should ignore it and see if it'll sort itself out.
 > 
-> You go and get a cup of coffee. It's good. Strangely, you gain a 1 point back in mental wounds.
+> You go and get a cup of coffee. It's good. Strangely, you gain a 1 point back in mental bruises.
 > 
 > Suddenly you realise there's a Client Relationship Manager standing right behind your chair, breathing heavily. You didn't even hear him approach, another mental attack with a value of 10. He tells you that some critical service is unresponsive, and he's already escalated to your supervisor's boss that you haven't fixed it yet.
 > 
@@ -1443,7 +1443,7 @@ A character naturally heals 1 Physical Bruise per 60-STR (unmodified) tactical r
 > 
 > less(1) today's log.
 > 
-> Fail defense roll; only a 9. Another 3 mental wounds, 7 total.
+> Fail defense roll; only a 9. Another 3 mental bruises, 7 total.
 > 
 > You see a reference to a failure related to a service not being accessible, but you don't think that's the immediate problem, because that service was turned off three years ago and the hardware taken away by a metaphysical hazmat team.
 > You find a reference to a server not responding, and lots of errors after that where it went crazy trying to reconnect. That's probably where the CPU load went.
@@ -1452,11 +1452,11 @@ A character naturally heals 1 Physical Bruise per 60-STR (unmodified) tactical r
 > 
 > ^A^C on screen(1), and you're good to go. This server is up, but also taking its time. It's running Solaris. That's a mental attack value 12.
 > 
-> Unsurprisingly, fail with a 10. That's 9 mental wounds. OK, what's making it slow? I run top.
+> Unsurprisingly, fail with a 10. That's 9 mental bruises. OK, what's making it slow? I run top.
 > 
 > At the top of the screen you see the command "oracle", and a series of dread runes and forbidden incantations taking up the rest of the commands on the page. Another mental attack value 12. 
 > 
-> Oops, roll of 6. I don't have any Luck Points left. That's 15 mental wounds.
+> Oops, roll of 6. I don't have any Luck Points left. That's 15 mental bruises.
 > 
 > ... Oh dear, that takes you negative. You suffer a contagious psychotic break: your madness cuts holes in reality itself, and faceless daemons from unknown realms emerge to plague a yet unknowing mankind. The CRMs greet one as "Doug". You weep tears of blood and gibber quietly as the veil shreds and you realise that you sit in the cubicle by the toilet door in the fluorescent cube hell of Gehenna.
 > 
