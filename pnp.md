@@ -1836,13 +1836,21 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Administration| +1       | +1         |           | +2         |
+| Concentration | +1       | +2         |           | +3         |
+| Craft (Computing) | +3   | +6         |           | +9         |
+| Craft (chemical)  | +3   | +6         |           | +9         |
+| Craft (pharmaceutical) | +3   | +3           |    | +6         |
+| Craft (writing)   |  +3       | +7           |    | +10        |
+| Investigate   | +3       |  +7        |           | +10       |
+| Knowledge (Sciences, Physics)    |  +3     | +8           |           | +11           |
+| Knowledge (Sciences, Chemistry)  |  +3     | +8           |           | +11           |
+| Knowledge (Philosophy, Mathematics)   |  +3   | +8           |           | +11           |
+| Knowledge (General)    |   +3      |   +8         |           | +11           |
+| Lie           |  +1        |  +2          |           |  +3          |
+| Profession    |  +1      |  + 6         |           |    +7        |
+| Sleight       |  +1        | +1           |           |  +2          |
+
 
 *Al Kyne*, a scientist I+3 N+1 T+1 P+1 (Architect)
  
@@ -2028,7 +2036,7 @@ Nota bene: This name was not made up. Everything else was however.
 |               |          |            |           |            |
 |               |          |            |           |            |
 
-*Miles A.Head*, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
+*Miles A. Head*, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
