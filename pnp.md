@@ -462,7 +462,7 @@ Note that there is no level after 10. After several projects at this level, havi
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: Athletics (Strength), Athletics (stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various) 
+Profession Skills: Athletics (Strength), Athletics (Stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various) 
 
 Description: A labourer works with their hands for the livelihood. Typically found in the construction industry, it is not a character profession that has a wide range of skills, nor does that is often found within an office-environment. Whilst not known for the intellect, they are known for their ability to lift heavy things which often comes with significant sex appeal. As a result, some office workers react to labourers with a peculiar combination of envy and disgust. Labourers are the only profession that gains points in physical characteristics as their level improves. They have a very good weekly-wage for a profession, at least in the initial levels. The starting age of a labourer with no prior profession is often quite young.
 
@@ -619,9 +619,9 @@ There are few Strength based skills, but they have a wide application. Strength-
 
 An Athletics (strength) skill check is made when a character wishes to engage in various track-and-field events which strongly depend on their physical musculature. This includes distance-based throwing (e.g., hammer throw, shot put, weight throw), sprints, and hurdles. {if incorporate melee into this add combat sports like boxing, wrestling, brawling etc}
 
-**Athletics (stamina)**
+**Athletics (Stamina)**
 
-An Athletics (stamina) skill check is made when a character is engaging in events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, triathlons, free-diving, long distance running, etc. Many workplace social cliques revolve around cycling, jogging, and other endurance activities.
+An Athletics (Stamina) skill check is made when a character is engaging in events which involve fitness and stamina. This includes hiking, cross-country running (e.g., alpine running), race walking, triathlons, free-diving, long distance running, etc. Many workplace social cliques revolve around cycling, jogging, and other endurance activities.
 
 **Climb**
 
@@ -1705,12 +1705,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Athletics (Strength) |   +2     | +2          |           |  +4        |
-| Athletics (Stamina)  |   +2     | +1          |           |  +3        |
-| Craft (mechanical)   |   +1     | +1          |           |  +2        |
-| Carousing            |   +1     | +2          |           |  +3        |
-| Knowledge (General)  |   -1     | +2          |           |  +1        |
+| Athletics (Stamina) |   +2     | +2          |           |  +4        |
+| Athletics (Strength)  |   +2     | +1          |           |  +3        |
+| Carousing   |   +1     | +1          |           |  +2        |
+| Craft (mechanical)            |   +1     | +2          |           |  +3        |
 | Intimidate           |   +2     | +1          |           |  +3        |
+| Knowledge (General)  |   -1     | +2          |           |  +1        |
 
 *Fleur Power*, a labourer E+1 S+2 T+1 J+2 (Supervisor)
 
@@ -1727,17 +1727,17 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Athletics (Strength) | +3   | +3           |           | +6         |
-| Athletics (Stamina)  | +3   | +3           |           | +6         |
-| Intimidate           | +3   | +4           |           | +7         |
-| Melee                | +3   | +4           |           | +7         |
-| Knowledge (General)  | +0   | +3           |           | +3         |
-| Profession           | -1   | +6           |           | +5         |
-| Craft (structural)   | +0   | +4           |           | +4         |
+| Athletics (Stamina) | +3   | +3           |           | +6         |
+| Athletics (Strength)  | +3   | +3           |           | +6         |
 | Carousing	       | -1   | +3           |           | +2         |
+| Craft (structural)   | +0   | +4           |           | +4         |
+| Intimidate           | +3   | +4           |           | +7         |
+| Knowledge (General)  | +0   | +3           |           | +3         |
+| Melee                | +3   | +4           |           | +7         |
+| Profession           | -1   | +6           |           | +5         |
+| Sense (hearing)      | -1   | +2           |           | +1         |
 | Sense (sight)        | -1   | +2           |           | +1         |
 | Sense (smell)        | -1   | +2           |           | +1         |
-| Sense (hearing)      | -1   | +2           |           | +1         |
 
 *Chris P. Bacon*, a labourer, E+1 N+2 F+3 J+1 (Teacher)
 
@@ -1753,13 +1753,17 @@ This pair of rings are exchanged between significant others in the public ritual
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Athletics (Stamina)    | +1     | +9       |      | +10        |
+| Athletics (Strength)   | +1     | +9       |      | +10        |
+| Intimidate    	 | +1     | +6       |      | +7         |
+| Insight                | +1     | +6       |      | +7         |
+| Inspire                | +2     | +4       |      | +6         |
+| Melee		         | +1     | +4       |      | +5         |
+| Knowledge (General)    | +1     | +9       |      | +10        |
+| Profession             | +1     | +9       |      | +10        |
+| Craft (structural)     | +1     | +9       |      | +10        |
+| Carousing              | +2     | +4       |      | +6         |
+| Sense (hearing)        | -1     | +1       |      | +0         |
 
 
 *Joe Hill*, a labourer, I+2 N+3 F+2 J+1 (Healer)
