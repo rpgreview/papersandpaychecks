@@ -1946,6 +1946,8 @@ Nota bene: This name was not made up. Everything else was however.
 *Harry Baals*, a tradesperson, E+1 N+1 F+1 P+2 (Champion)
 
 
+: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   12	|  +1	     | Profession	  | Tradesperson |
@@ -1967,6 +1969,7 @@ Nota bene: This name was not made up. Everything else was however.
 
 *Wendy West-Breese*, an tradesperson, E+1 S+2 T+3 P+2 (Promoter) 
 
+: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1990,6 +1993,7 @@ Nota bene: This name was not made up. Everything else was however.
 
 *Hardy Ballitch*, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
 
+: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
 ## 3.5 Researchers
 
