@@ -549,7 +549,7 @@ Description: A tradesperson works with their clever hands for their livelihood w
 
 Prime Requisite: Perception
 Starting Age: 15+2d4
-Profession Skills: Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
+Profession Skills: Investigate, Knowledge (General), Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Concentration, Insight, Sense (various)
 
 Description: A researcher works with their insight and investigative skills for their livelihood. It is their stubborn ability to pore over details looking for the hidden causes of things which makes a researcher especially valuable in an organisation. Nevertheless, they are easily overlooked as they often work long hours and away from the social lives of others, and receive a rather poor renumeration as a result. Researchers start their career at an average age.
 
@@ -1994,7 +1994,6 @@ Nota bene: This name was not made up. Everything else was however.
 *Hardy Ballitch*, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
 
 
-
 ## 3.5 Researchers
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -2008,18 +2007,14 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Concentration  |  +0     | +3         |           |  +3        |
+| Investigate    |  +1     | +3         |           |  +4        |
+| Knowledge (General) | +1 | +1         |           |  +2        |
+| Knowledge (Laws)    | +1 | +3         |           |  +4        |
+| Insight       | +3       | +3         |           |  +6        |
+| Sense (Sight) | +3       | +2         |           |  +5        |
 
 *Oliver Gomeric*, a researcher, I+1 S+2 F+2 J+1 (Protectors)
-
-
-Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
 
 
 
@@ -2034,17 +2029,15 @@ Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Knowledge (General) |  +0  | +2       |           |  +2        |
+| Knowledge (Arts)    |  +0  | +2       |           |  +2        |
+| Knowledge (Laws)    |  +0  | +2       |           |  +2        |
+| Knowledge (Sciences) | +0  | +2       |           |  +2        |
+| Insight              | +2  | +5       |           |  +7        |
+| Sense (hearing)      | +2  | +6       |           |  +8        |
+| Sense (sight)        | +2  | +5       |           |  +7        |
 
 *Miles A. Head*, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
-
-Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
 
 
 
@@ -2059,20 +2052,17 @@ Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Administration |  +1        | +3      |           | +4         |
+| Carousing      |  +3        | +3      |           | +6         |
+| Insight       |   +3       | +6       |           | +9         |
+| Inspire       |   +3       | +3       |           | +6         |
+| Investigate   |   +1       | +6       |           | +7         |
+| Knowledge (General) | +1   | +9       |           | +10        |
+| Knowledge (Arts)    | +1   | +6       |           | +7         |
+| Profession    |    +1      | +3       |           | +4         |
+| Sense (sight) |    +3      | +6       |           | +9         |
 
 *Justine Case*, I+1 S+1 T+1 P+2 (Crafter)
-
-Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
-
-Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
-
 
 
 ## 3.6 Managers
@@ -2081,25 +2071,20 @@ Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   8	|  -1	     | Profession	  | Manager |
 | Intelligence	    |   10	|  +0	     | Level	          | 3 |
-| Wisdom 	    |   12	|  +1        | Movement (running) | 4  |
+| Wisdom 	    |   14	|  +2        | Movement (running) | 4  |
 | Dexterity	    |   8	|  -1        | Wounds (Physical)  |   |
 | Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
 | Charisma	    |  	15	|  +2        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Act           |  +2      |  +3        |           | +5         |
+| Administration|  +2      |  +3        |           | +5         |
+| Carousing     |  +2      |  +3        |           | +5         |
+| Profession    |  +2      |  +3        |           | +5         |
 
-*Yul B. Allwright*, a manager, E+1 S+2 F+2 P+2 (Performer)
+*Yule B. Allwright*, a manager, E+1 S+2 F+2 P+2 (Performer)
 
-
-Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2112,23 +2097,14 @@ Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire,
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-
-
+| Act           | +4       | +1         |           | +5         |
+| Carousing     | +4       | +1         |           | +5         |
+| Insight       | +3       | +3         |           | +6         |
+| Lie           | +4       | +2         |           | +6         |
+| Seduce        | +4       | +2         |           | +6         |
+| Sense (Hearing) | +3     | +3         |           | +6         |
 
 *Seymour Butz*, a manager, I+1 S+2 F+2 J+1 (Protectors)
-
-Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
-Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
-
-fun-loving, helpful, dishonest,
-
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -2142,16 +2118,14 @@ fun-loving, helpful, dishonest,
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Administration | +1      |  +8        |           | +9         |
+| Bully         |  +2      |  +9        |           | +11        |
+| Carousing     |  +2      |  +6        |           | +8         |
+| Intimidate    |  +1      |  +1        |           | +2         |
+| Profession    |  +1      |  +8        |           | +9         |
+| Lie           |  +2      |  +9        |           | +11        |
+| Seduce        |  +2      |  +3        |           | +5         |
 
-
-Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 *Wayne Kerr*, a manager. E+1 N+3 T+1 J+3 (Fieldmarshall)
 
