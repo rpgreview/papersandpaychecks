@@ -1698,21 +1698,27 @@ This pair of rings are exchanged between significant others in the public ritual
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  15 	|  +2	     | Profession	  | Techician, Labourer |
 | Intelligence	    |   8	|  -1	     | Level	          | 1, 2	 |
-| Wisdom 	    |   6	|  -2        | Movement (running) | 13 |
+| Wisdom 	    |   6	|  -2        | Movement (running) | 7 |
 | Dexterity	    |  13 	|  +1        | Wounds (Physical)  | 8  |
 | Perception	    |  11 	|  +0 	     | Wounds (Mental)    |   |
 | Charisma	    |  13	|  +1        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Athletics (Stamina) |   +2     | +2          |           |  +4        |
-| Athletics (Strength)  |   +2     | +1          |           |  +3        |
-| Carousing   |   +1     | +1          |           |  +2        |
-| Craft (mechanical)            |   +1     | +2          |           |  +3        |
-| Intimidate           |   +2     | +1          |           |  +3        |
-| Knowledge (General)  |   -1     | +2          |           |  +1        |
+| Athletics (Stamina)  |   +2     | +2  |           |  +4        |
+| Athletics (Strength) |   +2     | +1  |           |  +3        |
+| Carousing            |   +1     | +1  |           |  +2        |
+| Craft (mechanical)   |   +1     | +2  |           |  +3        |
+| Intimidate           |   +2     | +1  |           |  +3        |
+| Knowledge (General)  |   -1     | +2  |           |  +1        |
 
 *Fleur Power*, a labourer E+1 S+2 T+1 J+2 (Supervisor)
+
+Fleur Power is an example of modern working class young woman. As a youngster she liked to fossick around in her father's garage, asking difficult questions, and when she finished school (as early as she could) she took up an apprenticeship as a mechanic. When the mechanic went out of business Fleur picked up a new job as a road worker where her strength and stamina has become evident.
+
+She's a tough nut who works hard and plays hard. She commands the respect of her workmates and has a mouth that would make a sailor blush and unfortunately for her she has said the wrong thing at the wrong time to the wrong people. Not that she cares, as she's utterly fearless. 
+
+As an example NPC Fleur can be introduced into a scenario when some heavily lifting is required as she's found herself "in-between" jobs on account of her indiscrete commentary. Selected in such a role, she succeeds in offending the PC's boss, whilst also generating sympathy with the PC Workers as the evident of how deep in excretement she's found herself.
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1722,7 +1728,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Wisdom 	    |   8	|  -1        | Movement (running) |8  |
 | Dexterity	    |   11	|  +0        | Wounds (Physical) |   |
 | Perception	    |   8	|  -1        | Wounds (Mental)   |   |
-| Charisma	    |  	9	|  -1          | Wounds (Social)   |   |
+| Charisma	    |  	9	|  -1        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1740,7 +1746,12 @@ This pair of rings are exchanged between significant others in the public ritual
 
 *Chris P. Bacon*, a labourer, E+1 N+2 F+3 J+1 (Teacher)
 
+Chris is a massive character who works in the construction industry and is actually fairly good at his day job and has nigh job as a boxer, which he's even better at. His combination of his professional skills and his reputation had led him to become an impressive standover man, even though he doesn't quite realise he's doing it. For him, "it's all psychology, see", using the knowledge he's picked up on online videos as he terrifies managers, supervisors, and even co-workers into complying to his will. 
 
+As with many in his profession two years ago Chris suffered a workplace injury when a petrol storage tank exploded onsite, dousing him in the fiery liquid. Apart from some physical scars it is permanently affected his hearing, sight, and even his sense of smell. His workmates, of course, have taken some comic relief at the correlation his name and this event. 
+
+An appropriate encounter with Chris in *Papers & Paychecks* could be a scenario where the PCs are asked to organise a building construction whilst Chris has been nominated by the union to negotiate conditions. Curiously, the owner of the building site also happens to be the manager of a boxer that Chris has to fight the following night.
+ 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   13	|  +1	     | Profession	  | Labourer |
@@ -1748,25 +1759,28 @@ This pair of rings are exchanged between significant others in the public ritual
 | Wisdom 	    |   13	|  +1        | Movement (running) | 7  |
 | Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
-| Charisma	    |  	14	|  +2          | Wounds (Social)    |   |
+| Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Athletics (Stamina)    | +1     | +9       |      | +10        |
 | Athletics (Strength)   | +1     | +9       |      | +10        |
-| Intimidate    	 | +1     | +6       |      | +7         |
+| Intimidate    	 | +1     | +3       |      | +5         |
 | Insight                | +1     | +6       |      | +7         |
-| Inspire                | +2     | +4       |      | +6         |
+| Inspire                | +2     | +6       |      | +8         |
 | Melee		         | +1     | +4       |      | +5         |
 | Knowledge (General)    | +1     | +9       |      | +10        |
 | Profession             | +1     | +9       |      | +10        |
 | Craft (structural)     | +1     | +9       |      | +10        |
 | Carousing              | +2     | +4       |      | +6         |
-| Sense (hearing)        | -1     | +1       |      | +0         |
-
 
 *Joe Hill*, a labourer, I+2 N+3 F+2 J+1 (Healer)
 
+If there is ever a man as half as good as Joe Hill, they're worth knowing. A genuine all-rounder, Joe is a softly-spoken and determined older man with impressive and wide abilities and skills. A plumber by profession, Joe is widely read and committed to his immediate workmates and the working class in general. His speeches are inspiring and more than once management has pulled him aside and offered him an office job, which he has rejected quickly.
+
+Whilst Joe is a good judge of character and can quickly guess the motivations of others (whether good or ill) the loyalty he has to his workmates and family may prove his undoing. The very fact that he operates entirely above board encourages the less scrupulous to seek ways to undermine him by less than legel means.
+
+Encountering Joe in the midst of an industrial dispute is appropriate. The PC Workers, in a company that is trying to get Joe out of the way, discover or are even employed, to rig a plumbing accident that will incapacitate him, as his Perception is not the greatest. The PCs can either have the difficulty of installing such a booby-trap, warning Joe without losing their jobs, or both. 
 
 ## 3.2 Scientists
 
