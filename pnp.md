@@ -1699,7 +1699,7 @@ This pair of rings are exchanged between significant others in the public ritual
 | Strength	    |  15 	|  +2	     | Profession	  | Techician, Labourer |
 | Intelligence	    |   8	|  -1	     | Level	          | 1, 2	 |
 | Wisdom 	    |   6	|  -2        | Movement (running) | 13 |
-| Dexterity	    |  13 	|  +1        | Wounds (Physical)  |   |
+| Dexterity	    |  13 	|  +1        | Wounds (Physical)  | 8  |
 | Perception	    |  11 	|  +0 	     | Wounds (Mental)    |   |
 | Charisma	    |  13	|  +1        | Wounds (Social)    |   |
 
@@ -1719,7 +1719,7 @@ This pair of rings are exchanged between significant others in the public ritual
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   16	|  +3	     | Profession	 | Labourer |
 | Intelligence	    |   11	|  +0	     | Level	         | 6	 |
-| Wisdom 	    |   8	|  -1        | Movement (running) |  |
+| Wisdom 	    |   8	|  -1        | Movement (running) |8  |
 | Dexterity	    |   11	|  +0        | Wounds (Physical) |   |
 | Perception	    |   8	|  -1        | Wounds (Mental)   |   |
 | Charisma	    |  	9	|  -1          | Wounds (Social)   |   |
@@ -1745,7 +1745,7 @@ This pair of rings are exchanged between significant others in the public ritual
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   13	|  +1	     | Profession	  | Labourer |
 | Intelligence	    |   13	|  +1	     | Level	          | 9 |
-| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Wisdom 	    |   13	|  +1        | Movement (running) | 7  |
 | Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
 | Charisma	    |  	14	|  +2          | Wounds (Social)    |   |
@@ -1774,7 +1774,7 @@ This pair of rings are exchanged between significant others in the public ritual
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   5	|  -3	     | Profession	  | Scientist |
 | Intelligence	    |   18	|  +4	     | Level	          | 3 |
-| Wisdom 	    |   9	|  -1        | Movement (running) |   |
+| Wisdom 	    |   9	|  -1        | Movement (running) | 3  |
 | Dexterity	    |   12	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
 | Charisma	    |  	8	|  -1        | Wounds (Social)    |   |
@@ -1797,7 +1797,7 @@ This pair of rings are exchanged between significant others in the public ritual
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   7	|  -2	     | Profession	  | Administrator, Scientist |
 | Intelligence	    |   17	|  +3	     | Level	          | 1, 5 |
-| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Wisdom 	    |   13	|  +1        | Movement (running) | 4  |
 | Dexterity	    |   11	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   10	|  +0 	     | Wounds (Mental)    |   |
 | Charisma	    |  	11	|  +0        | Wounds (Social)    |   |
@@ -1828,7 +1828,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   10	|  +0	     | Profession	  | Administrator, Scientist |
 | Intelligence	    |   17	|  +3	     | Level	          | 1, 8 |
-| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Wisdom 	    |   13	|  +1        | Movement (running) | 5  |
 | Dexterity	    |   12	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   5	|  -3  	     | Wounds (Mental)    |   |
 | Charisma	    |  	10	|  +0        | Wounds (Social)    |   |
@@ -1860,7 +1860,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   7	|  -2	     | Profession	  | Manager, Administrator |
 | Intelligence	    |   8	|  -1	     | Level	          | 1, 2 |
-| Wisdom 	    |   16	|  +3        | Movement (running) |   |
+| Wisdom 	    |   16	|  +3        | Movement (running) | 4  |
 | Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   14	|  +2        | Wounds (Mental)    |   |
 | Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
@@ -1881,7 +1881,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   11	|  +0	     | Profession	  | Administrator |
 | Intelligence	    |   12	|  +1	     | Level	          | 6 |
-| Wisdom 	    |   15	|  +2        | Movement (running) |   |
+| Wisdom 	    |   15	|  +2        | Movement (running) | 6 |
 | Dexterity	    |   5	|  -3        | Wounds (Physical)  |   |
 | Perception	    |   8	|  -1  	     | Wounds (Mental)    |   |
 | Charisma	    |  	14	|  +2          | Wounds (Social)    |   |
@@ -1904,23 +1904,23 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   3	|  -4	     | Profession	  | Manager, Scientist, Administrator |
 | Intelligence	    |   13	|  +1	     | Level	          | 1, 1, 7 |
-| Wisdom 	    |   18	|  +4        | Movement (running) |   |
+| Wisdom 	    |   18	|  +4        | Movement (running) | 2  |
 | Dexterity	    |   7	|  -2        | Wounds (Physical)  |   |
 | Perception	    |   7	|  -2 	     | Wounds (Mental)    |   |
 | Charisma	    |  	13	|  +1        | Wounds (Social)    |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Act           |   +4   | +4             |           |   +8         |
-| Administration   | +4        |  +1           |           |  +5          |
-| Concentration    | +4         | +7           |           |  +11          |
-| Craft (Computing)   | +4          | +8           |           |  +12          |
-| Craft (Pharmaceutical)   | +4   | +1           |           |   +5         |
-| Investigate        |  +1        | +1           |           |   +2       |
-| Knowledge (General)   | +1         | +9           |           |  +10          |
-| Profession              |  +4         | +9           |           |  +13          |
-| Seduce              |   +1       |  +1          |           |            | +2
-| Language (Cantonese)       | +1         |  +1          |           |   +2         |
+| Act           |   +4   | +4             |           |   +8     |
+| Administration   | +4        |  +1           |           |  +5 |
+| Concentration    | +4         | +7           |           |  +11|
+| Craft (Computing)   | +4          | +8           |    |  +12   |
+| Craft (Pharmaceutical)   | +4   | +1           |      |   +5   |
+| Investigate        |  +1        | +1           |      |   +2   |
+| Knowledge (General)   | +1         | +9           |   |  +10   |
+| Profession              |  +4         | +9          | |  +13   |
+| Seduce              |   +1       |  +1          |   |      +2  |
+| Language (Cantonese)       | +1         |  +1      |   |   +2  |
 
 *Tai Ping*, an administrator, E+3 S+3 F+3 J+3 (Provider) 
 
@@ -1930,7 +1930,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   9	|  -1	     | Profession	  | Tradesperson |
 | Intelligence	    |  10	|  +0	     | Level	          | 3 |
-| Wisdom 	    |   9	|  -1        | Movement (running) |   |
+| Wisdom 	    |   9	|  -1        | Movement (running) | 5  |
 | Dexterity	    |  14 	|  +2        | Wounds (Physical)  |   |
 | Perception	    |  13 	|  +1  	     | Wounds (Mental)    |   |
 | Charisma	    |  12       |  +1        | Wounds (Social)    |   |
@@ -1949,7 +1949,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   12	|  +1	     | Profession	  | Tradesperson |
 | Intelligence	    |   11	|  +0	     | Level	          | 6 |
-| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Wisdom 	    |   13	|  +1        | Movement (running) | 6 |
 | Dexterity	    |   16	|  +3        | Wounds (Physical)  |   |
 | Perception	    |   10	|  +0 	     | Wounds (Mental)    |   |
 | Charisma	    |  	5	|  -3        | Wounds (Social)    |   |
@@ -1973,7 +1973,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   8	|  -1	     | Profession	  | Tradesperson |
 | Intelligence	    |  10 	|  +0	     | Level	          | 9 |
-| Wisdom 	    |  10 	|  +0        | Movement (running) |   |
+| Wisdom 	    |  10 	|  +0        | Movement (running) | 4  |
 | Dexterity	    |  14 	|  +2        | Wounds (Physical)  |   |
 | Perception	    |  10 	|  +0  	     | Wounds (Mental)    |   |
 | Charisma	    |  10	|  +0         | Wounds (Social)    |   |
@@ -2001,7 +2001,7 @@ Nota bene: This name was not made up. Everything else was however.
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   8	|  -1	     | Profession	  | Researcher |
 | Intelligence	    |   12	|  +1	     | Level	          | 3 |
-| Wisdom 	    |   11	|  +0        | Movement (running) |   |
+| Wisdom 	    |   11	|  +0        | Movement (running) | 4  |
 | Dexterity	    |   8	|  -1        | Wounds (Physical)  |   |
 | Perception	    |   17	|  +3        | Wounds (Mental)    |   |
 | Charisma	    |  	11	|  +0        | Wounds (Social)    |   |
@@ -2019,11 +2019,15 @@ Nota bene: This name was not made up. Everything else was however.
 *Oliver Gomeric*, a researcher, I+1 S+2 F+2 J+1 (Protectors)
 
 
+Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
+
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   10	|  +0	     | Profession	  | Researcher |
 | Intelligence	    |   11	|  +0	     | Level	          | 6 |
-| Wisdom 	    |   11	|  +0        | Movement (running) |   |
+| Wisdom 	    |   11	|  +0        | Movement (running) | 5  |
 | Dexterity	    |   11 	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   15	|  +2  	     | Wounds (Mental)    |   |
 | Charisma	    |  	11	|  +0        | Wounds (Social)    |   |
@@ -2040,11 +2044,15 @@ Nota bene: This name was not made up. Everything else was however.
 
 *Miles A. Head*, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
 
+Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
+
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   4	|  -3	     | Profession	  | Manager, Researcher |
 | Intelligence	    |   13	|  +1	     | Level	          | 3, 6 |
-| Wisdom 	    |   13	|  +1        | Movement (running) |   |
+| Wisdom 	    |   13	|  +1        | Movement (running) | 2  |
 | Dexterity	    |   9	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
 | Charisma	    |  	16	|  +3        | Wounds (Social)    |   |
@@ -2061,13 +2069,19 @@ Nota bene: This name was not made up. Everything else was however.
 
 *Justine Case*, I+1 S+1 T+1 P+2 (Crafter)
 
+Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
+
+Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
+
+
+
 ## 3.6 Managers
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   8	|  -1	     | Profession	  | Manager |
 | Intelligence	    |   10	|  +0	     | Level	          | 3 |
-| Wisdom 	    |   12	|  +1        | Movement (running) |   |
+| Wisdom 	    |   12	|  +1        | Movement (running) | 4  |
 | Dexterity	    |   8	|  -1        | Wounds (Physical)  |   |
 | Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
 | Charisma	    |  	15	|  +2        | Wounds (Social)    |   |
@@ -2085,11 +2099,13 @@ Nota bene: This name was not made up. Everything else was however.
 *Yul B. Allwright*, a manager, E+1 S+2 F+2 P+2 (Performer)
 
 
+Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   10	|  +0	     | Profession	  | Researcher, Manager |
 | Intelligence	    |   6	|  -2	     | Level	          | 3, 3 |
-| Wisdom 	    |   6	|  -2        | Movement (running) |   |
+| Wisdom 	    |   6	|  -2        | Movement (running) | 5  |
 | Dexterity	    |   10	|  +0        | Wounds (Physical)  |   |
 | Perception	    |   16	|  +3 	     | Wounds (Mental)    |   |
 | Charisma	    |  	18	|  +4        | Wounds (Social)    |   |
@@ -2105,8 +2121,11 @@ Nota bene: This name was not made up. Everything else was however.
 |               |          |            |           |            |
 
 
+
 *Seymour Butz*, a manager, I+1 S+2 F+2 J+1 (Protectors)
 
+Investigate, Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Profession, Concentration, Insight, Sense (various)
+Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 fun-loving, helpful, dishonest,
 
@@ -2116,7 +2135,7 @@ fun-loving, helpful, dishonest,
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   12	|  +1	     | Profession	  | Manager |
 | Intelligence	    |   12	|  +1	     | Level	          | 9 |
-| Wisdom 	    |   12	|  +1        | Movement (running) |   |
+| Wisdom 	    |   12	|  +1        | Movement (running) | 6  |
 | Dexterity	    |   6	|  -2        | Wounds (Physical)  |   |
 | Perception	    |   6	|  -2  	     | Wounds (Mental)    |   |
 | Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
@@ -2131,6 +2150,8 @@ fun-loving, helpful, dishonest,
 |               |          |            |           |            |
 |               |          |            |           |            |
 
+
+Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
 *Wayne Kerr*, a manager. E+1 N+3 T+1 J+3 (Fieldmarshall)
 
