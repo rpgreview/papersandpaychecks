@@ -1715,7 +1715,6 @@ This pair of rings are exchanged between significant others in the public ritual
 *Fleur Power*, a labourer E+1 S+2 T+1 J+2 (Supervisor)
 
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   16	|  +3	     | Profession	 | Labourer |
@@ -1938,15 +1937,13 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Craft (electronic) |  +2        | +3         |    |    +5      |
+| Profession         |  -1        | +3         |    |    +4      |
+| Knowledge (General)|  +0        | +3         |    |    +3      |
+| Sense (hearing)    |  +1        | +3         |    |    +4      |
 
 *Harry Baals*, a tradesperson, E+1 N+1 F+1 P+2 (Champion)
 
-
-: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1959,17 +1956,18 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Concentration |    +1    | +2         |           | +3         |
+| Craft (electronic) | +3    | +3       |           | +6         |
+| Craft (mechanical) | +3  | +3         |           | +6         |
+| Craft (structural) | +3  | +3         |           | +6         |
+| Profession    |    +1    | +3         |           | +3         |
+| Knowledge (Science) | +0  | +2        |           | +2         |
+| Knowledge (General) | +0  | +4        |           | +4         |
+| Sense (smell) |   +0      | +2        |           | +2         |
+| Sense (taste) |   +0      | +2        |           | +2         |
 
 *Wendy West-Breese*, an tradesperson, E+1 S+2 T+3 P+2 (Promoter) 
 
-: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1982,18 +1980,20 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
-|               |          |            |           |            |
+| Carousing     |     +0   |  +3        |           |   +3       |
+| Concentration |     +0   |  +3        |           |   +3       |
+| Craft (electronic)| +2   |  +7        |           |   +9       |
+| Craft (mechanical)| +2   |  +7        |           |   +9       |
+| Craft (structural)| +2   |  +7        |           |   +3       |
+| Profession    |     +0   |  +3        |           |   +3       |
+| Knowledge (Science)| +0  |  +2        |           |   +2       |
+| Knowledge (General)| +0  |  +2        |           |   +2       |
+| Sense (sight) |      +0  |  +2        |           |   +2       |
 
 
 *Hardy Ballitch*, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
 
-: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
+
 
 ## 3.5 Researchers
 
