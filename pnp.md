@@ -1807,17 +1807,17 @@ Encountering Joe in the midst of an industrial dispute is appropriate. The PC Wo
 | Language (French)       | +4   | +2   |           |  +6        |
 | Language (Russian)      | +4   | +2   |           |  +6        |
 
-Socially a little awkward, short-sighted, and positively hobbit-sized, Terry doesn't seem to have a lot going for herself at first glance. Then when she opens her mouth, their genius becomes apparent, even though there is a glaring lack of knowledge in popular culture. Although young, Terry shows all signs of acumen in several fields, and has recently turned to languages following a gap-year holiday through China and on to the Trans-Siberian railway.
+Socially a little awkward, short-sighted, and positively hobbit-sized, Terry doesn't seem to have a lot going for himself at first glance. Then when he opens her mouth, their genius becomes apparent, even though there is a glaring lack of knowledge in popular culture. Although young, Terry shows all signs of acumen in several fields, and has recently turned to languages following a gap-year holiday through China and on to the Trans-Siberian railway.
 
-Terry is currently working as non-specialised pharmacist with the long term objective of specialising in doctoral research in pharmaceutical chemistry. However with their eyes opened by their recent Eurasian journey they are, perhaps foolishly, becoming increasingly interested in foreign countries and culture. Indeed, for the first time, she has already began thinking of romance, which is surely the death of any scientific career. Nevertheless, the dominant aspect of her life is to "know everything". Obviously this is not possible, but she's going to give it a decent crack.
+Terry is currently working as non-specialised pharmacist with the long term objective of specialising in doctoral research in pharmaceutical chemistry. However with their eyes opened by their recent Eurasian journey they are, perhaps foolishly, becoming increasingly interested in foreign countries and culture. Indeed, for the first time, he has already began thinking of romance, which is surely the death of any scientific career. Nevertheless, the dominant aspect of his life is to "know everything". Obviously this is not possible, but he's going to give it a decent crack.
 
-An encounter with Terry at this stage of her life will be delicate, to put it mildly. Relatively easy to slot into a story when the need for pharmaceutical supplies occurs, Terry will display "non-professional" interests in any PC Worker who has foreign travel or language experience.
+An encounter with Terry at this stage of his life will be delicate, to put it mildly. Relatively easy to slot into a story when the need for pharmaceutical supplies occurs, Terry will display "non-professional" interests in any PC Worker who has foreign travel or language experience.
 
 **Dr. Shit Fun Chew**, a scientist, E+1 N+2 T+2 P+2 (Inventor)
 
 Shit was raised on one of those families which believed that women primarily existed to get a nice job, perhaps in retail or an office, and then get married and breed. Causing a slight degree of consternation in the family, Shit decided not only to complete their schooling, but also to get a job at the local university working in the library. At the same time, unbeknownst to their family, they continued their study with a double biosciences degree in zoology and biochemistry. By the time they found out was too late; not only had she had completed her degree she was well into doctorate, and announced that she would be spending a year in Germany.
 
-Shit has just completed her doctorate and shows promise with several good papers in her chosen speciality and with excellent writing skills. At this relatively early stage of her career her main interest in professional stability and furthering her connections with German academic institutions, which comes with the additional benefit of a potential opportunity to get away from her far too conservative family.
+Shit has just completed her doctorate and shows promise with several good papers in her chosen speciality and with excellent writing skills. At this relatively early stage of her career her main interest in professional stability and furthering her connections with German academic institutions, which comes with the additional benefit of a potential opportunity to get away from her far too conservative family. Her overall life objective is to make enormously some significant contributions in the the biochemistry of mammalian species.
 
 An initial encounter with Dr. Shit will almost certainly be related to her emergent scientific knowledge. She will initially come across as conservative and professional but will certainly react positively to any PC Worker with a German background or other association. Further, Dr. Shit's chosen area of study is primarily from an intrinsic motivation. Although she is unlikely to show it directly in the workplace, she's rather fond of animals, and has recently joining organised wildlife viewing and camping groups - an activity which she as absolutely no skill in should anything go amiss (which will certainly happen if the PC Workers need her).
 
@@ -1852,9 +1852,11 @@ An initial encounter with Dr. Shit will almost certainly be related to her emerg
 
 **Al Kyne**, a scientist I+3 N+1 T+1 P+1 (Architect)
 
+Dr. Alison Kyne is an well-established figure in the world of physical chemistry, holding a professorship at a local university. Not too far from retirement Dr. Kyne really has reached as far as she is likely to go. Whilst not quite reaching the giddying heights of the greatest names in her profession he is proud of having come from very modest beginnings as a bank clerk. Physically, Al is of average height and weight, quite fit for her age, but with noticeably thick glasses and hearing aid.
 
-lively, considerate, conceited,
+Despite this academic exterior, Dr. Kyne has a unsavoury side. Carrying a chip on their shoulder from their humble beginnings, Al falsified information in a handful of their papers in the early stage of their career to give themselves a bit of a head-start. They have carried the fear that this may be discovered for their entire life, and if anyone should come close to discovering the truth, Al will even engineer to see that they are "no longer a problem".
 
+Naturally enough, any such encounter that Dr. Kyne - most probably for his specialist physical chemistry mathematical skills - has with the PC Workers should integrate this secret. There is also the peculiar aspect of Bud, the sentient Bollard (see below) and their infatuation with Dr. Al.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1868,23 +1870,20 @@ lively, considerate, conceited,
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Administration| +1       | +1         |           | +2         |
-| Concentration | +1       | +2         |           | +3         |
-| Craft (Computing) | +3   | +6         |           | +9         |
+| Concentration | +1       | +4         |           | +5         |
+| Craft (Computing) | +3   | +7         |           | +10        |
 | Craft (chemical)  | +3   | +6         |           | +9         |
-| Craft (pharmaceutical) | +3   | +3           |    | +6         |
 | Craft (writing)   |  +3       | +7           |    | +10        |
-| Investigate   | +3       |  +7        |           | +10       |
-| Knowledge (Sciences, Physics)    |  +3     | +8           |           | +11           |
-| Knowledge (Sciences, Chemistry)  |  +3     | +8           |           | +11           |
-| Knowledge (Philosophy, Mathematics)   |  +3   | +8           |           | +11           |
-| Knowledge (General)    |   +3      |   +8         |           | +11           |
-| Lie           |  +1        |  +2          |           |  +3          |
-| Profession    |  +1      |  + 6         |           |    +7        |
-| Sleight       |  +1        | +1           |           |  +2          |
+| Investigate   | +3       |  +7        |           | +10        |
+| Knowledge (Sciences, Physics)    |  +3  | +8   |  | +11        |
+| Knowledge (Sciences, Chemistry)  |  +3     | +8 |  | +11       |
+| Knowledge (Philosophy, Mathematics)   |  +3   | +8 |  | +11    |
+| Knowledge (General)    |   +3      |   +8  |       | +11       |
+| Lie           |  +1        |  +2          |       |  +3        |
+| Profession    |  +1      |  + 6         |         |  +7        |
+| Sleight       |  +1        | +1           |       |  +2        |
 
 
-
- 
 
 ## 3.3 Administrators
 
