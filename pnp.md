@@ -1777,7 +1777,7 @@ An appropriate encounter with Chris in *Papers & Paychecks* could be a scenario 
 
 If there is ever a man as half as good as Joe Hill, they're worth knowing. A genuine all-rounder, Joe is a softly-spoken and determined older man with impressive and wide abilities and skills. A plumber by profession, Joe is widely read and committed to his immediate workmates and the working class in general. His speeches are inspiring and more than once management has pulled him aside and offered him an office job, which he has rejected quickly.
 
-Whilst Joe is a good judge of character and can quickly guess the motivations of others (whether good or ill) the loyalty he has to his workmates and family may prove his undoing. The very fact that he operates entirely above board encourages the less scrupulous to seek ways to undermine him by less than legel means.
+Whilst Joe is a good judge of character and can quickly guess the motivations of others (whether good or ill) the loyalty he has to his workmates and family may prove his undoing. The very fact that he operates entirely above board encourages the less scrupulous to seek ways to undermine him by less than legal means.
 
 Encountering Joe in the midst of an industrial dispute is appropriate. The PC Workers, in a company that is trying to get Joe out of the way, discover or are even employed, to rig a plumbing accident that will incapacitate him, as his Perception is not the greatest. The PCs can either have the difficulty of installing such a booby-trap, warning Joe without losing their jobs, or both. 
 
@@ -1815,9 +1815,13 @@ An encounter with Terry at this stage of her life will be delicate, to put it mi
 
 **Dr. Shit Fun Chew**, a scientist, E+1 N+2 T+2 P+2 (Inventor)
 
-arrogant, imaginative, foolish, 
+Shit was raised on one of those families which believed that women primarily existed to get a nice job, perhaps in retail or an office, and then get married and breed. Causing a slight degree of consternation in the family, Shit decided not only to complete their schooling, but also to get a job at the local university working in the library. At the same time, unbeknownst to their family, they continued their study with a double biosciences degree in zoology and biochemistry. By the time they found out was too late; not only had she had completed her degree she was well into doctorate, and announced that she would be spending a year in Germany.
 
-Nota bene: This name was not made up. Everything else was however.
+Shit has just completed her doctorate and shows promise with several good papers in her chosen speciality and with excellent writing skills. At this relatively early stage of her career her main interest in professional stability and furthering her connections with German academic institutions, which comes with the additional benefit of a potential opportunity to get away from her far too conservative family.
+
+An initial encounter with Dr. Shit will almost certainly be related to her emergent scientific knowledge. She will initially come across as conservative and professional but will certainly react positively to any PC Worker with a German background or other association. Further, Dr. Shit's chosen area of study is primarily from an intrinsic motivation. Although she is unlikely to show it directly in the workplace, she's rather fond of animals, and has recently joining organised wildlife viewing and camping groups - an activity which she as absolutely no skill in should anything go amiss (which will certainly happen if the PC Workers need her).
+
+> Nota bene: This name was not made up. Everything else was however.   
 `https://www.improbable.com/2012/10/13/dr-shit-fun-chew-on-peeing-through-the-mouth/`
 
 
@@ -1832,19 +1836,19 @@ Nota bene: This name was not made up. Everything else was however.
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Act           |  +0        | +1           |           |   +1         |
-| Administration|  +1        | +1         |           |     +2       |
-| Concentration |  +1        | +1         |           |     +2       |
-| Craft (Computing) |  +3        |  +5          |           |  +8          |
-| Craft (Writing)   |  +3        |  +5          |           |  +8          |
-| Investigate   |     +3     | +5           |           |    +8        |
-| Knowledge (General) |  +3  | +5           |           |    +8        |
-| Knowledge (Sciences - Biochemistry) |  +3        | +5           |           |  +8          |
-| Knowledge (Sciences - Zoology)      |  +3        | +5          |           |   +8          |
-| Language (English)  |   +3       | +3           |           |  +6          |
-| Language (German)   |   +3       | +2           |           |  +5          |
-| Profession    |   +1       |  +3          |           |    +4        |
-| Sleight       |  +0        |  +1         |           |     +1       |
+| Act           |  +0        | +1       |           |  +1        |
+| Administration|  +1        | +1       |           |  +2        |
+| Concentration |  +1        | +1       |           |  +2        |
+| Craft (Computing) |  +3    |  +5      |           |  +8        |
+| Craft (Writing)   |  +3    |  +5      |           |  +8        |
+| Investigate   |     +3     | +5       |           |  +8        |
+| Knowledge (General) |  +3  | +5       |           |  +8        |
+| Knowledge (Sciences - Biochemistry) |  +3 | +5  | |  +8        |
+| Knowledge (Sciences - Zoology)      |  +3 | +5  | |  +8        |
+| Language (English)  |   +3       | +3     |       |  +6        |
+| Language (German)   |   +3       | +2     |       |  +5        |
+| Profession    |   +1       |  +3      |           |  +4        |
+| Sleight       |  +0        |  +1      |           |  +1        |
 
 **Al Kyne**, a scientist I+3 N+1 T+1 P+1 (Architect)
 
