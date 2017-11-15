@@ -1887,6 +1887,8 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 
 ## 3.3 Administrators
 
+**Jennifer Taglia**, an administrator, E+1 N+2 F+2 J+1 (Teacher)
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   7	|  -2	     | Profession	  | Manager, Administrator |
@@ -1905,8 +1907,7 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Profession    |  +3      |  +1        |           | +4         |
 
 
-*Jennifer Taglia*, an administrator, E+1 N+2 F+2 J+1 (Teacher):
-
+**Jack Kanoff**, an administrator, I+1 N+2 F+3 J+1 (Counsellor)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1928,8 +1929,8 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Sense (seeing) | -1      | +5           |           | +4          |
 | Sleight        | -3      | +1           |           | -2          |
 
-*Jack Kanoff*, an administrator, I+1 N+2 F+3 J+1 (Counsellor)
 
+**Tai Ping**, an administrator, E+3 S+3 F+3 J+3 (Provider) 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1953,9 +1954,12 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Seduce              |   +1       |  +1          |   |      +2  |
 | Language (Cantonese)       | +1         |  +1      |   |   +2  |
 
-*Tai Ping*, an administrator, E+3 S+3 F+3 J+3 (Provider) 
+
 
 ## 3.4 Tradesperson
+
+
+**Harry Baals**, a tradesperson, E+1 N+1 F+1 P+2 (Champion)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1973,8 +1977,8 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Knowledge (General)|  +0        | +3         |    |    +3      |
 | Sense (hearing)    |  +1        | +3         |    |    +4      |
 
-*Harry Baals*, a tradesperson, E+1 N+1 F+1 P+2 (Champion)
 
+**Wendy West-Breese**, an tradesperson, E+1 S+2 T+3 P+2 (Promoter) 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1997,8 +2001,8 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Sense (smell) |   +0      | +2        |           | +2         |
 | Sense (taste) |   +0      | +2        |           | +2         |
 
-*Wendy West-Breese*, an tradesperson, E+1 S+2 T+3 P+2 (Promoter) 
 
+**Hardy Ballitch**, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2022,10 +2026,12 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Sense (sight) |      +0  |  +2        |           |   +2       |
 
 
-*Hardy Ballitch*, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
+
 
 
 ## 3.5 Researchers
+
+**Oliver Gomeric**, a researcher, I+1 S+2 F+2 J+1 (Protectors)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2045,9 +2051,9 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Insight       | +3       | +3         |           |  +6        |
 | Sense (Sight) | +3       | +2         |           |  +5        |
 
-*Oliver Gomeric*, a researcher, I+1 S+2 F+2 J+1 (Protectors)
 
 
+**Miles A. Head**, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2068,9 +2074,9 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Sense (hearing)      | +2  | +6       |           |  +8        |
 | Sense (sight)        | +2  | +5       |           |  +7        |
 
-*Miles A. Head*, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
 
 
+**Justine Case**, I+1 S+1 T+1 P+2 (Crafter)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2093,10 +2099,12 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Profession    |    +1      | +3       |           | +4         |
 | Sense (sight) |    +3      | +6       |           | +9         |
 
-*Justine Case*, I+1 S+1 T+1 P+2 (Crafter)
+
 
 
 ## 3.6 Managers
+
+**Yule B. Allwright**, a manager, E+1 S+2 F+2 P+2 (Performer)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2114,8 +2122,8 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Carousing     |  +2      |  +3        |           | +5         |
 | Profession    |  +2      |  +3        |           | +5         |
 
-*Yule B. Allwright*, a manager, E+1 S+2 F+2 P+2 (Performer)
 
+**Seymour Butz**, a manager, I+1 S+2 F+2 J+1 (Protectors)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2135,8 +2143,8 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Seduce        | +4       | +2         |           | +6         |
 | Sense (Hearing) | +3     | +3         |           | +6         |
 
-*Seymour Butz*, a manager, I+1 S+2 F+2 J+1 (Protectors)
 
+**Wayne Kerr**, a manager. E+1 N+3 T+1 J+3 (Fieldmarshall)
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2158,7 +2166,7 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Seduce        |  +2      |  +3        |           | +5         |
 
 
-*Wayne Kerr*, a manager. E+1 N+3 T+1 J+3 (Fieldmarshall)
+
 
 
 ## 3.7 Bestiary
