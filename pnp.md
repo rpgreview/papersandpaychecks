@@ -1883,11 +1883,16 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Profession    |  +1      |  + 6         |         |  +7        |
 | Sleight       |  +1        | +1           |       |  +2        |
 
-
-
 ## 3.3 Administrators
 
 **Jennifer Taglia**, an administrator, E+1 N+2 F+2 J+1 (Teacher)
+
+The slight but positively chirpy Jenny Taglia started her professional life in sales and her bubbly and enthusiastically helpful personality soon saw here managing a small team at a young age at a shoe shop. A wrongful calculation which she carried responsibility for however led to a significant overstock of a brand which nobody wanted and as a result the store closed and Jenny and all her workmates were retrenched. Jenny was wise enough to realise that it was her mistake and vowed to check and double-check everything from thereon, and fortunately has been good enough to be true to her word. She also is more that prepared to admit to others what went wrong and how she has learned from the experience.
+
+Despite her prudence, sharp eye, and postive attitude (and a perchant for some truly silly outfits), there is a sad side to Jennifer as she still has enormous levels of self-doubt of past failings and is internally very conscious of errors or any difficulties she has in learning. Her partner is constantly critical of any mistake she makes which of course, makes her even more self-conscious. As a result of all this she is not beyond being a little less than factual to protect herself and her reputation.
+
+Jenny makes an ideal new NPC co-worker who will certainly attract attention whether it is through personality, style, competent administration, or even an error of calculation. Depending on how the PC Workers react she could become a valuable ally, especially if someone recognises that she has suffers from a type of dyspraxia. 
+ 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1909,6 +1914,13 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 
 **Jack Kanoff**, an administrator, I+1 N+2 F+3 J+1 (Counsellor)
 
+Slightly deaf, comically clumsy, and yet with a sparkling personality and a stunning ability to use politeness as both a genuine expression and as a weapon, Jack is a clerk, has been a clerk, and probably will always be a clerk, but is but good at his job, conscientious, and often is more than prepared to put in the extra-hours at the office to make sure that the work is done. Jack is ready to listen to the needs of others and offer what is almost invariably sound advice. His family life is simply as as neat and organissed as he is. 
+
+Jack however does hold a secret aspiration to become a manager, a task which he would probably be well-suited at, and it is something that he has caught the radar of the powers that be. Unfortunately for Jack he is currently considered too valuable in his administrative capacity to be put in a management role, especially by one particular manager who is curiously jealous and threatened by their competence. Jack is also very conscious of his natural failings to notice things and has spent extra effort in improving his skills in that area. 
+
+As a NPC co-worker, Jack will be noticed primarily by their hard work and their polite humour. His recommendations should be listened to and they are usually well-considered. However if PC Workers get too close, they will also be targetted by the jealous manager. 
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   11	|  +0	     | Profession	  | Administrator |
@@ -1923,14 +1935,20 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | Administration   | +2    | +5         |           | +7         |
 | Concentration | +2       | +5         |           | +7         |
 | Craft (Computing) | +1   | +4         |           | +5         |
-| Lie           | +2       | +1         |           | +3        |
-| Knowledge (General)    | +1      | +1           |           |  +2          |
+| Knowledge (General)    | +1      | +3 |           |  +4          |
 | Profession    | +2       | +5         |           |  +7          |
-| Sense (seeing) | -1      | +5           |           | +4          |
-| Sleight        | -3      | +1           |           | -2          |
+| Sense (seeing) | -1      | +3         |           | +2          |
+| Sense (hearing) | -1      | +2         |           | +1          |
+| Sleight        | -3      | +1         |           | -2          |
 
 
 **Tai Ping**, an administrator, E+3 S+3 F+3 J+3 (Provider) 
+
+Elderly, tiny, and very poor balance and perception, Tai Ping initially comes across as incredibly frail. With her family originally from Hong Kong, Tai Ping started her career as the manager of the family pharmacy, where she showed competence and leadership. An subsequent interest in pharmacology lead to a period of time at univeristy where she eventually completed a double degree in liberal arts and computr science. Since then she has gone on to work for many years in a major medical company in as a senior financial officer. In addition to the company's success she has also acquired a good level of portfolio stock as well, and certainly heading towards a comfortable retirement.
+
+Unbeknownst to many, Tai Ping has a terminal illness and she really doesn't have long to live. She has put aside various investments to ensure that her family will be well-cared for, but also has a very substantial reserve of funds which she wishes to donate to a benevolent cause for future prosperity.
+
+An encounter with Tai Ping as an NPC will almost certainly for some sort of financial advice. Integrating the relatively aspects of her illness and her reserve fund provides for plot devices that should encourage any PC Worker.  
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1944,15 +1962,15 @@ Naturally enough, any such encounter that Dr. Kyne - most probably for his speci
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Act           |   +4   | +4             |           |   +8     |
-| Administration   | +4        |  +1           |           |  +5 |
-| Concentration    | +4         | +7           |           |  +11|
-| Craft (Computing)   | +4          | +8           |    |  +12   |
-| Craft (Pharmaceutical)   | +4   | +1           |      |   +5   |
-| Investigate        |  +1        | +1           |      |   +2   |
-| Knowledge (General)   | +1         | +9           |   |  +10   |
-| Profession              |  +4         | +9          | |  +13   |
-| Seduce              |   +1       |  +1          |   |      +2  |
-| Language (Cantonese)       | +1         |  +1      |   |   +2  |
+| Administration   | +4        |  +1           |      |  +5      |
+| Concentration    | +4         | +7           |      |  +11     |
+| Craft (Computing)   | +4          | +8           |  |  +12     |
+| Craft (Pharmaceutical)   | +4   | +1           |    |   +5     |
+| Investigate        |  +1        | +1           |    |   +2     |
+| Knowledge (General)   | +1         | +9           | |  +10     |
+| Profession              |  +4         | +9        | |  +13     |
+| Seduce              |   +1       |  +1          |   |   +2     |
+| Language (Cantonese)    | +1         |  +1     |    |     +2   |
 
 
 
