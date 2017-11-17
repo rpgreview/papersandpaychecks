@@ -84,10 +84,6 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 5.0 Scenarios : Fear and Loathing in Wellington
 5.1 Setting: "My Life with Boss"
-5.2 Season 1, Episode 1
-5.3 Season 1, Episode 2
-5.4 Season 1, Episode 3
-5.5 Season 1, Episode 4
 
 6.0 Appendices
 6.1 Source Material
@@ -3226,7 +3222,21 @@ INTJ (Kiersey Mastermind): The Mastermind is put on the spot to provide a public
 
 ## 4.3 Running The Session
 
+The typical and traditional roleplaying session consists of four to six Player Character Workers and the Boss meeting in a face-to-face environment for a session from three to five hours of actual play, meal-breaks and so forth excluded. In these circumstances there are some very well known features for setting up the environment to enhance play. These include the location where the gaming is conducted in, player expectations, character preparation, and scenario preparation. The common contemporary addition of communications devices and remote players elaborates these needs.
 
+Deciding the location (time and place) is a shared responsibility and one which should be a consenus among all players. Players may have preferences, and they may have some exclusions due to work and family commitments. But there is a expectation that when a location is selected that this is a committment for the duration of the story, and by default it remains in place unless an exception is raised by either the Boss or the host. The Host is responsible for ensuring the room is in good order; separate from the rest of the house as not to cause disturbance, clean and tidy, adequate lighting and ventilation, with necessary reference materials, pencils, scratch paper, dice etc all readily available. If players are interacting remotely, then ensuring a good microphone is of primary concern, as well as a conferencing system that allows for real-time notes to be added. The quality of the video is actually of a secondary concern to sound clarity and the ability to provide textual information.
+
+Prior reference has been made (under *The Social Contract*) about player expectations and that section should be reviewed concerning the expectations of cleanilness, punctuality, snacks, table banter etc. The reitarate however the Social Contract is the single most important component of a successful session, even above the location itself. A bad location makes a game difficult, a bad Social Contract leaves a very bitter taste behind. Constantly be aware of it.
+
+Character preparation is an interesting and often overlooked part of preparation for the session and the responsibility is shared between the players (for PC Workers) and The Boss (for NPC Workers). All players should arrive at the the game with a sense of what their characters' motivations are, and how they are likely to react to a particular situation. *Papers & Paychecks*, through the personality system, does offer an "at a glance" overall approach, and there is a good opportunity to match this with the particular situation raised by the scenario. Considering and following the character's motivation enhances in-game immerison and provides a richer and more enjoyable experience.
+
+Scenario preparation is primarily the responsibility of The Boss and consists of three main elements. First, is deciding the challenges to confront the players with, making use of the probabilities, plot devices, and events as described previously. This is also where The Boss should consider the Creative Agenda that they players have, and match the challenges accordingly. The scenario needs to be challenging *and* enjoyable to the players. Secondly is the narrative development component. The Boss should have a good sense to allow for a relatively gentle introduction, exploration, rising tension, climax, and denouement. Whilst this applies to the story as a whole, it also applies on a smaller scale in scenarios, and even individual sessions. Thirdly, is preparation of the timing of the story. It is surprising how effective it is in actual play for The Boss to have a rough expected timetable of the major points in the session's development, rather like a lesson plan used by educators. The timetable allows The Boss to know when the table banter has gone on too long, or a particular part of the session's development has taken too long. It it is not a straightjacket, but rather a guide, and The Boss may have to improvise a climatic point in the session earlier than expected. 
+
+Preparation for a session is obviously recommended for a rich and immersive session experience, but it is also common for novices to spend far too much time in preparation. Indeed, an experienced and skilled Boss constantly seeks to minimise the preparation they need through automation, making use of existing material, and, as a learned skill, through improvisation. If a Boss is spending more time in preparation than actual play, they are spending *far* too much time. An enjoyable session can be carried out, with awareness of the character motivations and general story trajectory, by a few dot points scribbled on the back of an envelope. As enjoyable as it might be for a world building exercise, is it really necessary to provide a detailed floor plan of every building that the PC Workers are going to visit, are likely to visit, or even are not likely to visit? Is it really necessary to develop fully-fledged NPCs or perhaps just a few important ones and make use of the extensive collection of pre-generated characters that handily come with this book?
+
+One of the greatest challenges for improvisation in *Papers & Paychecks* is the necessity of humour. Players will inevitably get their characters to do engage in spontaneous and unexpected actions and that's part of the comic joy of RPGs in general. But there is an additional burden on The Boss to make these events funny as well, especially given a resolution system that actively encourages resistentialist failure as well as success. Vaudeville style slapstick humour (Charlie Chaplin, Laurel and Hardy, the Marx Brothers, the Keystone Cops, the Three Stooges) are good source material for this sort of immediate result. Parody scenes and characters can provide a longer, more complicated, and ultimately more satisfying moment of session humour, assuming the players know the cultural reference. This can be planned in advance (such as parody of King Kong used by the suggested scenario for the chimpanzee in The Bestiary, or can be spontaneously added. Contextually appropriate quotes are another example which add to the experience; it's amazing how often Monty Python's *The Holy Grail* is quoted in various fantasy RPG sessions, or *Aliens* and *Blade Runner* in science fiction sessions. 
+
+After running the session getting feedback should be considered. It may seem obvious what the high and low points of the session was, but it's worth asking the players. If all of the above - expectations, preparation, timetabling, improvisation - has been carried out effectively, it may need very little time at all. But a few minutes of feedback can clear up any problems experienced in play or confusions that a player may have on what is happening in a particular plot trajectory. It is all part of the reminder that this is their story as well, and inviting them to make suggestions can only enhance the story itself. Collectively we have more knowledge than what we have individually.
 
 # 5.0 Scenarios : Fear and Loathing in Wellington
 
@@ -3554,11 +3564,6 @@ Corporate Values
 The following is the corporate values for Newsprint Limited. At the very least this should be in the hands of the player 
 playing Rebekah Caulfield (her Less than human relies on this). 
 Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
-
-
-## 5.3 Season 1, Episode 2
-## 5.4 Season 1, Episode 3
-## 5.5 Season 1, Episode 4
 
 # 6.0 Appendicies
 
