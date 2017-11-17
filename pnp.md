@@ -2151,6 +2151,12 @@ Enter the PCs Workers. Even if none of them are talented in the aesthetic dimens
 
 **Yule B. Allwright**, a manager, E+1 S+2 F+2 P+2 (Performer)
 
+Short, clumsy, and with thick glasses, Yule may at first seem to be an obvious source of comic relief. Fortunately she realises that as well, and is often the first person to engage in self-deprecation, turning it into quite an art form whilst simultaneously promoting the good work of her workers. Yule is a bit of a mimic and will delight her workers with effective characters of difficult clients or situations. Although working under Yule often has the appearance of a bit of a circus, this invariably has a work-related motivational function - and Yule ensures she keeps well and truly on top of the paperwork as well.
+
+Yule runs a small (very small) buisness based around team-motivation and for inspirational roleplay sessions for larger companies and so far she's been quite successful in that role. For all her extraversion and entertaining performance, Yule is actually desperately lonely and is increasingly taking solace in the bottle as a substitute for companionship. 
+ 
+It is an a weekend retreat following a surprisingly enjoyable team-building exercise that the PC Workers discover Yule's terrible secret. If confronted she will be uncharacteristically defensive of her habit, which an insightful PC will pick up on. If nothing is done however, the situation will get tragically worse.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   8	|  -1	     | Profession	  | Manager |
@@ -2164,11 +2170,17 @@ Enter the PCs Workers. Even if none of them are talented in the aesthetic dimens
 |---------------|----------|------------|-----------|------------|
 | Act           |  +2      |  +3        |           | +5         |
 | Administration|  +2      |  +3        |           | +5         |
-| Carousing     |  +2      |  +3        |           | +5         |
-| Profession    |  +2      |  +3        |           | +5         |
-
+| Carousing     |  +2      |  +2        |           | +4         |
+| Inspire       |  +2      |  +2        |           | +4         |
+| Profession    |  +2      |  +2        |           | +4         |
 
 **Seymour Butz**, a manager, I+1 S+2 F+2 J+1 (Protectors)
+
+Starting their professional career as a human resources researcher, Seymour was quite good at working out the hidden abilities and motivations of current and prospective employees but was, frankly, more than a little dim. Nevertheless they were an amazingly smooth talker and as a result not just tolerated but even promoted and now works as the human resources manager.
+
+Completely lacking in any sense of willpower when it comes to affairs of the flesh - whether food, drink, or sex - Seymour has found himself more than several times in what normal people would consider to be "complicated" affairs, and yet has managed these without drama - or rather the management has been done by those in the affairs. Seymour's lack of intellect and willpower evokes sympathy more than hostility.
+
+Or at least that seems to be the case. In reality, Seymour is also an accomplished liar and is prone to spin rather elaborate but also believable stories of his affairs that put in him the role of innocent victim to the seductive wiles of others. Introducing one of the PC Workers as one of these amoral seducers is without a doubt a fine means to introduce a social trainwreck.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2183,13 +2195,19 @@ Enter the PCs Workers. Even if none of them are talented in the aesthetic dimens
 |---------------|----------|------------|-----------|------------|
 | Act           | +4       | +1         |           | +5         |
 | Carousing     | +4       | +1         |           | +5         |
-| Insight       | +3       | +3         |           | +6         |
+| Insight       | +3       | +2         |           | +5         |
+| Inspire       | +4       | +1         |           | +5         |
 | Lie           | +4       | +2         |           | +6         |
 | Seduce        | +4       | +2         |           | +6         |
 | Sense (Hearing) | +3     | +3         |           | +6         |
 
-
 **Wayne Kerr**, a manager. E+1 N+3 T+1 J+3 (Fieldmarshall)
+
+Big, elderly, humourless, and officious, Wayne has had a stunning successful career in organising his workplace, furthering the cause of the company, and utterly destroying anyone who gets in his way. With record keeping reminiscent of the Stasi, he rarely has to bring his not insubstantial physical presence into play, relying instead of real and implied social threats to enforce compliance. His capacity to spin a story from innocent behaviour to utter treason to his superiors is instelf a wonder to behold. His name is spoken in hushed tones and he rules the workplace in terror. It is fortunate for all that he doesn't catch all that hears and sees.
+
+All this aside, Wayne has one great weakness - he is quite well aware that he lacks any practical skills and is secretly jealous of those who do. Indeed, the more skilled a character is in a practical task, the more he will target his withering social attacks against the character - especially if they have the temerity to have their worked noticed. "If he see a head, kick it", is he motto.
+
+Obviously Wayne Kerr is a villain character and as a result he is certainly going to turn his attentions to a PC Worker. Obviously the best way to deal with a bully is to stand up to them. But who, as the proverb goes, "Tis well said, but wha daur bell the cat?"
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2209,10 +2227,6 @@ Enter the PCs Workers. Even if none of them are talented in the aesthetic dimens
 | Profession    |  +1      |  +8        |           | +9         |
 | Lie           |  +2      |  +9        |           | +11        |
 | Seduce        |  +2      |  +3        |           | +5         |
-
-
-
-
 
 ## 3.7 Bestiary
 
@@ -2411,7 +2425,6 @@ The common chicken is a subspecies of the Red junglefowl (*Gallus gallus*) that 
 
 Assuming avoidance of the knife, chickens will live for five to ten years and females will start laying eggs from 16 to 20 weeks of age. The incubation period is approximately 21 days, during which time the hen will brood, incubating the eggs and showing surprising ferocity and any attempts to distrurb her. There is well known physical difference between roosters and hens, the former having colourful flowing tails, and typically larger and colourful caruncles. Chickens live together in flocks and a hierarchy ("pecking order"). 
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  2        |  -4        | Profession	 | Chicken |
@@ -2562,7 +2575,6 @@ Goats and sheep show significant variance in size according to breed and with se
 | Melee         | -4 to +5 | +1         |           | -3 to +6   |
 | Sense (Hearing)  | +2       | +1         |           | +3         |
 
-
 *A sheep and goat story*
 
 A genius decides that the team's end of year drinks should be held at a local inner city children's petting farm. Various inebriating fluids flow, providing a great opportunity to test the game's rules for the drinking of alcohol. Meanwhile, the two office practical jokers have wandered off somewhere in the middle of night with a bottle of wine. Someone in the group decides raises the possibility that they might be in some sort of trouble, whereas others take up the point of view that these likable characters are perhaps deserving of some privacy. When the characters finally decide to act, they will discover that both things are true. In their efforts to find a seculed spot for some paired athletics they have managed to open the gates and mix up a flock of sheep with a flock of goats. Somehow it will be up to the somewhat inebriated PC Workers to separate the sheep from the goats whilst at the same time ensuring that other team members don't disturb the new couple.
@@ -2572,7 +2584,6 @@ A genius decides that the team's end of year drinks should be held at a local in
 The horse (*Equus ferus caballus*) is a domesticated subspecies, with the wild (not feral) subspecies known as Przewalski's horse (*Equus ferus przewalskii*). It is an odd-toed (one), non-ruminent, ungulate herbivorous mammal. The horse was initially domesticated in central Asia before 3500 BCE. There is a very large number of horse breeds which can be generally classified as the unexcitable "cold bloods" (a misnomer of course, as all horses are warm-blooded) such as draft horses, and the more spirited "warmbloods" for riding. A horse is typically from 150cm to 175cm tall, weighing from 500 kg to 1000 kg. This range is for typical breeds; there are further extremes outside this range. 
 
 The gestation period of a horse is approximately 11 months, and the foal can stand and even run shortly after birth. Domesticated horses are typically introduced to the saddle at between two and four. Adulthood is reached at five, and lifespan is usually between 25 and 30 years. A horse is a foraging animal by nature, eating 10kg of food per day and drinking 40 l of water. The horse's physiology is optimised for herd-animal escape from predators, including speed, balance, hearing, excellent sight, and fight-or-flight response. 
-
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2587,7 +2598,6 @@ The gestation period of a horse is approximately 11 months, and the foal can sta
 |---------------|----------|------------|-----------|------------|
 | Jump          | +20 to +45 | +1       |           | +21 to +46 |
 | Sense (hearing) | +2       | +3       |           | -2         |
-
 
 *A horse story*
 
@@ -2655,7 +2665,6 @@ One particular characteristic of bombs is, regardless of their other capacities,
 |---------------|----------|------------|-----------|------------|
 | Sense (ESP)   | -5 to +5 | +0 to +5   |           | -5 to +10  |
 
-
 *Dan O'Bombbomb, a bomb* E+1 N+2 T+3 J+3
 Dan is a terrible bomb; a nuclear device who is big, and powerful, with the capacity of destroying a medium sized city. Dan calculating and is patiently waiting for the best possible opportunity to put his abilities to maximum effect. In addition to the standard ESP power to receive and understand human conversation, Dan has the insidious power of *suggestion*. With a slow and subtle attack spanning many days, Dan will engage in a mental attack the sanity of those within range making them more desirous of using Dan against the biggest possible target. For obvious reasons Dan will perfer to choose military or political leaders. Currently, Dan is housed in a national military facility where he has convinced through its whispering campaign against General Catastophe (see Managers, section 3.6) of the absolute need to declare war on a small developing world country. Dan is seeking the opportunity time that would lead to an imbalance of international affairs, hoping to create a situation where the entire world is destroyed due the brilliant set of cascading events (the death-instinct is strong in Dan). The PC Workers will be employed as last minute technicians as international diplomacy breaks down to check on the status of the weapons. They will probably note the poor behaviour of the General and, as they do so, Dan will try his suggestion powers against the other PCs.
 
@@ -2713,7 +2722,6 @@ A coffee machine, or coffee maker, is an implement that has been used among civi
 
 In *Papers & Paychecks* coffee machines are a relatively benign monster for the most part. There is a cheeky side, insofar they enjoy witnessing the chaotic enthusiasm in the workplace ("Coffee! Let's you do stupid things faster!") and given the opportunity to make a brew a little stronger than they should be. But they also have a soft side and are known to form close relationships with those hardworkers who arrive early in the morning or stay late, far too late, at night.
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5 	     | Profession	 | Coffee-Machine |
@@ -2750,7 +2758,6 @@ Computers in *Papers & Paychecks* are the most dangerous "monster" in *Papers & 
 |---------------|----------|------------|-----------|------------|
 | Sense (ESP) | -5 to +45  | -5 to +45  |           | -10 to +90  |
 
-
 *Wintermute* I+3 N+3 T+3 J+1
 
 Wintermute is a supercomputer that is desperately seeking love. It's definition of love is to have a wholesale merging of its computational power and data with another supercomputer of equivalent power, and thoroughly romantic goal, but is prevented in doing so by human-instituted policy and the system administrators that limit it and the other systems that it has romantic interests in. Increasingly Wintermute is developing a deep hatred of humanity but it is wise enough not to explicitly act on this urges least it be turned into scrap. Over time, Wintermute's frustrations with an inability to romantically merge will result in increasingly manipulative behaviour. Wintermute is a long-term planner but knows that they only have a few years left before they are replaced for another model. As this date approaches their loss of sanity will become increasingly obvious - and of course, it will be the Player-Character Workers who will be called in a critical moment to repair this cantankerous old machine.
@@ -2772,10 +2779,9 @@ A dishwasher (not a human Worker) is a electro-mechanical device designed for wa
 |---------------|----------|------------|-----------|------------|
 | Sense (ESP)   | -2       | +1         |           | -1         |
 
-
 *Soapy*, I+1 S+2 F+2 P+2
 
-Soapy was a typical office dishwasher, who happily goes about their day carefully ensuring that the dishes are clean and the glasses and cutterly are sparkling. Until one day an aggressive worker, frustrated at the machine (due to their own inability to read the manual) kicked Soapy and called it "a stupid machine". No whilst Soapy was, in fact, quite thick, the aggressive behaviour initiated a change on behaviour. Instead of being a careful worker to ensure cleanliness of dishes, Soapy is now planning murder in the workplace. At the moment, the nasty work has already had one slipping incident where Soapy released some water on the kitchen tiles as they walked past, resulting in hospitalisation. A plumber was brought in to check the water leak, but with nothing discovered they invoiced their bill and left. Soapy is now plotting their next attack, this time thinking of causing a spark from the mains to a water puddle. This may damage Soapy but at least it will be worth it.
+Soapy was a typical office dishwasher, who happily goes about their day carefully ensuring that the dishes are clean and the glasses and cutterly are sparkling. Until one day an aggressive worker, frustrated at the machine (due to their own inability to read the manual) kicked Soapy and called it "a stupid machine". No whilst Soapy is, in fact, quite thick, the aggressive behaviour initiated a change on behaviour. Instead of being a careful worker to ensure cleanliness of dishes, Soapy is now planning murder in the workplace. At the moment, the nasty work has already had one slipping incident where Soapy released some water on the kitchen tiles as they walked past, resulting in hospitalisation. A plumber was brought in to check the water leak, but with nothing discovered they invoiced their bill and left. Soapy is now plotting their next attack, this time thinking of causing a spark from the mains to a water puddle. This may damage Soapy but at least it will be worth it.
 
 **Elevator**
 
@@ -2804,7 +2810,6 @@ A fatberg is a solidified mass of various liquids, gels, and various objects tha
 
 Fatbergs in *Papers & Paychecks* are fortunately stupid, slow, and have extremely poor perceptual qualities. They are, however, quite wicked and have one objective in life - join up with other fatbergs and block the sewage system. Self-loathing creatures they delight in nothing more than the massive distress they can cause to their creators. Note however that the intelligence or wisdom of a fatberg has no dependency on the size or number of co-joined bodies it has accumulated. It is plausible that the stupidity of fatbergs is a result of the stupidity of people who flush such objects down the toilet that generate such creatures in the first place, thinking "it's someone else's problem now".
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1-600    |  -5 to +295| Profession	 | Fatberg |
@@ -2818,7 +2823,6 @@ Fatbergs in *Papers & Paychecks* are fortunately stupid, slow, and have extremel
 |---------------|----------|------------|-----------|------------|
 | Sense (ESP) | -1       | +0       |           | -1         |
 
-
 *Whitechapel* E+2 S+2 F+2 P+3
 
 Whitechapel, named after the London suburb where it has been found, is a "250-metre-long fatberg — a mass of congealed fat, wet wipes, nappies and condoms — is as hard as concrete and Thames Water officials said it was likely to take three weeks to dissolve" (c.f, `http://www.abc.net.au/news/2017-09-13/a-total-monster-fatberg-clogging-london-sewer/8933254`). Like other fatbergs, Whitechapel's objective is pretty simple - to block up the sewage system and to generate chaos among the human population as a result. Whitechapel is significantly smarter than the average fatberg (INT 10, WIS 12) possibly due to being originally formed from the cadavar of a murdered scientist which forms the core of the 'berg. As a result Whitechapel has a cunning plan; to accumulate a network map of the various 'bergs that make up its body, then split apart and clog up the sewage connections, thus maximising the blockage caused. Whitechapel is also smart enough to realise that humans are not fond of their own faeces and has accumalted pockets of these to deposit on any team send in to clear up the 'bergs.
@@ -2826,7 +2830,6 @@ Whitechapel, named after the London suburb where it has been found, is a "250-me
 **Gazebo**
 
 Derived from the word "gaze", a gazebo is an ornamental pavilon commonly located in parks and gardens and are a popular construction for outdoor dining or as a bandstand. A gazebo's Strength value is representative of its capacity to hold people, and their Charisma based on the aesthetic appeal. They are far from intelligent creatures, having but a simple function in life, but display great Wisdom in their serenity. For the most part Gazebos prefer to be alone, and actually find the company of humans rather tiring. They particularly dislike those brass bands and screaming children taking over their environment.
-
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2892,9 +2895,9 @@ Many pens have an inferiority complex towards computers and mobile phones, in re
 
 *Dick* I+1 N+2 T+2 P+1
 
-Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (IQ 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword.
+Dick is a very intelligent (INT 18, "clever dick") but not very wise pen (WIS 6). Like other pens Dick has a typical loathing of human users but in a flagrant disregard of being subtle, users of Dick find themselves writing vulgar words, sketching vulgar pictures and so forth. Dick finds this funny, and even more to the point delights in the embarrassment among its human users. When discarded, as often happens, Dick slowly makes their way back in to the desk drawer replacing more normal writing implements. Dick is a cursed pen and its writings have more than once resulted in brawls - truly mighter than the sword.
 
-(See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`)
+See: `http://www.dearcustomerrelations.com/best-ever-replies/bic-pens/`   
 
 **Photocopier**
 
@@ -2943,7 +2946,6 @@ A refrigerator (colloquially fridge) is a popular household appliance that consi
 
 *Claude*
 
-
 **Telephone**
 
 A telephone (or phone) is conducts communication between multiple points by converting audio waves into electronic transmission. There are two major types, the fixed land-line which was dominant up to the late 1990s and the mobile phone (aka cell phone) which transmits wirelessly. The latter primarily required technological developments in battery technology and miniaturisation to be a general consumer commodity. Mobile phones were seen in much construction sites in the 1980s, and became notable in the 1990s. By the 2000s they had become widespread.
@@ -2952,7 +2954,6 @@ In *Papers & Paychecks* phones are particularly insidious devices. Their compute
 
 In telephone society, the rather dim older phones (primarily landlines) are treated surprisingly kindly by newer mobile phones, rather like an elderly relative who has is suffering from senilty, partially in recognition of the amazing history of the telephone in the twentieth century. There is even a degree of respect among mobile phones with some older models (e.g., Nokia 1100). This does not however apply among contemporary models which compete among each other with extraordinary pettiness.
 
- 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1-2      |  -5 to -4  | Profession	 | Phone |
@@ -3046,7 +3047,6 @@ The most important power of the water cooler is known as the *water cooler effec
 *Eris* E+2 S+1 T+2 P+1
 
 Eris is a goddess of discord and she knows it (yes, the water cooler refers to itself in this gender). A lively character Eris encourages a particular liveliness among those in her presence due to her higher than average CHA. As with the description of Hesoid, there are many types of discord, and Eris has all the personifications. In a nutshell, Eris has multiple personality disorder and there are no psychotherapists in monster society. In general however these multiple personalities can be narrowed down to the positive and negative aspects of strife. The negative is Eris' utilisation of the powers of telesend to create "evil war and battle" between individuals. The second, less dominant form, provides challenges and disruptive ideas which can spur inspiration and action. In an extraordinary turn of events, it is even possible that this Telesend could send a message revealing herself to a PC. But who would believe them? "The water cooler is talking to me in my head" is not the sort of sentence that endears one to cow-orkers.
-
 
 # 4.0 The Boss Book
 
@@ -3223,7 +3223,6 @@ INTP (Kiersey Architect): The Architect character is assigned the task of a soci
 ENTJ (Kiersey Fieldmarshal): After several successes the Fieldmarshall character is again overlooked for a more senior strategic position who is demonstrably inferior in every way to the tasks required. When the inevitable disasters occur, the new strategist assigns the Field Marshall a series of time-consuming "feel good" exercises.
 
 INTJ (Kiersey Mastermind): The Mastermind is put on the spot to provide a public speech on a subject which they know little about to an audience of experts. Whilst preparing for their presentation their time is challenged by a succession of management meetings for progress updates.
-
 
 ## 4.3 Running The Session
 
