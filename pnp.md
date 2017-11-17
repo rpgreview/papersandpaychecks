@@ -3240,27 +3240,29 @@ After running the session getting feedback should be considered. It may seem obv
 
 # 5.0 Scenarios : Fear and Loathing in Wellington
 
-## 5.1 Setting :
+## 5.1 Setting : Wellington
 
-## 5.2 Season 1, Episode 1
+Wellington is the capital city of New Zealand, located on the southern tip of the North Island. The population of some 400,000 doesn't seem much for a capital city, but nevertheless due to the lay of the land it has a sense of city-like density. The harbour-side Central Business District is relatively small and compact with hilly suburbs surrounding and, following the north-eastern shoreline, reaching the adjoining population centre of Petone, Lower Hutt, and Upper Hutt, whereas the northern route meets the population centre of Porirua. As the capital city Wellington has many public buildings of note, including the Victorian-era parliament house, the modernist beehive (core public service building), various government ministries, diplomatic offices, and artistic centres such as the Te Papa Tongarewa (the Museum of New Zealand). Overall, it is an unusual mix with modern skyscrapers, vying for space with Victorian, Edwardian, and art deco era edifaces, and a large number of weatherboard homes which are better suited for earthquakes, which the region is prone to.
 
-MY LIFE WITH BOSS 
-by Dan LEstrange
-“The life of a executive is a hard one. The horrific things you do make it difficult to feel good about yourself. If only  someone loved you. 
+Economically Wellington is a financial, technological, and cultural centre of the country, and was officially renamed "Middle Earth" for a day for world premiere of *The Hobbit: An Unexpected Journey*. The city enjoys a high mean standard of living, and is rating as one of the world's most liveable cities on account of its infrastructure and relatively low cost of living. Wellington has an impressive cafe, restaurant, and bar culture with more of these per capita than New York City, and tourism plays an very significant role in the economy account for almost 10% of total employment. 
+
+The climate of Wellington is cool temperate, with a typical range from an average low of 5 degrees C in winter to an average high of 20 degrees in summer. It is fairly wet with an annual rainfall of over 1200mm and with half the days in winter and a quarter of the days in summer experiencing rainfall. The winters have especially cold winds from the south which can reach very significant speeds - a nickname of the capital is "Windy Wellington", with an emphasis on the New Zealand accent of "flattening" vowels. In winter these winds can easily reach up to 150km/h causing great sprays of water over the harbour and on the rather short airport landing strips. The highest ever gust recorded in Wellington was 248km/h, and over half the year the city will experience gale-force winds (75 km/h plus).
+
+## 5.2 My Life With Boss
+
+"The life of a executive is a hard one. The horrific things you do make it difficult to feel good about yourself. If only  someone loved you." 
 
 A dysfunctional relationship with your Boss in the high powered life of Corporate Executives for Newsprint Limited. A  game of modern horror and self loathing set with a backdrop of life at the top of the Journalism field.  
 
-My Life with the Boss is a corporate adaptation of Paul Czege's award winning game My Life with Master. 
+*My Life with the Boss* is a corporate adaptation of Paul Czege's award winning game My Life with Master. This version adapted for *Papers & Paychecks*. 
 
 Prepare to  serve a most ambitious sociopath and eventually be his undoing.
 
-My Life with the Boss was run at KapCon  XIX in Wellington, New Zealand, in January 2010.
+*My Life with the Boss* was run at KapCon XIX in Wellington, New Zealand, in January 2010 and the *Papers & Paychecks* adaption was run from September 2016 to January 2017 in Melbourne, Australia.
 
-There are six playable characters in My Life with the Boss. Forest Deacon, Chief Financial Officer, John Goines, Marketing Manager, Julia Wright, Chief of Visual Media, Verity Williams, Chief Editor, Jason Schuster, Chief Journalist, Rebekah Caulfield, Director of Human Resources Each character has been pre­created to fit convention play. Characters are detailed at the end of this document.
+There are six playable characters in *My Life with the Boss*. Forest Deacon, Chief Financial Officer, John Goines, Marketing Manager, Julia Wright, Chief of Visual Media, Verity Williams, Chief Editor, Jason Schuster, Chief Journalist, Rebekah Caulfield, Director of Human Resources. 
 
-Each character has a more than human trait  and a less than human trait listed on their character sheets. These traits are, in practice, used as colour for the characters, yet they can do things to the flow of the game. Take notes of each more than human / less than human, anything that falls under these traits should be considered an automatic success (or failure).
-
-Each character has two connections from the following: Petra Daniels (local Shortland Street actress) , Henry Dunant (local leader of Red Cross Orphans Charity) , Paul Reynolds (Jr Accountant of Newsprint Limited) , Yousef Ramoud (Routers Co – competitor Journalist) , “Open Wound” (Government Insider) . These connections provide both victims and moral support to the characters and each is used to inspire emotive responses from the characters. As they are tied to successfully resisting the Boss, the characters should want to assist and not harm their own connections and be reluctant to harm connections of other characters. 
+Each character has two connections from the following: Petra Daniels (local Shortland Street actress), Henry Dunant (local leader of Red Cross Orphans Charity), Paul Reynolds (Jr Accountant of Newsprint Limited), Yousef Ramoud (Routers Co – competitor Journalist) , “Open Wound” (Government Insider) . These connections provide both victims and moral support to the characters and each is used to inspire emotive responses from the characters. As they are tied to successfully resisting the Boss, the characters should want to assist and not harm their own connections and be reluctant to harm connections of other characters. 
 
 **In detail – Petra Daniels (Local Celebrity)**
 
