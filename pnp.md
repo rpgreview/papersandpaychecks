@@ -1976,8 +1976,14 @@ An encounter with Tai Ping as an NPC will almost certainly for some sort of fina
 
 ## 3.4 Tradesperson
 
-
 **Harry Baals**, a tradesperson, E+1 N+1 F+1 P+2 (Champion)
+
+A little short and thin, with sparkling eyes, and boyish looks, Harry "Sparky" Baals has recently completed his apprenticeship as an electrician and is a little cocksure of himself. So far this overconfidence seems to have paid off, as he is both competent at his job and reasonably well-versed in workplace regulations. In addition to this he keeps himself up-to-date with current affairs and popular culture to the extent that some mistakenly think he's a bit "bookish".
+
+Nevertheless, his sense of adventure is greater than his intelligence and given that he commands a small following of similarly-aged co-workers it is only a matter of time before disaster strikes. For office-workers this typically means some files are deleted that shouldn't be. For an electricians, fire is often an unfortunate result.
+
+It is just this sort of disaster that is appropriate to introduce Harry as an NPC Worker. The electrics fizzle and pop in an important public display (probably in a darkened cellar, minus stairs, in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying 'Beware of the Leopard'). In any case, a team of electricians is brought in and Sparky and his friends decide to get thoroughly toasted during the lunch-break on a mix of sativa and indica. The inevitable fire occurs and the PC Workers are first on the scene, just in time for the fireworks storage to catch alight. 
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1998,6 +2004,13 @@ An encounter with Tai Ping as an NPC will almost certainly for some sort of fina
 
 **Wendy West-Breese**, an tradesperson, E+1 S+2 T+3 P+2 (Promoter) 
 
+Physically strong and athletic would be the first features people would notice of Wendy West-Breese if for the fact that she wasn't a furry. The fact that her preferred kindred animal spirit is apparently a turkey is not something that has gone unnoticed, least of all by other members of the furry community. A constantly boorish whinger, Wendy is not the sort of person who makes friends easily, indeed at all. Nevertheless there is grudging respect for her abilities across a range of electronic, mechanical, and structural design, and she's a diligent worker. Plus she's a utterly superb cook, and has an excellent sense of taste and smell which acts as a complementary skill.
+
+Wendy's awful personality is actually a result of their own self-doubt, brought on by fact that very few people ever thank or recognise her efforts, primarily due to the fact that's invariably promoting the failures of others. This is unlikely to change in the immediate future due to her determination to get the first *and* last word in any conversation and never with anything pleasant to say about other peeople. "Idiot wind, blowing every time you move your mouth", as a certain poet once said.
+
+Any encounter with Wendy West-Breese as an NPC Worker is likely to quite unpleasant to say the least. Any problems and errors that occur in a work task will result in withering criticism from Wendy to the PC Workers. This is potentially difficult to take especially from a person who has a turkey-shaped hat. She makes a good annoyance character given how unlikely it is for anyone to provide assistance.
+
+ 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   12	|  +1	     | Profession	  | Tradesperson |
@@ -2019,8 +2032,14 @@ An encounter with Tai Ping as an NPC will almost certainly for some sort of fina
 | Sense (smell) |   +0      | +2        |           | +2         |
 | Sense (taste) |   +0      | +2        |           | +2         |
 
-
 **Hardy Ballitch**, a tradesperson, I+1 S+2 T+2 P+2 (Crafter)
+
+Older and weaker than they used to be, Hary has worked their entire life in trades and has appropriate electro-mechanic skill levels for that degree of experience. A quietly spoken careful worker with neither flourish nor errors, Hardy is a very easy person to overlook as he neither inspires nor seeks the attention or approval of others. He simply goes about his day, does his work, and returns to his family in their upper-middle class suburban home.
+
+It is in the latter field that Hardy has some issues, although he barely notices it. His wife has been in affair for a number of years, and his two children - now both in higher education - find him distant and more than a little awkward to approach. The family shows a veneer of quiet functionality, but underneath that veneer is nothing but discord.
+
+Often, when working alone in his garage, Hardy imagines himself to be a great inventor and producer of gadgets of superheroic qualities. The introduction of Hardy to the PC Workers should both provide the opportunity for him to craft the fantasy that he has developed over these years (assume a high percentage of a research strategic task already complete). The extra hours however will lead to the final breakdown of his family life, and the PCs will be called in to save the project - and Hardy's life outside work.
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2042,9 +2061,6 @@ An encounter with Tai Ping as an NPC will almost certainly for some sort of fina
 | Knowledge (Science)| +0  |  +2        |           |   +2       |
 | Knowledge (General)| +0  |  +2        |           |   +2       |
 | Sense (sight) |      +0  |  +2        |           |   +2       |
-
-
-
 
 
 ## 3.5 Researchers
