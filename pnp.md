@@ -2062,10 +2062,15 @@ Often, when working alone in his garage, Hardy imagines himself to be a great in
 | Knowledge (General)| +0  |  +2        |           |   +2       |
 | Sense (sight) |      +0  |  +2        |           |   +2       |
 
-
 ## 3.5 Researchers
 
 **Oliver Gomeric**, a researcher, I+1 S+2 F+2 J+1 (Protectors)
+
+A little short and overweight, Oliver carries more than a spark of intelligent in his bright eyes. Working as a legal secretary he already shows promise having just saved a client several hundred thousand dollars by spotting an onerous clause that would have required a client provide a translator not only for a visiting dignatory, but also for their extended family. It is this sort of attention to detail, diligence, investigative acumen, and a good working knowledge of the legal contracts that is making Oliver a valuable employee. 
+
+Whilst his corporate legal firm does not realise it, Oliver is secretly a red-ragging social justice warrior attending all sorts of meetings in the back rooms of bars and secretly plotting the overthrow of the corporate-patriarchial-capitalist state. Whilst he largely keeps his mouth shut in the workplace about such things, and has started to recommend seemingly innocuous clauses into client contracts that have profound implications in favour of his *cause du jour*. 
+
+An encounter with Oliver can be constructed after a rather grumpy manager wants to know exactly why the company has to pay a year's wages following retrenchement of some low-ranking workers. Oliver is not a liar by nature, and will explain that it seemed to be a perfectly fair clause and yes, indeed, it was legally watertight. After all, he wrote it. Perhaps the PC Workers would like such a clause in their own employment contracts?
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2085,9 +2090,13 @@ Often, when working alone in his garage, Hardy imagines himself to be a great in
 | Insight       | +3       | +3         |           |  +6        |
 | Sense (Sight) | +3       | +2         |           |  +5        |
 
-
-
 **Miles A. Head**, a researcher, I+1 S+2 T+2 J+2 (Inspectors)
+
+Mild-mannered Miles is a political researcher who has worked for a local member of parliament for the past eight years using his broad range of knowledge to advise the MP of the probable effects of policy proposals, but in a practical sense and in terms of public reception. He is also a superb reader of body language and he regularly advises his employer on what his colleagues are thinking based on overhearing and spotting near inperceptible unconscious body movements.
+
+Unfortunately for Miles, they have been so successful at their work that they are developing ideas of grandeur and are considering launching into a political career themselves, and even aspires to becoming the whip of their favoured political party. Whilst mediocre politicians who are lacking in any particular charisma are not unknown, Miles has a long way to go before they have the necessary political skills or support base. Miles however is impatient and has is now collecting extensive notes on the various MPs he works with. Very, very extensive notes.
+
+With his political connections and a rather embarrassing 'dirt file' of his colleagues, there is a number of thoroughly entertaining ways that Miles can be introduced to the PC Workers. Perhaps the most obvious would be data corruption where the PCs are part of a file system recovery company. "Just don't read any of the files!", he exclaims in a shrill and slightly worried voice. And who could blame the PCs for just having a little peek after a warning like that?
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2108,9 +2117,13 @@ Often, when working alone in his garage, Hardy imagines himself to be a great in
 | Sense (hearing)      | +2  | +6       |           |  +8        |
 | Sense (sight)        | +2  | +5       |           |  +7        |
 
-
-
 **Justine Case**, I+1 S+1 T+1 P+2 (Crafter)
+
+Slight, frail, and elderly, Jutine Case started her professional career in the area of arts management, where she used her empathic communications to motivate class after class of students into producing a range of exceptional works, even in her own skills in such an area where entirely academic. After several years in that role, Justine was inducted into a major gallery as a researcher, where she has spent rest of her working life. Still, she's had quite an eye on beauty for her entire life, she'll point out with a sly grin as handing over yet another glass of prosecco. 
+
+Now nearing retirement, Justine wants to establish her own gallery, and has all sorts of visions of the building itself being a piece of installation art in its own merits. Alas, he knowledge of such things is entirely a matter of theory, history, and critique. She recognises great art but does not know how to produce it herself.
+
+Enter the PCs Workers. Even if none of them are talented in the aesthetic dimension of life, they can be employed in any variety of roles in management, construction, labouring and the like. Working in Justine's gallery will be like *Alice in Wonderland* combined with *Meet The Feebles*. The entrance, is based "The Flatterers" by Pieter Brueghel the Younger, is full of booby-traps, optical illusions, boxes full of doves etc. Nota bene: Justine realises that abstract expressionism is a CIA plot and will having to do with it. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2128,13 +2141,11 @@ Often, when working alone in his garage, Hardy imagines himself to be a great in
 | Insight       |   +3       | +6       |           | +9         |
 | Inspire       |   +3       | +3       |           | +6         |
 | Investigate   |   +1       | +6       |           | +7         |
-| Knowledge (General) | +1   | +9       |           | +10        |
+| Knowledge (General) | +1   | +7       |           | +8         |
 | Knowledge (Arts)    | +1   | +6       |           | +7         |
+| Language (French)   | +1   | +1       |           | +2         |
 | Profession    |    +1      | +3       |           | +4         |
 | Sense (sight) |    +3      | +6       |           | +9         |
-
-
-
 
 ## 3.6 Managers
 
