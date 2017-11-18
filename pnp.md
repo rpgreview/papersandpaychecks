@@ -3238,7 +3238,7 @@ One of the greatest challenges for improvisation in *Papers & Paychecks* is the 
 
 After running the session getting feedback should be considered. It may seem obvious what the high and low points of the session was, but it's worth asking the players. If all of the above - expectations, preparation, timetabling, improvisation - has been carried out effectively, it may need very little time at all. But a few minutes of feedback can clear up any problems experienced in play or confusions that a player may have on what is happening in a particular plot trajectory. It is all part of the reminder that this is their story as well, and inviting them to make suggestions can only enhance the story itself. Collectively we have more knowledge than what we have individually.
 
-# 5.0 Scenarios : Fear and Loathing in Wellington
+# 5.0 Scenarios : My Life With Wayne Kerr
 
 ## 5.1 Setting : Wellington
 
@@ -3248,139 +3248,99 @@ Economically Wellington is a financial, technological, and cultural centre of th
 
 The climate of Wellington is cool temperate, with a typical range from an average low of 5 degrees C in winter to an average high of 20 degrees in summer. It is fairly wet with an annual rainfall of over 1200mm and with half the days in winter and a quarter of the days in summer experiencing rainfall. The winters have especially cold winds from the south which can reach very significant speeds - a nickname of the capital is "Windy Wellington", with an emphasis on the New Zealand accent of "flattening" vowels. In winter these winds can easily reach up to 150km/h causing great sprays of water over the harbour and on the rather short airport landing strips. The highest ever gust recorded in Wellington was 248km/h, and over half the year the city will experience gale-force winds (75 km/h plus).
 
-## 5.2 My Life With Boss
+## 5.2 Introduction and Characters
 
 "The life of a executive is a hard one. The horrific things you do make it difficult to feel good about yourself. If only  someone loved you." 
 
-A dysfunctional relationship with your Boss in the high powered life of Corporate Executives for Newsprint Limited. A  game of modern horror and self loathing set with a backdrop of life at the top of the Journalism field.  
+A dysfunctional relationship with your Boss in the high powered life of Corporate Executives for Newsprint Limited. A  game of modern horror and self loathing set with a backdrop of life at the top of the Journalism field.  Prepare to  serve a most ambitious sociopath and eventually be his undoing.
 
-*My Life with the Boss* is a corporate adaptation of Paul Czege's award winning game My Life with Master. This version adapted for *Papers & Paychecks*. 
+Original title *My Life with the Boss* is a corporate adaptation of Paul Czege's award winning game My Life with Master. This version, *My Life with Wayne Kerr* adapted for *Papers & Paychecks*. *My Life with the Boss* was run at KapCon XIX in Wellington, New Zealand, in January 2010 and the *Papers & Paychecks* adaption was run from September 2016 to January 2017 in Melbourne, Australia.
 
-Prepare to  serve a most ambitious sociopath and eventually be his undoing.
+There are six playable characters in *My Life with the Boss*. Forest Deacon, Financial Officer, John Goines, Marketing Officer, Julia Wright, Visual Media Officer, Verity Williams, Sub-Editor, Jason Schuster, Journalist, Rebekah Caulfield, Human Resources Officer. These characters should be replaced if The Boss and players wish to use their own characters, however the connections should remain. The playtest used level 3 characters, but the scenario is sufficiently open-ended in terms of challenges that it can adapted as needed. 
 
-*My Life with the Boss* was run at KapCon XIX in Wellington, New Zealand, in January 2010 and the *Papers & Paychecks* adaption was run from September 2016 to January 2017 in Melbourne, Australia.
+Each character has two connections from the following: Petra Daniels (local Shortland Street actress), Henry Dunant (local leader of Red Cross Orphans Charity), Paul Reynolds (Jr Accountant of Newsprint Limited), Yousef Ramoud (Routers Co – competitor Journalist), "Open Wound" (Government Insider). These connections provide both victims and moral support to the characters and each is used to inspire emotive responses from the characters. As they are tied to successfully resisting Wayne Kerr, the characters should want to assist and not harm their own connections and be reluctant to harm connections of other characters. 
 
-There are six playable characters in *My Life with the Boss*. Forest Deacon, Chief Financial Officer, John Goines, Marketing Manager, Julia Wright, Chief of Visual Media, Verity Williams, Chief Editor, Jason Schuster, Chief Journalist, Rebekah Caulfield, Director of Human Resources. 
-
-Each character has two connections from the following: Petra Daniels (local Shortland Street actress), Henry Dunant (local leader of Red Cross Orphans Charity), Paul Reynolds (Jr Accountant of Newsprint Limited), Yousef Ramoud (Routers Co – competitor Journalist) , “Open Wound” (Government Insider) . These connections provide both victims and moral support to the characters and each is used to inspire emotive responses from the characters. As they are tied to successfully resisting the Boss, the characters should want to assist and not harm their own connections and be reluctant to harm connections of other characters. 
+It is essential that The Boss read through this scenario before running it and sketch possible challenge ratings (matched with the PC Worker abilities) and incorporate any monsters that they field might be appropriate. It is strongly suggest that the Boss make a checklist of who has connections with whom, as this provides for the cascading and tragic comedy of errors that can result.
 
 **In detail – Petra Daniels (Local Celebrity)**
 
-Petra is a local actress from a daily New Zealand soap – Shortland Street. She is has a ethereal beauty and her character suffers tragedy after tragedy during the soap which means that she inspires pity. Petra is however, rather new to the media scene, she could also be called naïve in respect to handling the media.
+Petra is a local actress from a daily New Zealand soap – *Shortland Street*. She is has a ethereal beauty and her character suffers tragedy after tragedy during the soap which means that she inspires pity. Petra is however, rather new to the media scene, she could also be called naïve in respect to handling the media.
 
-Petra is the target of the first commands for Julia Wright, Chief of Visual Media. As Julia is instructed to get raunchy pictures of Petra for page three of the Newspaper. This is a big step for the actress (if she is willing) as this will dash her current media image of homely goodness.
+Petra is the target of the first commands for Julia Wright from Visual Media. As Julia is instructed to get raunchy pictures of Petra for page three of the Newspaper. This is a big step for the actress (if she is willing) as this will dash her current media image of wholesome homely goodness.
 
 Petra has connections with John Goines (Marketing), whom she used to date before getting a media profile, Verity Williams (HR) whom she has had business dealings with and Jason Schuster (Chief Journalist) who has been stalking her for many years (although Petra is unaware of the infatuation).
 
-Petra should inspire pity from the characters, as a personality who being abused by the media (and by extension the Boss) which will eventually result in her meltdown.  For inspiration to play her, look to Susan Boyle (UK Idol runner up), Lindsay Lohan (from before she became a media sensation to her current state) and Brittney Spears (with her public meltdown).
+Petra should inspire pity from the characters, as a personality who being abused by the media which will eventually result in her meltdown.  For inspiration to play her, look to Susan Boyle (*UK Idol* runner up), Lindsay Lohan (from before she became a media sensation to her current state) and Brittney Spears (with her public meltdown).
 
 **In detail – Henry Dunant (Red Cross worker)**
-Henry Dunant runs the local (struggling) Red Cross orphanage, just out of town. The orphanage is currently on a “campout” – as much from necessity as from choice – and Henry and his volunteers are doing the best that they can to ensure the orphans are well taken care of. Henry is aware of the media scene, although places little value on its worth. 
+
+Henry Dunant runs the local (struggling) Red Cross orphanage, just out of town. The orphanage is currently on a "campout" – as much from necessity as from choice – and Henry and his volunteers are doing the best that they can to ensure the orphans are well taken care of. Henry is aware of the media scene, although places little value on its worth. 
 
 He is a campaigner for a better world through hard work, honest donations and good intentions.
+
 Henry is the target of John Goines first command, and John Goines has been instructed to “woo” Henry to support a marketing campaign and generate a good public perception of Newsprint Limited. Henry has connections with Rebekah Caulfield (who has been siphoning funds to the Red Cross for years), Verity Williams (who he dates and has a relationship with), and Forest Deacon (old mate and drinking buddy).
+
 Henry should inspire admiration, or a difficult struggle. Henry is doing the good work under a good cause, a complete opposite of the characters own plight. Henry is inspired by real world characters like Fred Hollows (Australian Eye specialist who used to work in the Philippines), Mother Teresa and Princess Diana.
 
 **In detail – Paul Reynolds (Jr Accountant)**
+
 Paul works for Newsprint Limited as a Junior Accountant, a job he got through his uncle (and connection) Forest Deacon. Paul is one of the linesmen of Newsprint Limited and is excited about his opportunity to work with Newsprint as all young employees are. Paul is unaware of the media scene, although is excited to learn. He is eager to do what his superiors ask of him and is generally unaware of the consequences of his actions.
 
 Paul has connections with Forest Deacon (his Uncle) and Jason Schuster (a good mate).
 
-Paul is the target of the first command of Verity Williams (Chief Editor), and Verity is instructed to send Paul into a potentially deadly situation because the Boss is disparaging of Paul’s letter to management. Paul is indirectly affected by Rebekah Caulfield’s first command as well, as Paul falls under the group that the Boss instructs Rebekah to cull from the company ranks.
+Paul is the target of the first command of Verity Williams (Sub-editor), and Verity is instructed to send Paul into a potentially deadly situation because the Boss is disparaging of Paul's letter to management. Paul is indirectly affected by Rebekah Caulfield's first command as well, as Paul falls under the group that Wayne Kerr instructs Rebekah to cull from the company ranks.
 
-Paul should inspire hope from the Characters, he represents what the characters may have felt when they began at Newsprint and what they may be feeling at the start of the game (a wish to do well for the Boss). Only the character increasing self loathing and realisation that the Boss is a tyrant differentiates Paul from the characters. Paul is inspired by any who has recently joined the job market, a person willing to go the extra step in order to cement their career in a 
-new industry.
+Paul should inspire hope from the Characters, he represents what the characters may have felt when they began at Newsprint and what they may be feeling at the start of the game (a wish to do well for their manager). Only the character increasing self loathing and realisation that Wayne Kerr is a tyrant differentiates Paul from the characters. Paul is inspired by any who has recently joined the job market, a person willing to go the extra step in order to cement their career in a  new industry.
 
 **In detail – Yousef Ramoud (Competitor Journalist)**
-Yousef works for a rival company to Newsprint Limited; however he should represent the idea of a friendly rivalry rather than a hostile one. Yousef should give no reason for the characters to dislike him, other than the instructions of the Boss – he is meant to represent a healthy competition in the workplace. Yousef is also an Arab, and thus highlights the unfair racial bigotry that can arise in the media’s interpretation of public perception of Arabs and those from the middle east.
 
-Yousef is well aware of the media’s capabilities and will fight back – targeting the organisation of Newsprint rather than the individual – if attacked by the characters. Yousef has connections with John Goines (old school mate) and Julia Wright (professional colleagues). Yousef is the target of the first command of Forest Deacon, Forest is instructed to “find dirt” on Yousef and discredit him as a journalist.
+Yousef works for a rival company to Newsprint Limited; however he should represent the idea of a friendly rivalry rather than a hostile one. Yousef should give no reason for the characters to dislike him, other than the instructions of Wayne Kerr. He is meant to represent a healthy competition in the workplace. Yousef is also an Arab, and thus highlights the unfair racial bigotry that can arise in the media's interpretation of public perception of Arabs and those from the middle east.
 
-Yousef should inspire respect from the players, while the media industry can be considered to be a cutthroat business (especially in the Boss’s eyes), Yousef should seem to rise above it and still fight fairly. Yousef is inspired by the overwhelming majority of investigative journalists in the media industry to date. A real passion for getting the truth of the story and no love of the sensationalist practices of some papers in order to sell more.
+Yousef is well aware of the media's capabilities and will fight back – targeting the organisation of Newsprint rather than the individual – if attacked by the characters. Yousef has connections with John Goines (old school mate) and Julia Wright (professional colleagues). Yousef is the target of the first command of Forest Deacon, Forest is instructed to “find dirt” on Yousef and discredit him as a journalist.
 
-**In detail – “Open Wound” (Government Insider)**
-“Open Wound” is the codename for a Government insider. He represents the myriad of contacts that the journalistic community has to allow them to get the inside scoop on operations by the government. “Open Wound” also represents the shadier side of investigative journalism, where a no­questions­asked policy is still in place. “Open Wound” is the least at risk by the activities of the characters, his identity is a secret, his background shrouded in mystery. He will willingly go along with the characters if they chose to misdirect the activities of “Open Wound” to another connection.
+Yousef should inspire respect from the players, while the media industry can be considered to be a cutthroat business (especially in Wayne Kerr's eyes), Yousef should seem to rise above it and still fight fairly. Yousef is inspired by the overwhelming majority of investigative journalists in the media industry to date. A real passion for getting the truth of the story and no love of the sensationalist practices of some papers in order to sell more.
 
-“Open Wound” has connections with Julia Wright (Chief of Visual media) and Verity Williams (Chief Editor) as an informant and verifier of information. “Open Wound” is the target of the first command of Jason Schuster (Chief Journalist), and Jason is instructed to expose him to the Boss and find out everything that Jason is able to.“Open Wound” is inspired by Deep Throat (the insider from X­files and the Watergate scandal).
+**In detail – "Open Wound" (Government Insider)**
 
-**The Boss**
-Central to the success of My Life with the Boss, is the Boss. The aspects of the Boss are below (as per My Life with Master rules)
+"Open Wound" is the codename for a Government insider. He represents the myriad of contacts that the journalistic community has to allow them to get the inside scoop on operations by the government. “Open Wound” also represents the shadier side of investigative journalism, where a no­questions­asked policy is still in place. "Open Wound" is the least at risk by the activities of the characters, his identity is a secret, his background shrouded in mystery. He will willingly go along with the characters if they chose to misdirect the activities of “Open Wound” to another connection.
 
-Aspect: Boss/CEO
-Type:  Teacher
-Needs:
-Wants: Domination
-More Money, More Readers, to be proven right in all things
-Some aspects of the Boss
-The following are some of the characteristics that the Boss will (or may) display during the game.
-Ruthlessness., Uncaring., Profiteer., Driven., Racist., Rich., Uncharitable., Environmental Terrorist.,  Sensationalist., 
-Bureaucratic., Overbearing., Pedantic., Favouritism., Ambiguous expectations/Goals., Loud/Rude/Talks over staff., 
-Takes credit from staff.,  Discuss negative events continually and searches for faults in staff.,  Lacks integrity, breaks 
-promises, and is dishonest., Unethical., Belittling., Micromanaging
+"Open Wound" has connections with Julia Wright (Visual media) and Verity Williams (Sub-editor) as an informant and verifier of information. "Open Wound" is the target of the first command of Jason Schuster (Chief Journalist), and Jason is instructed to expose him to the Boss and find out everything that Jason is able to. "Open Wound" is inspired by Deep Throat (the insider from *X­-files* and the Watergate scandal).
 
-**Playing the Boss**
+**The Manager**
 
-Firstly, it must be said that the Boss is should not be treated like a normal character. The Boss should played more like considered a nature or a driving motivator to get the characters into a position where they feel that there is nothing more that they can do but resist the 
+Central to the success of *My Life with Wayne Kerr*, is the CEO and Manager of Newsprint, Wayne Kerr (c.f., Section 3.6, Managers). His main desires are domination, more money, and more readers of Newsprint.
 
-Boss’s commands.
-When playing the Boss, it is useful to have a trigger – in my case it was a cigar – that highlights that the GM is playing the Boss to the players and allows the GM to get into character to say and do the things that the Boss wants to do.
+**Playing Wayne Kerr**
 
-The Boss is bigoted, racist, nasty and ruthless – however the Boss can not complete his objectives without the characters involvement (the Boss is also lazy). He has a confidence that his minions will attempt to complete the tasks as instructed, however lacks confidence in their ability to actually complete those tasks.
+Firstly, it must be said that Wayne Kerr is should not be treated like a normal character. Wayne should played more like considered a nature or a driving motivator to get the characters into a position where they feel that there is nothing more that they can do but resist his commands, least they become not just a pawn in his game, but lose all sense of common decency.
 
-The Boss is misunderstood, the Boss wants to be liked, the Boss wants to be appreciated, and the Boss wants to be respected. However when the characters show that they “like” the Boss, or appreciate the Boss or even respect the Boss, the Boss can see through their guile and realises that it is just a grab for power of the Boss’s assets. 
+When playing Wayne, it is useful to have a trigger – in my case it was a cigar – that highlights that the GM is playing Wayne Kerr to the players and allows the GM to get into character to say and do the things that the Boss wants to do. The cover of this book gives a good impression of what he looks like and his general demeanor.
 
-The Boss has an extremely powerful position in the game, at least initially the characters will be unable to resist the Boss’s commands, the Boss should however begin with commands that allow the players to get into character, and continually escalate those commands until the characters realise that the Boss’s power is hollow and the characters have no choice but to resist. The Boss must be memorable if this game is to succeed. Be prepared to be flamboyant, loud, outspoken and to make a performance of the times that the Boss is centre stage.
+Wayne is bigoted, racist, nasty and ruthless – however the Boss can not complete his objectives without the characters involvement (he is also lazy). He has a confidence that his minions will attempt to complete the tasks as instructed, however lacks confidence in their ability to actually complete those tasks.
 
-The Boss is not the GM, nor is the GM the Boss. 
+Wayne is misunderstood, and wants to be liked, he wants to be appreciated, and he wants to be respected. However when the characters show that they "like" Wayne, or appreciate, or even respect him, he can see through their guile and realises that it is just a grab for power of his assets and position. Flattery will get you nowhere and bring you to unwanted attention.
 
-The Boss is just a motivator for the players, a source of information on what impossible task they should attempt to complete. The Boss should be an obstacle for the characters to overcome, not a cherished NPC who can escape any conflict.
+Wayne Kerr has an extremely powerful position in the game, at least initially the characters will be unable to resist the Wayne's commands. Wayne should however begin with commands that allow the players to get into character, and continually escalate those commands until the characters realise that the Wayne's power is hollow and the characters have no choice but to resist. Wayne Kerr must be memorable if this game is to succeed. Be prepared to be flamboyant, loud, outspoken, obnoxious, and to make a performance of the times that Wayne is centre stage.
 
-**Introduction of the Game**
- 
-Always introduce yourself and the game, explain the rules and take your time about this. Be familiar with the rules as written of My Life with Master.
+Wayne Kerr is just a motivator for the players, a source of information on what impossible task they should attempt to complete. Wayne should be an obstacle for the characters to overcome, not a cherished NPC who can escape any conflict.
 
-My conventions that are not listed in the rules as written for My Life with Master.
-• Desperation, Intimacy and Sincerity dice are the domain of both the players and the GM. This will need to be  introduced at the start of play with the importance of the dice to success strenuously stressed.
-• No more than 1 overture action in a row for any character.
-• End Game and Horror Revealed scenes happen at set times. These will be extra scenes. Horror Revealed 
-scenes are slightly re jigged to fit the game within the convention time frames.
-• Bring each scene to its conflict as quickly as possible, the answer “yes, and...” should be the only one the GM requires until a conflict is declared (by either the player or GM). On average you will only have about 5 minutes to complete a scene.
+**Opening Statement / Setting the scene**
 
-**Horror Revealed**
+The scene: Characters are all sitting at the board room table, Wayne is hidden behind a large chair. He's on the phone. Do this as a charade.
 
-In a slight change about the Horror Revealed, unfortunately in a convention setting you do not have the time to “waste” a scene with a character describing the horror revealed as opposed to generating Love or Self Loathing.
- 
-Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to the activities of the characters thus far.
-
-I would begin by answering an open question relevant to the current events in the game – for example – “given that Henry Dunant has been vilified in the media, how does the public react to further fundraising by the Red Cross?”, and allowing the player to describe the response.
-
-Opening Statement / Setting the scene
-
-The scene: Characters are all sitting at the board room table, the Boss is hidden behind a large chair. He’s on the phone.
-
-"Look here, you snivelling little twit, when I say I want those pictures ­ I want those pictures, I don't care if your halfwit mother wants to have a white xmas, you ain't getting any leave until those pictures hit MY desk. In fact, stuff it,  you ain't getting any leave period ­ sit your arse down in the park outside that dumb bitch Petra Daniels house and wait for the picture you god damned lazy shit."
+"Look here, you snivelling little twit, when I say I want those pictures ­ I want those pictures, I don't care if your halfwit mother wants to have a white xmas, you ain't getting any leave until those pictures hit MY desk. In fact, stuff it, you ain't getting any leave period ­sit your arse down in the park outside that dumb bitch Petra Daniels house and wait for the picture you god damned lazy shit."
 
 He turns to the characters
 
-"Right, for Christ sake ­ hire a bloody Jew to do a job and you need to give them god damned road map just so they can find their own chopped up dick. This stupid company would go down the tubes if it wasn't for strong leadership and direction ­ MINE ­ I don't know why I hired you lot either ­ right lot of useless fools you are."
+"Right, for Christ sake ­ hire a bloody Jew to do a job and you need to give them god damned road map just so they can find their own chopped up dick. This stupid company would go down the tubes if it wasn't for strong leadership and direction ­- MINE -­ I don't know why I hired you lot either right lot of useless fools you are."
 
 "Who’s up first?"
 
-Whomever chooses to take the first command will be your starting character, travel left from that player until you return to that player a second time (i.e. all characters have had two scenes, usually a command and an overture or attempting to complete a command). 
+Whomever chooses to take the first command will be your starting character, travel left from that player until you return to that player a second time.
 
-At that second return, you should be able to do an End Game or Horror Revealed check.
+**The Boardroom**
 
-**First Run of Commands and player actions**
-
-The following is the initial commands given to each character, note that with the exception of the first command (the 
-player who responded to the opening statement) each character can choose to take a command, do an overture or act out 
-a command.
-
-Players should be able to set the scene for what ever action they choose to take, the GM should provide suggestions based on the background material, but the players should have most of the narrative control.
-The players are likely to take the narrative outside the boardroom, or to other unusual places, the GM’s best answer to any suggestion or request by the players is “yes, and...” The game is currently set in Wellington, New Zealand (feel free to change as relevant). 
-
-Each player should have the opportunity twice to perform an action (within the first round it is extremely likely that everyone gets at least one command). To keep to the time line, this should only take about 50 minutes to complete.
-
+The following is the initial commands given to each character. Players should be able to set the scene for what ever action they choose to take, Wayne should provide suggestions based on the background material, but the players should have most of the narrative control.
 
 *Forest Deacon*
 
@@ -3388,184 +3348,99 @@ Each player should have the opportunity twice to perform an action (within the f
 
 *John Goines*
 
-"Oh Christ its you. You sold your own mother yet? My lord man I ain't seen such a dirty leech since my time in Malaysia ­ god damned Malaysians ­ suck your blood they do. Steal the shirt from your back they will. So... what can I have you do for me huh? Something you won't stuff up hopefully, but I'm not holding my breath. I need a new corporate face of Newsprint limited, something bulldust and squishy, light­hearted yet.... heart­warming to the stupid masses. Something.... charities... charities are good. There is a Red Cross orphans camp up near Trentham way, sign a deal ­ get them to advocate buying Newsprint publications. Get their boss up here for a photo shot ­ shaking hands and that sort of bulldust rubbish ­ but make sure they are presentable... I want sympathetic, not pathetic."
+"Oh Christ its you. You sold your own mother yet? My lord man I ain't seen such a dirty leech since my time in Malaysia. God damned Malaysians ­ suck your blood they do. Steal the shirt from your back they will. So... what can I have you do for me huh? Something you won't stuff up hopefully, but I'm not holding my breath. I need a new corporate face of Newsprint limited, something bulldust and squishy, light­hearted yet.... heart­warming to the stupid masses. Something.... charities... charities are good. There is a Red Cross orphans camp up near Trentham way, sign a deal, get them to advocate buying Newsprint publications. Get their boss up here for a photo shot, shaking hands and that sort of bulldust rubbish. But make sure they are presentable... I want sympathetic, not pathetic."
 
 *Julia Wright*
 
-"How are you doing honey? Liking the good life down in that library of yours? You know you could make VP one day; you'd just need to pop those tits out once and a while and do a dance for the rest of the team. The boys here would be salivating over you in no time. Your job is a simple one baby, time for Newsprint to get glossy ­ and I mean sexy. I need hot pics... and I mean HOT. Get me my nude shot of Petra Daniels ­ you know the one ­ the slut from Shorty Street. That'll bring the readers in, everyone likes a bit of arse on page 2! and would it hurt to wear a low cut top from time to time! Its like looking at a slate wall every time you walk in here..."
+"How are you doing honey? Liking the good life down in that library of yours? You know you could make VP one day; you'd just need to pop those tits out once and a while and do a dance for the rest of the team. The boys here would be salivating over you in no time. Your job is a simple one baby, time for Newsprint to get glossy ­ and I mean sexy. I need hot pics... and I mean HOT. Get me my nude shot of Petra Daniels; you know the one, the slut from Shorty Street. That'll bring the readers in, everyone likes a bit of arse on page 2! and would it hurt to wear a low cut top from time to time! It's like looking at a slate wall every time you walk in here..."
 
 *Verity Williams*
 
-"Verity ­ my overpaid, under qualified, waste of time editor. What do you do when not trying to screw up my paper? Pull the wings off flies? Steal candy from children? Christ if I was a father I would get the child to run 10 miles to get  away from your ugly mug ­ the wicked witch of the west you are! Well its time to earn your keep, accounting have a new boy ­ Paul something... Reynolds I think. He sent me a bloody letter "Dear Sir, I very much enjoy being part of your fine company and would like to express my gratitude about granting me this opportunity to help build Newsprint to the best that it can be" ­- brown noser if any I thought so. Time to teach him a lesson ­ there is a Gang HQ out in Newtown, tell him that the boss needs something special from the Gang leader ­ something that would make the Boss even more grateful that we hired this snivelling turd... convince Paul to go get me a Daddie fresh from the pen!... 
-ha ha!... should come back bow legged he will!"
+"Verity ­ my overpaid, under qualified, waste of time subeditor. What do you do when not trying to screw up my paper? Pull the wings off flies? Steal candy from children? Christ if I was a father I would get the child to run 10 miles to get  away from your ugly mug ­ the wicked witch of the west you are! Well its time to earn your keep, accounting have a new boy ­ Paul something... Reynolds I think. He sent me a bloody letter *"Dear Sir, I very much enjoy being part of your fine company and would like to express my gratitude about granting me this opportunity to help build Newsprint to the best that it can be"* ­- brown noser if any I thought so. Time to teach him a lesson ­ there is a Gang HQ out in Newtown, tell him that the boss needs something special from the Gang leader ­ something that would make the Boss even more grateful that we hired this snivelling turd... convince Paul to go get me a Daddie fresh from the pen!... ha ha!... should come back bow legged he will!"
 
-(FYI – “Daddie fresh from the Pen” is a recently release Sexual Offender)
-
-https://en.wikipedia.org/wiki/King_Cobras_%28gang%29
+A "Daddie fresh from the Pen" is a recently released sexual offender. The *King Cobras* and the *Mongrel Mob* are good model gangs to serve as an example. The latter has a labour-hire business and a drug rehabilitation programme, which is a superb example of vertical marketing.
 
 *Jason Schuster*
 
-"I thought we fired you? God Damn I need to talk to HR. Right, as we have you we should bloody well use you. There is a secret government agent ­ "Open Wound" is what they call him. He needs to be exposed ­ my friends in the Beehive are getting might pissed off at the info he is spreading around ­ and I need my friends to be happy. I need to know his name, his department, his fucking favourite position and I need it recorded. Bring me that recording!"
+"I thought we fired you? God Damn I need to talk to HR. Right, as we have you we should bloody well use you. There is a secret government agent ­ "Open Wound" is what they call him. He needs to be exposed ­ my friends in the Beehive are getting might pissed off at the info he is spreading around ­- and I need my friends to be happy. I need to know his name, his department, his fucking favourite position, and I need it recorded. Bring me that recording!"
 
-Rebekah Caulfield
+*Rebekah Caulfield*
 
-"Still stalking all the office hotties are we Beks? I know your secret. Looking up files is just another form of a peep show to you isn't it? Okay, I have jobs for you. I am getting sick and tired of all the bloody slackers that we have hired... fucking ugly women with kids, Jews and Malay. Slackers all of them. Fire them. All. I want all their contracts terminated by the end of the week ­ and hire me some new people ­ attractive women, Aryan men ­ business men, real workers ­ none with kids. Call it a restructure or something, and make it look nice in the press."
+"Still stalking all the office hotties are we Beks? I know your secret. Looking up files is just another form of a peep show to you isn't it? Okay, I have jobs for you. I am getting sick and tired of all the bloody slackers that we have hired... fucking ugly women with kids, Jews and Malay. Slackers all of them. Fire them. All. I want all their contracts terminated by the end of the week ­ and hire me some new people ­ attractive women, Aryan men, business men, real workers -­ none with kids. Call it a restructure or something, and make it look nice in the press."
 
+## 5.3 Work Package Results**
 
-Check for End Game / Horror Revealed
+This scenario is deliberatly produced in a loose fashion as The Boss will be switching between different character locations rapidly. Start of challenges at a low level as the character's gather information and put the basic of their plan in order. As they succeed, increase the difficulty levels. If they start failing, drop them a bit to keep the story flowing. But they main point is to *always escalate*. If the PC Workers keep on following Wayne Kerr's instructions, the city will become an utterly loathesome plus to be. The challenge is how far they are prepared to go before turning on Wayne.
 
-After each player has had a turn twice, go around the table and do a check for End Game or Horror Revealed. This is also a good time to summarise what is happening in the game world (the Horror Revealed is a good way to allow the players to do the summarising).
+**Forest Deacon**
 
-N.B. Horror Revealed:
+If successful Ramoud should be disgraced. Townsfolk should become more cynical about life, morose and depressed. Anti­monopoly or anti­globalisation protests are starting to rise and often they stop at the Newsprint Limited head office. While Newsprint haven't yet brought Routers (although that is possible), it is obvious to the population that this is what it intends. Newsprint Limited reader numbers remain unchanged. The next task could be to fire all the workers from Routers and set it up as a shell company for Newsprint to launder money. Paul will be "volunteered" to oversee this operation.
 
-In a slight change about the Horror Revealed, unfortunately in a convention setting you do not have the time to “waste” a scene with a character describing the horror revealed as opposed to generating Love or Self Loathing.
- 
-Horror Revealed only appearing at one of three times (at the 1 st  hour mark, the 2 nd  hour mark and in practice just before  the end game mark), the player with the “Horror Revealed” is then instructed to describe the response of the public to the activities of the characters thus far.
+If unsuccessful ­ Routers (and Ramoud) runs a campaign against monopolies and greedy corporations with their wealthy benefactors. Wayne Kerr is not impressed and order Forest to start laundering money (with a fall guy ­ Paul) hiding it as donations to the Red Cross. 
 
-I would begin by answering an open question relevant to the current events in the game – for example – “given that Henry Dunant has been vilified in the media, how does the public react to further fundraising by the Red Cross?”, and allowing the player to describe the response.
-
-Second Round commands and player actions
-
-The second commands the characters received are partially dependent on the results of their first command (if they have or haven’t completed it), and partially dependent on the actions of the other characters. Guides to the characters  for orders follow.
-
-As a loose guide follow the below instructions, however always escalate.
-
-Forest Deacon
-
-If successful ­ Ramoud should be disgraced. Townsfolk should become more cynical about life, morose and depressed. Anti­monopoly or anti­globalisation protests are starting to rise and often they stop at the Newsprint Limited head office. While Newsprint haven't yet brought Routers (although CFO could do it), it is obvious to the population that this  is what it intends. Newsprint limited reader numbers remain unchanged. CFO next task could be to FIRE all the workers from Routers and set it up as a shell company for Newsprint to launder money ­ Paul would be “volunteered” to oversee this operation.
-
-If unsuccessful ­ Routers (and Ramoud) runs a campaign against monopolies and greedy corporations with their wealthy benefactors. The boss is not impressed. Orders CFO to start laundering money (with a fall guy ­ Paul) hiding it as donations to the Red Cross. 
-
-The key to Forest’s escalation is either through his connections (putting Paul or Henry Dunant into trouble or dire straights), or using his money (his “more than human”) for increasingly nefarious deeds. Order Forest to buy things – like the Red Cross and then destroy them, order Forest to cut funding to things – like staff members superannuation or leave payouts – order him to use that money for the Boss’s benefit.
+The key to Forest’s escalation is either through his connections (putting Paul or Henry Dunant into trouble or dire straights), or using his money (his "more than human") for increasingly nefarious deeds. Order Forest to buy things – like the Red Cross and then destroy them, order Forest to cut funding to things – like staff members superannuation or leave payouts – order him to use that money for Wayne Kerr's benefit.
 
 Eventually Forest will crack, and that really is the idea.
 
-John Goines
+**John Goines**
 
-If successful ­ Henry Dunant should be ready for photo shoot/publicity stunt with the Boss ­ Townsfolk should laud Henry Dunant as reaching one of the big corporations ­ Henry is nominated for Wellingtonian of the Year (for his charity work and stuff). Newsprint reader numbers remain the same. The boss is not impressed, in fact, he’s angry. 
+If successful ­Henry Dunant should be ready for photo shoot/publicity stunt with Wayne Kerr. Townsfolk should laud Henry Dunant as reaching one of the big corporations.  Henry is nominated for Wellingtonian of the Year (for his charity work). Newsprint reader numbers remain the same. Wayne Kerr is not impressed, in fact, he's angry. 
 
-DCC next task should be to put Petra Daniels (naked) and Henry Dunant in the same room. Time to disgrace him. If unsuccessful, the boss is not impressed and above remains.
+The next task should be to put Petra Daniels (naked) and Henry Dunant in the same room; time to disgrace him. If unsuccessful, Wayne Kerr is not impressed and above remains.
 
-John Goines is often played as a suave media marketeer, so attack him were it hurts. He generally needs orders that are leading others into trouble, not trouble for himself directly – for example, bringing Petra Daniels to the Boss’s room and ordered to remain outside, or creating situations where Yousef could be confused as a terrorist (i.e. “mistakenly” putting a story out with a picture of Yousef about potential terrorism in Wellington).
+John Goines is often played as a suave media marketeer, so attack him were it hurts. He generally needs orders that are leading others into trouble, not trouble for himself directly – for example, bringing Petra Daniels to Wayne Kerr's room and ordered to remain outside, or creating situations where Yousef could be confused as a terrorist (i.e. "mistakenly" putting a story out with a picture of Yousef about potential terrorism in Wellington).
 
-Julia Wright
+**Julia Wright**
 
-If successful ­ Petra Daniels should be "exposed" in the media ­ Townsfolk start to hunger for more sensationalist press ­reality TV shows start to rise, the porn industry in Wellington reports record growth. Newsprint reader numbers increase, the boss wants more. CVM next task would be to photograph government officials in compromising positions. 
-
-Get the scandal.
-
-If unsuccessful, the Boss is not impressed, his page 2 doesn't have a story ­ orders CVM to get insider story pronto.  Either that or lose her job!!
+If successful ­ Petra Daniels should be "exposed" in the media ­ Townsfolk start to hunger for more sensationalist press ­reality TV shows start to rise, the porn industry in Wellington reports record growth. Newsprint reader numbers increase, the boss wants more. The next task would be to photograph government officials in compromising positions. Get the scandal. If unsuccessful, Wayne Kerr is not impressed, his page 2 doesn't have a story - and­ orders Media to get insider story pronto.  Either that or lose her job!
 
 Julia can be attacked through her connections, “Open Wound” or Yousef, although generally they do not hold a lot of weight with the players. Julia is often portrayed as a confident worker, successful in her own right, and further attacks on her legitimacy as a photojournalist has worked in escalation with Julia. Order Julia to take photos of prominent connections in the game and then have the Newspaper print outright lies about what the photo is attempting to portray (or lies about what the situation was in the first place). Order Julia to then begin doctoring photos to match scandalous  stories.
 
-Verity Williams
+**Verity Williams**
 
-If successful Paul should be harmed ­ Violence and riots are more common by the townsfolk, violence seems "verified" as a valid course of action. Sexual assaults and rape on the rise. The boss doesn't care Newsprint readership declines (which doesn't make the boss happy). Orders CE to blame the Red Cross for the rise in violence (it harbours criminals), to get proof that this is happening, and to bring the Red Cross to justice. Also Paul is brought to the office and CE blamed for his plight.
+If successful Paul should be harmed ­ Violence and riots are more common by the townsfolk, violence seems "verified" as a valid course of action. Sexual assaults and rape on the rise; Wayne doesn't care. Newsprint readership declines (which doesn't make Wayne happy), and order the editors to blame the Red Cross for the rise in violence (it harbours criminals), to get proof that this is happening, and to bring the Red Cross to justice. Also Paul is brought to the office and the subeditor is blamed for his plight.
 
-If unsuccessful, Paul unharmed, bosses "fun" was inhibited, he’s not happy. Orders CE to verify a government conspiracy (that the Govt is bankrupt, John Key is a puppet to the US, and the RBA is about to go under) with her "contact" and rival company Routers Co.
+If unsuccessful, Paul unharmed, Wayne's was inhibited, and again he's not happy. Orders the subeditor to verify a government conspiracy (that the Government is bankrupt, the Prime Minister is a puppet to the US, and the Reserve Bank is about to go under) with her "contact" and rival company Routers Co.
 
-Verity’s first instruction is the one that brings violence into the game, and thus escalation of Verity’s orders in practice  tends to be quite natural. Order her to allow stories of Paul Reynolds (lies all) to go to print, have the Boss order her to  obey the “Boys Club” and step aside for another editor (who doesn’t do any editing) and then order her to take the fall  when he fails. Verity in practice also tends to get out there and attempt to stop others from completing their orders (in particular re Henry Dunant).
+Verity’s first instruction is the one that brings violence into the game, and thus escalation of Verity’s orders in practice tends to be quite natural. Order her to allow stories of Paul Reynolds (lies all) to go to print, have the Boss order her to obey the "Boys Club" and step aside for another editor (who doesn’t do any editing) and then order her to take the fall  when he fails. Verity in practice also tends to get out there and attempt to stop others from completing their orders (in particular re Henry Dunant).
 
-Jason Schuster
+**Jason Schuster**
 
-If successful ­ "Open Wound" should be compromised but either way ­ Townsfolk want to know more about the 
-Governments dealings, racial attacks on the rise as the Boss slants the story to the fact that he is a Jew (or Malay, or an  ugly woman). Newsprint Readership rises, the Boss wants more. Needs more proof that the Jews are responsible for all things wrong in this world. Orders DOO out to get proof that Henry Dunant (another Jew) is a corrupt cheat, and if they can't find the info ­ to make it up! 
+If successful ­"Open Wound" should be compromised but either way.­ Townsfolk want to know more about the Governments dealings, racial attacks on the rise as Wayne slants the story to the fact that he is a Jew (or Malay, or an ugly woman). Newsprint Readership rises, and Wayne wants more. Needs more proof that the Jews are responsible for all things wrong in this world. Orders DOO out to get proof that Henry Dunant (another Jew) is a corrupt cheat, and if they can't find the info ­ to make it up! 
 
-Jason is a true journalist, so continue to order him to “get the story”. And if he can’t get the story to “make the story”. 
+Jason is a true journalist, so continue to order him to “get the story”. And if he can’t get the story to “make the story”.  
 
 This can be useful for the players to keep track of the activities of the game if Jason is ordered to track and report. 
 
-Eventually the Boss will order Jason to get the story on the assassination of one of the connections, or rather hands Jason a Gun.
+Eventually Wayne will order Jason to get the story on the assassination of one of the connections, or rather hands Jason a gun.
  
-Rebekah Caulfield
+**Rebekah Caulfield**
 
-If successful, all Jews/ugly women/Malays should be fired ­ including Paul Reynolds, and new employees hired. Townsfolk accept the "restructure" or whatever it was called without comment, racial attacks on the rise. No change in Newsprint readership. Paul Reynolds starts a lawsuit for illegal dismissal and Boss orders DHR to justify the dismissals or bribe the courts to throw the case out ­ Open Wound could be useful there. (either mentioned by boss or others)
+If successful, all Jews/ugly women/Malays should be fired, including Paul Reynolds, and new employees hired. Townsfolk accept the "restructure" or whatever it was called without comment, racial attacks on the rise. No change in Newsprint readership. Paul Reynolds starts a lawsuit for illegal dismissal and Wayne Kerr orders Human Resources to justify the dismissals or bribe the courts to throw the case out. Open Wound could be useful there. 
 
-If unsuccessful, Boss not happy. Orders DHR to cut costs in other ways, cut everyone’s pay by 50% (except the boss) and her own by 75%. Initiate a performance reviews on all senior staff and report back.
-Rebekah’s escalation tends to go towards ordering her to strip other characters of their benefits (listed on the character  sheets), or Ordering Rebekah to oversee further cutbacks in Newsprint. Attacking Rebekahs connections Petra Daniels  or Henry Dunant tends also to stir Rebekah into action.
+If unsuccessful, Wayne Kerr not happy. Orders Human Resources to cut costs in other ways, cut everyone's pay (except his own). Initiate a performance reviews on all senior staff and report back.
 
-As MacKenzie's layout was seen by more and more people, a collective shudder ran through the office (but) MacKenzie's dominance was so total there was nobody left in the organisation who could rein him in except Murdoch. (Everyone in the office) seemed paralysed ­ "looking like rabbits in the headlights" ­ as one hack described them. The error staring them in the face was too glaring. It obviously wasn't a silly mistake; nor was it a simple oversight. Nobody really had any comment on it—they just took one look and went away shaking their heads in wonder at the enormity of it. It was a 'classic smear'.
-Quote by Peter Chippendale and Chris Horrie on The Sun's reporting of  the 1989 Hillsborough Disaster
+Rebekah's escalation tends to go towards ordering her to strip other characters of their benefits, or ordering Rebekah to oversee further cutbacks in Newsprint. Attacking Rebekahs connections Petra Daniels or Henry Dunant tends also to stir Rebekah into action.
 
-Hints, Tips and Advice
-The following are some final hints, tips and advice before we get to the End Game.
-1. Keep the game moving, don’t stop
-2. Escalate, Escalate, Escalate
-3. Watch your time, if necessary award “Self­Loathing” or “Love” to characters outside their turn if the actions 
-seem warranted and your time is low
-4. “Yes and...” is your greatest tool as a GM.
-5. You have 5 minutes to bring each scene to a conflict point, know the My Life With Master system intuitively 
-to bring out what the players need to roll as soon as they ask.
-6. Continue to encourage the players to award sincerity, intimacy or desperation dice. Lead by example.
+> As MacKenzie's layout was seen by more and more people, a collective shudder ran through the office (but) MacKenzie's dominance was so total there was nobody left in the organisation who could rein him in except Murdoch. (Everyone in the office) seemed paralysed ­ "looking like rabbits in the headlights" ­ as one hack described them. The error staring them in the face was too glaring. It obviously wasn't a silly mistake; nor was it a simple oversight. Nobody really had any comment on it—they just took one look and went away shaking their heads in wonder at the enormity of it. It was a 'classic smear'.    
+Quote by Peter Chippendale and Chris Horrie on *The Sun*'s reporting of the 1989 Hillsborough Disaster
 
-It is quite possible that you have a troublesome player or two; usually these are quickly identified as a player who is enjoying the depraved requests of the Boss and is asking for more, thus not resisting the Boss (and thus not being able to complete the game).
+#5.4 Tips and End Game
 
-There are a couple of strategies for this sort of player, the first is to escalate the commands given by the Boss until the  player is in a situation where they can do nothing but resist. This is fraught with difficulty as it may result in the GM  breaking the rules set down in the disclaimer.
+**Tips**
 
-The second strategy is to give the character commands that are impossible to complete. One of my examples was ordering the character to go around to all of the shops in the Wellington region and replace the front page with a new one; this was an action that the character had no chance of completing. Further escalation of these sorts of commands eventually leads the player to the believe that the Boss is really just a nasty person and should be resisted.
+It is quite possible that you have a troublesome player or two; usually these are quickly identified as a player who is enjoying the depraved requests of Wayne Kerr and is asking for more, thus not resisting the orders. 
+
+There are a couple of strategies for this sort of player, the first is to escalate the commands given by Wayne Kerr until the  player is in a situation where they can do nothing but resist. This is best achieved by setting up the commands to conflict with the character's friends, family etc.
+
+The second strategy is to give the character commands that are impossible to complete. One of my examples was ordering the character to go around to all of the shops in the Wellington region and replace the front page with a new one; this was an action that the character had no chance of completing. Further escalation of these sorts of commands eventually leads the player to the believe that Wayne Kerr is really just a nasty person and should be resisted.
 
 **End Game**
 
 The End Game possibilities are as wild as the players you will have, however a couple of points the GM should be aware of at the End Game stage.
 
-The character will always “win” the End Game, and the Boss knows this, he will attempt to go all out to defend or fight or attempt to convince the character that going against the Boss is not the best way. The Boss will beg, he will make lewd remarks, he will insult, he will cry, he will scream. As the GM it is your responsibility to make this happen, stand  up and take it too the players – this is the Boss’s last hurrah.
+The character will always "win" the End Game, and Wayne Kerr knows this, he will attempt to go all out to defend or fight or attempt to convince the character that going against their manager is not the best way. Wayne will beg, he will make lewd remarks, he will insult, he will cry, he will scream. As The Boss it is your responsibility to make this happen, stand  up and take it too the players - this is Wayne's last hurrah.
 
-**Conclusions**
-
-Know the background of the game, know the rules of *Papers & Paychecks*, and portray the Boss as wild as you can. 
-
-These three elements will ensure that you have a unique and fun experience when playing My Life with the Boss.
-
-In the two times I ran My Life with the Boss at KapCon, both ended very differently and took very different tracks. This is to be expected, some characters will fixate on protecting their connections and growing Love, others will attempt to satisfy the Boss (growing their Self Loathing) and others again will attempt to disrupt the actions of the other  characters. 
-
-Ultimately however, and this is what My Life with Master is about, it will return to resisting the Boss and completing the End Game.
-
-As I have suggested, play the Boss to the hilt, this is one of the ways that the players will remember this game and get enjoyment from it, the second point in which the players will have enjoyment is the relative freedom they have from a GM that says “yes, and ...” to all of their requests.
-
-Game Tools / Devices
-Organisational Chart
-This is the lose organisational c
-
-Organisational Chart
-This is the lose organisational chart I used for My Life with the Boss. While not completely necessary it did help the 
-characters get a feel for what their character was responsible for. This is deliberately convoluted.
-The Boss
-Heads: Newsprint Limited
-Reports to: None
-Reported to by: Heads of all departments
-Forest Deacon, Chief Financial Officer
-Heads: Finance Department
-Reports to: Human Resources, The Boss
-Reported to by: Editing Department, Human Resources, Journalists, Archivists & Photojournalists, Marketing 
-Department
-
-John Goines, Marketing Manager
-Heads: Marketing Department
-Reports to: Finance Department, Human Resources, The Boss
-Reported to by: None
-
-Julia Wright, Chief of Visual Media
-Heads: Archivists & Photojournalists
-Reports to: Editing Department, Finance Department, Human Resources, The Boss
-Reported to by: None
-Verity Williams, Chief Editor
-Heads: Editing Department
-Reports to: Finance Department, Human Resources, The Boss
-Reported to by: Archivists & Photojournalists, Journalists
-Jason Schuster, Chief Journalist
-Heads: Journalists
-Reports to: Editing Department, Finance Department, Human Resources, The Boss
-Reported to by: None
-Rebekah Caulfield, Director of Human Resources
-Heads: Human Resources
-Reports to: Finance Department, The Boss
-Reported to by: Finance Department, Archivists & Photojournalists, Journalists, Editing Department
-
-
-Corporate Values
-The following is the corporate values for Newsprint Limited. At the very least this should be in the hands of the player 
-playing Rebekah Caulfield (her Less than human relies on this). 
-Corporate Values of NewsPrint Limited (RETPSDEFFCIP)
 
 # 6.0 Appendicies
 
