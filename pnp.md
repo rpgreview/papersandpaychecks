@@ -84,6 +84,9 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 5.0 Scenarios : Fear and Loathing in Wellington
 5.1 Setting: "My Life with Boss"
+5.2 Introduction and Characters
+5.3 Work Package Results
+5.4 Tips and End-Game
 
 6.0 Appendices
 6.1 Source Material
@@ -3339,7 +3342,7 @@ A "Daddie fresh from the Pen" is a recently released sexual offender. The *King 
 
 "Still stalking all the office hotties are we Beks? I know your secret. Looking up files is just another form of a peep show to you isn't it? Okay, I have jobs for you. I am getting sick and tired of all the bloody slackers that we have hired... fucking ugly women with kids, Jews and Malay. Slackers all of them. Fire them. All. I want all their contracts terminated by the end of the week ­ and hire me some new people ­ attractive women, Aryan men, business men, real workers -­ none with kids. Call it a restructure or something, and make it look nice in the press."
 
-## 5.3 Work Package Results**
+## 5.3 Work Package Results
 
 This scenario is deliberatly produced in a loose fashion as The Boss will be switching between different character locations rapidly. Start of challenges at a low level as the character's gather information and put the basic of their plan in order. As they succeed, increase the difficulty levels. If they start failing, drop them a bit to keep the story flowing. But they main point is to *always escalate*. If the PC Workers keep on following Wayne Kerr's instructions, the city will become an utterly loathesome plus to be. The challenge is how far they are prepared to go before turning on Wayne.
 
@@ -3396,7 +3399,7 @@ Rebekah's escalation tends to go towards ordering her to strip other characters 
 > As MacKenzie's layout was seen by more and more people, a collective shudder ran through the office (but) MacKenzie's dominance was so total there was nobody left in the organisation who could rein him in except Murdoch. (Everyone in the office) seemed paralysed ­ "looking like rabbits in the headlights" ­ as one hack described them. The error staring them in the face was too glaring. It obviously wasn't a silly mistake; nor was it a simple oversight. Nobody really had any comment on it—they just took one look and went away shaking their heads in wonder at the enormity of it. It was a 'classic smear'.    
 Quote by Peter Chippendale and Chris Horrie on *The Sun*'s reporting of the 1989 Hillsborough Disaster
 
-#5.4 Tips and End Game
+## 5.4 Tips and End Game
 
 **Tips**
 
@@ -3499,16 +3502,16 @@ Id Insinuation., Intellect Fortress., Intuition., File System Knowledge., Labora
 ## 6.6 Résumé
 
 
+|-------------------|-------------------------------------------|
 | **Player Name**|						|
 | **Character Name**|						|
-
 | **Personality**|	| **Sex** |	| **Luck** |	|
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |   13	|  +1	     | Profession	  | Labourer |
-| Intelligence	    |   13	|  +1	     | Level	          | 9 |
-| Wisdom 	    |   13	|  +1        | Movement (running) | 7  |
+| Strength	    |   13	|  +1	     | Profession	  |   |
+| Intelligence	    |   13	|  +1	     | Level	          |   |
+| Wisdom 	    |   13	|  +1        | Movement (running) |   |
 | Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
 | Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
 | Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
