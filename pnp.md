@@ -1,8 +1,8 @@
-# Papers & Paychecks
+# Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/boss.jpg" />
 
-by Lev Lafayette
+by Lev Lafayette with Dan L'Estrange and David Cameron Staples
 
 ### Playtesters and Reviewers
 
@@ -12,7 +12,7 @@ Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Pat
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
-ISBN 978-0-9946388-0-9	
+ISBN-10: 0-9946388-0-9 ISBN-13: 978-0-9946388-0-9
 
 Released under Creative Commons Attribution-NonCommercial 3.0 Australia License (CC BY-NC 3.0 AU)
 
@@ -116,9 +116,9 @@ Oct. 30, 2017
 
 ## 0.2 Preface
 
-Welcome to "Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society" in which you play the part of workers and students gloriously trying to succeed against a world of antagonists, and an antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
+Welcome to *Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society* in which you play the part of workers and students gloriously trying to succeed against a world of antagonists, and an antagonistic world. One player, "The Boss", will help you build a story by positing projects and placing obstacles that will challenge the player's characters from completing the objectives of their projects. 
 
-The title comes from the memorable artwork of Will McLean in the first edition of the *Advanced Dungeons & Dragons Dungeon Masters Guide*. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that *Papers and Paychecks" would make a great roleplaying game, but this is the first time that the idea has seen completion. Of course, few workers these days deal as much with "papers", let alone "paychecks", but the game would hardly have the same ring to it if it was called "Emails and Direct Deposits". Such is the nature of being in a "industralized and technological society".
+The title comes from the memorable artwork of Will McLean in the first edition of the *Advanced Dungeons & Dragons Dungeon Masters Guide*. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that *Papers and Paychecks* would make a great roleplaying game, but this is the first time that the idea has seen completion. Of course, few workers these days deal as much with "papers", let alone "paychecks", but the game would hardly have the same ring to it if it was called *Emails and Direct Deposits*. Such is the nature of being in a "industralized and technological society".
 
 Roleplaying games have been an enormous success story in recent decades, starting with the original table-top versions and even some computer versions, in aggregate reaching out to tens of millions of people worldwide. The opportunity is provided in these games to engage in improvised storytelling within the structure of a rules system. The rules keep the storytelling within the bounds of plausibility and the character's capabilities within some level of consistency. 
 
@@ -128,7 +128,7 @@ But of course we all know better than that. Let our motto be: "Les choses sont c
 
 Others characters in the story don't even have to be antagonistic - they may even be driven by pure motives, yet the the time in which they decide to incompetently help proves disastrous. It is the role of The Boss, the participant who narrates the story and moderates the game, to ensure that this happens. Ranging from slapstick, absurdity, and even a touch of malevolence, these situational comedies can used to reminisce, inform, and inspire.
 
-Although presented partially as a spoof, "Papers and Paychecks" is nevertheless a traditional roleplaying game, in that it consists of several players, each taking a character (a "player-character" or PC) and their role in a story scenario designed by another player, The Boss, who adjudicates the expressed actions of the player's characters and the environment in which they occur, including the activities of non-player characters (NPCs), and introduces new plot elements as appropriate to generate a narrative flow. Usually it is played face-to-face, engaging in the primitive behaviour of actual physical socialisation, it can also be played through electronic communication as well, although real-time communication is recommended over asynchronous methods. 
+Although presented partially as a spoof, *Papers and Paychecks* is nevertheless a traditional roleplaying game, in that it consists of several players, each taking a character (a "player-character" or PC) and their role in a story scenario designed by another player, The Boss, who adjudicates the expressed actions of the player's characters and the environment in which they occur, including the activities of non-player characters (NPCs), and introduces new plot elements as appropriate to generate a narrative flow. Usually it is played face-to-face, engaging in the primitive behaviour of actual physical socialisation, it can also be played through electronic communication as well, although real-time communication is recommended over asynchronous methods.
 
 There are five chapters to this book which explains tha game and how to play it. The first chapter is dedicated to character generation, covering the setting and an example of play, before illustrating the steps to build one's own player-character. This includes the PCs characteristics, profession and wage band, their talents, personality, and starting equipment. For those familiar with roleplaying games, this is a standard system but with the addition of the Luck attribute for narrative purposes.
 
@@ -136,15 +136,13 @@ By the end of the first chapter, the player is ready for action in an antagonist
 
 A collection of non-player characters is offered as the third chapter, broken up according to profession and across various levels of ability. These can serve as example characters whom The Boss can introduce to a storyline, or, if the player is in a hurry, a quick template to introduce a new player-character to the game. For those familiar with such things this is the equivalent of a "Monster Manual".
 
-The fourth chapter is The Boss book. It's full of advice on what it means to take up the role of moderator, adjudicator, narrator, director, and performer of the non-player characters. It also provides valuable information on setting, scenario, and episode design, along with ideas for the physical gaming environment.
+The fourth chapter is The Boss book. It's full of advice on what it means to take up the role of moderator, adjudicator, narrator, director, and performer of the non-player characters. It also provides valuable information on setting, scenario, and episode design, along with ideas for the physical gaming environment. The final chapter is a scenario of *Papers and Paychecks*, originally authored authored by Dan L'Estrange, and contains a variety of intra-party conflicts whilst simultaneously dealing with the increasingly loathesome suggestions of a powerful manager. The book concludes with a set of supplementary appendices; a collection of source material from which a Boss can delve into and develop their own project scenarios, some charts and tables for game play in summary, and a résumé (a.k.a. character sheet) for major characters.
 
-The final chapter is an entire season of *Papers and Paychecks*, consisting of five episodes designed for beginner characters as they make their way into their first serious job. The episodes can be run independently, but are most enjoyable when the first links between them are brought together. 
+At the end of the day however, the main purpose of *Papers and Paychecks* is enjoyment. Consider this "Rule 0" of the game. If the game is not enjoyable then something has gone wrong and it needs to be addressed. It doesn't have to be *fun*, as such, to use the etymological sense i.e., foolish. Players as well as characters can have their own assumptions challenged, and things will not always go well for their characters (indeed, in *Papers & Paychecks* they can go very badly indeed). But rather it will give "enjoyment" and the act of exploring the shared imaginary space of a fictional universe that is like many of our own lives turned "up to eleven" will be provide entertainment, amusement, and perhaps even a little bit of insight. 
 
-The book concludes with a set of supplementary appendices; a collection of source material from which a Boss can delve into and develop their own project scenarios, some charts and tables for game play in summary, a business organisation chart, a *Dramatis Personae* chart for the Boss to keep track of NPCs during a session, and a résumé (a.k.a. character sheet) for major characters.
+This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in *Advanced Dungeons & Dragons* (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Unsurprisingly, the game mechanics owe a great deal to the D20 game system, and indeed to a large extent it would have been somewhat improper if that credit wasn't made given the lineage.
 
-At the end of the day however, the main purpose of "Papers and Paychecks" is enjoyment. Consider this "Rule 0" of the game. If the game is not enjoyable then something has gone wrong and it needs to be addressed. It doesn't have to be *fun*, as such, to use the etymological sense i.e., foolish. Players as well as characters can have their own assumptions challenged, and things will not always go well for their characters (indeed, in *Papers & Paychecks* they can go very badly indeed). But rather it will give "enjoyment" and the act of exploring the shared imaginary space of a fictional universe that is like many of our own lives turned "up to eleven" will be provide entertainment, amusement, and perhaps even a little bit of insight. 
-
-This game has a set of rules that is heavily inspired by the principles of 'playable realism'. The rules are sufficiently simple, even 'rules-light' in comparison to some monstrosities that have seen the light of day, but also provide a sense of realism, or at least verisimilitude. Quite obviously, given the origins of the cartoon in Advanced Dungeons & Dragons (TM), one would not be surprised to see a significant influence by various editions of that game in this design. Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
+Nevertheless, as with many other games, If a situation arises that is not covered in the rules, The Boss should make a fast decision to continue play and if necessary the players can all revisit the situation outside of play. Consider this "Rule 1" - The Boss Rule. All rules in this book are subject to the whim of The Boss.
 
 By way of conclusion, a couple of other matters of note must be raised. This game does deal with situations that are obviously more contemporary, but with also 'adult concepts' (after all, it involves playing the role of adult characters) and is recommended for mature readers.  Circumstances should not arise involving the massacre an orc extended family with fire and sword, but it might involve a flirtatious and somewhat inebriated co-worker at an office party. Make of that what you will. It also means that occassionally Anglo-Saxon words for profanities will be used; Norman-French words, of course, are noble, educated, and never there profane, peasant. To rewrite George Carlin; "feces, urine, copulate, vagina, fellator, mater-copulator, and teats". 
 
@@ -453,6 +451,8 @@ The Reputation value of a character represents how well known they are to others
 Each level brings improvements to a character based on their profession. This includes improvements to skills and knowledges and acquisition of new perks. To represent personality development, players can change their MBTI personality value (see section 1.8, Personality) by one point in each of the four dimensions. 
 
 Note that there is no level after 10. After several projects at this level, having completed over 65 projects in a chosen profession there will be various hints expressed throughout the workplace that "perhaps you should spend more time with your family", "wouldn't it be great to receive a gold watch", "it's wonderful that younger people are following in your footsteps", and such-like. At a certain point the character will have to realise that their life has been spent as a cog in someone else's machine. Take out a red pen and write "RETIRED" across your character sheet, and hope there's enough money in the character's pension fund.
+
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/nobody.jpg" />
 
 ### 1.5.1 Labourer
 
@@ -913,6 +913,8 @@ The Read/Write Science perk represents that the character has learned the art of
 
 Security Access provides a character with the means (keys, swipe cards) to access _a_ (singular) restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
 
+<a href="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/security.png" />
+
 **Small Business**
 
 The Small Business perk means that a character is sufficiently skilled in a specialist practical skill and is sufficiently well-known from previous work that they can operate their own business. They become a Boss - albeit one dependent on the requirements of others. With the Small Business perk a character's weekly income is subject to an average WIS check. For each point above the target number the character receives an additional +20% to their base pay. For each point below, the character loses 10%.
@@ -1280,6 +1282,8 @@ The technical and office resources available can also modify the time and diffic
 
 **Gaslighting**
 
+<a href="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/silent_hammer.png" />
+
 Gaslighting is a series of psychological attacks against an individual group designed to bring them to doubt their own memory, perception, and sanity. The in practise techniques are varied, but specific examples are from the 1938 play and 1944 film adaption from where the activity gets its name. In game terms it is abstracted by the use of any Charisma skill that could be used for manipulation (e.g., Act, Bully, Inspire, Lie, Seduce), against a contested WIS-based ability check. Modifiers to the check are very dependent on the actions taken out by the active character and the degree of trust that the target has with the attacker. Quite often a gaslighter will engage in some actions of Mental bruises to weaken the victim's resistance before launching the gaslight attack. Nevertheless, it is *almost* impossible to make a target believe impossible things ("Are you going to believe me or your own eyes?"). The default modifier is -6, meaning that the attacker has to engage in significant preparation for the chance of a successful attack.
 
 Each gaslighting attack takes a strategic turn. The difference in between the gaslighting attacker and the WIS resistance determines the effect. If the result favours the attacker, the victim receives 1 Mental wound per point of difference. If the the defender succeeds they can cure 1 Mental Wound per point of difference from previous damage caused by the attacker. If the defender has already cured all their Mental wounds or has not acquired to begin with, they will doubt the attacker and their motives, and may make an INT check with +1 per point of succeed and a target number of 11, to gain the realisation that they are under attack. Under these circumstances the target may decide to turn the tables and entrap and gaslight the attacker!
@@ -1345,126 +1349,68 @@ Physical damage is applied against STR-based physical hit points. If a character
 
 A character naturally heals 1 Physical Bruise per 60-STR (unmodified) tactical rounds, and 1 Physical Wound per 60-STR (unmodified) strategic turns. A successful Survival skill check will heal 1d3 Physical Wounds, 1d6 Physical Bruises, and double the rate of healing. Mental Bruises are likewise recovered 1 point per 60-WIS (unmodified) tactical rounds, a 1 Mental Wound per 60-WIS (unmodified) turns. A successful Inspire skill check will heal 1d3 Mental Wounds, 1d6 Mental Bruises, and double the rate of healing. Finally Social Bruises are naturally recovered at a rate of 1 per 60-CHA (unmodified) strategic turns, and Social Wounds at 60-CHA (unmodified) *days*. There is no skill that cures social damage.
 
-> **Code of Cthulhu**
-> 
-> A roleplaying game of eldritch investigations into secrets of which man was not meant to know. Where Call of Cthulhu meets Kult meets System Administration.
-> 
-> GM You are happily sitting at your desk after a pleasant Friday lunch, when you see a notification of an email.
-> 
-> Player I groan and open the mail.
-> 
-> It is a Nagios ticket. CPU warning on a server. You don't recognise what the server actually does.
-> 
-> Sigh. I log in and run "top".
-> 
-> It's pretty slow to log you on. Top line of top shows "java" using 249% of the CPU. Load's at 93. This is a mental attack, attack value 15
-> 
-> Shit. Um... press "c". Defense roll 12
-> 
-> You can see the full details of the Java invocation. And you can see the fateful curse "tomcat" mixed in with the strange moon language. Take 3 points of mental bruises.
-> 
-> Dammit. Um, do I have any service owner contact details?
-> 
-> What do you think?
-> 
-> I think I should ignore it and see if it'll sort itself out.
-> 
-> You go and get a cup of coffee. It's good. Strangely, you gain a 1 point back in mental bruises.
-> 
-> Suddenly you realise there's a Client Relationship Manager standing right behind your chair, breathing heavily. You didn't even hear him approach, another mental attack with a value of 10. He tells you that some critical service is unresponsive, and he's already escalated to your supervisor's boss that you haven't fixed it yet.
-> 
-> Ugh. Defense roll 9, I take another mental wound. Is he the service owner?
-> 
-> No, he's the guy who promised the customer that this service would never fall over. He also golfs with the head of the IT services department.
-> 
-> Shit. I ask him if I have his permission to restart the service.
-> 
-> "What, you want to break it more? Why do we pay you people to break things? You have to fix it now, there are millions of dollars at stake!"
-> 
-> Does he know who is the service owner?
-> 
-> Guess.
-> 
-> Does he know where there's any documentation?
-> 
-> Seriously?
-> 
-> Right. Um. stuff it. `# service tomcat restart`
-> 
-> tomcat: unrecognised service
-> 
-> Damn. `# chkconfig --list`
-> 
-> You see only one service which looks like it might be what you're looking for. It's called "data_sqafxz".
-> 
-> `# service data_sqafxz restart`
-> 
-> `Usage: /etc/init.d/data_sqafxz {start|stop|import}`
-> 
-> "Import" WTF? No restart function. OK: `# service data_sqafxz stop`
-> 
-> `Stopping SQaFXZ data service ... ... [OK]`
-> 
-> Right. `# service data_sqafxz start`
-> 
-> `Starting SQaFXZ data service ... ... ... ... ... ... ... ... [FAILED]`. That's another mental attack, value 12
-> 
-> Defense 12. I don't panic.
-> 
-> The CRM behind you has started shouting. "What did you do? Did you just break it? Why did you break it?" His phone starts ringing. Another CRM arrives and starts yelling at the first one, then they both yell at you. This is another mental attack, with values of 10 each.
-> 
-> Defense rolls of 11 and 9. One wound. I've had worse than a couple of shouting CRMs.
-> Logs. There have to be logs, right?
-> `cd /var/log/; ls -l`
-> 
-> There is a SQaFXZ directory.
-> 
-> `cd SQaFXZ; ls -l`
->
-> It appears this package does its own log rotation. Meaning in practice that there is a date stamped log file for each day this service has been operating, and none have been deleted.
-> 
-> What? Why??
-> 
-> One of the CRMs shouts something about "auditing" and "security". The other screams "Access Control!".
-> 
-> How far back do these logs go?
-> 
-> ls -l pipe though wc -l... divide by 365... about four and a half years.
-> 
-> How big is this disk?
-> 
-> df -h says "... 100GB  57%  /var/log/SQaFXZ". Another mental attack target value 10.
-> 
-> Roll 9, another wound. I'm still here. That's ... what, 30+ megs of log a day, every day for four and a half years?
-> 
-> Yep.
-> 
-> tail(1) today's.
-> 
-> Ten lines isn't nearly enough. You can see that it's all Java error and warning logs, and you can see that something dropped its clogs, but you will need to go further back to see what.
-> Another CRM has turned up, and he brought your supervisor's boss. They are all yelling at each other and at you. Another mental attack target value 12.
-> 
-> less(1) today's log.
-> 
-> Fail defense roll; only a 9. Another 3 mental bruises, 7 total.
-> 
-> You see a reference to a failure related to a service not being accessible, but you don't think that's the immediate problem, because that service was turned off three years ago and the hardware taken away by a metaphysical hazmat team.
-> You find a reference to a server not responding, and lots of errors after that where it went crazy trying to reconnect. That's probably where the CPU load went.
-> 
-> I'd better have a look at that other server, then.
-> 
-> ^A^C on screen(1), and you're good to go. This server is up, but also taking its time. It's running Solaris. That's a mental attack value 12.
-> 
-> Unsurprisingly, fail with a 10. That's 9 mental bruises. OK, what's making it slow? I run top.
-> 
-> At the top of the screen you see the command "oracle", and a series of dread runes and forbidden incantations taking up the rest of the commands on the page. Another mental attack value 12. 
-> 
-> Oops, roll of 6. I don't have any Luck Points left. That's 15 mental bruises.
-> 
-> ... Oh dear, that takes you negative. You suffer a contagious psychotic break: your madness cuts holes in reality itself, and faceless daemons from unknown realms emerge to plague a yet unknowing mankind. The CRMs greet one as "Doug". You weep tears of blood and gibber quietly as the veil shreds and you realise that you sit in the cubicle by the toilet door in the fluorescent cube hell of Gehenna.
-> 
-> It is now five forty-seven, Friday afternoon.
-
+> **Code of Cthulhu**    
+A roleplaying game of eldritch investigations into secrets of which man was not meant to know. Where Call of Cthulhu meets Kult meets System Administration.  
+GM You are happily sitting at your desk after a pleasant Friday lunch, when you see a notification of an email.  
+Player I groan and open the mail.  
+It is a Nagios ticket. CPU warning on a server. You don't recognise what the server actually does.  
+Sigh. I log in and run "top".   
+It's pretty slow to log you on. Top line of top shows "java" using 249% of the CPU. Load's at 93. This is a mental attack, attack value 15   
+Shit. Um... press "c". Defense roll 12   
+You can see the full details of the Java invocation. And you can see the fateful curse "tomcat" mixed in with the strange moon language. Take 3 points of mental bruises.   
+Dammit. Um, do I have any service owner contact details?    
+What do you think?   
+I think I should ignore it and see if it'll sort itself out.    
+You go and get a cup of coffee. It's good. Strangely, you gain a 1 point back in mental bruises.   
+Suddenly you realise there's a Client Relationship Manager standing right behind your chair, breathing heavily. You didn't even hear him approach, another mental attack with a value of 10. He tells you that some critical service is unresponsive, and he's already escalated to your supervisor's boss that you haven't fixed it yet.   
+Ugh. Defense roll 9, I take another mental bruise. Is he the service owner?   
+No, he's the guy who promised the customer that this service would never fall over. He also golfs with the head of the IT services department.   
+Shit. I ask him if I have his permission to restart the service.   
+"What, you want to break it more? Why do we pay you people to break things? You have to fix it now, there are millions of dollars at stake!"    
+Does he know who is the service owner?  
+Guess.  
+Does he know where there's any documentation?  
+Seriously?   
+Right. Um. stuff it. `# service tomcat restart`   
+`tomcat: unrecognised service`   
+Damn. `# chkconfig --list`   
+You see only one service which looks like it might be what you're looking for. It's called "data_sqafxz".   
+`# service data_sqafxz restart`   
+`Usage: /etc/init.d/data_sqafxz {start|stop|import}`  
+"Import" WTF? No restart function. OK: `# service data_sqafxz stop`  
+`Stopping SQaFXZ data service ... ... [OK]`  
+Right. `# service data_sqafxz start`  
+`Starting SQaFXZ data service ... ... ... ... ... ... ... ... [FAILED]`. That's another mental attack, value 12   
+Defense 12. I don't panic.  
+The CRM behind you has started shouting. "What did you do? Did you just break it? Why did you break it?" His phone starts ringing. Another CRM arrives and starts yelling at the first one, then they both yell at you. This is another mental attack, with values of 10 each.  
+Defense rolls of 11 and 9. One wound. I've had worse than a couple of shouting CRMs.  
+Logs. There have to be logs, right?  
+`cd /var/log/; ls -l`  
+There is a SQaFXZ directory.  
+`cd SQaFXZ; ls -l`  
+It appears this package does its own log rotation. Meaning in practice that there is a date stamped log file for each day this service has been operating, and none have been deleted.   
+What? Why??  
+One of the CRMs shouts something about "auditing" and "security". The other screams "Access Control!".  
+How far back do these logs go?  
+ls -l pipe though wc -l... divide by 365... about four and a half years.  
+How big is this disk?  
+df -h says "... 100GB  57%  /var/log/SQaFXZ". Another mental attack target value 10.  
+Roll 9, another bruise. I'm still here. That's ... what, 30+ megs of log a day, every day for four and a half years?  
+Yep.  
+tail(1) today's.   
+Ten lines isn't nearly enough. You can see that it's all Java error and warning logs, and you can see that something dropped its clogs, but you will need to go further back to see what.  
+Another CRM has turned up, and he brought your supervisor's boss. They are all yelling at each other and at you. Another mental attack target value 12.  
+less(1) today's log.  
+Fail defense roll; only a 9. Another 3 mental bruises, 7 total.  
+You see a reference to a failure related to a service not being accessible, but you don't think that's the immediate problem, because that service was turned off three years ago and the hardware taken away by a metaphysical hazmat team.  
+You find a reference to a server not responding, and lots of errors after that where it went crazy trying to reconnect. That's probably where the CPU load went.  
+I'd better have a look at that other server, then.  
+^A^C on screen(1), and you're good to go. This server is up, but also taking its time. It's running Solaris. That's a mental attack value 12.   
+Unsurprisingly, fail with a 10. That's 9 mental bruises. OK, what's making it slow? I run top.   
+At the top of the screen you see the command "oracle", and a series of dread runes and forbidden incantations taking up the rest of the commands on the page. Another mental attack value 12.   
+Oops, roll of 6. I don't have any Luck Points left. That's 15 mental bruises.  
+... Oh dear, that takes you negative. You suffer a contagious psychotic break: your madness cuts holes in reality itself, and faceless daemons from unknown realms emerge to plague a yet unknowing mankind. The CRMs greet one as "Doug". You weep tears of blood and gibber quietly as the veil shreds and you realise that you sit in the cubicle by the toilet door in the fluorescent cube hell of Gehenna.  
+It is now five forty-seven, Friday afternoon.
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/computer.jpg" />
 
@@ -1547,8 +1493,8 @@ Communications and electronic equipment is various much dependent on technologic
 
 **Computer Equipment**
 
-> The Computer is happy. The Computer is crazy. The Computer will help you become happy. This will drive you crazy.
-> *Paranoia*, 1984
+> The Computer is happy. The Computer is crazy. The Computer will help you become happy. This will drive you crazy.   
+--- *Paranoia*, 1984
 
 For the office environment of *Papers & Paychecks* nothing is more ubiquitous in presence and in technological development than the computer. Several desktop models are presented here a five-year scale in systems is provided, during which there is rapid depreciation after introduction - after five years the system can be considered close to worthless. The details are abstracted of course, and there will be numerous variations from the standards provided in terms of capabiliy and cost. 
 
@@ -1634,6 +1580,8 @@ Sometimes characters have to go outside into "The Big Room". You know, the room 
 For whatever Professional skill a character has taken there is a set of tools, equipment, or even animals appropriate to the profession which provide a skill bonus. Expressed as a generic value, a $1000 item of hobby equipment provides a +1 bonus to a hobby skill check, a $2000 item of hobby equipment provides a +2 bonus, and a $4000 item of hobby equipment provides a +3 bonus. Hobby equipment has an ENC of 2.
 
 **Vehicles**
+
+<a href="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/driving.png" />
 
 *Bicycle*: A two-wheeled, human-pedal-powered, vehicle which includes pneumatic tires, chain-driven sprockets and tension-spoked wheels. Whilst specialist versions exist for particular environments (racer, road bike, hybrid, mountain bike), which can be elaborated at the Boss's desire, the statistics here assume a hybrid bike. The *ride* skill is used for using a bike, but they're mostly fairly easy to operate. Technological and material developments mean that bicycles have +1 ENC and -2 Move from 1975-1995, +0 ENC and +0 Move from 1996-2020, and -1 ENC and +2 Move from 2021 onwards. The Movement rate for a bicycle is twice the character's STR. Bicycles have enormous variation in cost and quality, ranging from $100 to $3000, with an ENC of 10.
 
@@ -3549,83 +3497,61 @@ Apprentice., Augury., Bureaucratic Dodge., Conference Attendance., Chutzpah., Cr
 Id Insinuation., Intellect Fortress., Intuition., File System Knowledge., Laboratory Equipment., Library Access., Magic Missile., Multitasking., Parallel Processing., Prestidigitator., Project Manager., Read/Write Science., Security Access., Small Business., Spurious Logic., Superannuation., Team Leader., Tower of Iron Will., Union Membership
 
 ## 6.6 Résumé
-| Character Name   |   |
-| Sex  |   |
-| Personality  |   |
-| Player Name  |   |
-| Luck  |   |
-| Characteristic   | Value	|Bonus   |   |   |   |
-| Strength	|  |   |	|
-| Intelligence	|  |	|   |
-| Wisdom 	| |   |	|
-| Dexterity	|  |   |	|   | Wounds (Physical)  |   |
-| Perception	|  |	|   |   | Wounds (Mental)   |   |
-| Charisma	|  |   |	|   | Wounds (Social)  |   |
-| Profession   | Projects and Level   |
-|-----------------------|-----------------|
-|    |   |
-|    |   |
-|  |   |
-|    |   |
-| Current Wage  |   |
-
-| Skill  | Attribute   | Training  |  Equipment  | Total  |
-|--------|-----|-----|-----|-----|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-| Equipment  | Weight  |
-|------------------|-------|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
 
 
-=======================================================================
+| **Player Name**|						|
+| **Character Name**|						|
+
+| **Personality**|	| **Sex** |	| **Luck** |	|
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |   13	|  +1	     | Profession	  | Labourer |
+| Intelligence	    |   13	|  +1	     | Level	          | 9 |
+| Wisdom 	    |   13	|  +1        | Movement (running) | 7  |
+| Dexterity	    |   13	|  +1        | Wounds (Physical)  |   |
+| Perception	    |   9	|  -1	     | Wounds (Mental)    |   |
+| Charisma	    |  	14	|  +2        | Wounds (Social)    |   |
 
 
-<img src"https://raw.githubusercontent.com/rpgreview/papersandpaychecks/efb22e0d3279cee5c9d6ad99f6f2b312f7e39939/images/%20bannedtechops.jpg" />
+| **Skill**  | **Attribute**   | **Training**  |  **Equipment**  | **Total**  |
+|------------|-----------------|---------------|-----------------|------------|
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+|            |                 |               |                 |            |
+
+| **Equipment**  | **Weight**  |
+|----------------|-------------|
+|   		 |   	       |
+|   		 |   	       |
+|   		 |   	       |
+|   		 |   	       |
+|   		 |   	       |
+|   		 |   	       |
+|   		 |   	       |
+|   		 |   	       |
 
 
 ## Publishing
 
-*Papers & Paychecks* is available through the RPG Review Cooperative, Inc. and also through the licensed publishers Cameron Duffy and Jason Keller.
+Three decades ago Will McLean brought us many laughs with the "Papers & Paychecks" illustration in the *Dungeon Masters Guide* for *Advanced Dungeons & Dragons*. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that "Papers and Paychecks" would make a great roleplaying game.
 
+But this is the first time that the idea has seen completion. With assistance by the RPG Review Cooperative, Inc., designer Lev Lafayette has brought the idea to fruition in a 128 page book with cover art from Dan 'Smif' Smith, famous for his illustrations from the GURPS line of books, and with a foreword by the first employee of TSR, Tim Kask.
 
-	
+*Papers & Paychecks* posits a world that is downright hostile to the player characters using the metaphysical foundation of resistentialism. This is a supposedly joke philosophy based around the widespread anecdotal evidence of an apparent malice of inanimate objects against people: "Les choses sont contre nous" ("Things are against us"). Add this to a regular mix of cringeworthy managers, bumbling technicians, mad scientists, scheming administrators, wacky researchers, dodgy tradies, and brutish labourers, and you have the ingredients of the tragi-comedy that is "Papers and Paychecks", inspired by such TV shows as 'Drop The Dead Donkey', 'Corner Gas', 'The IT Crowd', 'The Office', 'Utopia', and Interns.
+
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/isbn_9780994638809.png" />	
 
 
 
