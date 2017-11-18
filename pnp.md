@@ -661,6 +661,10 @@ A Craft (pharmaceutical) check is used to compound drugs, whether to produce a t
 
 A Craft (writing) skill check is typically used when a character is composing an important email, 'blog, media release, advertisement, business report, research paper, as well as forms of creative fiction such as poetry, screenplays, novels etc. All of these are optional specialisations.
 
+>  Your email is about to be sent to several hundred thousand people, who will have to spend at least 10 seconds reading it before they can decide if it is interesting.  At least two man-weeks will be spent reading your email.  Many of the recipients will have to pay to download your email.   
+Are you absolutely sure that your email is of sufficient importance to bother all these people ?  
+--- Poul-Henning, *Why Should I Care What Color the Bikeshed Is?*, 1999.
+
 **Investigate**
 
 An Investigate skill check is used to apply forensics, discover clues, and engage in analysis, removing improbable speculations by the availability of evidence. This skill also includes the ability to use a crime laboratory which can enhance the scope of available clues.
@@ -1035,6 +1039,9 @@ Character actions occur in either a tactical or strategic time-frame. The former
 ## 2.2 The Resistentialist Environment
 
 **Alcohol**
+
+> "Work is the curse of the drinking classes"   
+--- First attributed to Oscar Wilde, 1902
 
 A character may drink a quarter of their STR in as standard doses with no immediate ill-effects. For example, a standard dose of alcohol is 10 grams, approximately 250ml of beer, 125ml of wine, or a 30ml nip of high strength spirits. If the number of standard doses exceeds this value, they must make a STR characteristic test with a target number of 7. If they fail, they will feel nauseous, but with no additional effects. Regardless of whether they fail or succeed, they will gain a temporary bonus of +1 CHA, representing a lowering of internal social barriers.
 
@@ -1467,6 +1474,9 @@ In *Papers & Paychecks* equipment is purchased with cash, rather like a traditio
 
 **Technological Development**
 
+> "Technology is dominated by two types of people:  those who understand what they do not manage and those who manage what they do not understand."   
+-- Archibald Putt, "Putt's Law and the Successful Technocrat", 2006
+
 *Papers & Paychecks* is firmly set in the advanced industrial period, anywhere from around 1970 onwards. The game is designed to cover the development of a character from their first years in a job until retirement - around a fifty year period. Giving some leeway in the starting year of a *Papers and Paychecks* saga, the starting year should be anywhere from 1980 to 2000 and retirement from 2030 to 2050. This is, as we know, a a period of significant technological change and as a result the equipment examples also must accurately represent those changes.
 
 Where appropriate various items of equipment are provided with reference to their time of general introduction to the consumer market and future developments from that point. Some of this is inevitably speculative, as if even this designer cannot predict the future with the required level of accuracy. Where the description of equipment in the game conflicts with reality, reality wins and The Boss should modify appropriately. The game avoids abstract methods of technological developments in favour of concrete examples.
@@ -1689,6 +1699,10 @@ This pair of rings are exchanged between significant others in the public ritual
 # 3.0 Non-Player Characters
 
 ## 3.1 Labourers
+
+> Work expands so as to fill the time available for its completion.    
+--- Cyril Northcote Parkinson, *Parkinson's Law, or The Pursuit of Progress*, 1958
+
 
 **Fleur Power**, a labourer E+1 S+2 T+1 J+2 (Supervisor)
 
@@ -2060,6 +2074,9 @@ Often, when working alone in his garage, Hardy imagines himself to be a great in
 
 ## 3.5 Researchers
 
+> "Academic politics is the most vicious and bitter form of politics, because the stakes are so low."   
+--- Wallace Stanley Sayre, quoted in *The Wall Street Journal*, December 20, 1973
+
 **Oliver Gomeric**, a researcher, I+1 S+2 F+2 J+1 (Protectors)
 
 A little short and overweight, Oliver carries more than a spark of intelligent in his bright eyes. Working as a legal secretary he already shows promise having just saved a client several hundred thousand dollars by spotting an onerous clause that would have required a client provide a translator not only for a visiting dignatory, but also for their extended family. It is this sort of attention to detail, diligence, investigative acumen, and a good working knowledge of the legal contracts that is making Oliver a valuable employee. 
@@ -2144,6 +2161,10 @@ Enter the PCs Workers. Even if none of them are talented in the aesthetic dimens
 | Sense (sight) |    +3      | +6       |           | +9         |
 
 ## 3.6 Managers
+
+> (1) "An official wants to multiply subordinates, not rivals" and   
+(2) "Officials make work for each other."   
+--- Cyril Northcote Parkinson, *Parkinson's Law, or The Pursuit of Progress*, 1958
 
 **Yule B. Allwright**, a manager, E+1 S+2 F+2 P+2 (Performer)
 
@@ -2308,6 +2329,9 @@ See: APOPO, 'Detecting Tubercluosis', `https://www.apopo.org/en` and Irvine, Mar
 
 **Cat (Felis catus)**
 
+> "Work — other people's work — is an intolerable idea to a cat. Can you picture cats herding sheep or agreeing to pull a cart? They will not inconvenience themselves to the slightest degree.   
+--- Louis J. Camuti, as quoted in *On the Art of Business*, 2004
+
 The domestic cat has been kept by humans for companionship and to hunt vermin for thousands of years, having been orginally domesticated in ancient Egypt where they were venerated. They are the most popular mammal companion in a human household by number with an estimated worldwide population of 600 million. As a result, cats will be found pretty much wherever humans are found. Approximately a third of human households will have at least one cat. Whilst domestication has resulted in minimal behavioural changes (which has led to a significant problem of predation on wildlife species), it has significantly affected some biological factors, such a lifespan; the average lifespan of a cat has increased from 7 years in the 1980s, rising to to 9.5 in the mid-1990s, to 12-15 in the 2010s.
 
 Whilst subject to a variety of breeds and subbreeds, some general comments can be made. A carnvirous species, they typically weigh between 3-6 kg. Despite the small size, they have a relatively powerful jaw, dense musculture, and large eye sockets. Cats have excellent night vision, ultrasound, and smell, but a poor sense of colour vision and a very poor sense of taste. Th They are famous for their agility with direct registration of their hind and front paws when walking. Due to their evolutionary heritage cats are capable of tolerating high temperatures, with discomfort only evident when skin temperature reaches 52 deg. C., (humans experience discomfort at 38 deg). Cat's are notorious slackers at will sleep on average 12-16 hours a day.
@@ -2342,11 +2366,10 @@ Maneki-neko ("beckoning cat"), is figurine of a Japanese calico bobtail, traditi
 
 **Cattle (Bos primigenius taurus) and Water buffalo (Bubalus bubalis)**
 
-> He mooed we must fight, escape or we'll die
-> Cows gathered around, cause the steaks were so high
-> Bad cow pun
-> 
-> *Cows with Guns*, Dana Lyons, 1996
+> He mooed we must fight, escape or we'll die   
+Cows gathered around, cause the steaks were so high   
+Bad cow pun   
+--- Dana Lyons, *Cows with Guns*, 1996
 
 Members of the *bovinae* subfamily, cattle and water buffalo are sufficiently close to be considered at the same time. These are large quadrupedal ungulate mammals with cloven hooves, and typically horned. Weighing from 300 kg (water buffalo, female) to 1,250kg (cattle, male), and with a lifespan of around 18-22 years, cattle and water buffalo are mainly known for their domestication from a human perspective, as a beast of burden, or as a source of food. Indeed, most people have significantly more interaction with a steak than they do with a cow.
 
@@ -3441,7 +3464,6 @@ The End Game possibilities are as wild as the players you will have, however a c
 
 The character will always "win" the End Game, and Wayne Kerr knows this, he will attempt to go all out to defend or fight or attempt to convince the character that going against their manager is not the best way. Wayne will beg, he will make lewd remarks, he will insult, he will cry, he will scream. As The Boss it is your responsibility to make this happen, stand  up and take it too the players - this is Wayne's last hurrah.
 
-
 # 6.0 Appendicies
 
 ## 6.1 Source Material
@@ -3450,7 +3472,19 @@ The character will always "win" the End Game, and Wayne Kerr knows this, he will
 
 Brett Easton Ellis, *American Psycho*, Vintage Books, 1991
 
-Dr. Robert Sweetland, "Elements of Story or Fiction", undated.
+Scott Adams, *The Dilbert Principle*, HarperBusiness, 1996
+
+Garrett Hardin, *The Tragedy of the Commons*, Science. 162 (3859): p1243–1248, 1968
+
+Poul-Henning, Why Should I Care What Color the Bikeshed Is?, Email 02 Oct 1999. Available at: `http://bikeshed.com/`
+
+Cyril Northcote Parkinson, *Parkinson's Law, or The Pursuit of Progress*, John Murray, 1958
+
+Laurence J. Peter, Raymond Hull, *The Peter Principle: Why Things Always Go Wrong*, William Morrow and Company, 1969
+
+Archibald Putt, *Putt's Law and the Successful Technocrat: How to Win in the Information Age,*, Wiley-IEEE Press, 2006
+
+Robert Sweetland, "Elements of Story or Fiction", undated.
 
 **Films and Television Series**
 
@@ -3491,98 +3525,30 @@ Cam Banks, Rob Donoghue, *Leverage: The Roleplaying Game*, Margaret Weis Product
 
 **Skill and Knowledge List**
 
-*Strength Based Skills*
-Athletics (Strength)
-Athletics (stamina)
-Climb
-Intimidate
-Jump
-Melee
-Swim
+*Strength Based Skills*   
+Athletics (Strength)., Athletics (stamina)., Climb., Intimidate., Jump., Melee., Swim
 
-*Intelligence Based Skills*
-Craft (Computing)
-Craft (chemical)
-Craft (pharmaceutical)
-Craft (writing)
-Investigate
-Knowledge (Arts) 
-Knowledge (Laws) 
-Knowledge (Sciences)
-Knowledge (Philosophy)
-Knowledge (General)
-Language (various)
+*Intelligence Based Skills*   
+Craft (Computing)., Craft (chemical)., Craft (pharmaceutical)., Craft (writing)., Investigate., Knowledge (Arts)., Knowledge (Laws)., Knowledge (Sciences)., Knowledge (Philosophy)., Knowledge (General)., Language (various)
 
-*Wisdom Based Skills*
-Administration
-Concentration
-Gamble
-Hobby
-Profession
-Survival
+*Wisdom Based Skills*   
+Administration., Concentration., Gamble., Hobby., Profession., Survival
 
-*Dexterity Based Skills*
-Craft (electronic)
-Craft (mechanical)
-Craft (structural)
-Craft (visual art)
-Firearms
-Gymnastics
-Missiles
-Pilot
-Ride
-Sleight
-Stealth
+*Dexterity Based Skills*  
+Craft (electronic)., Craft (mechanical)., Craft (structural)., Craft (visual art)., Firearms., Gymnastics., Missiles., Pilot., Ride., Sleight., Stealth
 
-*Perception Based Skills*
-Insight
-Sense (various)
+*Perception Based Skills*   
+Insight., Sense (various)
 
-*Charisma Based Skills*
-Act
-Carousing
-Bully
-Inspire
-Lie
-Seduce
+*Charisma Based Skills*   
+Act., Carousing., Bully., Inspire., Lie., Seduce
 
 **Perk List**
 
-Apprentice
-Augury
-Bureaucratic Dodge
-Conference Attendance
-Chutzpah
-Cramming
-Department Manager
-Ego Whip
-Intellect Fortress
-Id Insinuation
-Intellect Fortress
-Intuition
-File System Knowledge
-Laboratory Equipment
-Library Access
-Magic Missile
-Multitasking
-Parallel Processing
-Prestidigitator
-Project Manager
-Read/Write Science
-Security Access
-Small Business
-Spurious Logic
-Superannuation
-Team Leader
-Tower of Iron Will
-Union Membership
+Apprentice., Augury., Bureaucratic Dodge., Conference Attendance., Chutzpah., Cramming., Department Manager., Ego Whip., Intellect Fortress
+Id Insinuation., Intellect Fortress., Intuition., File System Knowledge., Laboratory Equipment., Library Access., Magic Missile., Multitasking., Parallel Processing., Prestidigitator., Project Manager., Read/Write Science., Security Access., Small Business., Spurious Logic., Superannuation., Team Leader., Tower of Iron Will., Union Membership
 
-
-## 6.3 Business Organisation Chart
-
-## 6.4 Dramatis Personae
-
-## 6.5 Résumé
+## 6.6 Résumé
 | Character Name   |   |
 | Sex  |   |
 | Personality  |   |
@@ -3655,7 +3621,6 @@ Union Membership
 
 
 ## Publishing
-
 
 *Papers & Paychecks* is available through the RPG Review Cooperative, Inc. and also through the licensed publishers Cameron Duffy and Jason Keller.
 
