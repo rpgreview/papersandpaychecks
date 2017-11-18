@@ -28,7 +28,7 @@ Artwork by Dan 'Smif' Smith, Randall Munroe (under license, see: `https://xkcd.c
 
 ### Boss Level Supporters
 
-Cameron Duffy, Jason Keller, Luke Gutzwiller, Dean Sayers, Shane A. Leslie, Daryl McLaurine,Fred Wilms,  Mike Bryant,  Adam Alexander,  Michael Cole,  Joseph Mannino,  Suraj Peiris,  Denny Carr,  Daniel Tosello, Shining Arrow, Dingo, Sean Doyle,  Mario Butter, Joe Rapoza, Rodney Brown, David Cameron Staples,  Erica Hoehn,  Bud Wright,  Johnny Casady,  Martin Paulo,  Josh Cullinan, 
+Cameron Duffy, Jason Keller, Luke Gutzwiller, Dean Sayers, Shane A. Leslie, Daryl McLaurine, Fred Wilms, Mike Bryant, Adam Alexander, Michael Cole,  Joseph Mannino, Suraj Peiris, Denny Carr, Daniel Tosello, Shining Arrow, Gentleman Dingo, Sean Doyle,  Mario Butter, Joe Rapoza, Rodney Brown, David Cameron Staples, Erica Hoehn, Bud Wright, Johnny Casady, Martin Paulo, Josh Cullinan
 
 ### Manager Level Supporters
 
