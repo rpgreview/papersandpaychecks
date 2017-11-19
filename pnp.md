@@ -38,7 +38,6 @@ Jonathan Hoffenberg, Timothy Salisbury, Dan Smith, Charlie Day, Dean Nicolson, G
 
 Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrraine, John Michael Hess, Slorder, Bruce Cload, Ian McFarlin, telanthar, Greg Chapin, Dustin Vogel, Andrew Sharp, Matt Brose, Scott Peterson, Hendel Thistletop, Thomas Faßnacht, Kelroy Was Here, Gavan Keamy, Kean, Larry Birdsong Jr., Christian-Rolf Grün, George Gordon, Olivier Dauba, Phillip Hada, F. John Rickert, Mitchell Christov, Glenn Chambers, William Savige, Chris Garland, C David Dent, Brendan Meghani, Steven Westdahl, D Larson, Tom Goerger, Peter Hartman, Daniel Norton, Rachel Krupnick, Tim Wade, Kevin Sonney, Christopher Horelly, mark hutton, Jason Fewings, Owlglass, John Klapak, Michael Pleier, Donnovan Knight, Rabi Fiotto, Alexandre Hotte-Vukobrat, Erik Ashby, Joseph Hallett, Paul Kensler, Theo Lane, Andrew Murphy, Hans Sagan, Erik Talvola, Matthew-Donald Sangster, Richard Halpin, Kim Flintoff, James Fellows, Nick Golovachenko, Les Mallett, Seth A Spurlock, Carl Gilchrist, Rob Klug, Jonathon Dyer, John Hughes, Thomas Giaquinto, Lochdur, Ota Ulc, meow, Darwin Bromley, Ira Kroll, Chris Stronach, Michael Heaney, Brent Knorr, Jade, Cormac Doyle, Andrew Ward, Jonas Schiött, Garth Nix, Peter Birdsall, BlazeWard7, Damien, Daniel Robichaud, Alan Batson, Jon Swabey, Julian Fairhall, Jim Cheetham, Marc Kevin Hall, pauli, Safeer Syed, Paul Smith, Egrek, Brett Easterbrook, David Waldron, Steven G. Saunders, Paul Bone,  Julien Goodwin, Chris Nienhuis, Adam Whitcomb, Chris Constantin, Jack Gulick, Dee Echo, Patrice Mermoud,  Donald A. Turner, Jeremy Byrne, John Webster, Lachlan Smith, Contesse,  Mark Westbrook, Damon & Peni Griffin, Adrian Smith
 
-
 # Table of Contents
 
 0.0 Introduction
@@ -91,8 +90,6 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 6.0 Appendices
 6.1 Source Material
 6.2 Charts and Tables
-6.3 Business Organisation Chart
-6.4 Dramatis Personae
 6.5 Résumé
 
 # 0.0 Introduction
@@ -1785,7 +1782,6 @@ An initial encounter with Dr. Shit will almost certainly be related to her emerg
 > Nota bene: This name was not made up. Everything else was however.   
 `https://www.improbable.com/2012/10/13/dr-shit-fun-chew-on-peeing-through-the-mouth/`
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |   7	|  -2	     | Profession	  | Administrator, Scientist |
@@ -1853,7 +1849,6 @@ The slight but positively chirpy Jenny Taglia started her professional life in s
 Despite her prudence, sharp eye, and postive attitude (and a perchant for some truly silly outfits), there is a sad side to Jennifer as she still has enormous levels of self-doubt of past failings and is internally very conscious of errors or any difficulties she has in learning. Her partner is constantly critical of any mistake she makes which of course, makes her even more self-conscious. As a result of all this she is not beyond being a little less than factual to protect herself and her reputation.
 
 Jenny makes an ideal new NPC co-worker who will certainly attract attention whether it is through personality, style, competent administration, or even an error of calculation. Depending on how the PC Workers react she could become a valuable ally, especially if someone recognises that she has suffers from a type of dyspraxia. 
- 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2799,6 +2794,13 @@ Whitechapel, named after the London suburb where it has been found, is a "250-me
 
 **Gazebo**
 
+ERIC: I shoot it with my bow (roll to hit). What happened?
+ED: There is now a gazebo with an arrow sticking out of it.
+ERIC: (Pause) Wasn't it wounded?
+ED: OF COURSE NOT, ERIC! IT'S A GAZEBO!
+ERIC: (Whimper) But that was a +3 arrow!
+-- Richard Aronson, The Tale of Eric and the Dread Gazebo
+
 Derived from the word "gaze", a gazebo is an ornamental pavilon commonly located in parks and gardens and are a popular construction for outdoor dining or as a bandstand. A gazebo's Strength value is representative of its capacity to hold people, and their Charisma based on the aesthetic appeal. They are far from intelligent creatures, having but a simple function in life, but display great Wisdom in their serenity. For the most part Gazebos prefer to be alone, and actually find the company of humans rather tiring. They particularly dislike those brass bands and screaming children taking over their environment.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -3505,6 +3507,7 @@ Id Insinuation., Intellect Fortress., Intuition., File System Knowledge., Labora
 |-------------------|-------------------------------------------|
 | **Player Name**|						|
 | **Character Name**|						|
+
 | **Personality**|	| **Sex** |	| **Luck** |	|
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
