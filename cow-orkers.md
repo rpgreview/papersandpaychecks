@@ -177,8 +177,30 @@ Vice-President ( ), Mr. White
 Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationship. Safe, locked.
 President Fey Rowe
 
+# Palaces of the Electrum Princess
 
-# Palaces of the Silver Princess
+## Introduction 
+
+"Years ago the valley was green, and animals ran free through golden fields of grain", or so the story goes.
+
+The princess Venice Novateló ruled over these peaceful campsites land and the people were secure and happy. They were happy campers. (She wasn't a real princess, but that didn't matter).
+
+Then one day a real-estate developer driving a red Maserati appeared in the driveway of the princess' little bed and breakfast and almost overnight the campsites fell into development.
+
+They paved paradise, and put up a parking lot. Now only pink hotels, serviced by big yellow taxis, and plenty of rumors remain, and what legends there are tell of a fabulous dreamcatcher is somewhere within the Palaces of the Electrum Princess.
+
+## Boss's Information
+
+
+
+## Palace Ritz
+
+## Palace Cliveden
+
+## Palace Raffles
+
+## Palace Beverly Hills
+
 
 # Fantasy Papers and Paychecks
 
