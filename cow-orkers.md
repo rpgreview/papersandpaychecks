@@ -1,4 +1,6 @@
-# Cow-Orkers in the Scary Devil Monastery
+=======================================
+Cow-Orkers in the Scary Devil Monastery
+=======================================
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/group.jpg" />
 
@@ -8,7 +10,7 @@ Playtesters and Reviewers: Andrew Daborn, Rodney Brown, Michael Cole, Simon Stai
 
 Published by the RPG Review Cooperative, Inc. (incorporated in the State of Victoria, Australia, A0094301K), 2017
 
-
+Papers & Paychecks Errata
 Keep The Borderlands by Michael Cole
 Palaces of the Silver Princess by Michael Cole
 Fantasy Papers & Paychecks by Lev Lafayette
@@ -19,7 +21,10 @@ So You Want it Darker? by Lev Lafayette and Jay Patterson
 Charles The Tall, Daniel Callahan
 Crime and Punishment by Lev Lafayette
 
-## Keep The Borderlands
+# Papers & Paychecks Errata
+
+
+# Keep The Borderlands
 
 **Plotline**
 
@@ -183,14 +188,13 @@ President Fey Rowe
 
 "Years ago the valley was green, and animals ran free through golden fields of grain", or so the story goes.
 
-The princess Venice Novateló ruled over these peaceful campsites land and the people were secure and happy. They were happy campers. (She wasn't a real princess, but that didn't matter because this is a postmodern story).
+The princess Venice Novateló ruled over these peaceful campsites land and the people were secure and happy. They were happy campers. She wasn't a real princess, but that didn't matter because this is a postmodern story.
 
 Then one day a real-estate developer driving a red Maserati appeared in the driveway of the princess' little bed and breakfast and almost overnight the campsites fell into development.
 
 They paved paradise, and put up a parking lot. Now only pink hotels, serviced by big yellow taxis, and plenty of rumors remain, and what legends there are tell of a fabulous dreamcatcher is somewhere within the Palaces of the Electrum Princess.
 
 ## Boss's Information
-
 
 
 ## Palace Ritz
@@ -205,7 +209,9 @@ They paved paradise, and put up a parking lot. Now only pink hotels, serviced by
 # Fantasy Papers and Paychecks
 
 
-# The cheerleader speciality class:
+# Alternative Classes
+
+## The cheerleader speciality class:
 
 Able to perform gymnastics similar to that of a monk class in AD&D with the
 special ability at higher levels called cleavage shake which works only on those
@@ -214,6 +220,8 @@ potentially attracted to buxom females. Save versus constitution or wisdom
 or until someone (usually a mate/spouse) slaps you for staring. Some GMs may add a
 male gender version which has the special ability simple called abs involving the
 male cheerleader showing bare mid-drift. All other effects are the same.
+
+# Additional Items
 
 # Snail mail magic communications device(item):
 
@@ -280,7 +288,27 @@ the children who sell the cookies.
 
 # So, You Want It Darker?
 
-Papers & Paychecks in North Korea
+## Papers & Paychecks in North Korea
+
+Nearly all games of *Papers & Paychecks* are run with a high degree of tongue-in-cheek humour. There is however, a certain body of gamers who prefer their grim characters to face up to the horrors of the world. These are the sort who like to play *Paranoia*, for example, in 'straight' mode. Recognising that such people exist led us to explore the possibility - what is the most strange, totalitarian, authoritarian, and bureaucratic regime that exists on earth today? Whilst some places may have the dubious honour of winning a single metric among these dimensions, for purposes of consistency across the board, the Democratic People's Republic of North Korea is the winner. As a very unusual change of pace from the standard *Papers & Paychecks* game, 'So, You Want it Darker?' provides a researched account (including anonymous first-hand reports) from a setting that is nevertheless worthy of in-game exploration.
+
+## Geography
+
+A description of the geography is hopefully a safe and non-controversial starting point. As a country, it is located in the northern half of the Korean peninsula, sharing a land border to the North with the People's Republic of China along the Amnok River, a short border along the Tumen River with Russia in the far north-east, and with the Republic of Korea (South Korea) in the south along the Korean Demilitarized Zone. The length of the meandering land border with China is just over 1400km, the border with Russia is less than 20km, and that with South Korea is almost 240km.
+
+To the west is the Yellow Sea and the northern extension, the Korean Bay, which connects to China. To the east is the Sea of Japan. The Yellow Sea and the Korea Bay are off the west coast and the Sea of Japan (known in North Korea as the East Sea of Korea) is off the east coast. There is over 3500 islands off the coast of North Korea, mostly along the western coastlines. The most significant collection is the Pansong Archipelago, which includes the largest island, Sinmi Island, which has an area fo some 50 square kilometres.
+
+Over eighty percent of the country's area is mountainous, but the north and eastern part of North Korea are extremely so with the Hamgyong Range (north-east), Kaema Plateau (north, east), Kangnam (north, central, borders with China) Rangrim Mountains (north, east), T’aebaek Mountains (east to the South Korean border and beyond). The landscape ranges from several hundred metres to the country's highest point, Baekdu Mountain at over 2700m on the border with China.
+
+Coastal plains on the east coast are minimal. On the west however, there is the substantial Pyongyang and Chaeryong plains. The north and eastern mountain ranges act as the source for the major rivers of North Korea which mostly run in a westerly direction. The longest is the Amnok River which runs for almost eight hundred kilometres forming the border with China, where it is known as the Yalu River. The second longest river, the Duman, is unusual insofar eastwards into the Sea of Japan. Although over 520km, it is almost entire unnavigable due to the moutainous terrain. The third longest, at c440km, is the Taedong River who flows NE-SW and runs through the country's capital, Pyongyang.
+
+The climate is temperature and humid continental (Dwb) on the Köppen climate classification scheme in the far north-west third, whereas the rest of the country is classified warm and humid continental (Dwa). There are four distinct seasons, with warm summers and cold and dry winters. A short rainy season in summer is known as chagma, which is short, hot, and humid. The winters are notoriously cold, especially in the moutainous north and east regions. In winter the temperature range in the capital is typically from -3 to -13 degrees C., and in summer from 20 to 29.
+
+Forest covers around 50% of the country, and has decreased substantially in recent decades due to various forms of land-clearing. Approximately 20% of the land is arable, with about 2-3% being used permanently for cropland and pasture. There is significant dispute over the prevalence of wildlife, with some considering the conditions dire, and others claiming a good amount especially in comparison to neighbouring parts of China and South Korea. Recorded mammals include various species of squirrel and chipmunk (e.g., Siberian chipmunk), mice and rats (e.g., Tanezumi rat), pika (e.g., northern pika) and rabbits (e.g., Korean hare, Manchurian hare), hedgehogs, shrews, bats, cetaceans (whales, dolphins, porpoises), carivores (e.g., Eurasian lynx, Korean fox, Eurasian brown bears), and ungulates (e.g., Manchurian sika deer).
+
+
+
+
 
 
 # Charles the Tall Intern
