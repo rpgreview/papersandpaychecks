@@ -23,6 +23,7 @@ Crime and Punishment by Lev Lafayette
 
 # Papers & Paychecks Errata
 
+p28 - Intellect Fortress appears twice with two different descriptions
 
 # Keep The Borderlands
 
