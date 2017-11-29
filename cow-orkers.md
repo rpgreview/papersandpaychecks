@@ -183,7 +183,7 @@ President Fey Rowe
 
 "Years ago the valley was green, and animals ran free through golden fields of grain", or so the story goes.
 
-The princess Venice Novateló ruled over these peaceful campsites land and the people were secure and happy. They were happy campers. (She wasn't a real princess, but that didn't matter).
+The princess Venice Novateló ruled over these peaceful campsites land and the people were secure and happy. They were happy campers. (She wasn't a real princess, but that didn't matter because this is a postmodern story).
 
 Then one day a real-estate developer driving a red Maserati appeared in the driveway of the princess' little bed and breakfast and almost overnight the campsites fell into development.
 
