@@ -299,7 +299,7 @@ A description of the geography is hopefully a safe and non-controversial startin
 
 To the west is the Yellow Sea and the northern extension, the Korean Bay, which connects to China. To the east is the Sea of Japan. The Yellow Sea and the Korea Bay are off the west coast and the Sea of Japan (known in North Korea as the East Sea of Korea) is off the east coast. There is over 3500 islands off the coast of North Korea, mostly along the western coastlines. The most significant collection is the Pansong Archipelago, which includes the largest island, Sinmi Island, which has an area fo some 50 square kilometres.
 
-Over eighty percent of the country's area is mountainous, but the north and eastern part of North Korea are extremely so with the Hamgyong Range (north-east), Kaema Plateau (north, east), Kangnam (north, central, borders with China) Rangrim Mountains (north, east), T’aebaek Mountains (east to the South Korean border and beyond). The landscape ranges from several hundred metres to the country's highest point, Baekdu Mountain at over 2700m on the border with China.
+Over eighty percent of the country's area is mountainous, but the north and eastern part of North Korea are extremely so with the Hamgyong Range (north-east), Kaema Plateau (north, east), Kangnam (north, central, borders with China) Rangrim Mountains (north, east), T’aebaek Mountains (east to the South Korean border and beyond). The landscape ranges from several hundred metres to the country's highest point, the volcanic Baekdu Mountain, at over 2700m on the border with China.
 
 Coastal plains on the east coast are minimal. On the west however, there is the substantial Pyongyang and Chaeryong plains. The north and eastern mountain ranges act as the source for the major rivers of North Korea which mostly run in a westerly direction. The longest is the Amnok River which runs for almost eight hundred kilometres forming the border with China, where it is known as the Yalu River. The second longest river, the Duman, is unusual insofar eastwards into the Sea of Japan. Although over 520km, it is almost entire unnavigable due to the moutainous terrain. The third longest, at c440km, is the Taedong River who flows NE-SW and runs through the country's capital, Pyongyang.
 
@@ -307,6 +307,8 @@ The climate is temperature and humid continental (Dwb) on the Köppen climate cl
 
 Forest covers around 50% of the country, and has decreased substantially in recent decades due to various forms of land-clearing. Approximately 20% of the land is arable, with about 2-3% being used permanently for cropland and pasture. There is significant dispute over the prevalence of wildlife, with some considering the conditions dire, and others claiming a good amount especially in comparison to neighbouring parts of China and South Korea. Recorded mammals include various species of squirrel and chipmunk (e.g., Siberian chipmunk), mice and rats (e.g., Tanezumi rat), pika (e.g., northern pika) and rabbits (e.g., Korean hare, Manchurian hare), hedgehogs, shrews, bats, cetaceans (whales, dolphins, porpoises), carivores (e.g., Eurasian lynx, Korean fox, Eurasian brown bears), and ungulates (e.g., Manchurian sika deer).
 
+
+Most of the prison camps in North Korea are located in "remote mountain valleys completely shut off from the outside world and escape is virtually impossible."
 
 
 
