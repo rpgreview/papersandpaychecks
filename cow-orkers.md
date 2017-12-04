@@ -307,6 +307,52 @@ The climate is temperature and humid continental (Dwb) on the Köppen climate cl
 
 Forest covers around 50% of the country, and has decreased substantially in recent decades due to various forms of land-clearing. Approximately 20% of the land is arable, with about 2-3% being used permanently for cropland and pasture. There is significant dispute over the prevalence of wildlife, with some considering the conditions dire, and others claiming a good amount especially in comparison to neighbouring parts of China and South Korea. Recorded mammals include various species of squirrel and chipmunk (e.g., Siberian chipmunk), mice and rats (e.g., Tanezumi rat), pika (e.g., northern pika) and rabbits (e.g., Korean hare, Manchurian hare), hedgehogs, shrews, bats, cetaceans (whales, dolphins, porpoises), carivores (e.g., Eurasian lynx, Korean fox, Eurasian brown bears), and ungulates (e.g., Manchurian sika deer).
 
+## History
+
+For much of its history Korea has been politically and culturally unified. It is true that over 2000 years ago the Gojoseon kingdom ruled the northern half of the peninsula, speaking a proto-Korean language known as Ye-Maek, whilst the south was controlled by a confederation of small states known as Jin. Growing out of the northern region was the Kingdom of Goruryeo whose name is cognate with 'Korea', and which lasted for several hundred years. At its height it controlled all of the northern and central part of the peninsula and parts of contemporary China and Russia, along with much of the south. As contemporaries in the far south there was the small Gaya confederacy, which nevertheless lasted some five hundred years, existing between larger Silla kingdom in the south-east and the Baekje kingdom in the south-west and western coastline. Silla absorbed Gaya in 562 CE, and then conquered Baekje in 660CE, despite the military support that Baekje received from Japan. Several years late Silla, with an alliance with the Chinese Tang dynasty, was able to conquer the Goguryeo kingdom as it was it was struggling with a succession conflict. Silla (often referred to Unified Silla) then controlled almost the entire peninsula for some 250 years until 935CE, with the exception of the northern regions of the contempory North Korea, which was under the control of the multi-ethnic Manchurian Balhae kingdom.
+
+In the tenth century CE, a disaffected Silla general formed a short Later Baekje (aka Hubaekje) kingdom in the south-west. At around the same time, a new Goguryeo (aka Hugoguryeo or Taebong) was established in the north and central region. The latter eventually took over Hubaekje (930) and Silla (935), establishing a unified kingdom (or empire) throughout the penisula. This would last for over three hundred years (until 1392). The Hugoguryeo Empire defeated the Liao Empire on multiple occassions leading to the development of a cultural golden age in the 11th century CE with developments in scholarship and printing. Mongol invasions in the 13th century pressed the Hugoguryeo and brought much hardship to the land; eventually they sued for peace to the Great Yuan as a client state. As the Mongol Empire disintegrated and the Ming dynasty emerged the Goryeo court was split between those who supported the Ming and those who supported the Yuan. 
+
+General Yi, who supported the Ming, overthrew the Goryeo dynasty and established the Kingdom of Great Joseon which lasted almost five hundred years, from 1392CE to 1897CE and made Confucianism the state religion. The Joseon period was enormously influential on contemporary Korean culture, establishing norms, language, etc The development of the Hangul alphabetic-syllabic script in the 15th century CE in the court of Sejong the Great could have transformed technological development, but was opposed by the literary elite who preferred classical Chinese. In the late fifteenth century CE and sixteenth century CE, a series of factional conflicts known as the Korean literati purges, or 'sahwa' between two factions of the ruling scholarship class. In the late sixteenth century CE, with European weapons, the Japanese invaded but were eventually expelled following naval victories (with "turtle ships") and intervention by the Ming Chinese. In the seventeenth century the Manchurians engaged in two invasions forcing Joseon to become a tributary state of the Qing dynasty until 1894. 
+
+In 1894 there was the Donghak Peasant Revolution which resulted in scores, if not hundreds, of thousands of peasants killed by the government and supported by the Qing dynasty. This intervention by the Qing was a breach of the Convention of Tientsin, and led to the Sino-Japanese war, which was decisively won by the Japanese who forced the end of Joseon's vassalage, leading to the short-lived Korean Empire. This lasted less than thirteen years before it was annexed by Japan following their victory in the 1905 Russo-Japanese War. Imperial Japanese rule remained in place until their defeat in 1945 when the country was divided between Soviet and American occupying forces along the 38th parallel (the latitude, almost comically, chosen by two US officers who used a map from *National Geographic* and wanted the capital, Seoul, to be on the U.S. side). The history of North Korea thus begins with the establishment of the Soviet Civil Authority in October 1945 and the Provisional People's Committee for North Korea in February 1946 with Kim Il-sung, an anti-Japanese guerrilla leader, as chair. The Provisional government instituted land reform reduced landlord's claims to the same as other civilians and major industries were nationalised. Whilst achieved without apparent bloodshed, some 400,000 fled to South Korea as refugees. 
+
+With the Republic of Korea declared in the south and the Democratic People's Republic of Korea declared in the north, with both having military leaders, and both claiming to the legitimate government of the peninsula, war was inevitable. Three years later, with over four million deaths (mostly civilians) an armistice and the establishment of a UN-enforced demilitarised zone has ensured an uneasy peace since. The destruction of North Korea was massive, with almost every substantial building destroyed. Nevertheless North Korea recovered rapidly and by 1957 industrial production had recovered to pre-war levels, assisted by Chinese and Soviet aid. An attempt by the pro-Chinese (and Soviet supported) Yan'an faction to remove Kim Il-sung from leadership failed and political opponents to were subject to show trials, imprisonment, and execution. The industrial economy grew with the provision of (often unreliable) electricity to all homes by 1968, primary and secondary education, and a high level of urbanisation. All during this time there was low-level conflicts with the Republic of Korea; two notable incidents include the failed assasination of South Korea's president, Park Chung-hee, and the capture of the U.S. spy-ship, Pueblo.
+
+During his rule Kim Il-sung developed a cult of personality exceeding that of Stalin, on which it was modelled, and rejected both the Soviet and Chinese models of Marxist state socialism, both of whom reduced their military, financial, and ideological support for the regime. Increasingly developing its own method and ideology, Juche. This ideology, translated as "self-reliance", it includes political independence, economic self-reliance, and an independent military. In 1982 these ideas where expressed in an authoritative form as "On the Juche Idea", written by Kim Jong-il, the son of Kim Il-sung. As a explicit depature from Marxist philosophy when concentrates on class conflict as the dynamic of history, Juche sees the primary conflict as human effort against nature, espouses an idealist rather than materialist ontology, and argues that it represents a new era of human thought. From 1997 onwards the official dating system counts Juche years from the year of Kim Il-sung's birth in 1912. Thus 2017 is "Juche 106". One notable effect of the adoption of "self-reliance" is that North Korea's GDP per capita, which had been equal and often slightly higher than that of the South until the mid-1970s, is now at 2% of that of the South, as the latter has traded its way to economic prosperity and has given up military rule in favour of democracy.
+
+Kim Il-sung died in 1994 and was replaced, Kim Jong-il, succeeded as General Secretary of the governing Korean Workers' Party and chair of the National Defense Commission (NDC). Already recognised as the leader in Juche thought, Kim Jong-il further developed the idea of an independent military to the policy of "Songun", or "army first" in 1998, notably becoming a nuclear weapons power in 2006. As a minor, but successful departure, from Juche thought, an special industrial zone, the Kaesong Industrial Region, was established in 2002 with trade links to China and South Korea, although it was closed in 2016 folllowing rising military tensions.
+
+In April 2009, North Korea's constitution was amended to officially refer to Kim Jong-il  (and his later successors) as the "supreme leader of the DPRK". Ater his death, Kim was designated as the "Eternal General Secretary" of the WPK and the "Eternal Chairman of the National Defence Commission", in keeping with the tradition of establishing eternal posts for the dead members of the Kim dynasty.
+
+
+
+ 
+
+### Culture
+
+
+
+
+
+Three Kingdoms
+Goguryeo	37 BC – 668 AD
+Baekje	18 BC – 660 AD
+Silla	57 BC – 935 AD
+Gaya confederacy	42–562
+North–South States
+Later Silla (Unified Silla)	668–935
+Balhae	698–926
+Later Three Kingdoms
+Later Baekje	892–936
+Taebong (Later Goguryeo)	901–918
+Later Silla	668–935
+
+ 
+
+
+
+
 
 Most of the prison camps in North Korea are located in "remote mountain valleys completely shut off from the outside world and escape is virtually impossible."
 
