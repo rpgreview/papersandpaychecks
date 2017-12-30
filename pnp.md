@@ -1581,7 +1581,7 @@ For whatever Professional skill a character has taken there is a set of tools, e
 
 **Vehicles**
 
-<a href="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/driving.png" />
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/driving.png" />
 
 *Bicycle*: A two-wheeled, human-pedal-powered, vehicle which includes pneumatic tires, chain-driven sprockets and tension-spoked wheels. Whilst specialist versions exist for particular environments (racer, road bike, hybrid, mountain bike), which can be elaborated at the Boss's desire, the statistics here assume a hybrid bike. The *ride* skill is used for using a bike, but they're mostly fairly easy to operate. Technological and material developments mean that bicycles have +1 ENC and -2 Move from 1975-1995, +0 ENC and +0 Move from 1996-2020, and -1 ENC and +2 Move from 2021 onwards. The Movement rate for a bicycle is twice the character's STR. Bicycles have enormous variation in cost and quality, ranging from $100 to $3000, with an ENC of 10.
 
