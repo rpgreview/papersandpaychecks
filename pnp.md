@@ -1282,7 +1282,7 @@ The technical and office resources available can also modify the time and diffic
 
 **Gaslighting**
 
-<a href="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/silent_hammer.png" />
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/silent_hammer.png" />
 
 Gaslighting is a series of psychological attacks against an individual group designed to bring them to doubt their own memory, perception, and sanity. The in practise techniques are varied, but specific examples are from the 1938 play and 1944 film adaption from where the activity gets its name. In game terms it is abstracted by the use of any Charisma skill that could be used for manipulation (e.g., Act, Bully, Inspire, Lie, Seduce), against a contested WIS-based ability check. Modifiers to the check are very dependent on the actions taken out by the active character and the degree of trust that the target has with the attacker. Quite often a gaslighter will engage in some actions of Mental bruises to weaken the victim's resistance before launching the gaslight attack. Nevertheless, it is *almost* impossible to make a target believe impossible things ("Are you going to believe me or your own eyes?"). The default modifier is -6, meaning that the attacker has to engage in significant preparation for the chance of a successful attack.
 
