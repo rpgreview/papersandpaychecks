@@ -197,15 +197,25 @@ They paved paradise, and put up a parking lot. Now only pink hotels, serviced by
 
 ## Boss's Information
 
-
 ## Palace Ritz
+
+Derived from the Ritz in Paris. Classical architecture from the reign of Louis XIV. 159 rooms and restaurant.
 
 ## Palace Cliveden
 
+Derived from the Cliveden in Buckinghamshire. Italianate mansion and estate. 47 rooms and 15 suites. Big grounds. Lots of facilities.
+
 ## Palace Raffles
+
+Derived from the Raffles in Singapore. 
+
+The hotel has 103 suites, 8 restaurants, and a shopping arcade. Colonial Victorian style, large verandahs. Famous for silverware, long bar, and of course, the Singapore Sling.
 
 ## Palace Beverly Hills
 
+Derived from the Beverly Hills Hotel, Sunset Boulevard in Beverly Hills, California.
+
+The hotel has 208 suites, and 23 bungalows. Coloured peach pink and green colors throughout.
 
 # Fantasy Papers and Paychecks
 
