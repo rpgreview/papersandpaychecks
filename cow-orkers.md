@@ -59,7 +59,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 5.0 Alternate Settings and Scenarios
 5.1 Scenario: Keep The Borderlands by Michael Cole
-5.2 Scenario: Palaces of the Silver Princess by Michael Cole
+5.2 Scenario: Palaces of the Electrum Princess
 
 # 0.0 Introduction
 
@@ -83,6 +83,7 @@ Able to perform gymnastics similar to that of a monk class in AD&D with the spec
 
 ## 2.2 More Equipment
 
+
 *Wand of Curling*: With multiple sticks, the electrical or battery-powered Wand of Curling will provide a bonus to an Acting skill via disguise. ENC of 1, and a cost of $100.
 
 **Snail mail magic communications** 
@@ -105,6 +106,24 @@ convert you to their religion. This can include pamphlets that contain informati
 
 Another version is salesman. This variety will attempt to pressure you during your ensnarlment to purchase expensive items you don’t need that will frequently not work. Even if you agree to purchase the items they are pushing they will continue to tell you how wonderful the items are and what a great purchase you have made until you save or the time runs out. roll percentile dice to determine what they are selling. 1-10% a magic item that is supposed to clean your home, den, castle, dungeon but usually just breaks during the first use. 11-40% A variety of potions that when applied to your face/hair/body will increase your comliness by +3. This is a usually harmless product but it will do nothing thats promised at all. 41-70% Miraculous food products that you can sell to your friends so they can sell to their friends. This will end up costing you all your accumulated wealth and you will end up with a vault full of food and drink that will taste horrible and provide no more nourishment than eating tree bark. all the while your charisma will drop -6 points and your friends will avoid you and flee on seeing you coming. 71-100% candy. This inisdious product is usually sold by what appears to be children. During your ensnarlement they will tell you tales of woe that will make you feel bad if you don’t give them all your loot. Save versus wisdom or give them whatever coinage you have on you. Also, the candy has an addictive quality, especially the peanut butter
 patties, that will cause you to seek out further Door-to-Door monsters looking for the children who sell the cookies.
+
+
+**Shannon, a Ring of Turning**
+
+INT 13 (+1), WIS 18 (+4), CHA 13 (+1), E+4 S+1 T+1 P+2 (Promoter)
+
+The androgynous Shannon makes the appearance of a plain white gold ring of some obvious value. However, by means of subtle persuasion, as such Things are wont to do, Shannon will passed on one character to the next until they find who expresses a hatred towards same-sex attracted individuals. Through a very gradual process Shannon will "turn" the character. As such homophobia is based on on the internal will of the charactre's own homosexual desires, this is carried out as a series of mental attacks, until they are brought to zero mental hit points as wounds - however in this case they are not incapacitated, but in the contrary, they are cured of their own irrational hatreds.
+
+> New Study Links Homophobia with Homosexual Arousal   
+WASHINGTON -- Psychoanalytic theory holds that homophobia -- the fear, anxiety, anger, discomfort and aversion that some ostensibly heterosexual people hold for gay individuals -- is the result of repressed homosexual urges that the person is either unaware of or denies. A study appearing in the August 1996 issue of the Journal of Abnormal Psychology, published by the American Psychological Association (APA), provides new empirical evidence that is consistent with that theory.
+https://web.archive.org/web/20040202035152/http://www.apa.org/releases/homophob.html
+
+**Simon, a Djinn and Tonic**
+
+INT 13 (+1), WIS 18 (+4), CHA 13 (+1), I+3 N+2 F+4 J+2 (Counsellor)
+
+A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues.
+
 
 # 3.0 More Non-Player Characters
 
@@ -228,12 +247,7 @@ In North Korea there is one official source of television news, Korean Central T
 
 
 
-
-
-
-
 # 5.0 Alternate Settings and Scenarios
-
 
 ## 5.1 Scenario: Keep The Borderlands by Michael Cole
 
@@ -394,7 +408,7 @@ Vice-President ( ), Mr. White
 Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationship. Safe, locked.
 President Fey Rowe
 
-## 5.2 Scenario: Palaces of the Silver Princess by Michael Cole
+## 5.2 Scenario: Palaces of the Electrum Princess
 
 ### 5.2.1 Introduction 
 
@@ -404,7 +418,7 @@ The princess Venice Novateló ruled over these peaceful campsites land and the p
 
 Then one day a real-estate developer driving a red Maserati appeared in the driveway of the princess' little bed and breakfast and almost overnight the campsites fell into development.
 
-They paved paradise, and put up a parking lot. Now only pink hotels, serviced by big yellow taxis, and plenty of rumors remain, and what legends there are tell of a fabulous dreamcatcher is somewhere within the Palaces of the Electrum Princess.
+They paved paradise, and put up a parking lot. Now there's only pink hotels, serviced by big yellow taxis. Plenty of rumors remain, and what legends there are tell of a fabulous dreamcatcher is somewhere within the Palaces of the Electrum Princess.
 
 **Boss's Information**
 
