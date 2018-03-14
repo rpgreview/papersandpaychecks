@@ -83,8 +83,21 @@ Able to perform gymnastics similar to that of a monk class in AD&D with the spec
 
 ## 2.2 More Equipment
 
+*Potion of Animal Control*: A curious alcoholic beverage, usually of a mid-strength cheap beer or white wine, requires by to be drunk by the "animal". An "animal" in this case being a particularly festive college-aged indvidual. Once consumed the "animal" will effectively have no resistance to the provider of the beverage for 32 rounds for animals of 01-05 CON, half that time for 06-15 CON, and a quarter of that time for CON 16-25, etc. ENC 1, cost $5 (for the drink) + $995 if the the control properties are known.
 
-*Wand of Curling*: With multiple sticks, the electrical or battery-powered Wand of Curling will provide a bonus to an Acting skill via disguise. ENC of 1, and a cost of $100.
+*Potion of Dragon Control*: Another curious alcoholic beverage, usually a cheap sweet sherry or rot-gut whiskey, requires to be drunk by the "dragon". A "dragon" in this case being a particularly odious mother- or father-in-law. Once consumed the "dragon" will effectively have no resistance to the provider of the beverage for 32 rounds for animals of 01-05 CON, half that time for 06-15 CON, and a quarter of that time for CON 16-25, etc. ENC 1, cost $5 (for the drink) + $995 if the the control properties are known.
+
+*Potion of Fire Breath*: A rarefied commercial chilli sauce with a Scoville rating of some 3 million units, the consumption of even a drop of potion of fire breath will cause a wound per drop consumed and will cause a bruise to anyone the character breathes upon for the next 10 rounds. They will, however, require to make a successful CON roll with a target number of 11 to act each of these round due the excruciating pain that they will be experiencing. ENC 0, cost $20
+
+*Potion of Flying*: From a near-random sample of out-of-date medications a potion of flying is created, or at the very least, the consumer thinks so. A sensible person may think this is dangerous and there is a degree of truth to it. The consumer will have a great sense of euphoria for a strategic turn for characters of CON 06-15, twice that time for characters with CON 01-05, and half that time for characters of CON 16-25, etc. In addition to the euphoria the consumer will experience a high sense of lucidity, which will provide a bonus of +5 to any task that requires intellectual creativity. After the potion of flying wears off however, the character will feel depressed and will have a -5 penalty to such tasks, for twice as long as the original effect of the potion. What goes up, must come down. ENC 0, cost $100
+
+`https://xkcd.com/353/`
+
+*Staff of Striking*: A staff of striking is specialist targetting weapon that especially affects any characters with levels in Labourer or Tradesperson. The bearer of the staff, upon striking the ground, an attracting the attention of members of said classes within hearing range, will provide a bonus of +5 to attempts to influence said characters but only for the purpose of encouraging them to withdrew their labour from their employer. The range, of course, is quite effective in a room with wooden floorboards and a high roof, and is less effective outside on a windy day. Artificial enhancement of the sound and speech is still effective. ENC 2, cost $5000. 
+
+*Wand of Lightening*: Through the very strange machinations of the universe, when a wand a lightening is directed at a physical object the weight of that object will reduce by 10% as long as the wand is remains directed and the object is not actually weighed. The wonders of paranormal science! ENC 1, cost $2000.
+
+*Wand of Curling*: With multiple sticks, the electrical or battery-powered Wand of Curling will provide a bonus to an Acting skill via disguise. ENC of 1, cost of $100.
 
 **Snail mail magic communications** 
 
