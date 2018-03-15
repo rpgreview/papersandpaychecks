@@ -51,7 +51,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 3.0 More Non-Player Characters
 3.1 The Pizza Computer by Shaun Hately
-3.2 Charles The Tall, Daniel Callahan
+3.2 Charles The Tall by Daniel Callahan
 
 4.0 Even More Boss and Alternate Settings
 4.1 So You Want it Darker?
@@ -93,9 +93,15 @@ Able to perform gymnastics similar to that of a monk class in AD&D with the spec
 
 `https://xkcd.com/353/`
 
+*Rod of Dowsing*: An otherwise L-shaped or Y-shaped stick can be used in to locate ground water, oil, precious metals or gems, and even old gravesites. When used by a person who believes in the superstition, they gain a +5 bonus in discovering what they are searching for. When it is subject to scientific observation, it will fail to operate. ENC 1, cost $5000.
+
 *Staff of Striking*: A staff of striking is specialist targetting weapon that especially affects any characters with levels in Labourer or Tradesperson. The bearer of the staff, upon striking the ground, an attracting the attention of members of said classes within hearing range, will provide a bonus of +5 to attempts to influence said characters but only for the purpose of encouraging them to withdrew their labour from their employer. The range, of course, is quite effective in a room with wooden floorboards and a high roof, and is less effective outside on a windy day. Artificial enhancement of the sound and speech is still effective. ENC 2, cost $5000. 
 
+*Vicarious and Vacuous Grimoire*: "Like sands through the hourglass...." This tome provides drama utterly inane and ficticious characters, their relationships, challenges (especially romantic), and intrigues. Whilst utterly bereft of useful information it is also extraordinarily compelling, and any character who so much as reads the first page will have to make a WIS check with a difficulty of 11. If they fail they will spend the next 15 strategic turns doing nothing but reading the story of the Cordroy and Chime families. During this time their INT is reduced by 5, and their CHA by 5 as they insist on trying to tell all and sundry of the tale. Worse still, when completing the book they find there is another volume, which also requires a WIS check to resist purchasing and reading; "It Never Ends". ENC 1, cost $100
+
 *Wand of Lightening*: Through the very strange machinations of the universe, when a wand a lightening is directed at a physical object the weight of that object will reduce by 10% as long as the wand is remains directed and the object is not actually weighed. The wonders of paranormal science! ENC 1, cost $2000.
+
+*Wand of Magic Missiles*: This short black wand has white tips, rather like a classic stage magician's item. When engaging in a social attack, the social barbs used by the attacker have the curious effect of causing double damage, i.e., with a successful attack the social bruises, or even wounds, are doubled. The attacker will look quite foolish of course, pointing a stick at a person in an argument, but they are surprisingly convincing. ENC 1, cost $2000.
 
 *Wand of Curling*: With multiple sticks, the electrical or battery-powered Wand of Curling will provide a bonus to an Acting skill via disguise. ENC of 1, cost of $100.
 
