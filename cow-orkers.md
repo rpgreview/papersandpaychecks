@@ -43,7 +43,8 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 0.3 Papers & Paychecks Errata
 
 1.0 Additional Character Classes
-1.1 The Cheerleader Profession by Fred
+1.1 The Athlete
+1.6 The Cheerleader Profession by Fred
 
 2.0 Additional Actions and the Environment
 2.1 More Action Rules
