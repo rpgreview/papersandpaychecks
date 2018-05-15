@@ -74,7 +74,29 @@ p28 - Intellect Fortress appears twice with two different descriptions
 
 # 1.0 Additional Character Classes
 
-## 1.1 The Cheerleader Profession by Fred
+## 1.1 The Athlete
+
+Prime Requisite: Strength
+Starting Age: 15+1d4
+Profession Skills: Athletics (Strength), Athletics (Stamina), Intimidate, Jump, Melee, Swim, Knowledge (General), Profession, Carousing, Sense (various) 
+
+Description: An professional athlete engages in competitive sports which involve strength, endurance, or speed for their livelihood. Like the labourer they are not always known for their intellect, but their physical prowess is unsurpassed, which can make them very popular in some social situations such as the participation in "paired athletics". An athlete is, of course, vary rare in the usual settings of *Papers & Paychecks* but they are not unknown in some contexts or as a past profession. Like labourers, athletes gains points in physical characteristics as their level improves. Athletes have an extremely low base wage, but this is off-set by receiving double their attribute bonus (or penalty is a weedy person decides to be come an athelete) to this wage. The starting age of a labourer with no prior profession is often quite young.
+
+| Level | Wage     | Perks			|
+|-------|----------|----------------------------|
+| 1	| $700     | +1 Run or +0.25 Swim Move  |
+| 2	| $800     | +1 to STR or PER	        |
+| 3	| $900     | +2 Physical Hit Points     |
+| 4	| $1000    | +1 to STR or DEX           |
+| 5	| $1100    | +1 Run or +0.25 Swim Move  |
+| 6	| $1150    | +1 to STR or PER           |
+| 7	| $1200    | Adoring Fans		|
+| 8	| $1250    | +1 to STR or PER           |
+| 9	| $1300    | Team Coach			|
+| 10	| $1350    | Superannuation		|
+
+
+
 
 **The cheerleader speciality class**
 
