@@ -456,7 +456,7 @@ President Fey Rowe
 
 "Years ago the valley was green, and animals ran free through golden fields of grain", or so the story goes.
 
-The princess Venice Novateló ruled over these peaceful campsites land and the people were secure and happy. They were happy campers. She wasn't a real princess, but that didn't matter because this is a postmodern story.
+The princess Venice Novateló ruled over these peaceful campsites and the people were secure and happy. They were happy campers. She wasn't a real princess, but that didn't matter because this is a postmodern story.
 
 Then one day a real-estate developer driving a red Maserati appeared in the driveway of the princess' little bed and breakfast and almost overnight the campsites fell into development.
 
@@ -466,7 +466,13 @@ They paved paradise, and put up a parking lot. Now there's only pink hotels, ser
 
 ### 5.2.2 Palace Ritz
 
-General Description: Derived from the Ritz in Paris. Classical architecture from the reign of Louis XIV. 159 rooms and restaurant.
+General Description: Derived from the Ritz in Paris this three storey building is in the style of the classical architecture from the reign of Louis XIV. There is a total of 60 rooms on the second and third floors, whereas the ground floor has a restaurant, swimming pool and gymnasium, a comfortable lobby with adjacent bar, plus the the hotel's laundry and administration. 
+
+Naturally enough, everything about this restaurant is fake, a complete facade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean.
+
+The restaurant is named "A demain" (until tomorrow) although several of the current and mostly former staff have suggested that this is a mispelling of the phonetically equivalent "A deux mains" (using both hands), referring to the maître d'hôtel's amorous predicilitions. The maître d' himself, Ali Monpourchien (Aliment pour chien, dog food), is unsurprisingly not actually French or even remotely French, but a rather clever Egyptian who cannot believe his luck in finding a job where he can both pretend to French and can pretend to cook at the same time. In an unfortunate act of self-delusion he was promotes the myth that the he is the world's greatest lover.
+ 
+
 
 ### 5.2.3 Palace Cliveden
 
