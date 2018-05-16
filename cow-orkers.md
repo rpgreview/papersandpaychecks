@@ -74,6 +74,8 @@ p28 - Intellect Fortress appears twice with two different descriptions
 
 # 1.0 Additional Character Classes
 
+*Papers & Paycheck* can be a very adaptable game system. Whilst the character professions in the core rulebook as designed to be a broad representation of the various jobs found in a workplace, it has been pointed out that there were other professions that don't quite fit. Thus, more niche professions are offered here for such games.
+
 ## 1.1 The Athlete
 
 Prime Requisite: Strength
