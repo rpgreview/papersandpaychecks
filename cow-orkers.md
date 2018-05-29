@@ -82,7 +82,7 @@ Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength), Athletics (Stamina), Intimidate, Jump, Melee, Swim, Knowledge (General), Profession, Carousing, Sense (various) 
 
-Description: An professional athlete engages in competitive sports which involve strength, endurance, or speed for their livelihood. Like the labourer they are not always known for their intellect, but their physical prowess is unsurpassed, which can make them very popular in some social situations such as the participation in "paired athletics". An athlete is, of course, vary rare in the usual settings of *Papers & Paychecks* but they are not unknown in some contexts or as a past profession. Like labourers, athletes gains points in physical characteristics as their level improves. Athletes have an extremely low base wage, but this is off-set by receiving double their attribute bonus (or penalty is a weedy person decides to be come an athelete) to this wage. The starting age of a labourer with no prior profession is often quite young.
+Description: An professional athlete engages in competitive sports which involve strength, endurance, or speed for their livelihood. Like the labourer they are not always known for their intellect, but their physical prowess is unsurpassed, which can make them very popular in some social situations such as the participation in "paired athletics". An athlete is, of course, vary rare in the usual settings of *Papers & Paychecks* but they are not unknown in some contexts or as a past profession. Like labourers, athletes gains points in physical characteristics as their level improves. Athletes have an extremely low base wage, but this is off-set by receiving double their attribute bonus (or penalty is a weedy person decides to be come an athelete) to this wage. The starting age of a athlete with no prior profession is often quite young.
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -96,7 +96,6 @@ Description: An professional athlete engages in competitive sports which involve
 | 8	| $1250    | +1 to STR or PER           |
 | 9	| $1300    | Team Coach			|
 | 10	| $1350    | Superannuation		|
-
 
 
 
@@ -470,15 +469,19 @@ They paved paradise, and put up a parking lot. Now there's only pink hotels, ser
 
 General Description: Derived from the Ritz in Paris this three storey building is in the style of the classical architecture from the reign of Louis XIV. There is a total of 60 rooms on the second and third floors, whereas the ground floor has a restaurant, swimming pool and gymnasium, a comfortable lobby with adjacent bar, plus the the hotel's laundry and administration. 
 
-Naturally enough, everything about this restaurant is fake, a complete facade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean.
+Naturally enough, everything about this restaurant is fake, a complete facade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean, although if there is ever a fire the place will go up in a toxic fireball.
 
-The restaurant is named "A demain" (until tomorrow) although several of the current and mostly former staff have suggested that this is a mispelling of the phonetically equivalent "A deux mains" (using both hands), referring to the maître d'hôtel's amorous predicilitions. The maître d' himself, Ali Monpourchien (Aliment pour chien, dog food), is unsurprisingly not actually French or even remotely French, but a rather clever Egyptian who cannot believe his luck in finding a job where he can both pretend to French and can pretend to cook at the same time. In an unfortunate act of self-delusion he was promotes the myth that the he is the world's greatest lover.
+The restaurant is named "A demain" (until tomorrow) although several of the current and mostly former staff have suggested that this is a mispelling of the phonetically equivalent "A deux mains" (using both hands), referring to the maître d'hôtel's amorous predicilitions. The maître d' himself, Ali Monpourchien (which could be the phonetic "Aliment pour chien", i.e., dog food), is unsurprisingly not actually French or even remotely French, but a rather clever Egyptian who cannot believe his luck in finding a job where he can both pretend to French and can pretend to cook at the same time. In an unfortunate act of self-delusion he also promotes the myth that the he is the world's greatest lover.
  
-
-
 ### 5.2.3 Palace Cliveden
 
-General Description: Derived from the Cliveden in Buckinghamshire. Italianate mansion and estate. 47 rooms and 15 suites. Big grounds. Lots of facilities.
+General Description: Derived from the Cliveden in Buckinghamshire, this hotel is designed in the style of an Italianate mansion and with a significant estate of very green grass. There is a total of 47 rooms and 15 suites, with ground floor wings including a restaurant, a vast lounge and bar, with the hotel administratrion and suprisingly smaller lobby located at the central ground floor.
+
+As with the Palace Ritz, a pretense is made towards authenticity. It is true, for example, that the lounge has Chesterfield lounges and club chairs; anyone sitting on them will soon discover the sticky joy of the vinyl upholstery. The prints of famous hunting paintings are beautifully framed with baroque gold plastic. Many will note that various whiskeys, crockery, foodstuffs etc are "By appointment" complete with crest, and whilst one may immediately think that these refer to products that hold a Royal Warrant of Appointment (United Kingdom), they are actually novelty crests referring to the Imperial and Royal Warrant of Appointment of the (former) Austro-Hungarian Empire.
+
+The staff are a collection of the most unusual paradies of British culture, all in one place. The maître d'hôtel, Peter File, is always deadly serious with a stiff upper lip regardless of how ridiculous the situation he often finds himself in. Peter is well assisted by the somewhat jovial accounts and bookings officer of ambiguous gender, Paige Turner. 
+
+
 
 ### 5.2.4 Palace Raffles
 
