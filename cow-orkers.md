@@ -53,6 +53,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 3.0 More Non-Player Characters
 3.1 The Pizza Computer by Shaun Hately
 3.2 Charles The Tall by Daniel Callahan
+3.3 The Telstra by Marg Lewis
 
 4.0 Even More Boss and Alternate Settings
 4.1 So You Want it Darker?
@@ -223,6 +224,37 @@ Charles the Tall Intern appeared one day at the coffee machine, emptied the pot 
 
 That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
 
+
+
+## 3.3 The Telstra Switch
+
+by Marg Lewis
+
+This is another example from actual experiences referring to a person to try to change their home phone plan, but thwarted by a prankster computer that has other ideas.
+
+Me: I’d like to change my home phone plan.
+Telstra: Certainly Plan A will provide xyz.
+Me: Sounds great, sign me up.
+Telstra: What is your address?
+Me: Strathlea Rd, Strathlea, 3364.
+Telstra: Please hold while I set this up.
+
+25 minutes later...
+
+Telstra:Thank you for waiting. We are unable to provide a home phone to that address.
+Me: I am calling from my Telstra home phone at this address.
+Telstra: Please hold while I try again.
+
+25 minutes later...
+
+Telstra: Thank you for waiting, we definitely can’t provide a home phone service to that address.
+Me: Well I am calling from my Telstra home phone at this address.
+Telstra: How long have you had the service?
+Me: My grandparents had the phone connected to this address in 1926, my grandmother operated the local telephone exchange from this address until 1968, then we switched over to an automatic exchange 5 km down the road, so my family has had a phone at this address for 92 years.
+Telstra: Oh, there must be a problem our end, I’ll get it fixed and call you back. Do you have a mobile number?
+
+
+
 # 4.0 Even More Boss and Alternate Settings
 
 ## 4.1 So You Want it Darker?
@@ -230,6 +262,9 @@ That was three years ago. Since then, Charles the Tall's behavior has not change
 ### 4.1.1 Papers & Paychecks in North Korea
 
 Nearly all games of *Papers & Paychecks* are run with a high degree of tongue-in-cheek humour. There is however, a certain body of gamers who prefer their grim characters to face up to the horrors of the world. These are the sort who like to play *Paranoia*, for example, in 'straight' mode, or delight in their *Call of Cthulhu* investigators being driven mad by eldritch horrors from beyond the stars. Recognising that such people exist led us to explore the possibility - what is the most strange, totalitarian, authoritarian, and bureaucratic regime that exists on earth today? Whilst some places may have the dubious honour of winning a single metric among these dimensions, for purposes of consistency across the board, the Democratic People's Republic of North Korea is the winner. As a very unusual change of pace from the standard *Papers & Paychecks* game, 'So, You Want it Darker?' provides a researched account (including anonymous first-hand reports) from a setting that is nevertheless worthy of in-game exploration.
+
+
+
 
 ### 4.1.2 Geography
 
