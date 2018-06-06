@@ -77,7 +77,9 @@ p28 - Intellect Fortress appears twice with two different descriptions
 
 *Papers & Paycheck* can be a very adaptable game system. Whilst the character professions in the core rulebook as designed to be a broad representation of the various jobs found in a workplace, it has been pointed out that there were other professions that don't quite fit. Thus, more niche professions are offered here for such games.
 
-## 1.1 The Athlete
+## 1.1 Sporting Professions
+
+### 1.1.1 The Athlete
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
@@ -99,10 +101,81 @@ Description: An professional athlete engages in competitive sports which involve
 | 10	| $1350    | Superannuation		|
 
 
+### 1.1.2 Agent
+
+Prime Requisite: Intelligence
+Starting Age: 15+3d4
+Profession Skills: Act, Administration, Craft (Computing), Craft (writing), Gamble, Insight, Knowledge (Laws), Knowledge (General), Language (various)
+
+Description: 
+
+### 1.1.3 Coach
+
+Prime Requisite: Wisdom 
+Starting Age: 15+3d4 
+Profession Skills: 
+
+### 1.1.4 Gymnast
+
+Prime Requisite: Dexterity 
+Starting Age: 15+1d4 
+Profession Skills: 
+
+### 1.1.5 Shooter
+
+Prime Requisite: Dexterity 
+Starting Age: 15+1d4 
+Profession Skills: 
+
+### 1.1.5 Cheerleader
+
+Prime Requisite: Charisma 
+Starting Age: 15+1d4 
+Profession Skills: 
 
 **The cheerleader speciality class**
 
 Able to perform gymnastics similar to that of a monk class in AD&D with the special ability at higher levels called cleavage shake which works only on those potentially attracted to buxom females. Save versus constitution or wisdom (whichever is lower) or go into a drooling stupor which lasts for up to ten rounds or until someone (usually a mate/spouse) slaps you for staring. Some GMs may add a male gender version which has the special ability simple called abs involving the male cheerleader showing bare mid-drift. All other effects are the same.
+
+
+## 1.2 Fantasy Professions
+
+### 1.1.1 Fighter
+
+Prime Requisite: Strength
+Starting Age: 15+1d4
+Profession Skills: 
+
+### 1.1.2 Wizard
+
+Prime Requisite: Intelligence
+Starting Age: 15+3d4
+Profession Skills: 
+
+### 1.1.3 Cleric
+
+Prime Requisite: Wisdom
+Starting Age: 15+1d4
+Profession Skills: 
+
+### 1.1.4 Rogue
+
+Prime Requisite: Dexterity
+Starting Age: 15+1d4
+Profession Skills: 
+
+### 1.1.4 Ranger
+
+Prime Requisite: Perception
+Starting Age: 15+1d4
+Profession Skills: 
+
+### 1.1.4 Bard
+
+Prime Requisite: Charisma
+Starting Age: 15+1d4
+Profession Skills: 
+
 
 # 2.0 Additional Actions and the Environment
 
