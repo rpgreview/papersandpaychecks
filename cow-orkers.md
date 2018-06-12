@@ -107,7 +107,21 @@ Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Act, Administration, Craft (Computing), Craft (writing), Gamble, Insight, Knowledge (Laws), Knowledge (General), Language (various)
 
-Description: 
+Description: A sports agent acts as the legal representative of other sporting professions, making recommendations and negotiating for pay and benefits. As can be expected the often work for a commission of the sporting professionals salary (around 5-10% is typical) and will often have some legal background. The sporting agent is often depicted as being sly although empirical studies backing this conventional wisdom are lacking. This may be because the agent is typically older than the sportsperson, understands the law better, and is more intelligent - all of which results in much better pay that those they represent. In conventional *Papers & Paychecks* games the Agent is probably more commonly encountered than other sporting professionals due to their interactions with the corporate world. 
+
+| Level | Wage     |  Perks		|
+|-------|----------|--------------------|
+| 1	| $600     | Tower of Iron Will	|
+| 2	| $700     | Intuition          |
+| 3	| $850     | Id Insinuation   	|
+| 4	| $1000    | Bureaucratic Dodge |
+| 5	| $1200    | Ego Whip		|
+| 6	| $1400    | E.S.P.   	        |
+| 7	| $1650    | Intellect Fortress	|
+| 8	| $1900    | Multitasking	|
+| 9	| $2200    | Apprentice		|
+| 10	| $2500    | Superannuation    	|
+
 
 ### 1.1.3 Coach
 
