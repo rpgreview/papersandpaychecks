@@ -126,16 +126,16 @@ Description: A sports agent acts as the legal representative of other sporting p
 ### 1.1.3 Coach
 
 Prime Requisite: Wisdom 
-Starting Age: 15+3d4 
-Profession Skills: 
+Starting Age: 21+3d4 
+Profession Skills: Intimidate, Investigate, Knowledge (General), Concentration, Gamble, Hobby (Sport), Sense (Sight), Inspire, plus one of Athletics (Strength)., Athletics (stamina), Firearms., Gymnastics., Missiles., or Ride.
 
 ### 1.1.4 Gymnast
 
 Prime Requisite: Dexterity 
-Starting Age: 15+1d4 
+Starting Age: 14+1d4 
 Profession Skills: 
 
-### 1.1.5 Shooter
+### 1.1.5 Shooter Equestrian
 
 Prime Requisite: Dexterity 
 Starting Age: 15+1d4 
@@ -351,8 +351,6 @@ Telstra: Oh, there must be a problem our end, I’ll get it fixed and call you b
 Nearly all games of *Papers & Paychecks* are run with a high degree of tongue-in-cheek humour. There is however, a certain body of gamers who prefer their grim characters to face up to the horrors of the world. These are the sort who like to play *Paranoia*, for example, in 'straight' mode, or delight in their *Call of Cthulhu* investigators being driven mad by eldritch horrors from beyond the stars. Recognising that such people exist led us to explore the possibility - what is the most strange, totalitarian, authoritarian, and bureaucratic regime that exists on earth today? Whilst some places may have the dubious honour of winning a single metric among these dimensions, for purposes of consistency across the board, the Democratic People's Republic of North Korea is the winner. As a very unusual change of pace from the standard *Papers & Paychecks* game, 'So, You Want it Darker?' provides a researched account (including anonymous first-hand reports) from a setting that is nevertheless worthy of in-game exploration.
 
 
-
-
 ### 4.1.2 Geography
 
 A description of the geography is hopefully a safe and non-controversial starting point. As a country, it is located in the northern half of the Korean peninsula, sharing a land border to the North with the People's Republic of China along the Amnok River, a short border along the Tumen River with Russia in the far north-east, and with the Republic of Korea (South Korea) in the south along the Korean Demilitarized Zone. The length of the meandering land border with China is just over 1400km, the border with Russia is less than 20km, and that with South Korea is almost 240km.
@@ -409,8 +407,6 @@ In North Korea there is one official source of television news, Korean Central T
 
 
 ## 4.2 Fantasy Papers & Paychecks
-
-
 
 # 5.0 Alternate Settings and Scenarios
 
@@ -585,16 +581,42 @@ Then one day a real-estate developer driving a red Maserati appeared in the driv
 
 They paved paradise, and put up a parking lot. Now there's only pink hotels, serviced by big yellow taxis. Plenty of rumors remain, and what legends there are tell of a fabulous dreamcatcher is somewhere within the Palaces of the Electrum Princess.
 
-**Boss's Information**
+**Plot Introduction**
+
+In the Palace of the Electrum Princess, the PC workers are induced to a high-stakes game of real-estate subterfuge. Starting in any of the hotels according to the Boss's choosing, the PC workers have just completed yet another mind-numbing corporate training session on team-building and are having a couple of post-work drinks before the long-weekend, when they are approached by an older woman who is well-dressed in a style of clothes that belongs in the late 1960s, but obviously distressed. Asking for the PCs leave to sit, she tells a sorrowful tale, introducting herself as Ms. EDIT Novateló.
+
+"You must excuse me for prying, but I have done some research on you. You're all very capable people and probably the best we could find for the task at hand. 'We', you ask? Yes, there is a number of us. We used to be the owners of the land here, where we had our commune. We had nature, birds and wild animals, a little stream, and grew mung-beans and sprouts. Unfortunately we have lost that ownership. You see, rather than having the ownership registered through a land title, we used a series of steps so it was ultimately owned by possession of a paper title, registered through Los Republicos dos los Bananes. I know what you're thinking. We wanted to minimise our involvement with our government and the republic had a revolutionary people's government. It seemed like a good idea at the time."
+
+"Anyway, one day Mr X turned up, and decided this was a fine place for his new property development. He apparently had made some inquiries beforehand, and seemed to know exactly what he needed to do. He wooed my daughter, Venice, with stories of wealth and high-society easy-living, and she stole the paper deed. Well, technically it wasn't stolen, because she was a member of the executive council at the time. You see we have an annual election for the execuite committee of the commune and ... I'm sorry I'm sure you don't need to know these details."
+
+"The practical upshot is that she gave Mr X the title, and now we're forbidden to even be here (she says, sotto vocce). Venice won't talk to me or any of her old friends and she seems to have taken up an entirely new llfe with Mr. X. She used to be such a lovely little girl. The stories she would tell each morning from her dream-catcher, which she named "Mr. Dreamy". You wouldn't believe her wonderful imagination... Oh, I'm sorry, I'm going off-track. Business is at hand. We believe that you are of negotiable virtue, so I have brought with me (she pushes over tassel-bag), ten thousand dollars in cash, and another forty thousand when you complete task. We need you to get that paper title back to us."
+
+"Time is of the urgency. We have discovered that Mr. X and Venice have one-way tickets to Los Republicos dos los Bananes for Monday night. Sadly, the Republic is now ruled by Generallismo X EDIT and the friends that we have there are in prison or in hiding. Please, find that deed - and save my daughter."
+
+An easy Sense (Visual) check at this point will indicate that two hotel security guards are having a conversation and are pointing in the direction of the PC workers. If alerted, Ms. Novateló will exclaim, "I have to go, please, save my daughter! Save her!" - and with that she departs quickly, leaving behind the money and with one of the security guards following closely. If the Sense check is failed, or if the PC workers don't alert Ms. Novateló, then one security guard will roughly escort her off the premises. In either case one security guard will question the PCs about their relationship with Ms. Novateló and what she wanted from them. Any plausible excuse will do as he is not paid for investigation.
+
+**Boss's Introduction**
+
+Most of what Ms. Novateló says is true, but she is woefully uniformed of some of the finer details and, in a way, she is partially to be blame. Venice Novateló was raised in splenid isolation from the rest of society, and was "educated" under the principles of Dr. Benjamin Spock EDIT with the principle that parents should give their children whatever they asked for. As a result, she become a completely spoiled and utterly irresponsible brat. This wasn't so bad in an environment where the greatest damage she could do was take more than her fair-share of goat milk, but when the rapaciious Mr.X arrived on the scene circumstances changed dramatically. Mr.X offered her money, new clothes, stardom, and most importantly, hard drugs. All she had to do was hand over a silly piece of paper and not have anything to do with her hippie family ever again, and to that end she readily consented.
+
+These days Venice spends her life in the most superficial and sensual activities. Her day will consist of getting out of bed quite late and with some strange but athletic partner from the night before who's name she has already forgotten, going to the beauty salon to get her hair and nails done, and then going out drinking champagne and snorting cocaine at the various clubs at the hotels, which are visited by young dispossed nobility from Europe, up-and-coming movie stars, young pop stars etc. There is often a small gaggle of reporters following her around and she is very skilled in manipulating them through scandulous titallation - a review of glossy magazines will show various images where she appears to have a little bit of white powder on her upper lip, or there is just a hint of a nipple showing on a night-club floor due to a minor 'wardrobe failure'. Essentially, she is famous for being famous and has now worthwhile contribution to the universe. 
+
+For their own part, Mr. X, came on to the scene with the single and express desire to make as much money as they possibly could and sought the symbols that they thought represented that wealth and success; a fast car, a slick suit, a big house etc. Mr. X., had previously been a relatively small player in the real-estate world, and whilst they were making a good middle-class income, they weren't heading towards the big time that they desperately desired. One night, hearing the story from a fried hippy of the commune with a paper deed, he saw what was his big break in life (apart from being born in a first-world country as middle-class white male) and, following a modicum of research, took the opportunity to get his hands on the title.
+
+Unfortunately, Mr. X's desires to be rich and comfortable did not accord his business acumen. Whilst turning the former lands of the hippy commune into a hotel complex, he simulatenously managed cut corners everywhere and over-invest in the complex at the same time. Whilst plenty of cash flows through his hands, it is flowing out faster than it comes in, and the reality is that Mr. X., is effectively bankrupt. Mr X., also manages Venice's financial affairs, and whilst her lifestyle choices are expensive to say the least, he manages to make a good amount of underground income on the side by selling adult-entertainment videos of her favourite nocturnal habits via Interenet streaming cameras in her bedroom (Venice is unaware of this). The reality however is that such adult entertainment can only generate a good income for so long, and Venice is reaching the point of no longer paying her way, so to speak. Whilst not brilliant, Mr. X. is not completely stupid. He's done the sums and realised that the writing is on the wall. He's bought two one-way tickets to take himself and Venice to a new life in Los Republicos dos Los Bananes where he hopes to start a new life in the cocaine import-export business. At the very least, Venice will be good for quality tetsing.
+
+The official object of the PC worker's objective, the paper title deed, is kept in Mr X's office in a safe, with the two passports, tw0 one-way tickets to Republica dos Los Bananes, and $100,000 cash. A secondary object is Venice's dream-catcher, Mr. Dreamy. When Mr X., offered Venice more drugs than he thought she could consume, and told her that she had to break off contact with her family, he symbolically broke the dream-catcher into four parts in front of her. These are now scattered in different parts of the four hotels. If the PC workers find the four parts, and repair the dream-catcher it will revive a spirit within it. If Venice is confronted with the dream-catcher the spirit will "attack" her, reminding her of the good times of her past life.
 
 ### 5.2.2 Palace Ritz
 
-General Description: Derived from the Ritz in Paris this three storey building is in the style of the classical architecture from the reign of Louis XIV. There is a total of 60 rooms on the second and third floors, whereas the ground floor has a restaurant, swimming pool and gymnasium, a comfortable lobby with adjacent bar, plus the the hotel's laundry and administration. 
+Derived from the Ritz in Paris this three storey building is in the style of the classical architecture from the reign of Louis XIV and from looks quite beautiful on an initial glance. There is a total of 60 rooms on the second and third floors, whereas the ground floor has a restaurant, swimming pool and gymnasium, a comfortable lobby with adjacent bar, plus the the hotel's laundry and administration. There are two cleaning and laundry staff for the hotel, two people who work in administration, three kitchen and waiting staff, two personal trainers in the gymnasium, two people for security and grounds, and a gardener. The administration, laundry, and garden contain nothing of interest for this adventure, although they would have expected levels of security and potential rewards for petty thieves. The rooms are of a modest size, but include all the expected facilities (toilet, shower, TV, Wifi etc). 
 
-Naturally enough, everything about this restaurant is fake, a complete facade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean, although if there is ever a fire the place will go up in a toxic fireball.
+Notably, everything about this hotel is fake, a complete facade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value, there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean, although if there is ever a fire the place will go up in a toxic fireball.
 
-The restaurant is named "A demain" (until tomorrow) although several of the current and mostly former staff have suggested that this is a mispelling of the phonetically equivalent "A deux mains" (using both hands), referring to the maître d'hôtel's amorous predicilitions. The maître d' himself, Ali Monpourchien (which could be the phonetic "Aliment pour chien", i.e., dog food), is unsurprisingly not actually French or even remotely French, but a rather clever Egyptian who cannot believe his luck in finding a job where he can both pretend to French and can pretend to cook at the same time. In an unfortunate act of self-delusion he also promotes the myth that the he is the world's greatest lover.
- 
+The restaurant is named "A demain" ("Until Tomorrow") although several of the current and mostly former staff have suggested that this is a mispelling of the phonetically equivalent "A deux mains" ("Using both hands"), referring to the maître d'hôtel's amorous predicilitions. The maître d' himself, Ali Monpourchien (which could be the phonetic "Aliment pour chien", i.e., dog food), is unsurprisingly not actually French or even remotely French, but a rather clever Egyptian who cannot believe his luck in finding a job where he can both pretend to French and can pretend to cook at the same time. In a more unfortunate act of self-delusion he also promotes the myth that the he is the world's greatest lover. Any female character who is even slightly attractive (CHA 12+) will inevitably receive a special visit from the chef, who will expound at length his skill at cooking with none-too-subtle sexual metaphors that invariably conclude with an offer to visit his room to help him make his especially thick and creamy Vichysoise.
+
+The swimming pool and gymnaiusm is staffed by a French couple, XXX and XXX EDIT, who look like that they belong from a 1980s home-fitness TV show with their thin bodies, colourful leotards, legwarmers, big hair, and perfect smiles. On the various big-screen TVs throughout there fitness centres there is an endless repeat of stretching exercises with early 80s synthpop. The couple keep a busy schedule for interested guests of personal training, yoga classes, and even jazz ballet. Enrolling in any of these gruelling courses, which torture mind, body, and soul, which require visiting their office which is adorned in various fitness posters of the period, including their personal addition, a signed print of Oliver Newton-John's "Physical". Above this print attached to the wall is a quarter of the Venice's dreamcatcher. If asked they will say that they found it by the swimming pool just as they started working here. They're not particularly attached to it, but if will say they just thought they should keep it (this is the spirit of the dreamcatcher trying to prevent itself from being discarded). Any character who has this part of their dreamcatcher in their possession will dream of running and swimming outdoors, and will gain +1 to skill checks involving such activities.
+
 ### 5.2.3 Palace Cliveden
 
 General Description: Derived from the Cliveden in Buckinghamshire, this hotel is designed in the style of an Italianate mansion and with a significant estate of very green grass. There is a total of 47 rooms and 15 suites, with ground floor wings including a restaurant, a vast lounge and bar, with the hotel administratrion and suprisingly smaller lobby located at the central ground floor.
@@ -603,13 +625,11 @@ As with the Palace Ritz, a pretense is made towards authenticity. It is true, fo
 
 The staff are a collection of the most unusual paradies of British culture, all in one place. The maître d'hôtel, Peter File, is always deadly serious with a stiff upper lip regardless of how ridiculous the situation he often finds himself in. Peter is well assisted by the somewhat jovial accounts and bookings officer of ambiguous gender, Paige Turner. 
 
-
-
 ### 5.2.4 Palace Raffles
 
 General Description: Derived from the Raffles in Singapore.  The hotel has 103 suites, 8 restaurants, and a shopping arcade. Colonial Victorian style, large verandahs. Famous for silverware, long bar, and of course, the Singapore Sling.
 
-## 3.5 Palace Beverly Hills
+### 5.2.5 Palace Beverly Hills 
 
 General Description: Derived from the Beverly Hills Hotel, Sunset Boulevard in Beverly Hills, California. The hotel has 208 suites, and 23 bungalows. Coloured peach pink and green colors throughout.
 
