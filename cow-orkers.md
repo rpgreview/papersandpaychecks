@@ -619,11 +619,15 @@ The swimming pool and gymnaiusm is staffed by a French couple, XXX and XXX EDIT,
 
 ### 5.2.3 Palace Cliveden
 
-General Description: Derived from the Cliveden in Buckinghamshire, this hotel is designed in the style of an Italianate mansion and with a significant estate of very green grass. There is a total of 47 rooms and 15 suites, with ground floor wings including a restaurant, a vast lounge and bar, with the hotel administratrion and suprisingly smaller lobby located at the central ground floor.
+General Description: Derived from the Cliveden in Buckinghamshire, this hotel is designed in the style of an Italianate mansion and with a significant estate of very green grass which includes a sizable hedge maze, and English landscaped garden, complete with lake, and a 9-hole golf course. There is a total of 47 rooms and 15 suites, with ground floor wings which include a restaurant on one wing and a truly vast lounge and bar on the other, with the hotel administratrion and smaller lobby located at the central ground floor.
 
 As with the Palace Ritz, a pretense is made towards authenticity. It is true, for example, that the lounge has Chesterfield lounges and club chairs; anyone sitting on them will soon discover the sticky joy of the vinyl upholstery. The prints of famous hunting paintings are beautifully framed with baroque-styled gold plastic. Many will note that various whiskeys, crockery, foodstuffs etc are "By appointment" complete with crest, and whilst one may immediately think that these refer to products that hold a Royal Warrant of Appointment (United Kingdom), they are actually novelty crests referring to the Imperial and Royal Warrant of Appointment of the (former) Austro-Hungarian Empire.
 
-The staff are a collection of the most unusual paradies of British culture, all in one place. The maître d'hôtel, Peter File, is always deadly serious with a stiff upper lip regardless of how ridiculous the situation he often finds himself in. Peter is well assisted by the somewhat jovial accounts and bookings officer of ambiguous gender, Paige Turner. 
+The staff are a collection of the most unusual paradies of British culture, all in one place. The maître d'hôtel, Peter File, is always deadly serious with a stiff upper lip regardless of how ridiculous the situation he often finds himself in, which is common enough. Peter is well assisted by the far-too jovial accounts and bookings officer of ambiguous gender, Paige Turner who will also double as waiting staff on Friday and Saturday nights. 
+
+Another colourful character at the Cliveden is the slightly scruffy Major Grimes, a permanent resident. The Major is a former former naval officer who, in his late thirties, was an intelligence office on an outfitted fishing trawler that had been converted to a spy ship in the Falklands War. Unfortunately his hearing was damaged during that period due to close encounters with enemy shells, and now he is well and truly retired and effectively living in the bar, where he endlessly drones on about the quality of the scotch. Phlegmatic to the point of impossible, Major Gimes simply unfazeable regardless of what's going on around him. Which is just as well, as Major Grimes has a cache of unlicensed high-powered firearms stashed in his room. 
+
+
 
 ### 5.2.4 Palace Raffles
 
@@ -634,20 +638,6 @@ General Description: Derived from the Raffles in Singapore.  The hotel has 103 s
 General Description: Derived from the Beverly Hills Hotel, Sunset Boulevard in Beverly Hills, California. The hotel has 208 suites, and 23 bungalows. Coloured peach pink and green colors throughout.
 
 # Fantasy Papers and Paychecks
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Crime and Punishment
