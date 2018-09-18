@@ -193,6 +193,29 @@ Profession Skills:
 
 # 2.0 Additional Actions and the Environment
 
+## 2.1 More Action Rules
+
+Yesterday,   
+All those backups seemed a waste of pay.   
+Now my database has gone away.   
+Oh I believe in yesterday.   
+
+Suddenly,   
+There's not half the files there used to be,   
+And there's a milestone   
+hanging over me   
+The system crashed so suddenly.   
+
+I pushed something wrong   
+What it was I could not say.  
+Now all my data's gone away  
+and I long for yesterday
+
+Yesterday
+The need for back-ups seemd so far away.
+I knew my data was all here to stay,
+Now I believe in yesterday
+
 ## 2.2 More Equipment
 
 *Potion of Animal Control*: A curious alcoholic beverage, usually of a mid-strength cheap beer or white wine, requires by to be drunk by the "animal". An "animal" in this case being a particularly festive college-aged indvidual. Once consumed the "animal" will effectively have no resistance to the provider of the beverage for 32 rounds for animals of 01-05 CON, half that time for 06-15 CON, and a quarter of that time for CON 16-25, etc. ENC 1, cost $5 (for the drink) + $995 if the the control properties are known.
