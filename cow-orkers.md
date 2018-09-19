@@ -43,8 +43,8 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 0.3 Papers & Paychecks Errata
 
 1.0 Additional Character Classes
-1.1 The Athlete
-1.6 The Cheerleader Profession by Fred
+1.1 Sporting Professions
+1.2 Fantasy Professions
 
 2.0 Additional Actions and the Environment
 2.1 More Action Rules
@@ -58,6 +58,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 4.0 Even More Boss and Alternate Settings
 4.1 So You Want it Darker?
 4.2 Fantasy Papers & Paychecks
+4.3 Boss-Level Secrets
 
 5.0 Alternate Settings and Scenarios
 5.1 Scenario: Keep The Borderlands by Michael Cole
@@ -430,6 +431,16 @@ In North Korea there is one official source of television news, Korean Central T
 
 
 ## 4.2 Fantasy Papers & Paychecks
+
+## 4.3 Boss-Level Secrets
+
+In the core rulebook there is an extensive section for advising The Boss on how to keep player-character workers in line whilst at the same time generating an interesting story of action and adventure. Alas, sometimes The Boss finds themselves being berated and bullied into submission by their players whilst at the same time plot outcomes seem to unreasonably favour the PCs. Well, it is time for you to take back control. It is time for you to be The Boss, with the definite article, and start shouting in German because life is short and terrifying. Shout it! Bist du unterm Pantoffel stehen?! See, you feel better already. Now, let's take back control of the game whilst *pretending* that you haven't and creating an entertaining story tha the players will think is of their own creation. This is *The Secrets of Being The Boss*.
+
+**Luck: Rarer than Rocking-Horse Shit**
+
+*Papers & Paychecks* is a game that comes with systemic narrativism. That is, the players have a a metagame value to alter the result of a die-roll according to their voilition, and is rewarded to players who make an earnest contribution to the game. In part this is the systemic implementation of what GMs have been doing for years in a subjective manner
+
+
 
 # 5.0 Alternate Settings and Scenarios
 
