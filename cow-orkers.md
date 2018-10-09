@@ -438,7 +438,9 @@ In the core rulebook there is an extensive section for advising The Boss on how 
 
 **Luck: Rarer than Rocking-Horse Shit**
 
-*Papers & Paychecks* is a game that comes with systemic narrativism. That is, the players have a a metagame value to alter the result of a die-roll according to their voilition, and is rewarded to players who make an earnest contribution to the game. In part this is the systemic implementation of what GMs have been doing for years in a subjective manner
+*Papers & Paychecks* is a game that comes with systemic narrativism. That is, the players have a a metagame value to alter the result of a die-roll according to their voilition, and is rewarded to players who make an earnest contribution to the game. In part this is the systemic implementation of what GMs have been doing for years in a subjective manner. After all there's an entire game-system called "FUDGE" (yes, it an acronym), which was a bit of an in-joke recognition of this problem. GMs for *years* have looked what the dice have rolled and promptly ignored it because it would completely derail a plot, or never get it into the plot in the case of a failed Library Use roll in *Call of Cthulhu*, or it would lead to the sudden, random, and unexpected demise of a favoured PC or NPC. For the most part, as long as the illusion of randomness is maintained, all seems well.
+
+
 
 
 
