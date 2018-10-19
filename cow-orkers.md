@@ -434,7 +434,24 @@ In North Korea there is one official source of television news, Korean Central T
 
 ## 4.3 Boss-Level Secrets
 
-In the core rulebook there is an extensive section for advising The Boss on how to keep player-character workers in line whilst at the same time generating an interesting story of action and adventure. Alas, sometimes The Boss finds themselves being berated and bullied into submission by their players whilst at the same time plot outcomes seem to unreasonably favour the PCs. Well, it is time for you to take back control. It is time for you to be The Boss, with the definite article, and start shouting in German because life is short and terrifying. Shout it! Bist du unterm Pantoffel stehen?! See, you feel better already. Now, let's take back control of the game whilst *pretending* that you haven't and creating an entertaining story tha the players will think is of their own creation. This is *The Secrets of Being The Boss*.
+In the core rulebook there is an extensive section for advising The Boss on how to keep player-character workers in line whilst at the same time generating an interesting story of action and adventure. Alas, sometimes The Boss finds themselves being berated and bullied into submission by their players whilst at the same time plot outcomes seem to unreasonably favour the PCs. Well, it is time for you to take back control. It is time for you to be The Boss, with the definite article, and start shouting in German because life is short and terrifying. Shout it! Bist du unterm Pantoffel stehen?! See, you feel better already. Now, let's take back control of the game whilst *pretending* that you haven't and creating an entertaining story tha that players will think is of their own creation. This is *The Secrets of Being The Boss*.
+
+**Maximum Game Joy**
+
+Many suggestion of game play argue for "fun". An example of this is found in *RuneQuest: Roleplaying in Glorantha*. It reads:
+
+```
+Maximum Game Fun
+When writing, thinking, and gaming in Glorantha, always ask yourself, "Now, in this situation what is the most fun?" and then go with it. That's Maximum Game Fun (MGF). Keep this principle in mind whenever you apply the rules of RuneQuest to any situation.
+```
+
+Now one would be thinking that a deliberately comic game like *Papers & Paychecks* would _thoroughly_ endorse this comment. At first blush, it does make a lot of sense with objective of entertainment. But there is a couple of minor modifications to the suggestion, whilst giving it recognition as a worthy contribution. Firstly, it is recognised that the word "fun" comes from the North Germanic noun fon ("foolish, simple, silly") or verb fonnen ("make a fool of"), and in English it first appears in 1680s meaning "to cheat, trick". Now sometimes we do want to play a foolish and silly game; "shits and giggles" as it is often described. But not all the time. 
+
+Perhaps what should be sought is "Maximum Game Joy", which is closer to a happiness from acquisition or experience, bliss, and glee. What's the difference? With "joy" you can have a _player_ experience depths of frustration and sadness, at a particular moment and still come out of the experience with _joy_ - just like a good play or movie does.
+
+One other point must be emphasized, and why "joy" is probably a better objective than "fun". "Fun" tends to argue for immediate pleasure in a situation which is short-term, whereas "joy" provides greater opportunity for a delayed, but longer-lasting pleasure from the gaming experience. The sheer frustration of battling Whitechapel the Fatberg may not seem to be much fun at the time, but when it is finally defeated and the secret revealed, a greater and more satisfying pleasure is received.
+
+"Joy" can and should include "fun", but not just fun; "joy" is a more encompassing term. So think it terms of what is the most _joy_ you can bring to any situation, and go with it.
 
 **Luck: Rarer than Rocking-Horse Shit**
 
