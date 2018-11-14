@@ -461,7 +461,19 @@ Further, players should seriously earn their Luck points. Just an overly-generou
 
 In many ways, Luck is both a carrot and a stick to encourge players to engage in the story in a dramatic fashion. When the Boss awards points it acts as a carrot. Waving around a shiny glass bead that catches the light at the right moment is a great prop. On the other hand the possibility of the Boss taking away a Luck point acts as a very powerful stick. Remember that this is a game where Luck points can go negative - which means that the Boss will favour the world as an antagonist against the player and their characters at the worst possible time. Overall however, there should be sufficient opportunities for players to earn at least a 3-4 Luck points per game session - and certainly at least 4-5 situations where they almost certainly have to spend one to get out of a problem. Review the *Code Of Cthulhu* from the core rulebook to give a particularly strong example of Luck in action. 
 
-Make the the players are actively seeking ways to gain Luck points. Remember that Luck is a *player*  characteristic, not a character characteristic. In a story, the most powerful character is often quite different to the one who is most Lucky, and indeed, the sheer pluck of a weaker charater will often see them through, "audentis Fortuna iuvat" (Turnus, in Virgil's "Aeneid"), "fortune favours the bold", and in *Papers & Paychecks* the player has a mechanism to give a higher degree of truth to that statement than reality would otherwise grant. But of course, not just any player. It is those players that have earned Luck points. It is those who have contributed by their acting, by providing a pleasant venue, by those who arrive on time etc. A character who is powerful but is played by a person who is a disruptive person and is constantly out-of-character will find that fortune does not favour any of their characters.
+Make the the players are actively seeking ways to gain Luck points. Remember that Luck is a *player*  characteristic, not a character characteristic. In a story, the most powerful character is often quite different to the one who is most Lucky, and indeed, the sheer pluck of a weaker charater will often see them through, "audentis Fortuna iuvat" (Turnus, in Virgil's "Aeneid"), "fortune favours the bold", and in *Papers & Paychecks* the player has a mechanism to give a higher degree of truth to that statement than reality would otherwise grant. But of course, not just any player. It is those players that have earned Luck points. It is those who have contributed by their acting, by providing a pleasant venue, to those who arrive on time etc. A character who is powerful but is played by a person who is a disruptive person and is constantly out-of-character will find that fortune does not favour any of their characters.
+
+**The Unreality of Monsters**
+
+```
+Newt: My mommy always said there were no monsters - no real ones - but there are.   
+Ripley: Yes, there are, aren't there?   
+Newt: Why do they tell little kids that?   
+Ripley: Most of the time it's true.   
+-- Aliens (1986)
+```
+
+
 
 
 

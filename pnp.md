@@ -913,7 +913,7 @@ The Read/Write Science perk represents that the character has learned the art of
 
 Security Access provides a character with the means (keys, swipe cards) to access _a_ (singular) restricted area of a place of employment. This applies to permanent, casual, and contract staff, and is particularly useful in the latter case for various forms of infiltration.
 
-<a href="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/security.png" />
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/security.png" />
 
 **Small Business**
 
