@@ -449,6 +449,11 @@ Now one would be thinking that a deliberately comic game like *Papers & Paycheck
 
 Perhaps what should be sought is "Maximum Game Joy", which is closer to a happiness from acquisition or experience, bliss, and glee. What's the difference? With "joy" you can have a _player_ experience depths of frustration and sadness, at a particular moment and still come out of the experience with _joy_ - just like a good play or movie does. Think of a player who is so moved by the description of a scene that they are literally in _tears_ (of sadness or happiness). This does not sound like fun, but it certainly is joy.
 
+```
+Give them pleasure – the same pleasure they have when they wake up from a nightmare.   
+-Alfred Hitchcok, On audiences, Asbury Park NJ Press (13 August 1974).   
+```
+
 One other point must be emphasized, and why "joy" is probably a better objective than "fun". "Fun" tends to argue for immediate pleasure in a situation which is short-term, whereas "joy" provides greater opportunity for a delayed, but longer-lasting pleasure from the gaming experience. The sheer frustration of battling Whitechapel the Fatberg may not seem to be much fun at the time, but when it is finally defeated and the secret revealed, a greater and more satisfying pleasure is received. "Joy" can and often should include "fun" especially in a game like *Papers & Paychecks* where the humour can contain slapstick elements. But is not always and not just fun; "joy" is a more encompassing term. So think it terms of what is the most _joy_ you can bring to any situation, and go with it.
 
 **Luck: Rarer than Rocking-Horse Shit**
