@@ -76,7 +76,7 @@ p28 - Intellect Fortress appears twice with two different descriptions
 
 # 1.0 Additional Character Classes
 
-*Papers & Paycheck* can be a very adaptable game system. Whilst the character professions in the core rulebook as designed to be a broad representation of the various jobs found in a workplace, it has been pointed out that there were other professions that don't quite fit. Thus, more niche professions are offered here for such games.
+*Papers & Paycheck* can be a very adaptable game system. Whilst the character professions in the core rulebook as designed to be a broad representation of the various jobs found in a workplace, it has been pointed out that there were other professions that don't quite fit the standard workplace environment. Thus, a few more niche professions are offered here for such games.
 
 ## 1.1 Sporting Professions
 
@@ -217,6 +217,12 @@ The need for back-ups seemd so far away.
 I knew my data was all here to stay,
 Now I believe in yesterday
 
+**Passive-Agressive Attack**
+
+#Papers & Paychecks
+https://www.theguardian.com/technology/shortcuts/2018/aug/27/re-attaching-for-convenience-passive-aggressive-email-phrases-poll
+
+
 ## 2.2 More Equipment
 
 *Potion of Animal Control*: A curious alcoholic beverage, usually of a mid-strength cheap beer or white wine, requires by to be drunk by the "animal". An "animal" in this case being a particularly festive college-aged indvidual. Once consumed the "animal" will effectively have no resistance to the provider of the beverage for 32 rounds for animals of 01-05 CON, half that time for 06-15 CON, and a quarter of that time for CON 16-25, etc. ENC 1, cost $5 (for the drink) + $995 if the the control properties are known.
@@ -335,6 +341,14 @@ Charles the Tall Intern appeared one day at the coffee machine, emptied the pot 
 
 That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
 
+
+
+
+Niles Lath O'Tep
+He's a groundskeeper from Connacht. Lives with his mum and a Glen of Imaal Terrier
+
+
+Chiron, Greek hero and doctor, Centaur of Disease Control, advocate of herd immunity.
 
 
 ## 3.3 The Telstra Switch
@@ -468,7 +482,7 @@ In many ways, Luck is both a carrot and a stick to encourge players to engage in
 
 Make the the players are actively seeking ways to gain Luck points. Remember that Luck is a *player*  characteristic, not a character characteristic. In a story, the most powerful character is often quite different to the one who is most Lucky, and indeed, the sheer pluck of a weaker charater will often see them through, "audentis Fortuna iuvat" (Turnus, in Virgil's "Aeneid"), "fortune favours the bold", and in *Papers & Paychecks* the player has a mechanism to give a higher degree of truth to that statement than reality would otherwise grant. But of course, not just any player. It is those players that have earned Luck points. It is those who have contributed by their acting, by providing a pleasant venue, to those who arrive on time etc. A character who is powerful but is played by a person who is a disruptive person and is constantly out-of-character will find that fortune does not favour any of their characters.
 
-**The Unreality of Monsters**
+**The Magical Realism of Monsters**
 
 ```
 Newt: My mommy always said there were no monsters - no real ones - but there are.   
@@ -478,7 +492,13 @@ Ripley: Most of the time it's true.
 -- Aliens (1986)
 ```
 
+Whilst *Papers & Paychecks* is partially inspired by modern rolepaying games which have supernatural elements (the *Ghostbusters* "frightfully cheerful RPG is particularly noted), it is very important that the Boss ensures that the monsters aren't real, at least in a sense. This may seem counter-intuitive at first. After all, the various sapient monsters in the main rulebook have charactreristics, skills, personality and so forth. In that sense, yes, they can are "real". They are NPCs who will have a direct influence on the environment and PCs. 
 
+In another sense however they are not real. That is, all their activities remain hidden from human perception and recording. All the effects of a monster's behaviour is something that is explicible; the coffee machine gurgles and spurts hot fluid over the final contract that you're about to deliver to a meeting, the pen that leaks just as one purchases an expensive white shirt, and so forth from the trivial nuissance to downright dangerous, the things appear to be have a mind of their own ranging from mischief to malice. 
+
+Under almost no circumstances however, will the monsters reveal themselves, and to a degree they probably can't - their perception is called "Extra Sensory Perception" for a reason. They are, in a sense, "spiritual machines" and created from their presence with humans. With the exception of voice-controlled devices, even communication between monsters and humans takes the appearance of "voices in one's head", and we know how people who make such claims are treated. Of course, exceptions do exist (c.f., Garry the Gazebo) but again such a revelation is stories which no person would believe, and those who claim otherwise would be justly ridiculed.
+
+The literary genre to apply, albeit often in a comic manner in *Papers & Paychecks*, is that of 'magical realism'. Whilst it is common among fictional genres for their to be some furious debate about such terms in this context it follows the expression found in writers like Gabriel García Márquez (_One Hundred Years of Solitude_) and Salman Rushdie (_Midnight's Children_). In these novels, from the protagonist's perspective, the world is certainly magical. But the expression of this magic is subtle, and subjective. From an objective viewer, various events may have a dramatic quality about them, but they are certainly realistic. Keep that spirit in *Papers & Paychecks*.
 
 
 
@@ -722,9 +742,6 @@ Derived from the Beverly Hills Hotel, of Sunset Boulevard in Beverly Hills, Cali
 Palace Beverly Hills is three stories high, with thirty room on on the second and third floors and fifteen on the ground floor which also hosts the lobby, bar, and restaurant. Beyond the dining area, swimming pools, and bungalows is a sprawling golf course with so many electric carts scooting about that one would be forgiven the prime purpose of golf is to hit a ball and go for a walk. This said, many of the people at Palace Beverly Hills require such vehicles. Whether it is simply a matter of genetics, bad diet, or lack of exercise, the proportion of people who fall into the obese scale of the BMI is close to one hundred percent. Actually anyone staying here will soon find out that the local restaurant, "Lard Have Mercy", is a contributing factor. Here the historical food pyramid is inverted, so refined sugars, corn syrup, trans-unsaturated fats, etc provide a foundation which works its way up to minimal provision of vegetables, salads, and fruit. For Sundays its also becomes an church where one can possibly receive the most nutritious meal of the week - loaves and fishes. A hefty donation is requisite, as Rev. Telly Vangelist needs a new private jet. After all, how is he going to travel to those poor people in foreign countries and spread the good word? The Reverend Telly of course has their own secret and is always on the lookout for handsome young men to join him on these journeys where he can fulfil his sense of charity - "it is better to give than to receive". Training for such exotic journeys are often carried out in the Telly's bunga-bungalow. 
 
 The only people found at the Palace Beverly Hills who don't fall into the WASP stereotype are the workers. The olive-skinned chef, Jim Balaya, is of Creole Louisiana background, and speaks English, French, and Spanish fluently. He is also surprisingly thin, given the food that he cooks and the reason for this is quite simple - he never eats a meal. Certainly he snacks all day on whatever is being prepared, but no-one has ever seen him sit down and eat a meal. Whilst one may assume that his grazing activities are sufficient what is unknown to almost all is that Jim keeps a secret stash of fresh fruit and vegetables in the restaurant's walk-in fridge, which he snacks on when nobody is looking. As much as he loves providing mountains of foie gras, the fluffiest white bread, dishes constructed out of chicken and pork fat, impossibly sweet pastries, and so forth, he is less of a fool that his customers. In fact, he is deliberately trying to kill them; so far four people at the hotel have suffered fatal heart attacks. One day a psychologist will discover that Jim's impoverished (and often hungry) childhood has led him to a position where he derives pleasure from watching the people that he despises most die from the culinary pleasure that he can provide them. This is in part inspired by the whisperings of "Cheesecake", the feminine fridge with a Fieldmarshall personality, who shares this extreme disdain for the well-to-do. Why 'Cheesecake'? Because everyone knows that revenge is a sweet dish best served cold.
-
-
-# Fantasy Papers and Paychecks
 
 
 
