@@ -63,6 +63,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 5.0 Alternate Settings and Scenarios
 5.1 Scenario: Keep The Borderlands by Michael Cole
 5.2 Scenario: Palaces of the Electrum Princess
+5.3 Scenario: Camp 22
 
 # 0.0 Introduction
 
@@ -224,6 +225,8 @@ https://www.theguardian.com/technology/shortcuts/2018/aug/27/re-attaching-for-co
 
 
 ## 2.2 More Equipment
+
+*Manual/Website of Pain*: This manual or website is a necessary, long, and critical document that the PC Worker has to read, courtesy of a requirement from their boss. It might be a legal contract, an device operation manual, an OH&S requirements checklist. Regardless, it will take 3 strategic turns to complete. However the grave problem with the manual is that it contains the mystical power of multiple insanity-inducing typographical attacks. In the first strategic turn the manual attacks with an INT of 12 with the the two attacks of poor kerning and a gratious use of Comic Sans, each of which does 1d4 Mental Bruises. In the second strategic turn there are hanging paragraphs and paragraphs of *lorem ipsum* text, which attack wih an INT of 14 and causing 1d6 Mental Brusies each. Finally, in the third strategic turn it is discovered that the document has broken indexing (or dead hyperlinks) and acronyms without elaboration or glossary. These attack with an INT of 16 and cause 1d4 Mental Wounds. *The Manual/Website of Pain* costs $100, either as a specialist book (ENC 1) or as a web-subscription service.
 
 *Potion of Animal Control*: A curious alcoholic beverage, usually of a mid-strength cheap beer or white wine, requires by to be drunk by the "animal". An "animal" in this case being a particularly festive college-aged indvidual. Once consumed the "animal" will effectively have no resistance to the provider of the beverage for 32 rounds for animals of 01-05 CON, half that time for 06-15 CON, and a quarter of that time for CON 16-25, etc. ENC 1, cost $5 (for the drink) + $995 if the the control properties are known.
 
@@ -744,6 +747,12 @@ Palace Beverly Hills is three stories high, with thirty room on on the second an
 The only people found at the Palace Beverly Hills who don't fall into the WASP stereotype are the workers. The olive-skinned chef, Jim Balaya, is of Creole Louisiana background, and speaks English, French, and Spanish fluently. He is also surprisingly thin, given the food that he cooks and the reason for this is quite simple - he never eats a meal. Certainly he snacks all day on whatever is being prepared, but no-one has ever seen him sit down and eat a meal. Whilst one may assume that his grazing activities are sufficient what is unknown to almost all is that Jim keeps a secret stash of fresh fruit and vegetables in the restaurant's walk-in fridge, which he snacks on when nobody is looking. As much as he loves providing mountains of foie gras, the fluffiest white bread, dishes constructed out of chicken and pork fat, impossibly sweet pastries, and so forth, he is less of a fool that his customers. In fact, he is deliberately trying to kill them; so far four people at the hotel have suffered fatal heart attacks. One day a psychologist will discover that Jim's impoverished (and often hungry) childhood has led him to a position where he derives pleasure from watching the people that he despises most die from the culinary pleasure that he can provide them. This is in part inspired by the whisperings of "Cheesecake", the feminine fridge with a Fieldmarshall personality, who shares this extreme disdain for the well-to-do. Why 'Cheesecake'? Because everyone knows that revenge is a sweet dish best served cold.
 
 
+## 5.3 Camp 22
+
+Synopsis: A mash-up between the novel 'Catch 22' and Hoeryong concentration camp in North Kora (known as Camp 22), which makes use of the setting "So You Want It Darker?", from a perspective of spurious logic.
+
+http://www.abc.net.au/news/2018-09-17/amp-charges-dead-customers-for-life-insurance/10255978
+
 
 # Crime and Punishment
 
@@ -751,4 +760,6 @@ The only people found at the Palace Beverly Hills who don't fall into the WASP s
 
 Time Magazine, Foreign News: Rogue's Rat, Monday, Jan. 22, 1934
 http://content.time.com/time/magazine/article/0,9171,746859,00.html
+
+
 
