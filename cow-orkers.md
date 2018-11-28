@@ -220,8 +220,15 @@ Now I believe in yesterday
 
 **Passive-Agressive Attack**
 
-#Papers & Paychecks
-https://www.theguardian.com/technology/shortcuts/2018/aug/27/re-attaching-for-convenience-passive-aggressive-email-phrases-poll
+*"Fine. See if I care."*
+
+A passive-agrressive action is an indirect attack against another character which appeals to their own sense of intelligence and moral rightness rather than direct opposition. The attacker appears passive, or even wronged, evoking a sense of sympathy, when in reality they are the one's engaging in an attack. 
+
+In *Papers & Paychecks* a passive-aggressive attack is a special maneuver using the Act skill which combines both a mental and social attack on a target. It is a tactical action which pits the Act+CHA skill against the WIS of the defender, plus any mental defenses that they can gather. If the defender fails they take the differnence in Mental Bruises. Further, any characters who witness the passive-aggressive attack will also have match their own WIS against the value of the attack. If they fail, the defender takes half damage in Social Bruises due to the sympathy that the observers have.
+
+However being passive-aggressive does develop some risks. If the attack fails, the defender gains the difference as temporary mental hit points as they develop a sense of strength in recognising this type of attack. Likewise if it fails against observers, they will respond by generating half-value social bruises on the attacker. 
+
+In contemporary society passive-aggressive attacks can be carried out by email or in webforums etc. The particular danger of the latter is observers might notice and inform others in the conversation thread. This provides observers the opportunity for a second defense roll with a +2 bonus. In one-to-one email conversations they are particularly effective especially in the faux formality of an office environment.
 
 
 ## 2.2 More Equipment
