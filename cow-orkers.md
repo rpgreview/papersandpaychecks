@@ -65,6 +65,9 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 5.2 Scenario: Palaces of the Electrum Princess
 5.3 Scenario: Camp 22
 
+6.0 Appendicies
+6.1 Source and Inspirational Material
+
 # 0.0 Introduction
 
 ## 0.1 Foreword
@@ -230,7 +233,6 @@ However being passive-aggressive does develop some risks. If the attack fails, t
 
 In contemporary society passive-aggressive attacks can be carried out by email or in webforums etc. The particular danger of the latter is observers might notice and inform others in the conversation thread. This provides observers the opportunity for a second defense roll with a +2 bonus. In one-to-one email conversations they are particularly effective especially in the faux formality of an office environment.
 
-
 ## 2.2 More Equipment
 
 *Manual/Website of Pain*: This manual or website is a necessary, long, and critical document that the PC Worker has to read, courtesy of a requirement from their boss. It might be a legal contract, an device operation manual, an OH&S requirements checklist. Regardless, it will take 3 strategic turns to complete. However the grave problem with the manual is that it contains the mystical power of multiple insanity-inducing typographical attacks. In the first strategic turn the manual attacks with an INT of 12 with the the two attacks of poor kerning and a gratious use of Comic Sans, each of which does 1d4 Mental Bruises. In the second strategic turn there are hanging paragraphs and paragraphs of *lorem ipsum* text, which attack wih an INT of 14 and causing 1d6 Mental Brusies each. Finally, in the third strategic turn it is discovered that the document has broken indexing (or dead hyperlinks) and acronyms without elaboration or glossary. These attack with an INT of 16 and cause 1d4 Mental Wounds. *The Manual/Website of Pain* costs $100, either as a specialist book (ENC 1) or as a web-subscription service.
@@ -247,7 +249,7 @@ In contemporary society passive-aggressive attacks can be carried out by email o
 
 *Rod of Dowsing*: An otherwise L-shaped or Y-shaped stick can be used in to locate ground water, oil, precious metals or gems, and even old gravesites. When used by a person who believes in the superstition, they gain a +5 bonus in discovering what they are searching for. When it is subject to scientific observation, it will fail to operate. ENC 1, cost $5000.
 
-*Staff of Striking*: A staff of striking is specialist targetting weapon that especially affects any characters with levels in Labourer or Tradesperson. The bearer of the staff, upon striking the ground, an attracting the attention of members of said classes within hearing range, will provide a bonus of +5 to attempts to influence said characters but only for the purpose of encouraging them to withdrew their labour from their employer. The range, of course, is quite effective in a room with wooden floorboards and a high roof, and is less effective outside on a windy day. Artificial enhancement of the sound and speech is still effective. ENC 2, cost $5000. 
+*Staff of Striking*: A staff of striking is specialist targetting weapon that especially affects any characters with levels in Labourer or Tradesperson. The bearer of the staff, upon striking the ground, an attracting the attention of members of said classes within hearing range, will provide a bonus of +5 to attempts to influence said characters but only for the purpose of encouraging them to withdraw their labour from their employer. The range, of course, is quite effective in a room with wooden floorboards and a high roof, and is less effective outside on a windy day. Artificial enhancement of the sound and speech is still effective. ENC 2, cost $5000. 
 
 *Vicarious and Vacuous Grimoire*: "Like sands through the hourglass...." This tome provides drama utterly inane and ficticious characters, their relationships, challenges (especially romantic), and intrigues. Whilst utterly bereft of useful information it is also extraordinarily compelling, and any character who so much as reads the first page will have to make a WIS check with a difficulty of 11. If they fail they will spend the next 15 strategic turns doing nothing but reading the story of the Cordroy and Chime families. During this time their INT is reduced by 5, and their CHA by 5 as they insist on trying to tell all and sundry of the tale. Worse still, when completing the book they find there is another volume, which also requires a WIS check to resist purchasing and reading; "It Never Ends". ENC 1, cost $100
 
@@ -275,15 +277,22 @@ by Fred
 This terrible wandering monster will attack you at your home base, camp or even a temporary stopping place if you stand somewhere too long. There are a number of different variations of this beast but the effects are similar. Once approached you must make a save vs intelligence or be ensnarled for 1-12 turns. You make continue to make saves every turn with the of adding an additional temporary +1 cumulatively to your intelligence every turn until you finally save or 12 turns have passed. Varieties include a selection of religious zealots. This variety usually walks or peddles up to you wearing a completely covering jacket and pantaloons (often black) no matter how hot the temperature outside. They can also be wearing what appears to be a black, flat noose tied around their necks. They always travel in groups of at least 2 and will spend the time while you are ensnarled trying to
 convert you to their religion. This can include pamphlets that contain information that defies logic or reason.
 
-Another version is salesman. This variety will attempt to pressure you during your ensnarlment to purchase expensive items you don’t need that will frequently not work. Even if you agree to purchase the items they are pushing they will continue to tell you how wonderful the items are and what a great purchase you have made until you save or the time runs out. roll percentile dice to determine what they are selling. 1-10% a magic item that is supposed to clean your home, den, castle, dungeon but usually just breaks during the first use. 11-40% A variety of potions that when applied to your face/hair/body will increase your comliness by +3. This is a usually harmless product but it will do nothing thats promised at all. 41-70% Miraculous food products that you can sell to your friends so they can sell to their friends. This will end up costing you all your accumulated wealth and you will end up with a vault full of food and drink that will taste horrible and provide no more nourishment than eating tree bark. all the while your charisma will drop -6 points and your friends will avoid you and flee on seeing you coming. 71-100% candy. This inisdious product is usually sold by what appears to be children. During your ensnarlement they will tell you tales of woe that will make you feel bad if you don’t give them all your loot. Save versus wisdom or give them whatever coinage you have on you. Also, the candy has an addictive quality, especially the peanut butter
-patties, that will cause you to seek out further Door-to-Door monsters looking for the children who sell the cookies.
+Another version is salesman. This variety will attempt to pressure you during your ensnarlment to purchase expensive items you don’t need that will frequently not work. Even if you agree to purchase the items they are pushing they will continue to tell you how wonderful the items are and what a great purchase you have made until you save or the time runs out. roll percentile dice to determine what they are selling. 1-10% a magic item that is supposed to clean your home, den, castle, dungeon but usually just breaks during the first use. 11-40% A variety of potions that when applied to your face/hair/body will increase your comliness by +3. This is a usually harmless product but it will do nothing thats promised at all. 41-70% Miraculous food products that you can sell to your friends so they can sell to their friends. This will end up costing you all your accumulated wealth and you will end up with a vault full of food and drink that will taste horrible and provide no more nourishment than eating tree bark. all the while your charisma will drop -6 points and your friends will avoid you and flee on seeing you coming. 71-100% candy. This inisdious product is usually sold by what appears to be children. During your ensnarlement they will tell you tales of woe that will make you feel bad if you don’t give them all your loot. Save versus wisdom or give them whatever coinage you have on you. Also, the candy has an addictive quality, especially the peanut butter patties, that will cause you to seek out further Door-to-Door monsters looking for the children who sell the cookies.
+
+
+**Marie, a Rug of Mothering**
+
+INT 11 (+0), WIS 18 (+4), CHA 10 (+1), I+2 S+3 F+3 J+2 (Promoter)
+
+Appearing as a fine blue and red threaded Belgian worsted wool rug, with some rather nice patterning, Marie forms a very strong emotional attachment towards the owner.
+
 
 
 **Shannon, a Ring of Turning**
 
 INT 13 (+1), WIS 18 (+4), CHA 13 (+1), E+4 S+1 T+1 P+2 (Promoter)
 
-The androgynous Shannon makes the appearance of a plain white gold ring of some obvious value. However, by means of subtle persuasion, as such Things are wont to do, Shannon will passed on one character to the next until they find who expresses a hatred towards same-sex attracted individuals. Through a very gradual process Shannon will "turn" the character. As such homophobia is based on on the internal will of the charactre's own homosexual desires, this is carried out as a series of mental attacks, until they are brought to zero mental hit points as wounds - however in this case they are not incapacitated, but in the contrary, they are cured of their own irrational hatreds.
+The androgynous Shannon makes the appearance of a plain white gold ring of some obvious value. However, by means of subtle persuasion, as such Things are wont to do, Shannon will passed on one character to the next until they find who expresses a hatred towards same-sex attracted individuals. Through a very gradual process Shannon will "turn" the character. As such homophobia is based on on the internal will of the charactre's own homosexual desires, this is carried out as a series of mental attacks, until they are brought to zero mental hit points as wounds - however in this case they are not incapacitated, but in the contrary, they are cured of their own irrational hatreds and will truly accept their own desires.
 
 > New Study Links Homophobia with Homosexual Arousal   
 WASHINGTON -- Psychoanalytic theory holds that homophobia -- the fear, anxiety, anger, discomfort and aversion that some ostensibly heterosexual people hold for gay individuals -- is the result of repressed homosexual urges that the person is either unaware of or denies. A study appearing in the August 1996 issue of the Journal of Abnormal Psychology, published by the American Psychological Association (APA), provides new empirical evidence that is consistent with that theory.
@@ -767,6 +776,23 @@ http://www.abc.net.au/news/2018-09-17/amp-charges-dead-customers-for-life-insura
 
 Time Magazine, Foreign News: Rogue's Rat, Monday, Jan. 22, 1934
 http://content.time.com/time/magazine/article/0,9171,746859,00.html
+
+
+# 6.0 Appendicies
+
+# 6.1 Source and Inspirational Material
+
+John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
+
+
+
+# Publishing
+
+Three decades ago Will McLean brought us many laughs with the "Papers & Paychecks" illustration in the Dungeon Masters Guide for Advanced Dungeons & Dragons. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that "Papers and Paychecks" would make a great roleplaying game.
+
+In 2017 this game became a reality, a 128 page book with artwork from Dan 'Smif' Smith, famous for his illustrations from the GURPS line of books, Randall Munroe's famous XKCD comics, and with a foreword by the first employee of TSR, Tim Kask.
+
+In "Papers & Paychecks" the world itself is downright hostile towards the PCs on a metaphysical level, although usually in a manner that is hilarious. In this, the first supplement for the game, there are new character classes, new equipment, new NPCs, new settings (fantasy, noir), and new scenarios, including "Keep Our Borderlands", "The Palace of the Electrum Princess", and "Camp 22".
 
 
 
