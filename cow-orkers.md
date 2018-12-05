@@ -208,16 +208,27 @@ In the core rules the language skill is treated as a knowledge skill with requir
 
 A *dialect* (very high degree of mutual intelligibility, regional differences, status or subculture keywords etc) has a -1 modifier. An example would be Low and High German. 
 
-A *sister* language (substantial degree of mutual intelligibility, but considered separate languages) has a  -2 modifier. An example would be Dutch and Afrikaans.
+A *sister* language (substantial degree of mutual intelligibility, but considered separate languages) has a -2 modifier. An example would be Dutch and Afrikaans.
 
 A *related* language (low degree of mutual intelligibility, part of the same language family), has a -4 modifier. An example would be French and Italian.
 
 A *distantly related* language (very low degree of mutual intelligibility, part of the same extended family group), has a -8 modifier. An example would be Spanish and Russian.
 
-Linguistic communication is between *unrelated* languages (no degree of mutual intelligibility, different language family) is not possible. Try charades. 
+Between *unrelated* languages (no degree of mutual intelligibility, different language family) linguistic communication is not possible. Try charades. 
 
 
 
+The degree of complexity of the communication establishes the Target Number. 
+
+Difficulty		Rating		Example
+Very easy		5		"I want food."
+Easy			7		"
+Average			9
+Tough			11
+Challenging		13
+Formidable		15
+Heroic			17
+Nearly Impossible	19
 
 
 # 2.0 Additional Actions and the Environment
@@ -309,7 +320,7 @@ INT 11 (+0), WIS 18 (+4), CHA 10 (+1), I+2 S+3 F+3 J+2 (Protector)
 
 Appearing as a fine blue and red threaded Belgian worsted wool rug, with some rather nice patterning, Marie forms a very strong emotional attachment towards the owner, in fact, an overwhelming attachment of motherly love. This involves whispering suggestions that they should brush their teeth, comb their hair, eat their vegetables, polish their shoes, and make sure that they have clean underwear before going outside. Any and all potential romantic partners will be treated with disdain with every potential flaw elaborated to their point that further affections down this path will lead to financial calamity and massive social embarrassment. If Marie is constantly ignored they will engage in passive-aggressive attacks with a bonus of +2, but only causing mental damage, rather than the usual mental plus social damage.
 
-As the rug of mothering seems to be a common psychological trope there are regional variants of Marie that can appear as a Persian rug, a shagpile, a hallway runner, tufted, and braided. In one unique variat the rug of mothering even appeared as a doormat, with all that follows.
+As the rug of mothering seems to be a common psychological trope there are regional variants of Marie that can appear as a Persian rug, a shagpile, a hallway runner, tufted, and braided. In one unique variat the rug of mothering even appeared as a doormat, with all that follows. In Japan, a Kyōiku mama takes the form of a tatami and is especially ensuring the educational success of their child. Invariably such a mat ends up in the hand sof a labourer, for narrative reasons.
 
 **Shannon, a Ring of Turning**
 
