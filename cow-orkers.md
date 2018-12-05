@@ -45,6 +45,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 1.0 Additional Character Classes
 1.1 Sporting Professions
 1.2 Fantasy Professions
+1.3 Skill Options and Elaborations
 
 2.0 Additional Actions and the Environment
 2.1 More Action Rules
@@ -194,6 +195,29 @@ Profession Skills:
 Prime Requisite: Charisma
 Starting Age: 15+1d4
 Profession Skills: 
+
+## 1.3 Skill Options and Elaborations
+
+**Languages**
+
+> "A shprakh iz a dialekt mit an armey un flot"   
+> "A language is a dialect with an army and navy"   
+> -- popularised by Max Weinreich
+
+In the core rules the language skill is treated as a knowledge skill with required specialisations, with the comment "closely related languages will have a close default with each other". There is, however, no rules for this degree of specialisation or the modifications for closely related languages. As one of many lapses into a degree of hard-nosed simulationism that is a feature of *Papers & Paychecks* the following can be used to represent the distance from the specific language skill.
+
+A *dialect* (very high degree of mutual intelligibility, regional differences, status or subculture keywords etc) has a -1 modifier. An example would be Low and High German. 
+
+A *sister* language (substantial degree of mutual intelligibility, but considered separate languages) has a  -2 modifier. An example would be Dutch and Afrikaans.
+
+A *related* language (low degree of mutual intelligibility, part of the same language family), has a -4 modifier. An example would be French and Italian.
+
+A *distantly related* language (very low degree of mutual intelligibility, part of the same extended family group), has a -8 modifier. An example would be Spanish and Russian.
+
+Linguistic communication is between *unrelated* languages (no degree of mutual intelligibility, different language family) is not possible. Try charades. 
+
+
+
 
 
 # 2.0 Additional Actions and the Environment
