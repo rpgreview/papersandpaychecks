@@ -303,14 +303,13 @@ convert you to their religion. This can include pamphlets that contain informati
 
 Another version is salesman. This variety will attempt to pressure you during your ensnarlment to purchase expensive items you don’t need that will frequently not work. Even if you agree to purchase the items they are pushing they will continue to tell you how wonderful the items are and what a great purchase you have made until you save or the time runs out. roll percentile dice to determine what they are selling. 1-10% a magic item that is supposed to clean your home, den, castle, dungeon but usually just breaks during the first use. 11-40% A variety of potions that when applied to your face/hair/body will increase your comliness by +3. This is a usually harmless product but it will do nothing thats promised at all. 41-70% Miraculous food products that you can sell to your friends so they can sell to their friends. This will end up costing you all your accumulated wealth and you will end up with a vault full of food and drink that will taste horrible and provide no more nourishment than eating tree bark. all the while your charisma will drop -6 points and your friends will avoid you and flee on seeing you coming. 71-100% candy. This inisdious product is usually sold by what appears to be children. During your ensnarlement they will tell you tales of woe that will make you feel bad if you don’t give them all your loot. Save versus wisdom or give them whatever coinage you have on you. Also, the candy has an addictive quality, especially the peanut butter patties, that will cause you to seek out further Door-to-Door monsters looking for the children who sell the cookies.
 
-
 **Marie, a Rug of Mothering**
 
-INT 11 (+0), WIS 18 (+4), CHA 10 (+1), I+2 S+3 F+3 J+2 (Promoter)
+INT 11 (+0), WIS 18 (+4), CHA 10 (+1), I+2 S+3 F+3 J+2 (Protector)
 
-Appearing as a fine blue and red threaded Belgian worsted wool rug, with some rather nice patterning, Marie forms a very strong emotional attachment towards the owner.
+Appearing as a fine blue and red threaded Belgian worsted wool rug, with some rather nice patterning, Marie forms a very strong emotional attachment towards the owner, in fact, an overwhelming attachment of motherly love. This involves whispering suggestions that they should brush their teeth, comb their hair, eat their vegetables, polish their shoes, and make sure that they have clean underwear before going outside. Any and all potential romantic partners will be treated with disdain with every potential flaw elaborated to their point that further affections down this path will lead to financial calamity and massive social embarrassment. If Marie is constantly ignored they will engage in passive-aggressive attacks with a bonus of +2, but only causing mental damage, rather than the usual mental plus social damage.
 
-
+As the rug of mothering seems to be a common psychological trope there are regional variants of Marie that can appear as a Persian rug, a shagpile, a hallway runner, tufted, and braided. In one unique variat the rug of mothering even appeared as a doormat, with all that follows.
 
 **Shannon, a Ring of Turning**
 
