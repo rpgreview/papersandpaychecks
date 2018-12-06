@@ -204,26 +204,41 @@ Profession Skills:
 > "A language is a dialect with an army and navy"   
 > -- popularised by Max Weinreich
 
-In the core rules the language skill is treated as a knowledge skill with required specialisations, with the comment "closely related languages will have a close default with each other". There is, however, no rules for this degree of specialisation or the modifications for closely related languages. As one of many lapses into a degree of hard-nosed simulationism that is a feature of *Papers & Paychecks* the following can be used to represent the distance from the specific language skill. Note as the quote indicates that there is no hard rule on what constitutes differentiates a dialect and a language, rather they represent a continuum which is abstracted here.
+In the core rules the language skill is treated as a knowledge skill with required specialisations, with the comment "closely related languages will have a close default with each other". There is, however, no rules for this degree of specialisation or the modifications for closely related languages. 
+
+As one of many lapses into a degree of hard-nosed simulationism that is a feature of *Papers & Paychecks* the following can be used to represent the distance from the specific language skill. Note as the quote indicates that there is no hard rule on what constitutes differentiates a dialect and a language, rather they represent a continuum which is abstracted here.
 
 A *dialect* (very high degree of mutual intelligibility, regional differences, status or subculture keywords etc) has a -1 modifier. An example would be Low and High German. When a character learns a language they may optionally select a dialect of that language that they have specialised in.
 
-A *sister* language (substantial degree of mutual intelligibility, but considered separate languages) has a -2 modifier. An example would be Dutch and Afrikaans.
+A *sister* language (substantial degree of mutual intelligibility, but considered separate languages) has a -2 modifier. For example, Afrikaans and Dutch.
 
-A *related* language (medium degree of mutual intelligibility, a branch of the same language family), has a -4 modifier. An example would be French and Italian, which are both Romance languages. Related languages are grouped as subdivisions of the wider extended language family (e.g., Indo-European would include Indo-Iranian, Germanic, Hellenic, Celtic, Balto-Slavic, Romance, etc)
+A *related* language (medium degree of mutual intelligibility, a branch of the same language family), has a -4 modifier. An example would be French and Spanish, which are both Romance languages. Related languages are grouped as subdivisions of the wider extended language family (e.g., Indo-European would include Indo-Iranian, Germanic, Hellenic, Celtic, Balto-Slavic, Romance, etc)
 
 A *distantly related* language (very low degree of mutual intelligibility, part of the same extended family group), has a -8 modifier. An example would be Spanish and Russian. Extended language families include Sino-Tibetan, Indo-European, Afro-Asiatic, Japonic, Austronesian)
 
 Between *unrelated* languages (no degree of mutual intelligibility, different language family) linguistic communication is not possible. Try charades. 
 
+Note that depending on the complexity of a language and cultural exposure mutual intelligibility can vary in direction ("asymmetric intelligibility"). For example, For a Dutch speaker, Afrikaans would count as a dialect with a -1 modifier, however for an Afrikaans speaker, Dutch is a sister language with a -2 modifier. This is because Afrikaans has a simpler grammar. Likewise, with a greater exposure, a speaker of Scots understands other dialects of English as a dialect, whereas an American in Scotland may initially find it a sister language with a -2 modifier.
 
-List of languages by total number of speakers (primary and additional)
+> "The secretar gree’d tae gie me a haund in the airtin o the dreich policie an its pittin intil effect."   
+> "The secretary agreed to help me in the direction of the dreary policy and to put it in effect".
+
+The language continuum can also represent temporal changes. For example, Early Modern English (the English of the King James Bible, or Shakespearean English) can be considered a dialect, Middle English (Chaucerian) as a sister language, and Old English (Anglo-Saxon) as a related language.
+
+The following is a list of the top fifteen languages in the world by total number of speakers (first language and additional) and some major default values.
+
+English. Spoken as a first language of 378 million speakers and as an additional language to 744 million. Distantly related to all Indo-European languages, related to all Germanic languages, sister language to Frisian and Scots. Dialects include Received Pronounciation, General American, Singlish, Australian-New Zealand English.
+
+Mandarin. Spoken as a first language by 909 million speakers and as an additional language to 197 million. Distantly related to all Sino-Tibetan languages, related to all Sinitic languages, sister language to Wu (Shanghainese), Min (Hokkein), Hakka, Gan, Xiang, and Yue (Cantonese). Dialects include Beijing Mandarin.
+
+Hindi. Spoken as a first language by 260 million speakers and as an additional language by 247 million. Distantly related to all Indo-European languages, related to Indo-Aryan languages, sister language to 
+Awadhi and Braj Bhasha. Dialects include Urdu (Persianised variant). 
+
+Spanish (Castilian). Spoken as a first language by 442 million speakers and as an additional language to 71 million. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Portuguese, Catalan, Galacian. Dialects include Extremaduran, Leonese, Asturian, Ladino. 
+
+Arabic. 
 
 
-1	English	Indo-European	Germanic	378.2 million	3743.5 million	1	1.121 billion
-2	Mandarin Chinese (incl. Standard Chinese)	Sino-Tibetan	Sinitic	908.7 million	1	198.4 million	5	1.107 billion
-3	Hindi	Indo-European	Indo-Aryan	260 million	4	274.2 million	2	534.2 million
-4	Spanish	Indo-European	Romance	442.3 million	2	70.6 million	9	512.9 million
 5	Modern Standard Arabic	Afro-Asiatic	Semitic	0	5	315 million	6	315 million
 6	French	Indo-European	Romance	76.7 million	16	208.1 million	3	284.9 million
 7	Malay (incl. Indonesian and Malaysian)	Austronesian	Malayo-Polynesian	77 million (2007)	15	204 million	4	281 million[3]
@@ -239,12 +254,6 @@ List of languages by total number of speakers (primary and additional)
 
 The major spoken first languages (L1) of the world and their relationship to other languages is as follows.
 
-Standard Chinese (Mandarin). Spoken as a first language by 14.1% of the world, 955 million speakers. Distantly related to all Sino-Tibetan languages, related to all Sinitic languages, sister language to Wu (Shanghainese), Min (Hokkein), Hakka, Gan, Xiang, and Yue (Cantonese). Dialects include Beijing Mandarin.
-
-Spanish (Castilian). Spoken as a first language by 5.85% of the world, 405 million speakers. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Portuguese, Catalan, Galacian. Dialects include Extremaduran, Leonese, Asturian, Ladino. 
-
-English. Spoken as a first language by 5.52% of the world, 360 million speakers. Distantly related to all Indo-European languages, related to all Germanic languages, sister language to Frisian and Scots. Dialects include Received Pronounciation, General American, Singlish, Australian-New Zealand English.
-
 Portuguese	205 (215)	3.08%
 Bengali (Bangla)	200 (205)	3.05%
 Russian	160 (155)	2.42%
@@ -256,6 +265,7 @@ Wu (inc. Shanghainese)	80	1.20%
 Malay (inc. Indonesian and Malaysian)	77	1.16%
 Telugu	76	1.15%
 
+https://en.wikipedia.org/wiki/Mutual_intelligibility#Asymmetric_intelligibility
 
 
 
