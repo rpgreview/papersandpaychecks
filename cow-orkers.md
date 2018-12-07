@@ -227,15 +227,15 @@ The language continuum can also represent temporal changes. For example, Early M
 
 The following is a list of the top fifteen languages in the world by total number of speakers (first language and additional) and some major default values.
 
-English. Spoken as a first language of 378 million and as an additional language to 744 million. Distantly related to all Indo-European languages, related to all Germanic languages, sister language to Frisian and Scots. Dialects include Received Pronounciation, General American, Singlish, Australian-New Zealand English.
+English. Spoken as a first language of 378 million in the United States, Great Britain, Canada, Australia, South Africa, Ireland, New Zealand etc. Spoken as an additional language to 744 million primarily in India, Europe, southern Africa, Philipines. Largely considered the "world language"  of contemporary times. Distantly related to all Indo-European languages, related to all Germanic languages, sister language to Frisian and Scots. Dialects include Received Pronounciation, General American, Singlish, Australian-New Zealand English.
 
-Mandarin. Spoken as a first language by 909 million and as an additional language to 197 million. Distantly related to all Sino-Tibetan languages, related to all Sinitic languages, sister language to Wu (Shanghainese), Min (Hokkein), Hakka, Gan, Xiang, and Yue (Cantonese). Dialects include Beijing Mandarin.
+Mandarin (Standard Chinese). Spoken as a first language by 909 million in People's Republic of China, Republic of China, Singapore. and Myanmar. Spoken as an additional language to 197 million, primarily in southern and eastern mainland China. Increasingly important as an international language. Distantly related to all Sino-Tibetan languages, related to all Sinitic languages, sister language to Wu (Shanghainese), Min (Hokkein), Hakka, Gan, Xiang, and Yue (Cantonese). Dialects include Beijing Mandarin, Taiwanese Mandarin.
 
-Hindi. Spoken as a first language by 260 million and as an additional language by 247 million. Distantly related to all Indo-European languages, related to Indo-Aryan languages, sister language to Awadhi and Braj Bhasha. Dialects include Urdu (Persianised variant). 
+Hindi (Modern Standard Hindi). Spoken as a first language by 260 million in India and the United Arab Emirates. Spoken and as an additional language by 247 million, primarily in southern India, Nepal, and Pakistan. Distantly related to all Indo-European languages, related to Indo-Aryan languages, sister language to Awadhi, Braj Bhasha, and Hindustani-derived languages (e.g., Fiji Hindi). Dialects include Urdu (Persianised written variant). 
 
-Spanish (Castilian). Spoken as a first language by 442 million and as an additional language to 71 million. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Portuguese, Catalan, Galacian. Dialects include Extremaduran, Leonese, Asturian, Ladino. 
+Spanish (Castilian). Spoken as a first language by 442 million in Mexico, Colombia, Spain, Argentina, Venezuela and most of central and south America. Spoken as an additional language to 71 million, primarily in Brazil, the United States, and Europe. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Portuguese, Catalan, Galacian. Dialects include Extremaduran, Leonese, Asturian, Ladino. 
 
-Arabic (Modern Standard). Spoken as as an additional language by 315 million. Distantly related to all Afro-Asiatic languages, related to all Semitic languages, a sister language to some thirty varities of Arabic (e.g., Gulf Arabic, Egyptian, Libyan, Algerian, Iraqi, Najdi etc) spoken by some 310 million. Modern Standard Arabic acts as a lingua franca within the Arab world.
+Arabic (Modern Standard). Spoken as as an additional language by 315 million throughout the Arab world. Distantly related to all Afro-Asiatic languages, related to all Semitic languages, a sister language to some thirty varities of Arabic (e.g., Gulf Arabic, Egyptian, Libyan, Algerian, Iraqi, Najdi etc) spoken by some 310 million. Modern Standard Arabic acts as a lingua franca within the Arab world.
 
 French. Spoken as a first language by 77 million and as an additional language to 208 million. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Walloon, and Gallo. Dialects include Swiss French, Quebecois, Acadian, Aostan etc.
 
@@ -255,9 +255,9 @@ Japanese. Spoken as a first language by 128 million and as an additional languag
 
 Lahnda. Spoken as a first language by 119 million. Distantly related to all Indo-European languages, related to Indo-Aryan languages, sister language to Punjabi and Malwai. Dialects include Hindko, Jakati, Khetrani, Pahari-Potwari, and Saraiki, Note that Lahnda is a linguistic grouping of the language varietals, and is not used by speakers of these languages.
 
-Persian. Spoken as a first language by 60 million and as an addtional language by 50 million. Distantly related to all Indo-European languages, related to Iranian languages, sister language to Tajik and Dari. Dialects include Tat, Iranian, Judeo-Persian, Bukhori, 
+Persian. Spoken as a first language by 60 million and as an addtional language by 50 million. Distantly related to all Indo-European languages, related to Iranian languages, sister language to Tajik and Dari. Dialects include Tat, Iranian, Judeo-Persian, Bukhori, etc
 
-https://en.wikipedia.org/wiki/Mutual_intelligibility#Asymmetric_intelligibility
+
 
 The degree of complexity of the communication establishes the Target Number. 
 
