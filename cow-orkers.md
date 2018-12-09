@@ -225,7 +225,9 @@ Note that depending on the complexity of a language and cultural exposure mutual
 
 The language continuum can also represent temporal changes. For example, Early Modern English (the English of the King James Bible, or Shakespearean English) can be considered a dialect, Middle English (Chaucerian) as a sister language, and Old English (Anglo-Saxon) as a related language.
 
-The following is a list of the top fifteen languages in the world by total number of speakers (first language and additional) and some major default values.
+As an auxillary language, Esperanto is a sister language to all Germanic or Romance languages
+
+The following is a list of the top fifteen languages in the world by total number of speakers (first language and additional) and some major default values. Note that in some cases the "sister language" (e.g., Hindi and Urdu) refers to the written form only and in terms of a spoken language they are dialects. .
 
 English. Spoken as a first language of 378 million in the United States, Great Britain, Canada, Australia, South Africa, Ireland, New Zealand etc. Spoken as an additional language to 744 million primarily in India, Europe, southern Africa, Philipines. Largely considered the "world language"  of contemporary times. Distantly related to all Indo-European languages, related to all Germanic languages, sister language to Frisian and Scots. Dialects include Received Pronounciation, General American, Singlish, Australian-New Zealand English.
 
@@ -235,29 +237,27 @@ Hindi (Modern Standard Hindi). Spoken as a first language by 260 million in Indi
 
 Spanish (Castilian). Spoken as a first language by 442 million in Mexico, Colombia, Spain, Argentina, Venezuela and most of central and south America. Spoken as an additional language to 71 million, primarily in Brazil, the United States, and Europe. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Portuguese, Catalan, Galacian. Dialects include Extremaduran, Leonese, Asturian, Ladino. 
 
-Arabic (Modern Standard). Spoken as as an additional language by 315 million throughout the Arab world. Distantly related to all Afro-Asiatic languages, related to all Semitic languages, a sister language to some thirty varities of Arabic (e.g., Gulf Arabic, Egyptian, Libyan, Algerian, Iraqi, Najdi etc) spoken by some 310 million. Modern Standard Arabic acts as a lingua franca within the Arab world.
+Arabic (Modern Standard). Spoken as as an additional language by 315 million throughout the Arab world and to a lesser extent in non-Arabic Muslim countries Classical Arabic where it has a liturgical function. Distantly related to all Afro-Asiatic languages, related to all Semitic languages, a sister language to some thirty varities of Arabic (e.g., Gulf Arabic, Egyptian, Libyan, Algerian, Iraqi, Najdi etc) spoken by some 310 million. Modern Standard Arabic acts as a lingua franca within the Arab world.
 
-French. Spoken as a first language by 77 million and as an additional language to 208 million. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Walloon, and Gallo. Dialects include Swiss French, Quebecois, Acadian, Aostan etc.
+French. Spoken as a first language by 77 million in France, Belgium, Canada, Luxembourg etc. Spoken an additional language to 208 million primarily in Algeria, Congo, Mauritania, Mali, Morocco, Tunisia, Vietnam. Distantly related to all Indo-European languages, related to all Romance languages, sister language to Gallo. Dialects include Swiss French, Quebecois, Walloon, Acadian, Aostan etc.
 
-Bahasa Melayu. Spoken as a first language by 77 million and as an additional language by 204 million. Distantly related to all Austonesian languages, related to all Malayo-Polynesian languages, sister language to Brunei Malay and Kedah Malay. Dialects include Malaysian and Indonesian.
+Bahasa Melayu. Spoken as a first language by 77 million in Indonesia, and Malaysia. Spoken as an additional language by 204 million, primarily in Indonesia, Malaysia, Brunei, Singapore, and Timor-Leste. Distantly related to all Austonesian languages, related to all Malayo-Polynesian languages, sister language to Brunei Malay and Kedah Malay. Dialects include Malaysian and Indonesian.
 
-Russian. Spoken as a first language by 154 million and as an additional language by 110 million. Distantly related to all Indo-European languages, related to all Balto-Slavic languages, sister languge to Belarussian and Ukrainian. Dialects include Northern, Central, and Southern. 
+Russian. Spoken as a first language by 154 million in Russia, Ukraine, Belarus, Kazakhstan, etc. Spoken and as an additional language by 110 million, primarily in eastern Europe, the Caucasus, Central Asia, and Mongolia. Distantly related to all Indo-European languages, related to all Balto-Slavic languages, sister languge to Belarussian and Ukrainian. Dialects include Northern, Central, and Southern. 
 
-Bengali. Spoken as a first language by 243 million and as an additional language to 14 million. Distantly related to all Indo-European languages, related to all Indo-Aryan languages, sister language to Assamese, Rangpuri, and Chittagonian. Dialetcs include Rarhi, Bangali, Varendri, etc.
+Bengali. Spoken as a first language by 243 million in Bangladesh and India. Spoken as an additional language to 14 million mainly in India. Distantly related to all Indo-European languages, related to all Indo-Aryan languages, sister language to Assamese, Rangpuri, and Chittagonian. Dialetcs include Rarhi, Bangali, Varendri, etc.
 
-Portuguese. Spoken as a first language by 223 million and as an additional langauge by 14 million. Distantly related to all Indo-European languages, related to Romance languages, sister language to Galacian, Castillan. Dialects include Brazilian, European Portuguese, Portunhol (an admixture of Spanish and Portuguese). 
+Portuguese. Spoken as a first language by 223 million in Brazil, Portugal, Angola, and Mozambique. Spoken as an additional langauge by 14 million. Distantly related to all Indo-European languages, related to Romance languages, sister language to Galacian, Castillan. Dialects include Brazilian, European Portuguese, Portunhol (an admixture of Spanish and Portuguese). 
 
-Urdu. Spoken as a first language by 69 million and as an additional language by 94 million. Distantly related to all Indo-European langauges, related to Indo-Aryan languages, sister language to Awadhi and Braj Bhasha. Dialects include Hindu (Devanagari variant). 
+Urdu. Spoken as a first language by 69 million in India and Pakistan. Spoken as an additional language by 94 million. Distantly related to all Indo-European langauges, related to Indo-Aryan languages, sister language to Awadhi and Braj Bhasha. Dialects include Hindu (Devanagari variant). 
 
-German. Spoken as a first language by 76 million and as an additional language by 56 million. Distantly related to all Indo-European languages, related to Germanic languages, sister language to Luxembourgish, Yiddish. Dialects include High German, Saxon, Franconian.
+German. Spoken as a first language by 76 million in Germany, Austria, and Switzerland. Spoken as as an additional language by 56 million in Europe and Namibia. Distantly related to all Indo-European languages, related to Germanic languages, sister language to Luxembourgish, Yiddish. Dialects include High German, Saxon, Franconian.
 
-Japanese. Spoken as a first language by 128 million and as an additional language by .1 million. A language isolate, sister language to Ryukyuan, the only other member of the family. Dialects include Eastern, Western, Kyushu.
+Japanese. Spoken as a first language by 128 million in Japan and as an additional language by .1 million. A language isolate, sister language to Ryukyuan, the only other member of the family. Dialects include Eastern, Western, Kyushu.
 
-Lahnda. Spoken as a first language by 119 million. Distantly related to all Indo-European languages, related to Indo-Aryan languages, sister language to Punjabi and Malwai. Dialects include Hindko, Jakati, Khetrani, Pahari-Potwari, and Saraiki, Note that Lahnda is a linguistic grouping of the language varietals, and is not used by speakers of these languages.
+Lahnda. Spoken as a first language by 119 million in Pakistan and India. Distantly related to all Indo-European languages, related to Indo-Aryan languages, sister language to Punjabi and Malwai. Dialects include Hindko, Jakati, Khetrani, Pahari-Potwari, and Saraiki, Note that Lahnda is a linguistic grouping of the language varietals, and is not used by speakers of these languages.
 
-Persian. Spoken as a first language by 60 million and as an addtional language by 50 million. Distantly related to all Indo-European languages, related to Iranian languages, sister language to Tajik and Dari. Dialects include Tat, Iranian, Judeo-Persian, Bukhori, etc
-
-
+Persian. Spoken as a first language by 60 million in Iran, Afghanistan, Tajikstan, Uzbekistan, Iraq etc. Spoken as an addtional language by 50 million. Distantly related to all Indo-European languages, related to Iranian languages, sister language to Tajik and Dari. Dialects include Tat, Iranian, Judeo-Persian, Bukhori, etc
 
 The degree of complexity of the communication establishes the Target Number. 
 
@@ -270,6 +270,22 @@ Challenging		13
 Formidable		15
 Heroic			17
 Nearly Impossible	19
+
+As a practical implementation of linguistic issues according to the theme of *Papers & Paychecks* the Boss should consider applying issues of mistranslation as often as possible. There is the classic example of the "water sheep" as a transliteration of "hydraulic ram" in Philip K. Dick's "The Galatic Pot Healer" (1969), which received special attention in the "Camp 22" scenario in this publication. Another potential situation is to applying different legal applications in a multi-lingual country, such as the apocaphyl story of the Luxembourg police using German to follow their procedures and French for their legal code. For actual examples, do consider these real-world failures of translation engines and incorporate them into your scenarios.
+
+1. "Fall" and "autumn". In English "fall" and "autumn" refer to a season, the former more common in American English, the latter in Commonwealth English and from Germanic and Latin origins respectively. A problem arises in many translations where documents may deliberate on strategies for "fall prevention" which translate into "autumn prevention" (e.g., in Spanish "prevención de otoño"). PC Workers may be sent on a mission by Occupational Health & Safety to ensure that the office environment is "autumn proof".
+
+2. In the north-western region of Spain the local language is Galacian. In the town of As Pontes they hold an annual rapini festival, a leafy green vegetable, whose name in Galacian is "grelo"; which is also archiac slang in Portuguese for the word "clitoris". In 2015 the town happily advertised the upcoming gastronomic festival of the grelo. Bon appetit!
+
+c.f., `https://www.thelocal.es/20151102/galicia-celebrates-its-annual-clitoris-festival-thanks-to-google-translate`
+
+3. Literal translations rather than idiomatic translations can cause significant problems. They are also the sort of thing which are easily applied when a character just makes their skill roll in a foreign language. For example, the French phrase "Se taper le cul par terre", which is their equivalent of "rolling on the floor laughing". The literal translation is "Banging your arse on the ground".
+
+4. Sometimes this can go the other way as well. The former Australian Prime Minister, Bob Hawke, was well-known for his use of the Australian dialect of English and at one particular ocassion during a speech to a business audience in Tokyo about Australian industrial relations, he remarked: "We're just not interested in playing silly buggers on this issue". This resulted in some shock among the audience as it was later revealed that the translator had converted the speech to "We're just not interested in acting as laughing homosexuals on this issue".
+
+c.f., `http://www.gevans.org/speeches/Speech605Cultural.html`
+
+
 
 
 
