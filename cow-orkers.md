@@ -62,7 +62,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 4.3 Boss-Level Secrets
 
 5.0 Alternate Settings and Scenarios
-5.1 Scenario: Keep The Borderlands by Michael Cole
+5.1 Scenario: Keep Our Borderlands by Michael Cole
 5.2 Scenario: Palaces of the Electrum Princess
 5.3 Scenario: Camp 22
 
@@ -284,11 +284,6 @@ c.f., `https://www.thelocal.es/20151102/galicia-celebrates-its-annual-clitoris-f
 4. Sometimes this can go the other way as well. The former Australian Prime Minister, Bob Hawke, was well-known for his use of the Australian dialect of English and at one particular ocassion during a speech to a business audience in Tokyo about Australian industrial relations, he remarked: "We're just not interested in playing silly buggers on this issue". This resulted in some shock among the audience as it was later revealed that the translator had converted the speech to "We're just not interested in acting as laughing homosexuals on this issue".
 
 c.f., `http://www.gevans.org/speeches/Speech605Cultural.html`
-
-
-
-
-
 
 # 2.0 Additional Actions and the Environment
 
@@ -613,24 +608,34 @@ Under almost no circumstances however, will the monsters reveal themselves, and 
 The literary genre to apply, albeit often in a comic manner in *Papers & Paychecks*, is that of 'magical realism'. Whilst it is common among fictional genres for their to be some furious debate about such terms in this context it follows the expression found in writers like Gabriel García Márquez (_One Hundred Years of Solitude_) and Salman Rushdie (_Midnight's Children_). In these novels, from the protagonist's perspective, the world is certainly magical. But the expression of this magic is subtle, and subjective. From an objective viewer, various events may have a dramatic quality about them, but they are certainly realistic. Keep that spirit in *Papers & Paychecks*.
 
 
-
-
-
 # 5.0 Alternate Settings and Scenarios
 
-## 5.1 Scenario: Keep The Borderlands by Michael Cole
+## 5.1 Scenario: Keep Our Borderlands by Michael Cole and Lev Lafayette
 
-### 5.1.1 Plotline
+### 5.1.1 Background
+
+The realm of independent book publishers is narrow and constricted. Always the forces of corporate publishers press upon its borders seeking to enslave its consumers, rape its riches (I beg yours Gary?!), and establish a monopolistic advantage against any future competitors. If it were not for a stout few many in the industry would indeed fall prey to the evil which surrounds them. You are indeed members of that exceptional class, workers, who are in the employ of the independent publisher, Borderlands in search of workplace recognition and a paycheck that is sufficient to cover ever-increasing rents. Of course you are inexperienced but you have your skills and a heart that cries out for a job well done. You have it in you to become great, but you must gain experience and knowledge, greater skill, and then a more senior position with higher pay ("that's what we tell all the new staff"). There is much to learn - receiving letters from would-be authors and their agents, editing poorly-written manuscripts, going through the crank file in desparation, typesetting, dealing with printers, the sound that deadlines make as they whoosh overhead, warehouses, distribution, the always late payments, and the demanding authors for their cut. 
+
+Ahead, up the slight incline, heading towards the main mall of Wellington city, looms the great publisher, Borderlands, a stronghold of civilization, between good business practises and bad. Nearby, among the glistening towers of glass and steel, is the Pyramid of Nile, where fell corporate lackeys wait. All of this you know, but before you venture for your day's work, you must become acquantited with your fellow co-workers, for each workday requires cooperation among all to get anything done, even if Wally over there doesn't seem to do anything at all. Now, as you enter the grim entrance of a soul-crushing menial job with little future in a small, family-owned, publishing company, is the time of meaningless social pleasantries of the workplace, where deep down all do have a sense of some solidarity with each other, knowing the harrowing experiences that confront them in the workday ahead.
+
+**Notes About Borderlands**
+
+The whole place is well organised for security and logistics. Despite the description work here is carried out at pace that doesn't damage quality of work. "More haste, less speed" is a proverb that owner Castel Border expresses with the sort of regularity that his wife may one day make a claim for justifiable homicide. It is, indeed, his entire business logic. Eschewing any desire to expand the business, happy with the stable and existing distribution lines for thirty years, using the same printers, the same warehousing company, and many of the same authors. Indeed, there is a mind-numbing sense of sameness about the place. Fortunately, there have bene equipment upgrades, courtesy of the recommendations of the younger son, Leoland Border.
+
+The main non-player characters of Borderlands publishing house are Castel Border, Stellan Border, Leoland Border, and Seneca Philosophus. Castel Border is the silver-haired, pin-striped suit, elderly, cantankerous, and yet quite clever owner of the business. Now in his seventies, he inherited the business from his father and has kept the ship steady, "steady she goes" is yet another of his annoying pearls of wisdom that will be recited several times a day. His two sons are Stellan Border and Leoland Border with the main inheritence of the store almost certainly going to Stellan. Castel has the role of general manager.
+
+Stellan Border is a kindly gentleman in his early fifties who dresses in an unassuming navy suit with fine selection of paisley ties. In many ways he's very much like his father, in terms of disposition and a sense of an unhurried approach, but he is largely lacking in business acument and has an appaling sense of timing. Throughout the story, is almost certain that he will turn up when the PC workers are busy and then not be able to found when he is needed. Stellan never had an unkind word for anybody, not even his brother, of whom he has suspicions. Stellan is charge of author and agent liaison and content production.
+
+Leoland Border is a pleasant and friendly man in his mid-forties, solid and well-built (he works out at the gym every morning), typically dressed in a very sharp Hackett charcoal black suit, thin-tie and perfect-white shirts. Even remotely astute observers will notice his sense of taste for well-known items that carry a price-tag, including a Rolex watch and a Mont Blanc pen. Always attentive, despite being very busy he will book an appointment for any worker who wishes to see him; "my door is always open" is his annoying platitude. Leoland is in charge of accounts and distribution, as well as improving the technological systems at Borderlands.
+
+Sofia Seneca is a professional and highly-organised woman of an Italian background, who is the very picture of a modern business woman. She will be the main contact and manager of the PC workers, and whilst she has a lot to do (effectively, she is the one that keeps everything working on a day-by-day level), she will always act as a patron to the PC workers. Like Stellan and Leoland, she works directly for Castel. 
+
+
 
 · Borderlands is an independent traditional book publishing company
 · Nile.com, Incorporated (the enemy) is an electronic commerce company
 · Nile is trying to out-muscle Borderlands
 · PCs will be recruited by the owner of Borderlands to investigate and hopefully break Nile.
-Borderlands
-· Owner – Castel Border.  Rather old, cantankerous, clever and hasty in decisions.  Will assist the PCs if they can get in to see him.
-· Older son – Stellan Border.  Kindly gentleman with extremely bad timing.  Will turn up unexpectedly when the PCs are busy, and then not be able to be found when they have time to talk to him.  Tries to avoid speaking ill of anyone, even his brother of whom he has suspicions.
-· Younger Sun – Leoland Border.  Very pleasant and friendly.  Solid and well-built.  Excellent listener.  Secretly in the pay of Nile, and passing on inside information to them.
-· Head of Security (Sennat) – this will be the PCs main contact.  Has a lot to do, but will always act as a patron. Works directly for Castel, and avoids his two sons.
 
 Author Night
 * Fiorella Lesdow
@@ -775,7 +780,7 @@ The Source of Nile
 Vice-President (Sales and Marketing), Mr. Blue
 Vice-President ( ), Mr. White
 Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationship. Safe, locked.
-President Fey Rowe
+President Fey Rowe, the Queen of the Nile
 
 ## 5.2 Scenario: Palaces of the Electrum Princess
 
