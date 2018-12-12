@@ -79,6 +79,8 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 p28 - Intellect Fortress appears twice with two different descriptions
 
+Section 1.6, under character class backgrounds where it reads "Perception", this should be "Sense (various)"
+
 # 1.0 Additional Character Classes
 
 *Papers & Paycheck* can be a very adaptable game system. Whilst the character professions in the core rulebook as designed to be a broad representation of the various jobs found in a workplace, it has been pointed out that there were other professions that don't quite fit the standard workplace environment. Thus, a few more niche professions are offered here for such games.
@@ -623,6 +625,8 @@ Ahead, up the slight incline, heading towards Cuba mall of Wellington city, loom
 
 **Notes About Borderlands**
 
+The PC Workers in "Keep Our Borderlands" have just joined a medium-sized family-owned publishing house with some fifty employees.
+
 The whole place is well organised for security and logistics. Despite the description work here is carried out at pace that doesn't damage quality of work. "More haste, less speed" is a proverb that owner Castel Border expresses with the sort of regularity that his wife may one day make a claim for justifiable homicide. It is, indeed, his entire business logic. Eschewing any desire to expand the business, happy with the stable and existing distribution lines for thirty years, using the same printers, the same warehousing company, and many of the same authors. Indeed, there is a mind-numbing sense of sameness about the place. Fortunately, there have bene equipment upgrades, courtesy of the recommendations of the younger son, Leoland Border.
 
 The main non-player characters of Borderlands publishing house are Castel Border, Stellan Border, Leoland Border, and Seneca Philosophus. Castel Border is the silver-haired, pin-striped suit, elderly, cantankerous, and yet quite clever owner of the business. Now in his seventies, he inherited the business from his father and has kept the ship steady, "steady she goes" is yet another of his annoying pearls of wisdom that will be recited several times a day. His two sons are Stellan Border and Leoland Border with the main inheritence of the store almost certainly going to Stellan. Castel has the role of general manager.
@@ -652,26 +656,24 @@ Profession		+2	+10		+12
 Seduce			+1	+1		+2
 Sense (Insight)		+0	+1		+1
 
-
 Stellan Border is a kindly gentleman in his early fifties who dresses in an unassuming navy suit with fine selection of paisley ties. In many ways he's very much like his father, in terms of disposition and a sense of an unhurried approach, but he is largely lacking in business acument and has an appaling sense of timing. Throughout the story, is almost certain that he will turn up when the PC workers are busy and then not be able to found when he is needed. Stellan never had an unkind word for anybody, not even his brother, of whom he has suspicions. Stellan is charge of author and agent liaison and content production.
 
 Leoland Border is a pleasant and friendly man in his mid-forties, solid and well-built (he works out at the gym every morning), typically dressed in a very sharp Hackett charcoal black suit, thin-tie and perfect-white shirts. Even remotely astute observers will notice his sense of taste for well-known items that carry a price-tag, including a Rolex watch and a Mont Blanc pen. Always attentive, despite being very busy he will book an appointment for any worker who wishes to see him; "my door is always open" is his annoying platitude. Leoland is in charge of accounts and distribution, as well as improving the technological systems at Borderlands.
 
-Sofia Seneca is a professional and highly-organised woman of an Italian background, who is the very picture of a modern business woman. She will be the main contact and manager of the PC workers, and whilst she has a lot to do (effectively, she is the one that keeps everything working on a day-by-day level), she will always act as a patron to the PC workers. Like Stellan and Leoland, she works directly for Castel. 
+Sofia Seneca is a professional and highly-organised woman of an Italian background, who is the very picture of a modern business woman. She will be the main contact and manager of the PC workers, and whilst she has a lot to do (effectively, she is the one that keeps everything working on a day-by-day level), she will always act as a patron to the PC workers. Like Stellan and Leoland, she works directly for Castel. Sofia will provide the PC Workers and introduction to their work, which at least on paper is as varied and appropriate to their profession. She will take the opportunity for daily meetings with the PC Workers to be as helpful as possible. In the course of their various mundane duties (and, my god, are they mundane), the PC Workers will determine, as the facts speak for themselves, that Borderlands is under serious trouble due the introduction of the multinational Nile to their local industry. 
 
-
-
-· Borderlands is an independent traditional book publishing company
-· Nile.com, Incorporated (the enemy) is an electronic commerce company
-· Nile is trying to out-muscle Borderlands
-· PCs will be recruited by the owner of Borderlands to investigate and hopefully break Nile.
-
-Author Night
-* Fiorella Lesdow
-* Lizard Men are "The Scarab Beetles" (they dug up shit)
-* Vaughn Atherton ("David Icke")
+If and when a PC Worker raises the matter, Sofia will introduce the PC Workers to a new employment opportunity - infiltrating Nile and engaging in corporate intelligence gathering, reconaissance, and even espionage. This is of course explained out-of-the-office and with sufficient security precautions. A vast room in an abandoned warehouse on the docks is a good location. Sofia will show the PC Workers several appropriate job offers that have come up at Nile, a company whose local office is already five times the size of Borderlands. Glowing references from several defunct companies are provided to ensure the successful applications of the PC Workers. Obviously, while they are employed by Nile they are also working at Borderlands - and what PC Worker would turn down the opportunity for double pay?
 
 ## 5.1.2 The Outside
+
+With a clear task before them, the PC Workers will almost certainly want to investigate Nile. The following are availble, apart from the most mundane corporate information on their website, and a surprising number of complaints from consumers unhappy with the customer service of their warehouse direct book sales.
+
+**The Manic Street Preacher**
+
+At a book-signing, reading, or similar event at Borderlands, a character who makes a successful Sense (Sight, Hearing, Smell) roll will notice a rough-looking elderly man standing outside in a dirty overcoat, the tell-tale sign of a bottle in a brown-bag sticking out of his coat pocket, rheumy eyes, a greying and unkempt beard, and a significant odour etc. For all intents and purposes this seems to be one of many unfortunate members of society whom life and the economic system has given a bad hand. However, what is quite different about this individual is that they are parading back and forth with a hand-made sign which states "The End is Nile!". Not only that but the individual also rants about how Nile is seeking to take over every book publisher, every distributor, every bookstore, and then they'll move on to radio, television and even (and especially) the Internet. "And then they will control all the information! And they'll have control of you! And you! And you!", as he points manically at indifferent or worried pedestrians.
+
+When pressed further the Manic Street Preacher will continue on a similar theme, and will start dropping names of ranking employees of Nile and of Borderlands, and indeed seems very familiar with the various operations of Borderlands. If more than two PC Workers start paying him attention however, he will attempt to flee the scene in a dramatic manner making comments about how is being chased by spooks. Following him will eventually lead to his home, such as it is, an a disused lavatory in the cellar of a local council building which, like all such places, is both missing the light and the stairs (the Manic Street Preacher knows the way down). Also on the door of the lavatory is a sign that says "Beware of the Leopard", and they're not kidding either. In this case "Leopard" is a particularly large and savage domestic Savannah cat who dearly loves his owner and will take advantage of the dark to engage in sneak attacks.
+
 
 These are potential help that the PCs may learn about prior to setting off for Nile
 
