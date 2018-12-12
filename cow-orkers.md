@@ -685,6 +685,7 @@ The Lizard Men
 · Yes, they are serious.
 
 The Bandits
+- Found searching through trash in a laneway, very interested in old computers and especially post-it notes under keyboards.
 · Group of kids, who all ride skateboards and BMX bikes
 · Class themselves as the best hackers/entry-persons in the area.
 · Probably are.
