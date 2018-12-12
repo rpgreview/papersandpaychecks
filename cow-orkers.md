@@ -614,15 +614,44 @@ The literary genre to apply, albeit often in a comic manner in *Papers & Paychec
 
 ### 5.1.1 Background
 
-The realm of independent book publishers is narrow and constricted. Always the forces of corporate publishers press upon its borders seeking to enslave its consumers, rape its riches (I beg yours Gary?!), and establish a monopolistic advantage against any future competitors. If it were not for a stout few many in the industry would indeed fall prey to the evil which surrounds them. You are indeed members of that exceptional class, workers, who are in the employ of the independent publisher, Borderlands in search of workplace recognition and a paycheck that is sufficient to cover ever-increasing rents. Of course you are inexperienced but you have your skills and a heart that cries out for a job well done. You have it in you to become great, but you must gain experience and knowledge, greater skill, and then a more senior position with higher pay ("that's what we tell all the new staff"). There is much to learn - receiving letters from would-be authors and their agents, editing poorly-written manuscripts, going through the crank file in desparation, typesetting, dealing with printers, the sound that deadlines make as they whoosh overhead, warehouses, distribution, the always late payments, and the demanding authors for their cut. 
+The realm of independent book publishers is narrow and constricted. Always the forces of corporate publishers press upon its borders seeking to enslave its consumers, rape its riches (WTF, Gary?!), and establish a monopolistic advantage against any future competitors. If it were not for a stout few many in the industry would indeed fall prey to the evil which surrounds them. You are indeed members of that exceptional class, workers, who are in the employ of the independent publisher, Borderlands in search of workplace recognition and a paycheck that is sufficient to cover ever-increasing rents. Of course you are inexperienced but you have your skills and a heart that cries out for a job well done. You have it in you to become great, but you must gain experience and knowledge, greater skill, and then a more senior position with higher pay ("that's what we tell all the new staff"). There is much to learn - receiving letters from would-be authors and their agents, editing poorly-written manuscripts, going through the crank file in desparation, typesetting, dealing with printers, the sound that deadlines make as they whoosh overhead, warehouses, distribution, the always late payments, and the demanding authors for their cut. 
 
-Ahead, up the slight incline, heading towards the main mall of Wellington city, looms the great publisher, Borderlands, a stronghold of civilization, between good business practises and bad. Nearby, among the glistening towers of glass and steel, is the Pyramid of Nile, where fell corporate lackeys wait. All of this you know, but before you venture for your day's work, you must become acquantited with your fellow co-workers, for each workday requires cooperation among all to get anything done, even if Wally over there doesn't seem to do anything at all. Now, as you enter the grim entrance of a soul-crushing menial job with little future in a small, family-owned, publishing company, is the time of meaningless social pleasantries of the workplace, where deep down all do have a sense of some solidarity with each other, knowing the harrowing experiences that confront them in the workday ahead.
+Ahead, up the slight incline, heading towards Cuba mall of Wellington city, looms the great publisher, Borderlands, a stronghold of civilization, between good business practises and bad. Nearby, among the glistening towers of glass and steel, is the Pyramid of Nile, where fell corporate lackeys wait. All of this you know, but before you venture for your day's work, you must become acquantited with your fellow co-workers, all of you recently having achieved the glory of paid employment. For each workday requires cooperation among all to get anything done, even if Wally over there doesn't seem to do anything at all. Now, as you enter the grim entrance of a soul-crushing menial job with little future in a small, family-owned, publishing company, is the time of exchanging meaningless social pleasantries of the workplace, where deep down all do have a sense of some solidarity with each other, knowing the harrowing experiences that confront them in your first workday ahead.
+
+> Next subject, Kowalski, Leon, engineer, waste disposal, file section, new employees, six days.   
+> -- opening words of Blade Runner
 
 **Notes About Borderlands**
 
 The whole place is well organised for security and logistics. Despite the description work here is carried out at pace that doesn't damage quality of work. "More haste, less speed" is a proverb that owner Castel Border expresses with the sort of regularity that his wife may one day make a claim for justifiable homicide. It is, indeed, his entire business logic. Eschewing any desire to expand the business, happy with the stable and existing distribution lines for thirty years, using the same printers, the same warehousing company, and many of the same authors. Indeed, there is a mind-numbing sense of sameness about the place. Fortunately, there have bene equipment upgrades, courtesy of the recommendations of the younger son, Leoland Border.
 
 The main non-player characters of Borderlands publishing house are Castel Border, Stellan Border, Leoland Border, and Seneca Philosophus. Castel Border is the silver-haired, pin-striped suit, elderly, cantankerous, and yet quite clever owner of the business. Now in his seventies, he inherited the business from his father and has kept the ship steady, "steady she goes" is yet another of his annoying pearls of wisdom that will be recited several times a day. His two sons are Stellan Border and Leoland Border with the main inheritence of the store almost certainly going to Stellan. Castel has the role of general manager.
+
+Castel Border, owner and chief manager of Borderlands. I+1 N+3 T+2 J+2 (Mastermind)
+
+Characteristic	Value	Bonus		
+Strength	9	-1	Profession	Manager, Administrator
+Intelligence	15	+2	Level			2, 7
+Wisdom		15	+2	Movement (running)	5
+Dexterity	8	-1	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	12	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act			+1	+5		+6
+Administration		+2	+9		+11
+Carousing		+2	+3		+5
+Concentration		+2	+7		+2
+Craft (Computing)	+1	+1		+2
+Inspire			+1	+1		+2
+Language (English)	+2	+6		+8
+Language (French)	+2	+1		+3
+Lie			+1	+5		+6
+Knowledge (General)	+2	+12		+14
+Pilot (car)		-1	+1		+0
+Profession		+2	+10		+12
+Seduce			+1	+1		+2
+Sense (Insight)		+0	+1		+1
+
 
 Stellan Border is a kindly gentleman in his early fifties who dresses in an unassuming navy suit with fine selection of paisley ties. In many ways he's very much like his father, in terms of disposition and a sense of an unhurried approach, but he is largely lacking in business acument and has an appaling sense of timing. Throughout the story, is almost certain that he will turn up when the PC workers are busy and then not be able to found when he is needed. Stellan never had an unkind word for anybody, not even his brother, of whom he has suspicions. Stellan is charge of author and agent liaison and content production.
 
