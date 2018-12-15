@@ -789,13 +789,13 @@ When pressed further the Manic Street Preacher will continue on a similar theme,
 
 Getting past the Manic Street Preacher and Leopard is quite revealing. Among his scant normal possessions are several old scientific books that were distributed through Borderlands, various old company records from Borderlands, more recent documents from Nile (he's done some dumpster diving), and many scribbled notes about the corporate strategy from Nile and their attempts to take over Borderlands and other media. One will even find a small box containing a few hundred dollars, and a passport which reveals his identity as Alderman Border.
 
-Every family has skeletons in their closet, and some more than others, and Alderman Border is the skeleton for the Border family. Once the brightest son of Castel and in charge of their now defunct distribution of academic texts, Alderman could see the threat posed by Nile but lacked the administrative and communicative skills to express his concerns effectively. Seeking solace in bottles of strong alcoholic beverages alternating with serotonergic psychedelics, Alderman became increasingly speculative with his opinions on Nile's intentions. Never a great administrator his work began to slide leading to the collapse of the academic distribution line, which was eagerly taken up by Nile. This simply confirmed his fears and increased his rantings until the day came that Leoland had to forcibly remove him from the building. He still returns at times with his placard to berate and accost anyone who crosses his path and makes eye contact. When there is nobody around Stellan will take him aside to have a quiet word about his diet and hygeine, ask how the cat is, and slip him some money.
+Every family has skeletons in their closet, and some more than others, and Alderman Border is the skeleton for the Border family. Once the brightest and first son of Castel and in charge of their now defunct distribution of academic texts, Alderman could see the threat posed by Nile but lacked the administrative and communicative skills to express his concerns effectively. Seeking solace in bottles of strong alcoholic beverages alternating with serotonergic psychedelics, Alderman became increasingly speculative with his opinions on Nile's intentions. Never a great administrator his work began to slide leading to the collapse of the academic distribution line, which was eagerly taken up by Nile. This simply confirmed his fears and increased his rantings until the day came that Leoland had to forcibly remove him from the building. He still returns at times with his placard to berate and accost anyone who crosses his path and makes eye contact. When there is nobody around Stellan will take him aside to have a quiet word about his diet and hygeine, ask how the cat is, and slip him some money.
  
 Alderman Border, former academic content manager at Borderlands, now manic street preacher. E+2 S+2 T+2 P+2 (Promoter)
 
 Characteristic	Value	Bonus		
 Strength	13	+1	Profession	Scientist 4, Labourer 4
-Intelligence	16	+3	Level		6
+Intelligence	16	+3	Level		8
 Wisdom		11	+0	Movement (running)	7
 Dexterity	11	+0	Wounds (Physical)	
 Perception	10	+0	Wounds (Mental)	
@@ -840,23 +840,54 @@ Stealth		+2	+4	+2	+8
 Sense (hearing)	+4	+4	+2	+10
 
 
+**The Lizard Men**
 
+Any half-competent Internet research on Nile and their activities in New Zeland will result in discovering the "Due Authority" website. "Due Authority" is a pro-monarchist, New Zealand nationalist (yes, there is really such a thing), and anti-foreign investment group, whose political opinions stray from the wingnut right to the moonbat left, but never in-between. The following is a good example of one of their posts, concerning any potential to the chage of the New Zealand flag, which inspired the formation of the group.
 
+"Hey, don't mean to to freak y'all out (actually, yes I do!) but there's a lot more to this NZ flag change malarkey than most people realise...
 
+A change of flag means not only that we have taken a major step to removing the DUE AUTHORITY of the crown. It also means we take away the very power which enforces both the 1981 Bill of Rights Act (the closest thing NZ has to an entrenched Constitution) and the founding plank upon which the Treaty of Waitangi has meaning.
 
+"It does not matter if you're pro or anti monarchy but if you take away the DUE AUTHORITY of law (which includes our flag) you then open the gates of hell, or to be precise the means in which John Key can legally sign the TPPA (Trans Pacific Partnership Agreement). Currently if the matter was taken to court it would undoubtedly end up at the Supreme Court." 
 
+The post continues to explain how the attempt to change the New Zealand flag is actually a conspiracy by a number of politicians who want to change the way that judges are appointed, which can then lead to the removal of various political rights (they're especially keen on "freedom of speech"), ban "proper" religious teachings (they have a special interpretation of the bible which obviously doesn't involve organised religion, they're part of the conspiracy), rework the education system to make people more compliant and so forth.
 
+Despite all this there does seem to be a kernel of truth in their writings about Nile. At least the facts seem accurate and in accord to other published information concerning the size of the company, its senior staff, its operations and so forth. More to the point the make it very clear on their website that they have *secret* information about Nile corporation which they will only divulge to "genuine freedom fighters".
 
+"Due Authority" are located in a well-built, if small, former Baptist Church in one of the poorer areas of the city (Newtown), where they have a New Age store which sells various crystals, homeopathic cures ("just add water"), a resin statues of dragons and faeries. Beyond that there is the bookstore which has a range of books on numerology, the secrets of the (insert ancient or contemporary religious tradition), UFOs, and political texts on the Freemasons, the Illumaniti, the Rosicrucians, the international banking cartels, vaccinations, Chemtrails, HAARP, Deep State, and so forth. Then there's "the really serious stuff", as one helpful bookshop seller will explain, on New Zealand nationalism and anti-Roman Christianity and how NZ is actually the last remaining vestige of deceny in the world. 
 
+If the PC Workers ask about Nile and the special secret information it will be explained that they don't give that information away to anyone. To test their sincerity they will be invited back to a "special meeting" in two days time and given several books to read on the special identity of New Zealand and of Nile Corporation. The books are overpriced and the shop only takes cash. If an attempt is made to pay be credit card the purchaser will be sold another book on how RFID chips in cards are a vector to them compulsory as implants in people. The books will take 12 strategic turns to read due the intricate complexity that is contained and a successful Formidable (15+) Investigate check is required to remember the finer details, which the PC Workers will be quizzed on at the meeting.
 
-These are potential help that the PCs may learn about prior to setting off for Nile
+The books will contain information on how Nile is actually a company headed and financed by people of Anglo-Egyptian backgrounds, who have taken the various motifs and forms of ancient Egypt as part of their corporate identity. The former is well known, indeed obvious, but the latter checks out on with other sources. The books go into a great deal of research into the backgrounds of the financiers which indicates some fairly serious research on the part of the author, Zacharia Aleph. The books then go onto a fairly in-depth discussion about various aspects of Egyptian mythology, most of which again seems to be fairly accurate. 
 
-The Lizard Men
-· Will have a web site insinuating that they know a big secret about Nile
-· Will be an involved process to get to meet them
-· The group will interrogate and generally be very suspicious of the PCs
-· If the PCs manage to allay their fears, they will finally disclose the Big Secret – Senior Management in Nile are all Crocodiles
-· Yes, they are serious.
+What is more speculative however is that the people behind Nile corporation are actually a group of Ancient Egyptian pagans who are seeking to take over the world, and are using their book distribution network to funnel information and control, and that this has been ongoing since the end of the second world war (i.e., well before Nile was founded). Aleph shows, in notable detail, how various members of the families associated with Nile where involved in a number of well-known historical events ranging from the assasination of Kennedy, the Moon landings, the sacking of Australian Prime Minister Gough Whitlam, Watergate, the rise of Gorbachev, the fall of communism, the introduction of a commercial Internet, 9/11, and so forth. The power of Nile is really quite surprising!
+
+If the PC Workers finish the books an attend the meeting they will be introduced by various "Brothers" and "Sisters" and will be required to donn masks, to ensure anonymity. They will be introduced as "Brother" or "Sister" as desired will a new name, representing their "secret identity" as part of "Due Authority". They will be then quizzed on the the contents of the books that they passed. If they PC Workers pass the tests the author of the books, and head of Due Authority will explain how the financiers and senior management of Nile corporation are actually secretly shape-shifting Nile River crocodiles. Which eat people, obviously.
+
+Brother Zacharia Aleph (real name: Bob Smith), author, lead of Due Authority movement. E+4 N+1 F+1 P+3 (Champion)
+
+Characteristic	Value	Bonus		
+Strength	11	+0	Profession	Administrator 2, Researcher 2, Manager 4
+Intelligence	14	+2	Level		8
+Wisdom		14	+2	Movement (running)	5
+Dexterity	11	+0	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	18	+4	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Language (English)	+2	+3
+Administration		+2	+6
+Carousing 		+4	+1
+Bully			+4	+4
+Concentration		+2	+2
+Craft (Computing)	+2	+2
+Craft (writing)		+2	+3
+Knowledge (general)	+2	+10
+Knowledge (laws)	+2	+2
+Sense (insight)		+0	+3
+Lie			+4	+6
+Pilot (car) 		+0	+1
+Profession		+0	+4
+
 
 The Bandits
 - Found searching through trash in a laneway, very interested in old computers and especially post-it notes under keyboards.
