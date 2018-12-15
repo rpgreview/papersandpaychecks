@@ -906,17 +906,17 @@ Dexterity	12	+1	Wounds (Physical)
 Perception	11	+0	Wounds (Mental)	
 Charisma	13	+1	Wounds (Social)	
 Skill			Char	Train	Other	Total
-Language (English)	+1	+2		+3
 Athletics (stamina)	+1	+1		+2
 Athletics (strength)	+1	+1		+1
+Carousing		+1	+1	+2	+4
 Craft (computers) 	+1	+1		+2
 Craft (structural)	+1	+2		+3
-Knowledge (General)	+1	+1		+1
 Hobby (forced entry)	+1	+1	+2	+4
 Hobby (BMX stunts)	+1	+1	+2	+4	
-Sense (sight)		+1	+0		+1
+Knowledge (General)	+1	+1		+1
+Language (English)	+1	+2		+3
 Ride (bike)		+1	+1		+2
-Carousing		+1	+1	+2	+4
+Sense (sight)		+1	+0		+1
 Stealth			+1	+0	+2	+3
 
 **Emu**, faithful 2IC of the BMX Kids,  I+2 S+2 F+2 J+2 (Protector)
@@ -929,17 +929,17 @@ Dexterity	13	+1	Wounds (Physical)
 Perception	13	+1	Wounds (Mental)	
 Charisma	10	+0	Wounds (Social)	
 Skill			Char	Train	Other	Total
-Language (English)	+0	+2		+2
 Athletics (stamina)	+0	+1		+1
 Athletics (strength)	+0	+1		+1
+Carousing		+1	+1		+2
 Craft (computers) 	+1	+1		+2
 Craft (structural)	+1	+2		+3
-Knowledge (General)	+1	+1		+1
 Hobby (juvenile law)	+1	+1	+2	+4
 Hobby (BMX stunts)	+1	+1	+2	+4	
-Sense (sight)		+1	+0		+1
+Knowledge (General)	+1	+1		+1
+Language (English)	+0	+2		+2
 Ride (bike)		+1	+1	+2	+4
-Carousing		+1	+1		+2
+Sense (sight)		+1	+0		+1
 Stealth			+1	+0	+2	+3
 
 **The Code**, top nerd of the BMX Kids, I+3, S+1, T+2, P+1 (Crafter)
@@ -952,13 +952,14 @@ Dexterity	12	+1	Wounds (Physical)
 Perception	11	+0	Wounds (Mental)	
 Charisma	11	+0	Wounds (Social)	
 Skill			Char	Train	Other	Total
-Language (English) 	+2	+3		+5
 Athletics 1 (stamina)	-1	+1		+0
+Carousing 		+0	+1		+1
 Craft (computing)	+2	+3		+5
+Language (English) 	+2	+3		+5
 Knowledge (science)	+2	+2		+4
 Perception		+0	+1		+1
 Ride (bike)		+1	+1	+2	+2
-Carousing 		+0	+1		+1
+Stealth			+1	+0	+2	+3
 
 **Slang** 
 
@@ -975,8 +976,66 @@ The following are some example slang terms that the BMX Kids will use. A Knowled
 'Bum trip', i.e., "A bad situation"
 'See you on the flipside', i.e., "See you tomorrow'
 
-
 ### 5.1.3 Nile, Ground Floor
+
+Based on the foreshore of Wellington and having received city council approval to remove several old warehouses, the Pyramid of Nile is a massive ediface of glass and steel in the same dimensions as the Great Pyramid of Giza, that is 230 metres per side and 146 metres tall, not including an extra 5 metres of radio attenae, with an incline of 51 degrees, with the sides of the square base at cardinal points. Whilst some engineers have marvelled at the design, town planners have argued that the Pyramid of Nile is inefficient for a city such as Wellington where flat land is at a premium. More cynical land economists have noted that perhaps the primary business of Nile is not book distribution, but real estate speculation.  
+
+The pyramid has long range security cameras mounted on the angles, each of which have a range of 100m, and three at each entrance, two facing along the opposite base, and one facing ahead. At the second floor there are, obviously, no entrance based security cameras, but there are cameras facing downwards along the pyramid angles to ensure that nobody is climbing up. There is no security cameras on the third level. Within the building there is a basic motion detector, alarm system, and short-range/wide angle camera is each major room and corridor.
+
+The computer system consists of an overall network, plus VLANs with wired and wireless access for each department which requires network administrator access to enter from oustide. Use of VPNs from home to the office are common. The archives and data centre for the company is on the first floor and is known among the staff as "The Minotaur's Maze" on account of the confusing layout.
+
+The ground floor consists of four entrances into the Pyramid of Nile, one general business and the occasional public (such as school trips), two entrances for truck bound deliveries (inwards and outwards), and one entrance for transport inbound and outbund shipping. At each entrance there is a a guard post and first aid centre, and nearby is the fire panel for the floor. The guards at the trucking and shipping entrances are notably more surly than those at the public entrance, and the public entrance also have two reception staff. The Security staff are not armed, but do have access to a police emergency button. Twice during the night time one security guards from each station will take a walk around the perimeter to ensure that everything is fine; it's a fair walk and will take the guards a good twenty minutes to complete the 1.6km trek.
+
+**Generic Security Guard**
+
+The generic security guard is big, burly, but also professional. Nile has been very careful to select security guards with the right disposition and experience and their selection of guards has been very successful. These security guards will do everything by the book and record that they did it by the book.
+
+Characteristic	Value	Bonus		
+Strength	14	+2	Profession	Labourer
+Intelligence	10	+0	Level		5
+Wisdom		10	+0	Movement (running)	7
+Dexterity	13	+1	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Athletics (stamina)	+2	+1		+1
+Athletics (strength)	+2	+5		+1
+Carousing		+1	+1		+2
+Craft (computers) 	+0	+1		+2
+Craft (structural)	+0	+2		+3
+Hobby (various)		+0	+2		+3	
+Intimidate		+2	+5		+7
+Knowledge (General)	+0	+4		+4
+Language (English)	+0	+2		+2
+Melee			+2	+4		+5
+Professions		+0	+5		+4
+Pilot (car)		+1	+1		+2
+Sense (sight)		+1	+0		+1
+
+**Generic Reception Staff**
+
+The reception staff are, as per the generic gender and age roles so common in a corporate environment, young and female. Again however, like the security staff, Nile takes pride in the quality and professionalism and these staff, and encourages them from this early start in their career to follow the company procedures.
+
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administraror
+Intelligence	13	+1	Level		2
+Wisdom		15	+2	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+2	+2		+4
+Athletics (stamina)	+0	+1		+1
+Carousing		+1	+1		+1
+Concentration		+2	+2		+4
+Craft (writing)		+1	+2		+3
+Craft (computing)	+1	+3		+4
+Knowledge (general)	+1	+2		+3
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+2	+2		+4
+Sense (sight)		+1	+3		+4
+
 
 This is made up of various groups, or levels.  Each level will have a reward that the PCs can earn, which could assist them in their travels.
 
@@ -1092,6 +1151,9 @@ Vice-President ( ), Mr. White
 Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationship. Safe, locked.
 President Fey Rowe, the Queen of the Nile
 
+
+
+
 ## 5.2 Scenario: Palaces of the Electrum Princess
 
 ### 5.2.1 Introduction 
@@ -1198,9 +1260,9 @@ John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
 
 Three decades ago Will McLean brought us many laughs with the "Papers & Paychecks" illustration in the Dungeon Masters Guide for Advanced Dungeons & Dragons. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that "Papers and Paychecks" would make a great roleplaying game.
 
-In 2017 this game became a reality, a 128 page book with artwork from Dan 'Smif' Smith, famous for his illustrations from the GURPS line of books, Randall Munroe's famous XKCD comics, and with a foreword by the first employee of TSR, Tim Kask.
+In 2017 this game became a reality, a 128 page book with artwork from Dan 'Smif' Smith, famous for his illustrations from the GURPS line of books, Randall Munroe's famous XKCD comics, and with a foreword by the first employee of TSR, Tim Kask. In "Papers & Paychecks" the world itself is downright hostile towards the PCs on a metaphysical level, although usually in a manner that is hilarious. 
 
-In "Papers & Paychecks" the world itself is downright hostile towards the PCs on a metaphysical level, although usually in a manner that is hilarious. In this, the first supplement for the game, there are new character classes, new equipment, new NPCs, new settings (fantasy, noir), and new scenarios, including "Keep Our Borderlands", "The Palace of the Electrum Princess", and "Camp 22".
+*Cow-Orkers in the Scary Devil Monastry* is the first supplement for *Papers & Paychecks*, there are new character classes, new equipment, new NPCs, new settings (fantasy, noir), and new scenarios, including "Keep Our Borderlands", "The Palace of the Electrum Princess", and "Camp 22".
 
 
 
