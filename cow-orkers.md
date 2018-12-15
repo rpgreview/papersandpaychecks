@@ -785,7 +785,65 @@ With a clear task before them, the PC Workers will almost certainly want to inve
 
 At a book-signing, reading, or similar event at Borderlands, a character who makes a successful Sense (Sight, Hearing, Smell) roll will notice a rough-looking elderly man standing outside in a dirty overcoat, the tell-tale sign of a bottle in a brown-bag sticking out of his coat pocket, rheumy eyes, a greying and unkempt beard, and a significant odour etc. For all intents and purposes this seems to be one of many unfortunate members of society whom life and the economic system has given a bad hand. However, what is quite different about this individual is that they are parading back and forth with a hand-made sign which states "The End is Nile!". Not only that but the individual also rants about how Nile is seeking to take over every book publisher, every distributor, every bookstore, and then they'll move on to radio, television and even (and especially) the Internet. "And then they will control all the information! And they'll have control of you! And you! And you!", as he points manically at indifferent or worried pedestrians.
 
-When pressed further the Manic Street Preacher will continue on a similar theme, and will start dropping names of ranking employees of Nile and of Borderlands, and indeed seems very familiar with the various operations of Borderlands. If more than two PC Workers start paying him attention however, he will attempt to flee the scene in a dramatic manner making comments about how is being chased by spooks. Following him will eventually lead to his home, such as it is, an a disused lavatory in the cellar of a local council building which, like all such places, is both missing the light and the stairs (the Manic Street Preacher knows the way down). Also on the door of the lavatory is a sign that says "Beware of the Leopard", and they're not kidding either. In this case "Leopard" is a particularly large and savage domestic Savannah cat who dearly loves his owner and will take advantage of the dark to engage in sneak attacks.
+When pressed further the Manic Street Preacher will continue on a similar theme, and will start dropping names of ranking employees of Nile and of Borderlands, and indeed seems very familiar with the various operations of Borderlands. If more than two PC Workers start paying him attention however, he will attempt to flee the scene in a dramatic manner making comments about how is being chased by spooks. Following him will eventually lead to his home, such as it is, an a disused lavatory in the cellar of a local council building which, like all such places, is both missing the light and the stairs (the Manic Street Preacher knows the way down). Also on the door of the lavatory is a sign that says "Beware of the Leopard", and they're not kidding either. In this case "Leopard" is a particularly large and savage domestic Savannah cat who dearly loves his human staff and will take advantage of the dark to engage in sneak attacks.
+
+Getting past the Manic Street Preacher and Leopard is quite revealing. Among his scant normal possessions are several old scientific books that were distributed through Borderlands, various old company records from Borderlands, more recent documents from Nile (he's done some dumpster diving), and many scribbled notes about the corporate strategy from Nile and their attempts to take over Borderlands and other media. One will even find a small box containing a few hundred dollars, and a passport which reveals his identity as Alderman Border.
+
+Every family has skeletons in their closet, and some more than others, and Alderman Border is the skeleton for the Border family. Once the brightest son of Castel and in charge of their now defunct distribution of academic texts, Alderman could see the threat posed by Nile but lacked the administrative and communicative skills to express his concerns effectively. Seeking solace in bottles of strong alcoholic beverages alternating with serotonergic psychedelics, Alderman became increasingly speculative with his opinions on Nile's intentions. Never a great administrator his work began to slide leading to the collapse of the academic distribution line, which was eagerly taken up by Nile. This simply confirmed his fears and increased his rantings until the day came that Leoland had to forcibly remove him from the building. He still returns at times with his placard to berate and accost anyone who crosses his path and makes eye contact. When there is nobody around Stellan will take him aside to have a quiet word about his diet and hygeine, ask how the cat is, and slip him some money.
+ 
+Alderman Border, former academic content manager at Borderlands, now manic street preacher. E+2 S+2 T+2 P+2 (Promoter)
+
+Characteristic	Value	Bonus		
+Strength	13	+1	Profession	Scientist 4, Labourer 4
+Intelligence	16	+3	Level		6
+Wisdom		11	+0	Movement (running)	7
+Dexterity	11	+0	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	8	-1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Athletics (Strength)	+1	+4
+Athletics (Stamina)	+1	+4
+Carousing		-1	+4
+Craft (chemical)	+3	+4
+Craft (computing)	+3	+4
+Craft (pharmaceutical)	+3	+4	
+Craft (writing)		+3	+4
+Investigate		+3	+4
+Knowledge (general)	+3	+2
+Knowledge (arts)	+3	+2
+Knowledge (laws)	+3	+2
+Knowledge (philosophy)	+2	+2
+Knowledge (sciences)	+3	+7
+Language (English) 	+3	+4
+Language (French)	+3	+1
+Pilot (car)		+0	+1
+Professions		+0	+1
+Melee			+1	+4
+Sense (hearing)		+0	+4
+Sense (insight)		+0	+5
+
+'Leopard', recipient of Alderman's service. I+2 S+4 F+3 J+2 (Protector)
+
+Characteristic	Value	Bonus		
+Strength	4	-3	Profession	Cat
+Intelligence	2	-4	Level		1
+Wisdom		2	-4	Movement	4
+Dexterity	14	+2	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	6	-2	Wounds (Social)	
+Skill		Char	Train	Other	Total
+Climb		-3	+2	+4	+1
+Jump		-3	+2	+2	+1
+Melee		-3	+2		-1
+Gymnastics	+2	+4	+2	+8
+Stealth		+2	+4	+2	+8
+Sense (hearing)	+4	+4	+2	+10
+
+
+
+
+
+
 
 
 
@@ -808,11 +866,6 @@ The Bandits
 · Talk in ‘70s slang (why not?)
 · May be of use, but could also annoy the PCs
 
-The Mad Hermit
-· Wanders around the streets with a sign reading, “The End is Nile”
-· When initially met, will be relatively sane, but will progressively get wilder and crazier
-· Has a very savage and large tom-cat that will protect him if he is attacked.
-· [Optional – was a previously high-ranking executive in either Nile/Borderlands/another competitor to Nile.]
 
 ### 5.1.3 Nile, Ground Floor
 
