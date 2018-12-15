@@ -781,7 +781,7 @@ If and when a PC Worker raises the matter, Sofia will introduce the PC Workers t
 
 With a clear task before them, the PC Workers will almost certainly want to investigate Nile. The following are availble, apart from the most mundane corporate information on their website, and a surprising number of complaints from consumers unhappy with the customer service of their warehouse direct book sales.
 
-**The Manic Street Preacher**
+**The Manic Street Preacher (aka The Mad Hermit)**
 
 At a book-signing, reading, or similar event at Borderlands, a character who makes a successful Sense (Sight, Hearing, Smell) roll will notice a rough-looking elderly man standing outside in a dirty overcoat, the tell-tale sign of a bottle in a brown-bag sticking out of his coat pocket, rheumy eyes, a greying and unkempt beard, and a significant odour etc. For all intents and purposes this seems to be one of many unfortunate members of society whom life and the economic system has given a bad hand. However, what is quite different about this individual is that they are parading back and forth with a hand-made sign which states "The End is Nile!". Not only that but the individual also rants about how Nile is seeking to take over every book publisher, every distributor, every bookstore, and then they'll move on to radio, television and even (and especially) the Internet. "And then they will control all the information! And they'll have control of you! And you! And you!", as he points manically at indifferent or worried pedestrians.
 
@@ -840,7 +840,7 @@ Stealth		+2	+4	+2	+8
 Sense (hearing)	+4	+4	+2	+10
 
 
-**The Lizard Men**
+**Due Authority (aka The Lizard Men)**
 
 Any half-competent Internet research on Nile and their activities in New Zeland will result in discovering the "Due Authority" website. "Due Authority" is a pro-monarchist, New Zealand nationalist (yes, there is really such a thing), and anti-foreign investment group, whose political opinions stray from the wingnut right to the moonbat left, but never in-between. The following is a good example of one of their posts, concerning any potential to the chage of the New Zealand flag, which inspired the formation of the group.
 
@@ -874,28 +874,106 @@ Dexterity	11	+0	Wounds (Physical)
 Perception	10	+0	Wounds (Mental)	
 Charisma	18	+4	Wounds (Social)	
 Skill			Char	Train	Other	Total
-Language (English)	+2	+3
-Administration		+2	+6
-Carousing 		+4	+1
-Bully			+4	+4
-Concentration		+2	+2
-Craft (Computing)	+2	+2
-Craft (writing)		+2	+3
-Knowledge (general)	+2	+10
-Knowledge (laws)	+2	+2
-Sense (insight)		+0	+3
-Lie			+4	+6
-Pilot (car) 		+0	+1
-Profession		+0	+4
+Language (English)	+2	+3		+5
+Administration		+2	+6		+8
+Carousing 		+4	+1		+5
+Bully			+4	+4		+8
+Concentration		+2	+2		+4
+Craft (Computing)	+2	+2		+4
+Craft (writing)		+2	+3		+5
+Knowledge (general)	+2	+10		+12
+Knowledge (laws)	+2	+2		+4
+Sense (insight)		+0	+3		+3
+Lie			+4	+6		+10
+Pilot (car) 		+0	+1		+1
+Profession		+0	+4		+4
 
+**BMX Kids (aka The Bandits)**
 
-The Bandits
-- Found searching through trash in a laneway, very interested in old computers and especially post-it notes under keyboards.
-· Group of kids, who all ride skateboards and BMX bikes
-· Class themselves as the best hackers/entry-persons in the area.
-· Probably are.
-· Talk in ‘70s slang (why not?)
-· May be of use, but could also annoy the PCs
+The BMX Kids are a group of several mostly male adolescents aged between 12 and 15 who scoot around the city on the own BMX bikes. When out-of-office (just before arriving at work, leaving work, lunch break) one or more PC Workers will notice these urchins in a local laneway and overhear (Sense (Hearing), TN 7) one exclaim excitedly, "There's Post-It (TM) note under the keyboard!". If a PC worker looks down the laneway they will notice a number of the youngsters "dumpster diving" among some discarded computer parts. A Knowledge (General) skill check (TN 9) or Craft (computing) (TN 9) will ascertain that the excitement is about discovering someone's password.
+
+If approached the BMX Kids will be extremely wary and may even attempt to flee, however appropriate coaxing (Seduce skill, using bribery, TN 7) will encourage them to stay and talk. The three main bandits, High-Fly (famed for their big jumps), Emu (an Australian), and The Code (a bespectacled girl) will do most of the talking and despite being the seniors among the game (i.e., they're 14-15) they are just as prone to having loose lips when it comes to describing their criminal abilities. Specifically the BMX Kids will claim that there there isn't a computer or building that they can't get into, "for a price", The Code adds. If a price is requested, High-Fly will blurt out "Five hundred dollars!", causing Emu to grimace. Kindly PC Workers may offer them double that, just to ensure their loyalty.
+
+The reality is that these are just kids; they do have some skills in the the areas that they think they are the city's best, but they are not professional criminals by any stretch of the imagination, although a particularly Machiavellian party will find a "patsy" use for them. Given their age they will have characteristics around 25%  lower than their adult levels (a more fine-grained description of section 1.4 Characteristics, in the core rulebook). They also have a full complement of background skills. The BMX Kids have typically swapped "Pilot" for "Bike" in their background skills, and have a bonus to Stealth (and other skills) on account of their relatively size. One interesting identifier for the group is that they talk in late 1970s slang and have preference for 1970s pop music, even including the Bay City Rollers for some incomprehensible reason.
+
+**High-Fly**, leader of the BMX Kids. E+3 S+1 F+2 J+2 (Provider)
+
+Characteristic	Value	Bonus		
+Strength	12	+1	Profession	None
+Intelligence	12	+1	Level		0
+Wisdom		8	-1	Movement (running)	6
+Dexterity	12	+1	Wounds (Physical)	
+Perception	11	+0	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Language (English)	+1	+2		+3
+Athletics (stamina)	+1	+1		+2
+Athletics (strength)	+1	+1		+1
+Craft (computers) 	+1	+1		+2
+Craft (structural)	+1	+2		+3
+Knowledge (General)	+1	+1		+1
+Hobby (forced entry)	+1	+1	+2	+4
+Hobby (BMX stunts)	+1	+1	+2	+4	
+Sense (sight)		+1	+0		+1
+Ride (bike)		+1	+1		+2
+Carousing		+1	+1	+2	+4
+Stealth			+1	+0	+2	+3
+
+**Emu**, faithful 2IC of the BMX Kids,  I+2 S+2 F+2 J+2 (Protector)
+
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	None
+Intelligence	11	+0	Level		0
+Wisdom		13	+1	Movement (running)	5
+Dexterity	13	+1	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	10	+0	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Language (English)	+0	+2		+2
+Athletics (stamina)	+0	+1		+1
+Athletics (strength)	+0	+1		+1
+Craft (computers) 	+1	+1		+2
+Craft (structural)	+1	+2		+3
+Knowledge (General)	+1	+1		+1
+Hobby (juvenile law)	+1	+1	+2	+4
+Hobby (BMX stunts)	+1	+1	+2	+4	
+Sense (sight)		+1	+0		+1
+Ride (bike)		+1	+1	+2	+4
+Carousing		+1	+1		+2
+Stealth			+1	+0	+2	+3
+
+**The Code**, top nerd of the BMX Kids, I+3, S+1, T+2, P+1 (Crafter)
+
+Characteristic	Value	Bonus		
+Strength	8	-1	Profession	None
+Intelligence	14	+2	Level		0
+Wisdom		13	+1	Movement (running)	4
+Dexterity	12	+1	Wounds (Physical)	
+Perception	11	+0	Wounds (Mental)	
+Charisma	11	+0	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Language (English) 	+2	+3		+5
+Athletics 1 (stamina)	-1	+1		+0
+Craft (computing)	+2	+3		+5
+Knowledge (science)	+2	+2		+4
+Perception		+0	+1		+1
+Ride (bike)		+1	+1	+2	+2
+Carousing 		+0	+1		+1
+
+**Slang** 
+
+The following are some example slang terms that the BMX Kids will use. A Knowledge (general) skill check at -2 is required to work out what the hell they are talking about, unless the character was in their teens or twenties in the 1970s.
+
+"Do me a solid" i.e., "Can you do me a favour?"
+"Boogie down!" i.e., "Let's party!"
+'The Man', Everything from government, bosses, and parents.
+'10-4', i.e., "Affirmative", from Citizen's Band slang
+'Bear', i.e., "A police officer", from Citizen's Band slang
+'Space cadet' i.e., "A person with an interest in science and not paying attention to other cool things".
+'Skinny', i.e., "The whole and deep truth"
+'Grok', i.e., "To deeply understand'
+'Bum trip', i.e., "A bad situation"
+'See you on the flipside', i.e., "See you tomorrow'
 
 
 ### 5.1.3 Nile, Ground Floor
