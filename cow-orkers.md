@@ -705,18 +705,18 @@ Dexterity	9	-1	Wounds (Physical)
 Perception	9	-1	Wounds (Mental)	
 Charisma	13	+1	Wounds (Social)	
 Skill			Char	Train	Other	Total
-Administration		-1	+6		+8
+Administration		+1	+6		+7
 Bully			+2	+4		+6
-Carousing		+3	+3		+10
+Carousing		+1	+3		+4
 Craft (Computing)	+1	+2		+3	
-Inspire			+3	+3		+9
-Knowledge (General)	+2	+3		+5
-Language (English)	+2	+4		+6
-Language (French)	+2	+1		+3
+Inspire			+1	+3		+4
+Knowledge (General)	+1	+3		+4
+Language (English)	+1	+4		+5
+Language (French)	+1	+1		+2
 Lie			+1	+6		+7
-Pilot (Car)		+1	+1		+2
-Profssion		-1	+5		+4
-Seduce			+3	+6		+9
+Pilot (Car)		-1	+1		+1
+Profession		+1	+5		+5
+Seduce			+1	+6		+7
 Sense (Insight)		+1	+1		+2
 
 Leoland's Hackett suit, Rolex watch, and Mon Blanc pen are actually monsters in league with each other and acting in concert to control Leoland and lead him down his existing path of a desire for power and wealth. All three engage in long-term and subtle mental attacks at appropriate times and have led to a situation where Leoland is actually totally in their control. As a result of his divulgence of business secrets, Leoland is actually secretly working for Nile and receiving a very nice stipend for this gradual activity of corporate espionage that is gradually bringing Borderlands to its knees. The plan is for Nile to eventually take over Borderlands and Leoland will take that top position as manager of a local content branch; Castel will face a lonely retirement somewhere remote in the South Island and Stellan will be driven out of the business. The monsters however have no intention of letting up at this point and will drive Leoland to even more nefarious deeds. 
@@ -1196,6 +1196,8 @@ This things are not quite untrue, in reality, they are very good at deflecting w
 
 The head of the team is an extremely competent administrator, Bree Yark, who is not above engaging in this rumour mill herself. Whenever an administrator is stuck with a particularly complex problem and their immediate colleagues cannot help (such as contradictory procedures), a cry will come up from the floor where he name is simply exclaimed in full: "Bree Yark!" Contrary to popular belief this does not sound anything like "Hey Rube" and Bree herself instituted the practise. It has become code for "We surrender!". This will happen several times a day.
 
+In a private office beyond the secetarial poll (G7a) is Al Bear who is one of the few male members of this highly-gendered pool and unsurprisingly is the floor manager, although he is also technically in charge of the other staff on this level as well. Al is a big guy, of Maori background, with bushy beard, red-checked flanellette shirt, and spray-on jeans. He is also as camp as a row of tents. He and Bree get along very well, sharing all sorts of comical stories of internal office shenanigans and affairs; especially affairs.
+
 *Generic Secretarial Staff*
 
 Characteristic	Value	Bonus		
@@ -1246,7 +1248,27 @@ Sense (sight)		+1	+3		+4
 Sense (insight)		+1	+3		+4
 
 
+*Al Bear*, floor manager at Nile. E+3 S+3 T+1 J+1 (Supervisor)
 
+Characteristic	Value	Bonus		
+Strength	14	+2	Profession	Manager
+Intelligence	14	+2	Level		6
+Wisdom		12	+1	Movement (running)	6
+Dexterity	9	-1	Wounds (Physical)	
+Perception	12	+1	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act			+1	+4		+5
+Administration		+1	+8		+9
+Carousing		+1	+7		+8
+Inspire			+1	+6		+7
+Knowledge (General)	+2	+5		+7
+Language (English)	+2	+4		+6
+Language (Maori)	+2	+3		+5
+Pilot (Car)		-1	+1		+0
+Profession		+1	+7		+8
+Seduce			+1	+2		+3
+Sense (Insight)		+1	+1		+2
 
 
 
