@@ -77,9 +77,28 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 ## 0.3 Papers & Paychecks Errata
 
-p28 - Intellect Fortress appears twice with two different descriptions
+1.6 Skills
+
+Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is alread an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead.
 
 Section 1.6, under character class backgrounds where it reads "Perception", this should be "Sense (various)"
+
+
+1.7 
+
+File system knowledge
+
+provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment.
+
+2.3 
+
+Tactical Conflict
+
+Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
+
+
+p28 - Intellect Fortress appears twice with two different descriptions
+
 
 # 1.0 Additional Character Classes
 
@@ -450,15 +469,10 @@ Charles the Tall Intern appeared one day at the coffee machine, emptied the pot 
 
 That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
 
-
-
-
 Niles Lath O'Tep
 He's a groundskeeper from Connacht. Lives with his mum and a Glen of Imaal Terrier
 
-
 Chiron, Greek hero and doctor, Centaur of Disease Control, advocate of herd immunity.
-
 
 ## 3.3 The Telstra Switch
 
@@ -631,7 +645,7 @@ The whole place is well organised for security and logistics. Despite the descri
 
 The main non-player characters of Borderlands publishing house are Castel Border, Stellan Border, Leoland Border, and Seneca Philosophus. Castel Border is the silver-haired, pin-striped suit, elderly, cantankerous, and yet quite clever owner of the business. Now in his seventies, he inherited the business from his father and has kept the ship steady, "steady she goes" is yet another of his annoying pearls of wisdom that will be recited several times a day. His two sons are Stellan Border and Leoland Border with the main inheritence of the store almost certainly going to Stellan. Castel has the role of general manager.
 
-Castel Border, owner and chief manager of Borderlands. I+1 N+3 T+2 J+2 (Mastermind)
+*Castel Border*, owner and chief manager of Borderlands. I+1 N+3 T+2 J+2 (Mastermind)
 
 Characteristic	Value	Bonus		
 Strength	9	-1	Profession	Manager, Administrator
@@ -658,7 +672,7 @@ Sense (Insight)		+0	+1		+1
 
 Stellan Border is a kindly gentleman in his early fifties who dresses in an unassuming navy suit with fine selection of paisley ties. In many ways he's very much like his father, in terms of disposition and a sense of an unhurried approach, but he is largely lacking in business acumen and has an appaling sense of timing. Throughout the story, is almost certain that he will turn up when the PC workers are busy and then not be able to found when he is needed. Stellan never had an unkind word for anybody, not even his brother, of whom he has suspicions. Stellan is charge of author and agent liaison, where his natural charm shines, and content production, where he can get in the way.
 
-Stellan Border, manager of agent liason and content production. E+2 N+1 F+3 J+1 (Teacher)
+*Stellan Border*, manager of agent liason and content production. E+2 N+1 F+3 J+1 (Teacher)
 
 Characteristic	Value	Bonus		
 Strength	11	+0	Profession	Manager
@@ -681,7 +695,7 @@ Sense (Insight)		+1	+1		+2
 
 Leoland Border is a pleasant and friendly man in his mid-forties, solid and well-built (he works out at the gym every morning), typically dressed in a very sharp Hackett charcoal black suit, thin-tie and perfect-white shirts. Even remotely astute observers will notice his sense of taste for well-known items that carry a price-tag, including a Rolex watch and a Mont Blanc pen. Always attentive, despite being very busy he will book an appointment for any worker who wishes to see him; "my door is always open" is his annoying platitude. Leoland is in charge of accounts and distribution, as well as improving the technological systems at Borderlands.
 
-Leoland Border, accounts and distribution manager at Borderlands. I+1, N+1, T+1, J+4 (Mastermind)
+*Leoland Border*, accounts and distribution manager at Borderlands. I+1, N+1, T+1, J+4 (Mastermind)
 
 Characteristic	Value	Bonus		
 Strength	14	+2	Profession	Manager
@@ -709,7 +723,7 @@ Leoland's Hackett suit, Rolex watch, and Mon Blanc pen are actually monsters in 
 
 The three items represent and target Freudian aspects of their personality, the Hackett suit representing Leolan's environmental needs (their id), the Rolex watch reminding them of the control that the external social world has on them (their superego), and the Mont Blanc pen for their introspection and expression (their ego). If separated from his items their power will gradually diminish and Leoland will come to his senses (of sorts). "A holiday", whether in a literal sense such as a few months in Fiji, or in the figuartive sense as in a period in "The Big House" for fraud, would actually do a world of good for Leoland.
 
-The Suit I+1 S+2 F+2 P+2 (Composer)
+*The Suit* I+1 S+2 F+2 P+2 (Composer)
 Characteristic	Value	Bonus		
 Strength	12	+1	Profession	Monster
 Intelligence	11	+0	Level		1
@@ -733,7 +747,7 @@ Sense (ESP)	+0	+3		+3
 Skill		Char	Train	Other	Total
 Sense (ESP)	+2	+3		+5
 
-The Pen  E+1 N+3 T+3 J+4 (Fieldmarshall)
+*The Pen*  E+1 N+3 T+3 J+4 (Fieldmarshall)
 Characteristic	Value	Bonus		
 Strength	1	-5	Profession	Monster
 Intelligence	16	+3	Level		1
@@ -742,13 +756,11 @@ Dexterity	13	+1	Wounds (Physical)
 Perception	13	+1	Wounds (Mental)	
 Charisma	13	+1	Wounds (Social)	
 Skill		Char	Train	Other	Total
-Sense (ESP)	+0	+3		+3
-Skill		Char	Train	Other	Total
 Sense (ESP)	+1	+3		+4
 
 Sofia Seneca is a professional and highly-organised woman of an Italian background, who is the very picture of a modern business woman. She will be the main contact and manager of the PC workers, and whilst she has a lot to do (effectively, she is the one that keeps everything working on a day-by-day level), she will always act as a patron to the PC workers. Like Stellan and Leoland, she works directly for Castel. Sofia will provide the PC Workers and introduction to their work, which at least on paper is as varied and appropriate to their profession. She will take the opportunity for daily meetings with the PC Workers to be as helpful as possible. In the course of their various mundane duties (and, my god, are they mundane), the PC Workers will determine, as the facts speak for themselves, that Borderlands is under serious trouble due the introduction of the multinational Nile to their local industry. 
 
-Sofia Seneca, office manager of Borderlands. I+2 N+4 T+2 J+1 (Mastermind)
+*Sofia Seneca*, office manager of Borderlands. I+2 N+4 T+2 J+1 (Mastermind)
 
 Characteristic	Value	Bonus		
 Strength	9	-1	Profession		Administrator
@@ -791,7 +803,7 @@ Getting past the Manic Street Preacher and Leopard is quite revealing. Among his
 
 Every family has skeletons in their closet, and some more than others, and Alderman Border is the skeleton for the Border family. Once the brightest and first son of Castel and in charge of their now defunct distribution of academic texts, Alderman could see the threat posed by Nile but lacked the administrative and communicative skills to express his concerns effectively. Seeking solace in bottles of strong alcoholic beverages alternating with serotonergic psychedelics, Alderman became increasingly speculative with his opinions on Nile's intentions. Never a great administrator his work began to slide leading to the collapse of the academic distribution line, which was eagerly taken up by Nile. This simply confirmed his fears and increased his rantings until the day came that Leoland had to forcibly remove him from the building. He still returns at times with his placard to berate and accost anyone who crosses his path and makes eye contact. When there is nobody around Stellan will take him aside to have a quiet word about his diet and hygeine, ask how the cat is, and slip him some money.
  
-Alderman Border, former academic content manager at Borderlands, now manic street preacher. E+2 S+2 T+2 P+2 (Promoter)
+*Alderman Border*, former academic content manager at Borderlands, now manic street preacher. E+2 S+2 T+2 P+2 (Promoter)
 
 Characteristic	Value	Bonus		
 Strength	13	+1	Profession	Scientist 4, Labourer 4
@@ -896,7 +908,7 @@ If approached the BMX Kids will be extremely wary and may even attempt to flee, 
 
 The reality is that these are just kids; they do have some skills in the the areas that they think they are the city's best, but they are not professional criminals by any stretch of the imagination, although a particularly Machiavellian party will find a "patsy" use for them. Given their age they will have characteristics around 25%  lower than their adult levels (a more fine-grained description of section 1.4 Characteristics, in the core rulebook). They also have a full complement of background skills. The BMX Kids have typically swapped "Pilot" for "Bike" in their background skills, and have a bonus to Stealth (and other skills) on account of their relatively size. One interesting identifier for the group is that they talk in late 1970s slang and have preference for 1970s pop music, even including the Bay City Rollers for some incomprehensible reason.
 
-**High-Fly**, leader of the BMX Kids. E+3 S+1 F+2 J+2 (Provider)
+*High-Fly*, leader of the BMX Kids. E+3 S+1 F+2 J+2 (Provider)
 
 Characteristic	Value	Bonus		
 Strength	12	+1	Profession	None
@@ -919,7 +931,7 @@ Ride (bike)		+1	+1		+2
 Sense (sight)		+1	+0		+1
 Stealth			+1	+0	+2	+3
 
-**Emu**, faithful 2IC of the BMX Kids,  I+2 S+2 F+2 J+2 (Protector)
+*Emu*, faithful 2IC of the BMX Kids,  I+2 S+2 F+2 J+2 (Protector)
 
 Characteristic	Value	Bonus		
 Strength	10	+0	Profession	None
@@ -942,7 +954,7 @@ Ride (bike)		+1	+1	+2	+4
 Sense (sight)		+1	+0		+1
 Stealth			+1	+0	+2	+3
 
-**The Code**, top nerd of the BMX Kids, I+3, S+1, T+2, P+1 (Crafter)
+*The Code*, top nerd of the BMX Kids, I+3, S+1, T+2, P+1 (Crafter)
 
 Characteristic	Value	Bonus		
 Strength	8	-1	Profession	None
@@ -961,7 +973,7 @@ Perception		+0	+1		+1
 Ride (bike)		+1	+1	+2	+2
 Stealth			+1	+0	+2	+3
 
-**Slang** 
+*Slang*
 
 The following are some example slang terms that the BMX Kids will use. A Knowledge (general) skill check at -2 is required to work out what the hell they are talking about, unless the character was in their teens or twenties in the 1970s.
 
@@ -978,17 +990,23 @@ The following are some example slang terms that the BMX Kids will use. A Knowled
 
 ### 5.1.3 Nile, Ground Floor
 
-Based on the foreshore of Wellington and having received city council approval to remove several old warehouses, the Pyramid of Nile is a massive ediface of glass and steel in the same dimensions as the Great Pyramid of Giza, that is 230 metres per side and 146 metres tall, not including an extra 5 metres of radio attenae, with an incline of 51 degrees, with the sides of the square base at cardinal points. Whilst some engineers have marvelled at the design, town planners have argued that the Pyramid of Nile is inefficient for a city such as Wellington where flat land is at a premium. More cynical land economists have noted that perhaps the primary business of Nile is not book distribution, but real estate speculation.  
+Based on the foreshore of Wellington and having received city council approval to remove several old warehouses, the Pyramid of Nile is a massive ediface of glass and steel in the same propostions as the Great Pyramid of Giza, although at 1/10th of the size. It stands 23 metres per side and 14.6 metres tall, not including an extra 2 metres of radio attenae, with an incline of 51 degrees, with the sides of the square base at cardinal points. Whilst some architects have marvelled at the iconic building, town planners have argued that the Pyramid of Nile is an inefficient desing for a city such as Wellington where flat land is at a premium. More cynical economists have noted that perhaps the primary business of Nile is not book distribution, but real estate speculation.  
 
-The pyramid has long range security cameras mounted on the angles, each of which have a range of 100m, and three at each entrance, two facing along the opposite base, and one facing ahead. At the second floor there are, obviously, no entrance based security cameras, but there are cameras facing downwards along the pyramid angles to ensure that nobody is climbing up. There is no security cameras on the third level. Within the building there is a basic motion detector, alarm system, and short-range/wide angle camera is each major room and corridor.
+The pyramid has long range security cameras mounted on the angles, each of which have a range of 100m, and three at each entrance, two facing along the opposite base, and one facing ahead. At the second level there are, obviously, no entrance based security cameras, but there are cameras facing downwards along the pyramid angles to ensure that nobody is climbing up. There is no security cameras on the third level. Within the building there is a basic motion detector, alarm system, and short-range/wide angle camera is each major room and corridor.
 
 The computer system consists of an overall network, plus VLANs with wired and wireless access for each department which requires network administrator access to enter from oustide. Use of VPNs from home to the office are common. The archives and data centre for the company is on the first floor and is known among the staff as "The Minotaur's Maze" on account of the confusing layout.
 
-The ground floor consists of four entrances into the Pyramid of Nile, one general business and the occasional public (such as school trips), two entrances for truck bound deliveries (inwards and outwards), and one entrance for transport inbound and outbund shipping. At each entrance there is a a guard post and first aid centre, and nearby is the fire panel for the floor. The guards at the trucking and shipping entrances are notably more surly than those at the public entrance, and the public entrance also have two reception staff. The Security staff are not armed, but do have access to a police emergency button. Twice during the night time one security guards from each station will take a walk around the perimeter to ensure that everything is fine; it's a fair walk and will take the guards a good twenty minutes to complete the 1.6km trek.
+The ground floor consists of four entrances into the Pyramid of Nile, one general business and the occasional public (such as school trips), two entrances for truck bound deliveries (inwards and outwards), and one entrance for transport inbound and outbund shipping. At each entrance there is a a guard post and first aid centre, and nearby is the fire panel for the floor. The staff at the trucking and shipping entrances are notably more surly than those at the public entrance, and the public entrance also have two reception staff. The Security staff are not armed, but do have access to a police emergency button. Twice during the night time one security guards from each station will take a walk around the perimeter to ensure that everything is fine; it's a fair walk and will take the guards a good twenty minutes to complete the 1.6km trek. At all times at least one security guard has Survival skill representing their first and second aid training.
 
-**Generic Security Guard**
+Nota bene: Set in New Zealand, where Commonwealth English predominates, the first level is typically referred to as the "ground floor", and the second level as the "first floor", and the third level as the "second floor". This may be different to what U.S. readers are more familiar with.
 
-The generic security guard is big, burly, but also professional. Nile has been very careful to select security guards with the right disposition and experience and their selection of guards has been very successful. These security guards will do everything by the book and record that they did it by the book.
+**G1 Business Entrance**
+
+The business entrance to Nile Corporation is a large open area of marble and chrome, rather like business hotel lobby. A reception desk has two staff who check-in visitors and issue identity cards for staff and passes for visitors. These cards cover all the rooms for the ground level and first level, but not level two. In addition there are two well-dressed and friendly security staff during the daytime, replaced with more surly staff in the evening. Using "Generic Security Guard" and "Generic Receptionist" for statistics.
+
+*G1, G2, G3 Generic Security Guard*
+
+The generic security guard is big, burly, but also professional. Nile has been very careful to select security guards with the right disposition and experience and their selection of guards has been very successful. These security guards will do everything by the book and record that they did it by the book. Note that some security guards have one level less in Profession in favour of Survival, representing their first aid training.
 
 Characteristic	Value	Bonus		
 Strength	14	+2	Profession	Labourer
@@ -1008,16 +1026,16 @@ Intimidate		+2	+5		+7
 Knowledge (General)	+0	+4		+4
 Language (English)	+0	+2		+2
 Melee			+2	+4		+5
-Professions		+0	+5		+4
+Profession		+0	+5		+4
 Pilot (car)		+1	+1		+2
 Sense (sight)		+1	+0		+1
 
-**Generic Reception Staff**
+*G2 Generic Reception Staff*
 
 The reception staff are, as per the generic gender and age roles so common in a corporate environment, young and female. Again however, like the security staff, Nile takes pride in the quality and professionalism and these staff, and encourages them from this early start in their career to follow the company procedures.
 
 Characteristic	Value	Bonus		
-Strength	10	+0	Profession	Administraror
+Strength	10	+0	Profession	Administrator
 Intelligence	13	+1	Level		2
 Wisdom		15	+2	Movement (running)	5
 Dexterity	10	+0	Wounds (Physical)	
@@ -1036,57 +1054,205 @@ Pilot (car)		+0	+1		+1
 Profession		+2	+2		+4
 Sense (sight)		+1	+3		+4
 
+**G2 Incoming Land Deliveries ("The Orcs")**
 
-This is made up of various groups, or levels.  Each level will have a reward that the PCs can earn, which could assist them in their travels.
+With a far less salabrious entrance, a stream of trucks make their way here for incoming supplies. During the day there are at four storers and packers to move and stack boxes, and engage in stock control. In the evening there are two security guards, who spend most the night taking an occasional walk outside or not really viewing the security camera feed. Use the G1 Generic Security Guard statistics and the G2 Generic Storer and Packer stastics. There is also a forklift and several trolleys present.
 
-About a dozen staff in each area.
+There is about 30 day shift packers and 20 night shift packers on duty in the incoming land delivery, outgoing land delivery, and sea delivery offices, with one supervisor for each room and shift (use generic supervisor). The packers take great delight in shocking people with their colourful, coase, and sexual language and their propensity to have scantily-clad beauties on calendar displays (the few female members of staff have provided their own version of well-buffed firemen in similar poses). Many are experts at union regulations for occupational health and safety and can quote vebatim if the need arises.
 
-*Security Box*
-- Access to rooms level 1 and level 2 (but not 3)
-- Generally not approachable
-- Building Warden and First Aid
+Whilst they will bicker among themselves, constantly, they will also band together with alarming speed if there is any perceived threat to their workplace solidarity. By this they primarily mean not having to work too hard. The night-shift workers have become particularly expert at this, and have even mapped out where to avoid all the cameras within the floor, just in case someone needs a quick nap.
 
-*Mail Room (Kobolds)*
+Almost needless to say the supervisors are not held in high-regard by the packers. If, by some miracle, the PC Workers manage to get the packers onside they can provide information of where to stand and walk pretty much throughout all of level one and not be seen by the security cameras, as well as the provision of protective clothing, overalls, and coaching in union regulations which can stop most questions from other staff on level one and two.
 
-· Occupied by a group of boys and girls, all about 16-19, who all look very similar
-· Will try to avoid meeting people, by making themselves scarce
-· If unable to avoid, will seek to distract, and then flee (“Hang-on sir, I’ll just need to check…”, and then never come back)
-· Will constantly seek to confuse, which given they all look similar.  “Oh no sir, I’m John, not Joe.  Joe was just down here, hang on, I’ll go and check…”
-· Just about everything in the office will be trapped in some way – plants balanced on doors, cabinets tilted to fall over, and floors carefully polished.  No mail boy/girl will ever be caught by any of these.
-· Reward – can provide mail records
-- Quality improvement required 
-- Rearranged the office
-- Michael, Andrew
+*Generic Storer and Packers*
 
-*Day Shift Packers (Orcs B)*
+Usually male (there is one female S&P staff member in incoming land deliveries), storers and packers tend to alternate between two professions, labourer and administrator, as their job involves moving goods, storing them, and keeping stock control. This is not great for their pay-rates or for that matter their need to be both strong and wise, but at least gives them the combined perks of both professions simultaneously.
 
-· Extremely offensive posters etc. on walls
-· Will purposefully try to shock people
-· Love quoting union regulations.
-· Into fighting – will all come running, and hollering
-· Will constantly bicker among selves, but will band together against outsiders
-· Extremely cunning
-· Try to avoid work wherever possible.
-· Reward – can provide protective clothing, overalls and union paperwork which will stop most questions from other staff
-- Bree Yark has told day shift workers about the theatrical Simon.
+Characteristic	Value	Bonus		
+Strength	13	+1	Profession	Labourer, Administrator
+Intelligence	12	+1	Level		2, 2
+Wisdom		13	+1	Movement (running)	7
+Dexterity	10	+0	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	09	-1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+1	+2		+4
+Athletics (stamina)	+1	+1		+1
+Carousing		-1	+1		+1
+Concentration		+1	+2		+4
+Craft (writing)		+1	+1		+2
+Craft (computing)	+1	+2		+3
+Hobby (union regs)	+1	+2		+3
+Knowledge (general)	+1	+2		+3
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+1	+2		+4
+Sense (sight)		+0	+3		+4
 
-*Night Shift Packers (Orcs C)*
+*Generic Storer and Packer Supervisor*
 
-· Very heavily into sleeping on duty
-· Will have set alarms to stop management
-· Will roam the area once alerted – try to avoid contact – will basically play hide and seek
-· Reward – will be able to disclose all about security cameras – how to both avoid and access them
-- Rodney need micromanaging and performance bonuses. 
-- Rodney works with the Night Shift Packers
-- Rodney gains access to the Security Cameras
+Characteristic	Value	Bonus		
+Strength	13	+1	Profession	Labourer, Administrator, Manager
+Intelligence	12	+1	Level		2, 2, 2
+Wisdom		13	+1	Movement (running)	7
+Dexterity	10	+0	Wounds (Physical)	
+Perception	9	+1	Wounds (Mental)	
+Charisma	12	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+1	+4		+5
+Athletics (stamina)	+1	+1		+1
+Bully			+1	+2		+3
+Carousing		+1	+2		+3
+Concentration		+1	+2		+4
+Craft (writing)		+1	+3		+4
+Craft (computing)	+1	+3		+4
+Knowledge (general)	+1	+4		+5
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+1	+4		+6
+Sense (sight)		+0	+3		+4
 
-*Secretarial Pool (Goblins)*
+**G3 Outgoing Land Deliveries**
 
-· Made up of a number of females all constantly in motion, who always manage to look extremely busy and overworked.
-· Extremely skilled in deflecting work, and in office politics.
-· Head secretary is name Bree Yark – other secretaries will call out to her if bothered, or direct PCs to her if asked a question.
-· Will scream and seek help from the office manager if bothered too much
-· Reward – know all about office politics and individual dirty secrets – who is doing who and how often.
+In all ways identical to G2 Incomimg Land Deliveries, except the value-added products depart from this point. As per G2 there are four storers and packers during the day and two security guards during the night. Use the G1 Generic Security Guard statistics and the G2 Generic Storer and Packer stastics.
+
+**G4 Incoming and Outgoing Sea Deliveries**
+
+Again, similar to G2 and G3, except the storemen here handle both incoming and outgoing goods for sea delivery and movement to the nearby docks. Use the G1 Generic Security Guard statistics and the G2 Generic Storer and Packer stastics. These are of a larger but less frequent volume, and the presence of several forklifts and only a few trolleys is a result of the difference. One of these forklifts is a monster, as is the security camera. The forklift enjoys pranking the storers and packers by moving pallets when there is nobody about, and the camera enjoys being in on the joke as well. 
+
+
+**G5 Janitors' Storeroom ("The Shunned Cavern")**
+
+Located behind the Sea Deliveries and next the toilets is the ground floor Janitors' Storeroom. The two janitors are two brothers Yuri and Boris, are migrants from Kalingrad, Russia. Of similar height and build the main way to tell the two apart is that Yuri is the contemplative and morose one, whereas Boris is outgoing and belligerent. True to the stereotype of such individuals they are both massive, with thick accents, and thoroughly unpleasant to almost everyone. Plus, they love to drink although they are wise enough to know that drinking at work is prohibited - so they disguise the smell of drinking alcohol with vast quantities of cleaning alcohol. In addition to several bottles of vodka carefully hidden in their storeroom Yuri and Boris also have a vast array of cleaning products, of which several when mixed together could possibly contravene the Geneva Convention on Chemical Weapons.
+
+This said, both Yuri and Boris are loyal to those whom they've developed a grudging respect for, which includes the Nile corporation. Getting them onside would be beneficial, as they are prepared to carry out small additional tasks for appropriate gifts. Their cleaning shift starts in the early hours of the morning and finished just before lunchtime, starting from the ground floor and working their way up. Note that Yuri and Boris do have passes that work for the top level of the Nile pyramid, however they are carefull encoded to work between 10.30am and 11.30am only. The janitors also have the additional role of being morning shift building wardens which means that they can operate the fire panels, and clear the floors for real or imagined fires. If they latter in in place, staff will return after thirty minutes.
+
+*Yuri and Boris* Gruff migrant janitors, I+2 S+3 T+3 J+3 (Inspector) and E+2 S+3T +3 J+3 (Promoter)
+
+Characteristic	Value	Bonus		
+Strength	16	+3	Profession	Labourer
+Intelligence	10	+0	Level		4
+Wisdom		10	+0	Movement (running)	7
+Dexterity	13	+1	Wounds (Physical)	
+Perception	12	+1	Wounds (Mental)	
+Charisma	08	-1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Athletics (strength)	+3	+6
+Athletics (stamina)	+3	+4
+Carousing		-1	+5
+Craft (structural)	+1	+3
+Intimidate		+3	+5
+Language (Russian)	+0	+1
+Language (English)	+0	+1
+Pilot (car)		+1	+1
+Professional		+0	+2
+Melee			+3	+5
+Sense (sight)		+1	+5
+
+**G6 Production and Distribution Room ("Kobolds")**
+
+This large 'n' shaped room is staffed almost entirely by young men and women aged from 16 to 19, with the exception of a small number of older supervisors who are in their early 20s. The workers here are responsible entirely for the printing and the physical movement of various goods within the Nile offices and the transfer of books, periodicals etc, to outbound sources.
+
+The place is one of extraordinary chaos and seems to operate more due to luck than effective organisation. Overall there are about thirty staff who scoot about here who apparently are too busy to stop and talk to anybody even, and especially, their supervisors. If one is cornered and asked a question, they'll find an escape route and then flee ("Hang-on, I’ll just need to check..." - and then never come back).
+
+Some bright spark thought it was a good idea to give all these workers a special Nile uniform, loosely based on the uniform of the Egyptian police. As a result is is quite easy to confuse who is who on the floor, and activity which the staff take some delight in. "Oh no, I'm John, not Joe.  Joe was just down here, hang on, I'll go and check.."
+
+Another aspect among these teenaged pranksters is that the almost every object in the building seems to be trapped in some way. Computer and power cables serve as highly effective trip-wires, pot plants seem to be positioned on desks designed to cause cascading collapses of files, and even desks are positioned in such a position that people will clip their upper thigh (or worse) as they go past. Printer's ink is an especially delightful staining material. Polished floors are *so* slippery. Curiously, the staff never seem to get caught by these traps.
+
+There has been a succession of supervisors in this office, mostly business graduates straight up of university. After all, how difficult could it be to manage a bunch of high-school drop-outs, right? Two have returned to university for a second degree in adolscent psychology, one has decided to move to Masterton and become a shepherd, and another, tragically, had a nervous breakdown and has had be institutionalised.
+
+Tucker's Kobolds actually feel bad about the last one. They're pranksters, and their pranks are meet to frustrate rather than cause harm. Yes, "Tucker's Kobolds" is what they call themselves, and they're led a seemingly non-descript individual named Tucker. Every Saturday night ringleaders meet at his house, and over movies and popcorn they work out what dastardly tricks they'll play the following week. 
+
+For all their mischief, they are actually fairly productive, and for this reason the chaos of the Production and Distribution has not been subject to senior management intervention. If one could manage to befriend Tucker or his ringleaders - and they do operate on a dictum of "don't trust anyone who isn't our age" - they would find a very useful ally as they are in charge of all the internal mail.
+
+*Tucker*, high-school drop-out, ringleader of the Production and Distribution staff. I+1 N+3 T+3 P+3 (Architect)
+
+Characteristic	Value	Bonus		
+Strength	12	+1	Profession	Administrator
+Intelligence	13	+1	Level		2
+Wisdom		15	+2	Movement (running)	6
+Dexterity	12	+1	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	15	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+2	+2		+4
+Athletics (stamina)	+1	+1		+1
+Carousing		+2	+1		+1
+Concentration		+2	+2		+4
+Craft (computing)	+1	+3		+4
+Hobby (prankster)	+2	+2		+4
+Knowledge (general)	+1	+2		+3
+Language (English)	+1	+3		+4
+Pilot (skateboard)	+1	+1		+2
+Profession		+2	+1		+3
+Sense (insight)		+1	+3		+4
+
+
+**G7 Secretarial Pool ("The Goblins")**
+
+Located behind the business reception and with access to the main lifts and the production and distribution room, this "U" shaped office serves as a complement to "The Kobolds" in terms of business logic and a counter-point to "The Orcs" in terms of characters and disposition. The twenty staff here are the backbone administrators of the company, mainly female, constantly in motion, and managing to look extremely busy and overworked.
+
+This things are not quite untrue, in reality, they are very good at deflecting work, especially among each other. Indeed, it is not uncommon for a particular task to circulate around the office ("Jenny, could you do this for me? I'm so busy at the moment") until it comes back to the person who was originally supposed to do it. In addition to deflecting work, the secretarial pool is very impressive at their knowledge of office gossip and office politics. They know exactly who is doing what with whom, and how often, and even any level of involvement with the group will quickly become an induction into this dirty laundry, which could certainly be useful to the purposes of the PC Workers. Note however, like most gossip it has a tenuous relationship with the truth at best.
+
+The head of the team is an extremely competent administrator, Bree Yark, who is not above engaging in this rumour mill herself. Whenever an administrator is stuck with a particularly complex problem and their immediate colleagues cannot help (such as contradictory procedures), a cry will come up from the floor where he name is simply exclaimed in full: "Bree Yark!" Contrary to popular belief this does not sound anything like "Hey Rube" and Bree herself instituted the practise. It has become code for "We surrender!". This will happen several times a day.
+
+*Generic Secretarial Staff*
+
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator
+Intelligence	13	+1	Level		4
+Wisdom		15	+2	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	10	+0	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+2	+4		+6
+Athletics (stamina)	+0	+1		+1
+Carousing		+0	+1		+1
+Concentration		+2	+4		+6
+Craft (writing)		+1	+4		+5
+Craft (computing)	+1	+5		+6
+Hobby (office gossip)	+2	+2		+4
+Knowledge (general)	+1	+2		+3
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+2	+2		+4
+Sense (sight)		+1	+3		+4
+
+*Bree Yark*, chief secretarial administrator
+
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator, Manager
+Intelligence	15	+2	Level		4, 2
+Wisdom		17	+3	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+2	+6		+8
+Athletics (stamina)	+0	+1		+1
+Carousing		+1	+3		+4
+Concentration		+3	+4		+6
+Craft (writing)		+2	+4		+5
+Craft (computing)	+2	+5		+6
+Hobby (office gossip)	+3	+2		+4
+Inspire			+1	+4		+5
+Knowledge (general)	+2	+3		+4
+Language (English)	+2	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+3	+4		+6
+Seduce			+1	+2		+3
+Sense (sight)		+1	+3		+4
+Sense (insight)		+1	+3		+4
+
+
+
+
+
+
+
+
+
 
 *Office Manager (Ogre)*
 
@@ -1103,12 +1269,6 @@ About a dozen staff in each area.
 · Can find NPCs from other areas here eating on occasion.
 · Reward – Can find a group of visitors from another company, who are not impressed with Nile, and will gladly become allies (basically, can find a henchman who may have skills that the PCs do not).
 
-*The Janitor/Handyman (Shunned Cavern)*
-
-· Janitor is an eastern European – very thick accent and massive.  Extremely scary. Yuri and Boris.
-· Constantly drunk and aggressive
-· Area has dangerous hazards – cleaning products that would be banned under the Geneva Convention on Biological Warfare, etc.
-· Reward – Can get the Janitor to clear out one floor (except for the Senior Managers level) of all people for a 15 minute period.
 
 
 ### 5.1.4 Nile, First Floor
@@ -1253,6 +1413,9 @@ http://content.time.com/time/magazine/article/0,9171,746859,00.html
 # 6.1 Source and Inspirational Material
 
 John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
+
+Roger E. Moore, Tucker's Kobolds, Dragon 127
+https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf
 
 
 
