@@ -242,38 +242,38 @@ Description: The fan-contributed character profession that led your author to go
 
 Prime Requisite: Strength
 Starting Age: 15+1d4
-Profession Skills: 
+Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
 
 ### 1.1.2 Wizard
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
-Profession Skills: 
+Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight
 
 ### 1.1.3 Cleric
 
 Prime Requisite: Wisdom
-Starting Age: 15+1d4
-Profession Skills: 
+Starting Age: 15+3d4
+Profession Skills: Craft (writing)., Investigate., Knowledge (Laws)., Knowledge (General)., Administration., Concentration., Profession., Survival., Bully
 
 ### 1.1.4 Rogue
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d4
-Profession Skills: 
+Profession Skills: Climb., Jump., Melee., Swim., Craft (mechanical)., Gymnastics., Missiles., Sleight., Stealth
 
 ### 1.1.4 Ranger
 
 Prime Requisite: Perception
-Starting Age: 15+1d4
-Profession Skills: 
+Starting Age: 15+2d4
+Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
 
 ### 1.1.4 Bard
 
 Prime Requisite: Charisma
-Starting Age: 15+1d4
-Profession Skills: 
-
+Starting Age: 15+2d4
+Profession Skills: Act., Carousing., Inspire., Lie., Seduce., Craft (writing)., Knowledge (Arts)., Knowledge (General)., Language (various)
+ 
 ## 1.3 Skill Options and Elaborations
 
 **Languages**
