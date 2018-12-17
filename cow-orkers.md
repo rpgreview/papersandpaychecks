@@ -123,10 +123,9 @@ Description: An professional athlete engages in competitive sports which involve
 | 5	| $1100    | +1 Run or +0.25 Swim Move  |
 | 6	| $1150    | +1 to STR or PER           |
 | 7	| $1200    | Adoring Fans		|
-| 8	| $1250    | +1 to STR or PER           |
-| 9	| $1300    | Team Coach			|
+| 8	| $1250    | Conference Attendance      |
+| 9	| $1300    | Team Captain		|
 | 10	| $1350    | Superannuation		|
-
 
 ### 1.1.2 Agent
 
@@ -154,29 +153,87 @@ Description: A sports agent acts as the legal representative of other sporting p
 
 Prime Requisite: Wisdom 
 Starting Age: 21+3d4 
-Profession Skills: Intimidate, Investigate, Knowledge (General), Concentration, Gamble, Hobby (Sport), Sense (Sight), Inspire, plus one of Athletics (Strength)., Athletics (stamina), Firearms., Gymnastics., Missiles., or Ride.
+Profession Skills: Intimidate, Investigate, Knowledge (General), Concentration, Hobby (Sport), Profession, Sense (Sight), Inspire, plus one of Athletics (Strength)., Athletics (stamina), Firearms., Gymnastics., Missiles., or Ride.
 
-### 1.1.4 Gymnast
+Description: A coach trains athletes. The skills associated with a coach are typically those that the athlete has as well, but the coach doesn't have the same sort of physical prowess, at least not anymore. Coaches are often retired athletes who impart their knowledge on to the young and upcoming. This requires a professional skill that is not unlike teaching, but also the capacity to inspire or, if that fails, intimidate, the athlete into completing their tasks. There is a sense in which coaches live vicariously through their athletes, and then there are those who will are sufficiently unscrupulous that they will set up their athlete to take a fall for success at the bookmakers.
+
+| Level | Wage     |  Perks		|
+|-------|----------|--------------------|
+| 1	| $600     | Id Insinuation	|
+| 2	| $700     | Ego Whip         	|
+| 3	| $850     | Cramming 		|
+| 4	| $1000    | Team Leader 	|
+| 5	| $1200    | Bureaucratic Dodge	|
+| 6	| $1400    | Special Contacts 	|
+| 7	| $1650    | Project Manager	|
+| 8	| $1900    | Apprentice 	|
+| 9	| $2200    | +1 INT or WIS	|
+| 10	| $2500    | Superannuation    	|
+
+
+### 1.1.4 Gymnast or Equestrian
 
 Prime Requisite: Dexterity 
 Starting Age: 14+1d4 
-Profession Skills: 
+Profession Skills: Athletics (Strength)., Athletics (stamina)., Climb., Jump., Gymnastics., Ride., Sleight., Stealth, Sense (Balance)
 
-### 1.1.5 Shooter Equestrian
+Description: A gymnast or equestrian are athletes that specialised in bodily movement, whether their own or that of of their mount. Whilst Dexterity is their primary characteristic they will often will have high scores in Strength as well. In addition, the Gymnast also has a Sense (Balance) skill, which typically provides a bonus to the gymnastics skill or its specialisations. With a heavy emphasis on physical skills, gymnasts are trained young and enter professional life younger than any other. It also means that they are the characters most likely to retire young too, as their body gives way.
 
-Prime Requisite: Dexterity 
-Starting Age: 15+1d4 
-Profession Skills: 
+| Level | Wage     |  Perks			|
+|-------|----------|----------------------------|
+| 1	| $600     | +1 to STR or DEX		|
+| 2	| $700     | Intuition			|
+| 3	| $850     | +1 to DEX or PER		|
+| 4	| $1000    | Body Spatial Awareness	|
+| 5	| $1200    | E.S.P.			|
+| 6	| $1400    | Multitasking    		|
+| 7	| $1650    | Adoring Fans		|
+| 8	| $1900    | Conference Attendance	|
+| 9	| $2200    | Team Captain		|
+| 10	| $2500    | Superannuation    		|
 
-### 1.1.5 Cheerleader
+### 1.1.5 Shooter
+
+Prime Requisite: Perception 
+Starting Age: 15+1d4
+Profession Skills: Athletics (Strength)., Athletics (stamina)., Concentration., Craft (mechanical)., Firearms., Knowledge (general)., Missiles, Sense (various), Sleight.
+
+Description: What would be a favourite character profession in other RPGs is often overlooked in *Papers & Paychecks* due to the lack of obvious oportunities to blow things up at range. This profession incorporates any number of thrown skills, usually incorporated in Athletics (Strength), the use of human-powered missile weapons (e.g., archery), and the use of firearms. Whilst the primary characteristic is PER, often characters will seek a high DEX and STR as well; even a javelin thrower needs to be able to see their target. All this asise, shooters are one active sporting profession which do not seem to attract the attention of many fans, and they probably prefer it that way.
+
+| Level | Wage     |  Perks			|
+|-------|----------|----------------------------|
+| 1	| $600     | +1 to STR, DEX, or PER	|
+| 2	| $700     | Concentration		|
+| 3	| $850     | Intuition			|
+| 4	| $1000    | Tower of Iron Will		|
+| 5	| $1200    | +1 to STR, DEX, or PER	|
+| 6	| $1400    | Multimissile		|
+| 7	| $1650    | Longshot			|
+| 8	| $1900    | Conference Attendance	|
+| 9	| $2200    | Team Captain		|
+| 10	| $2500    | Superannuation    		|
+
+### 1.1.6 Cheerleader
 
 Prime Requisite: Charisma 
 Starting Age: 15+1d4 
-Profession Skills: 
+Profession Skills: Act., Carousing., Inspire., Seduce., Athletics (Strength)., Athletics (stamina)., Jump., Profession., Insight
 
-**The cheerleader speciality class**
+Description: The fan-contributed character profession that led your author to go down the rabbit-hole of developing an entire set of 'sporting professions'. The cheerleader inspires athletes and fans alike nominally through leading cheers, chants, and song, but more than often through their through their atheletic maneuvers where the sheer beauty in motion often leaves the fans in a bit of a stupor - which curiously is counter-productive to the purpose of actual leading a cheer. When said fans come to, however their determination to cheer is typically enhanced due to the ecstastic experience of the cheer. Cheerleaders have CHA as their primary characteristic, but like other athletes, DEX and STR are of a high priority as well.
 
-Able to perform gymnastics similar to that of a monk class in AD&D with the special ability at higher levels called cleavage shake which works only on those potentially attracted to buxom females. Save versus constitution or wisdom (whichever is lower) or go into a drooling stupor which lasts for up to ten rounds or until someone (usually a mate/spouse) slaps you for staring. Some GMs may add a male gender version which has the special ability simple called abs involving the male cheerleader showing bare mid-drift. All other effects are the same.
+| Level | Wage     |  Perks			|
+|-------|----------|----------------------------|
+| 1	| $600     | Lead Cheer			|
+| 2	| $700     | +1 CHA or DEX		|
+| 3	| $850     | Adoring Fans		|
+| 4	| $1000    | Induce Stupor		|
+| 5	| $1200    | +1 CHA or DEX		|
+| 6	| $1400    | Body Spatial Awareness	|
+| 7	| $1650    | Bureaucratic Dodge		|
+| 8	| $1900    | Conference Attendance	|
+| 9	| $2200    | Team Captain		|
+| 10	| $2500    | Superannuation    		|
+
 
 
 ## 1.2 Fantasy Professions
@@ -1060,6 +1117,28 @@ The staff are three burly women with a colourful command of the English language
 
 One advantage of the location however is that some visitors from another related company (shipping, printing supplies, couriers, whatever) are also at the coffee shop when the PC Workers make their first visit. A standard Sense (Hearing) check (TN 7) will mean they will over-hear a conversation on how they dislike dealing with Nile, how they've been wronged, and how they would like to get back at them. This is an opportunity for PC Workers to find some outside allies who are prepared to do some damage to Nile, pro bono.
 
+*Sandra, Tracy, and Themlma* Staff at Hobgolins
+
+Characteristic	Value	Bonus		
+Strength	17	+3	Profession	Labourer
+Intelligence	9	-1	Level		4
+Wisdom		9	-1	Movement (running)	9
+Dexterity	10	+0	Wounds (Physical)	
+Perception	17	+3	Wounds (Mental)	
+Charisma	9	-1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Athletics (stamina)	+3	+4		+7
+Athletics (strength)	+3	+4		+7
+Carousing 		-1	+3		+2
+Craft (mechanical)	-1	+2		+1
+Craft (structural)	-1	+3		+2
+Intimidate 		+3	+2		+5
+Knowledge (general)	-1	+2		+1
+Language (English) 	-1	+1		+0
+Melee 			+3	+4		+7
+Pilot (car)		+0 	+1		+1
+Profession		-1	+1		+0
+Sense (Hearing)		+3	+1		+4
 
 
 **G2 Incoming Land Deliveries ("The Orcs")**
