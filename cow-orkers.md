@@ -1054,6 +1054,14 @@ Pilot (car)		+0	+1		+1
 Profession		+2	+2		+4
 Sense (sight)		+1	+3		+4
 
+Housed within the business entrance, but against the outside glass is a coffee shop, appropriately entitled "Hobgoblins", which apparently the leaseholders think is a selling point. It sells the usual fare that one would find in such places, but of the worst possible quality. The coffee is invariably burnt, the milk is probably past its use-by date, the cakes are dry (and yet so full of sugar you'll need to be scrapped off the ceiling). The cafe's hours are indiscernable as well, and appear to be random (for all purposes in a game session, they are - there's a 50% chance that they'll be open at some stage during 8am to 5pm).
+
+The staff are three burly women with a colourful command of the English language. At any one time one of them will be outside having a cigarette. They do not take too kindly to any complaints about the quality of their coffee, tea, or food and woe to anyone who does so; one of the staff members keeps a good supply of "Micky Finns" in her purse and will slip it in a consumable if anyone has a problem, whilst feigning concern; it will be the equivalent of 6 therapeutic doses (c.f., Heroin, Opiates, Barbiturates, and other 'Downers' section 2.2, *Papers & Paychecks*).
+
+One advantage of the location however is that some visitors from another related company (shipping, printing supplies, couriers, whatever) are also at the coffee shop when the PC Workers make their first visit. A standard Sense (Hearing) check (TN 7) will mean they will over-hear a conversation on how they dislike dealing with Nile, how they've been wronged, and how they would like to get back at them. This is an opportunity for PC Workers to find some outside allies who are prepared to do some damage to Nile, pro bono.
+
+
+
 **G2 Incoming Land Deliveries ("The Orcs")**
 
 With a far less salabrious entrance, a stream of trucks make their way here for incoming supplies. During the day there are at four storers and packers to move and stack boxes, and engage in stock control. In the evening there are two security guards, who spend most the night taking an occasional walk outside or not really viewing the security camera feed. Use the G1 Generic Security Guard statistics and the G2 Generic Storer and Packer stastics. There is also a forklift and several trolleys present.
@@ -1278,13 +1286,7 @@ Sense (Insight)		+1	+1		+2
 
 
 
-*Canteen (Hobgoblins)*
 
-· Door to canteen will be barred, with extremely unusual opening hours (12:45 – 1:10 on Odd Thursdays etc.), which will change each time the PCs return.
-· Food is definitely questionable
-· Staff will definitely take potentially violent offence if the food quality is questioned.
-· Can find NPCs from other areas here eating on occasion.
-· Reward – Can find a group of visitors from another company, who are not impressed with Nile, and will gladly become allies (basically, can find a henchman who may have skills that the PCs do not).
 
 
 
