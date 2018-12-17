@@ -1120,7 +1120,6 @@ In all ways identical to G2 Incomimg Land Deliveries, except the value-added pro
 
 Again, similar to G2 and G3, except the storemen here handle both incoming and outgoing goods for sea delivery and movement to the nearby docks. Use the G1 Generic Security Guard statistics and the G2 Generic Storer and Packer stastics. These are of a larger but less frequent volume, and the presence of several forklifts and only a few trolleys is a result of the difference. One of these forklifts is a monster, as is the security camera. The forklift enjoys pranking the storers and packers by moving pallets when there is nobody about, and the camera enjoys being in on the joke as well. 
 
-
 **G5 Janitors' Storeroom ("The Shunned Cavern")**
 
 Located behind the Sea Deliveries and next the toilets is the ground floor Janitors' Storeroom. The two janitors are two brothers Yuri and Boris, are migrants from Kalingrad, Russia. Of similar height and build the main way to tell the two apart is that Yuri is the contemplative and morose one, whereas Boris is outgoing and belligerent. True to the stereotype of such individuals they are both massive, with thick accents, and thoroughly unpleasant to almost everyone. Plus, they love to drink although they are wise enough to know that drinking at work is prohibited - so they disguise the smell of drinking alcohol with vast quantities of cleaning alcohol. In addition to several bottles of vodka carefully hidden in their storeroom Yuri and Boris also have a vast array of cleaning products, of which several when mixed together could possibly contravene the Geneva Convention on Chemical Weapons.
@@ -1188,7 +1187,7 @@ Profession		+2	+1		+3
 Sense (insight)		+1	+3		+4
 
 
-**G7 Secretarial Pool ("The Goblins")**
+**G7 Secretarial Pool ("The Goblins", "The Ogre")**
 
 Located behind the business reception and with access to the main lifts and the production and distribution room, this "U" shaped office serves as a complement to "The Kobolds" in terms of business logic and a counter-point to "The Orcs" in terms of characters and disposition. The twenty staff here are the backbone administrators of the company, mainly female, constantly in motion, and managing to look extremely busy and overworked.
 
@@ -1196,7 +1195,12 @@ This things are not quite untrue, in reality, they are very good at deflecting w
 
 The head of the team is an extremely competent administrator, Bree Yark, who is not above engaging in this rumour mill herself. Whenever an administrator is stuck with a particularly complex problem and their immediate colleagues cannot help (such as contradictory procedures), a cry will come up from the floor where he name is simply exclaimed in full: "Bree Yark!" Contrary to popular belief this does not sound anything like "Hey Rube" and Bree herself instituted the practise. It has become code for "We surrender!". This will happen several times a day.
 
-In a private office beyond the secetarial poll (G7a) is Al Bear who is one of the few male members of this highly-gendered pool and unsurprisingly is the floor manager, although he is also technically in charge of the other staff on this level as well. Al is a big guy, of Maori background, with bushy beard, red-checked flanellette shirt, and spray-on jeans. He is also as camp as a row of tents. He and Bree get along very well, sharing all sorts of comical stories of internal office shenanigans and affairs; especially affairs.
+In a private office beyond the secetarial poll (G7a) is Al Bear who is one of the few male members of this highly-gendered pool and unsurprisingly is the floor manager, although he is also technically in charge of the other staff on this level as well. Al is a big guy, of Maori background, with bushy beard, red-checked flanellette shirt, and spray-on jeans. He is also as camp as a row of tents. He and Bree get along very well, sharing all sorts of comical stories of internal office shenanigans and affairs; especially affairs. Al Bear's nickname is "The Ogre" on account of his great size. After all, calling him something like "Owl Bear" would be ridiculous. Who would stick an owl's head on a bear? 
+
+Bree and Ogre are in deep cohoots with each other, with Bree typically finding ways to prevent access to Ogre ("he's a very busy man"). Further, they have accumulated a great deal of serious dirt on all their fellow employees, and despite Bree's feigned behaviour, they actually have a good idea of what is true and alse rumours. Note that Bree does not have special social skills in hiding her deceptions, so a capable PC Worker will be able to differentiate between true and false gossip coming from her.
+
+This can be both a disaster or a benefit for the PC Workers. By accumulating the collective research skills of her staff, Bree Yark can create quite a dossier on the PC Workers. However, both Bree and Al are also prone to expensive tastes, and, with some consideration, get the PCs out of a difficult situation with an appropriate "gift".
+
 
 *Generic Secretarial Staff*
 
@@ -1273,15 +1277,6 @@ Sense (Insight)		+1	+1		+2
 
 
 
-
-
-
-*Office Manager (Ogre)*
-
-· Her personal secretary is a Al Bear (big muscular bearded man who is just *a bit* camp), who will seek to prevent any access to his boss.
-· The office manager herself sits in an inner office.  Extremely big woman, Olivia, solid drinker, and wealthy due to great skill in appropriating funds.
-· Both extremely mercenary – they manage to play all powers off against each other and get wealthy by doing so.
-· Reward – someone who can extract the PCs from a difficult situation if they get caught (for the appropriate recompense).
 
 *Canteen (Hobgoblins)*
 
