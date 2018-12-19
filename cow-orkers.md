@@ -116,7 +116,7 @@ Description: An professional athlete engages in competitive sports which involve
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
-| 1	| $700     | +1 Run or +0.25 Swim Move  |
+| 1	| $700     | +1 Run and +0.25 Swim Move |
 | 2	| $800     | +1 to STR or PER	        |
 | 3	| $900     | +2 Physical Hit Points     |
 | 4	| $1000    | +1 to STR or DEX           |
@@ -235,7 +235,6 @@ Description: The fan-contributed character profession that led your author to go
 | 10	| $2500    | Superannuation    		|
 
 
-
 ## 1.2 Fantasy Professions
 
 ### 1.1.1 Fighter
@@ -244,11 +243,13 @@ Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
 
+Description: The Fighter is any number of warrior professions whose job it is to live by bashing things and to die by bashing things and hence their nickname as "meat shields", meaning they should stay at the front of the battle and hit things and be hit. In the quasi-European-medieval-Tolkien-Conan soup that is Generic Fantasy RPGs this role is so important that they often find themselves in a leadership role both within parties or for societies as a whole. A careful obsever will notice that Fighters are the only profession that can reach the giddy heights of owning land and title (but see Cleric, below).
+
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
 | 1	| $700     | +2 Physical Hit Points  	|
-| 2	| $800     | Armour Proficiency	        |
-| 3	| $900     | +2 STR     		|
+| 2	| $800     | Martial Proficiency	|
+| 3	| $900     | +2 STR, DEX     		|
 | 4	| $1000    | Beserker Rage    		|
 | 5	| $1100    | Henchmen 			|
 | 6	| $1150    | Combat Relexes  		|
@@ -263,6 +264,8 @@ Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight
 
+Description: Older and wiser than most other in General Fantasy the Wizard is a profession both subtle and wise, meaning that they are weak and ignorant. Barely aware of which end of a sword is the pointy one, a wizard encapsulates much of the knowledge that is appropriate for the period, which means a very large book of many blank pages. This said, they do have the saving grace of at least knowing a few things about the world on account of the fact they can read and write, plus they have various magical abilities expressed as perks. Sometimes these even work, albeit not quite as intended.
+
 | Level | Wage     | Perks		|
 |-------|----------|--------------------|
 | 1	| $700     | Cantrips  		|
@@ -273,15 +276,16 @@ Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledg
 | 6	| $1150    | Ambiguity      	|
 | 7	| $1200    | Apprentice		|
 | 8	| $1250    | Council Membership |
-| 9	| $1300    | Enchanment		|
+| 9	| $1300    | Enchantment	|
 | 10	| $1350    | Lord's Advisor	|
-
 
 ### 1.1.3 Cleric
 
 Prime Requisite: Wisdom
 Starting Age: 15+3d4
 Profession Skills: Craft (writing)., Investigate., Knowledge (Laws)., Knowledge (General)., Administration., Concentration., Profession., Survival., Bully
+
+Description: If anyone was looking for "a certain resemblance to religious orders of knighthood in medieval times", go see the Fighter profession. This is a Cleric, a member the clergy, who engages in clerical work, both in the religious and administrative sense, and whose primary social function is to provide a moral framework and guidance for the rest of society (which is why they have "Bully" as a professional skill).  In the Generic Fantasy world, the gods are real, numerous, and somewhat interventionist, so being an atheist is quite delusionary. The Cleric's perks are social and magical.
 
 | Level | Wage     | Perks	|
 |-------|----------|------------|
@@ -302,9 +306,11 @@ Prime Requisite: Dexterity
 Starting Age: 15+1d4
 Profession Skills: Climb., Jump., Melee., Swim., Craft (mechanical)., Gymnastics., Missiles., Sleight., Stealth
 
+Description: Quick of hand, foot, and mind, the Rogue is a profession that develops skills in acquiring chattels and possessions from others. Almost inevitably such characters will draw themselves to the attention of the lawful forces which exist nominally to protect such improper transactions or the organised syndicates that seek to regulate it. Either way any period of time as a professional Rogue will lead a character into membership of the notorious Guild which does come with its own numerous advantages - and at higher levels one can be surprised to discover that they do stick together in a peverse sense of corrupt solidarity. 
+
 | Level | Wage     | Perks		|
 |-------|----------|--------------------|
-| 1	| $700     | +1 Run		|
+| 1	| $700     | +2 Run		|
 | 2	| $800     | Fast Talk		|
 | 3	| $900     | Guild Member	|
 | 4	| $1000    | Thieve's Cant	|
@@ -321,6 +327,8 @@ Profession Skills: Climb., Jump., Melee., Swim., Craft (mechanical)., Gymnastics
 Prime Requisite: Perception
 Starting Age: 15+2d4
 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
+
+Description: Eschewing the comforts of civilisation in favour of the rough and rugged lifestyle of a leaky shack, a few old skins for blankets, and an astounding lack of personal hygeine, the Ranger is a well-known kook who lives away from most other people in preference to the company of wild beasts, which inevitably leads to many jokes about their sexual preferences. This is not helped by the fact that a great number of their perks are based around seemingly magical abilities to establish friendships with animals and communicate with them. Stil, jokes aside, the Ranger is definitely the go-to person if you want to need to travel through dangerous wilds - and there is plenty of that in the Generic Fantasy world.
 
 | Level | Wage     | Perks		|
 |-------|----------|--------------------|
@@ -342,6 +350,8 @@ Prime Requisite: Charisma
 Starting Age: 15+2d4
 Profession Skills: Act., Carousing., Inspire., Lie., Seduce., Craft (writing)., Knowledge (Arts)., Knowledge (General)., Language (various)
  
+Description: A bard, to use contemporary parlance, is a combination of rock-star and odd-ball intellectual, capable of spinning mighty yarns that actually have an element of truth - but never of a prosaic truth. Bards are determined to discover the weird and wonderful, strange lands and customs, and equally determined to enlighten others about such things. The propensity to provide such information as artistic performance, song, poetry, etc is a source of frustration for more narrow scholars, but that is part of their entertainment as well.
+
 | Level | Wage     | Perks	 	|
 |-------|----------|--------------------|
 | 1	| $700     | Bilingual   	|	
@@ -883,8 +893,6 @@ Perception	12	+2	Wounds (Mental)
 Charisma	13	+1	Wounds (Social)	
 Skill		Char	Train	Other	Total
 Sense (ESP)	+0	+3		+3
-Skill		Char	Train	Other	Total
-Sense (ESP)	+2	+3		+5
 
 *The Pen*  E+1 N+3 T+3 J+4 (Fieldmarshall)
 Characteristic	Value	Bonus		
@@ -1444,14 +1452,36 @@ Seduce			+1	+2		+3
 Sense (Insight)		+1	+1		+2
 
 
-
-
-
-
-
-
-
 ### 5.1.4 Nile, First Floor
+
+The second level of Nile is primarily for what are effectively salespeople and customer relations, even though they all go by the name "Business Development Managers". Not that they manage anybody, but having "manager" on their curriculum vitae looks good when they leave the first and apply for work at other companies. Little do they know that if they ever do leave the firm, Nile has a series of operatives to ensure that their period of unemployment will be long and painfully, and when they crawl back begging for re-employment, the gracious Nile will provide it to them - at a much reduced salary.
+
+In a perverse inversion of certain other companies in the real world, the manual and directly productive workers in Nile have the sort of workplace that is actually fairly good from a worker's perspective, and in some ways even beneficial for productivity. "A happy worker is a productive worker", or so the saying goes. On this level however, the workloads are excessive, and the workers - sorry "professionals", as they like to call themselves - are definitely not happy at all. With nearly all believing however that the path to success is through unpaid overtime and backstabbing one's fellow worker's it is unlikely that they are going to be happy any time soon.
+
+The main exception to this sordid set of affairs is Archives and Information Technology, a small team which manages physical records and a modest datacentre. Whilst their in-group camadraderie is exceptional, mainly because of a range of similar interests and worldview, their view of the rest of the company is perhaps too honest, if such a thing can exist. They know exactly what sort of company Nile is, and what sort of people their cow-orkers on this level are like - and they're not particularly fond of them.
+
+**F1 Customer Relations ("The Bugbears")**
+
+There is approximately fifteen people working in customer relations, each with their own small office, with a number of modest-sized business meeting rooms. It is here that potential clients are taking for briefings, as well as were job interviews (such as those for the PCs) are conducted. The meeting rooms have the sort of sterile and disheartening atmosphere that empowers the presenters, and acts as a psychic attack on the visitors - and this is meant in a very literal sense.
+
+The Projector  E+3 S+1 F+2 P+1 (Performer)
+Characteristic	Value	Bonus		
+Strength	5	-3	Profession	Monster
+Intelligence	13	+1	Level		1
+Wisdom		10	+0	Movement (running)	0
+Dexterity	5	-3	Wounds (Physical)	
+Perception	16	+2	Wounds (Mental)	
+Charisma	12	+1	Wounds (Social)	
+Skill		Char	Train	Other	Total
+Sense (ESP)	+1	+3	+2	+6
+
+The Projector is a dangerous and malicious object that seems to feed of the killer vibes of Nile's Customer Relations professionals. When giving a presentation, The Projector uses the hum of the equipment and gentle smell of burning dust to engage in a subtle psychic attack on multiple visiting targets in the room, causing Mental Bruises, and even Mental Wounds if they have to sit through a particularly long session. The effects of the Bruises is to causes despondancy and despair among the recipients; if they are reduced to zero bruises, they were be willing to come to an agreement over whatever grievance they had with Nile, or agree to a new contract etc, with modifications according to the "reasonableness" of what is being offered. 
+
+The Customer Relations team, unsurprising, has a very good reputation within the company for Getting Things Done, and having a very successful run of negotiated contracts.
+
+
+
+
 
 Customer Relations (Bugbears)
 ·  Permanently has a sign outside that staff are needed, with the appropriate lies.
@@ -1460,6 +1490,14 @@ Customer Relations (Bugbears)
 ·  Anyone taking a job will be placed in a cubical farm answering customer complaints from a script – at this point, the senior staff will become imperialistic overlords.
 ·  The cubical workers all look feral, and are almost all extremely cowed, and at most will attempt to hide or flee at the first sign of trouble.
 ·  Reward – Wil be able to find one rebel worker, who will join the PCs – he will however continue to talk about workers’ rights and how the proletariat need to rise up and overthrow the ruling class.  How long he stays depend on how long he is humoured, but he has good inside knowledge of the company.
+
+Sales and Marketing (Gnolls)
+·  Entrance will look as if the area has been completely deserted for some time.
+·  Progressing further will find evidence of continuous parties.
+·  S&M staff very much into white powder and copulation
+·  Will be savage to any who interrupt them, and will band together to extract vengeance – they know how to track down PCs and will seek to destroy their reputation at the slightest hint of trouble
+·  If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold.
+·  Reward – The services of an extremely skilled investigator into dirty laundry.
 
 Archives (Minotaur)
 ·  Area consists of a maze of stacks, containing all records of the company
@@ -1472,13 +1510,6 @@ o   Researchers – will generally not be met, but the PCs will see their torche
 -  File Server
 ·  Reward – Incriminating information on any desired NPC.
 
-Sales and Marketing (Gnolls)
-·  Entrance will look as if the area has been completely deserted for some time.
-·  Progressing further will find evidence of continuous parties.
-·  S&M staff very much into white powder and copulation
-·  Will be savage to any who interrupt them, and will band together to extract vengeance – they know how to track down PCs and will seek to destroy their reputation at the slightest hint of trouble
-·  If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold.
-·  Reward – The services of an extremely skilled investigator into dirty laundry.
 
 ### 5.1.5 Nile, Second Floor
 
