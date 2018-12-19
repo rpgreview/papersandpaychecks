@@ -219,7 +219,7 @@ Prime Requisite: Charisma
 Starting Age: 15+1d4 
 Profession Skills: Act., Carousing., Inspire., Seduce., Athletics (Strength)., Athletics (stamina)., Jump., Profession., Insight
 
-Description: The fan-contributed character profession that led your author to go down the rabbit-hole of developing an entire set of 'sporting professions'. The cheerleader inspires athletes and fans alike nominally through leading cheers, chants, and song, but more than often through their through their atheletic maneuvers where the sheer beauty in motion often leaves the fans in a bit of a stupor - which curiously is counter-productive to the purpose of actual leading a cheer. When said fans come to, however their determination to cheer is typically enhanced due to the ecstastic experience of the cheer. Cheerleaders have CHA as their primary characteristic, but like other athletes, DEX and STR are of a high priority as well.
+Description: The fan-contributed character profession that led your author to go down the rabbit-hole of developing an entire set of 'sporting professions'. The cheerleader inspires athletes and fans alike nominally through leading cheers, chants, and song, but more than often through their through their atheletic maneuvers where the sheer beauty in motion often leaves the fans in a bit of a stupor - which curiously is counter-productive to the purpose of actual leading a cheer. When said fans come to, however their determination to cheer is typically enhanced due to the ecstastic experience of the cheer. Cheerleaders have CHA as their primary characteristic, but like other athletes, DEX and STR are of a high priority as well. Note that due to the various athletic maneuvers expected of them, Cheerleaders are one of the most dangerous sporting professions.
 
 | Level | Wage     |  Perks			|
 |-------|----------|----------------------------|
@@ -244,11 +244,38 @@ Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
 
+| Level | Wage     | Perks			|
+|-------|----------|----------------------------|
+| 1	| $700     | +2 Physical Hit Points  	|
+| 2	| $800     | Armour Proficiency	        |
+| 3	| $900     | +2 STR     		|
+| 4	| $1000    | Beserker Rage    		|
+| 5	| $1100    | Henchmen 			|
+| 6	| $1150    | Combat Relexes  		|
+| 7	| $1200    | Party Leader		|
+| 8	| $1250    | Weapon Prowess    		|
+| 9	| $1300    | Noble Title		|
+| 10	| $1350    | Landed Title		|
+
 ### 1.1.2 Wizard
 
 Prime Requisite: Intelligence
 Starting Age: 15+3d4
 Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight
+
+| Level | Wage     | Perks		|
+|-------|----------|--------------------|
+| 1	| $700     | Cantrips  		|
+| 2	| $800     | Concoctions	|
+| 3	| $900     | Divinations	|
+| 4	| $1000    | Summonings  	|
+| 5	| $1100    | Elementalism	|
+| 6	| $1150    | Ambiguity      	|
+| 7	| $1200    | Apprentice		|
+| 8	| $1250    | Council Membership |
+| 9	| $1300    | Enchanment		|
+| 10	| $1350    | Lord's Advisor	|
+
 
 ### 1.1.3 Cleric
 
@@ -256,11 +283,38 @@ Prime Requisite: Wisdom
 Starting Age: 15+3d4
 Profession Skills: Craft (writing)., Investigate., Knowledge (Laws)., Knowledge (General)., Administration., Concentration., Profession., Survival., Bully
 
+| Level | Wage     | Perks	|
+|-------|----------|------------|
+| 1	| $700     | Divination	|
+| 2	| $800     | Blessings  |
+| 3	| $900     | Ceremony 	|
+| 4	| $1000    | Ordination	|
+| 5	| $1100    | Flock	|
+| 6	| $1150    | Acolytes	|
+| 7	| $1200    | Church	|
+| 8	| $1250    | Miracle 	|
+| 9	| $1300    | Bishop	|
+| 10	| $1350    | Intervention |
+
 ### 1.1.4 Rogue
 
 Prime Requisite: Dexterity
 Starting Age: 15+1d4
 Profession Skills: Climb., Jump., Melee., Swim., Craft (mechanical)., Gymnastics., Missiles., Sleight., Stealth
+
+| Level | Wage     | Perks		|
+|-------|----------|--------------------|
+| 1	| $700     | +1 Run		|
+| 2	| $800     | Fast Talk		|
+| 3	| $900     | Guild Member	|
+| 4	| $1000    | Thieve's Cant	|
+| 5	| $1100    | Mule Pack		|
+| 6	| $1150    | Bodyguards		|
+| 7	| $1200    | Henchmen		|
+| 8	| $1250    | Den of Thieves 	|
+| 9	| $1300    | Get Out Of Jail	|
+| 10	| $1350    | Superannuation	|
+
 
 ### 1.1.4 Ranger
 
@@ -268,12 +322,40 @@ Prime Requisite: Perception
 Starting Age: 15+2d4
 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
 
+| Level | Wage     | Perks		|
+|-------|----------|--------------------|
+| 1	| $700     | +1 PER  		|
+| 2	| $800     | Animal Friend      |
+| 3	| $900     | Long Distance Run 	|
+| 4	| $1000    | Summon Animal  	|
+| 5	| $1100    | Absolute Direction	|
+| 6	| $1150    | Doolittle   	|
+| 7	| $1200    | Animal Companion	|
+| 8	| $1250    | Resist Elements   	|
+| 9	| $1300    | Shapeshifter	|
+| 10	| $1350    | Ovate Coven	|
+
+
 ### 1.1.4 Bard
 
 Prime Requisite: Charisma
 Starting Age: 15+2d4
 Profession Skills: Act., Carousing., Inspire., Lie., Seduce., Craft (writing)., Knowledge (Arts)., Knowledge (General)., Language (various)
  
+| Level | Wage     | Perks	 	|
+|-------|----------|--------------------|
+| 1	| $700     | Bilingual   	|	
+| 2	| $800     | Well-Travelled    	|
+| 3	| $900     | Adoring Fans	|
+| 4	| $1000    | Charm Being     	|
+| 5	| $1100    | +1 CHA		|
+| 6	| $1150    | Estorica		|
+| 7	| $1200    | Bardic Troupe	|
+| 8	| $1250    | Spurious Logic     |
+| 9	| $1300    | Poetic License	|
+| 10	| $1350    | Killing Joke	|
+
+
 ## 1.3 Skill Options and Elaborations
 
 **Languages**
