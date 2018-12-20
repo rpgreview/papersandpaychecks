@@ -1477,27 +1477,91 @@ Sense (ESP)	+1	+3	+2	+6
 
 The Projector is a dangerous and malicious object that seems to feed of the killer vibes of Nile's Customer Relations professionals. When giving a presentation, The Projector uses the hum of the equipment and gentle smell of burning dust to engage in a subtle psychic attack on multiple visiting targets in the room, causing Mental Bruises, and even Mental Wounds if they have to sit through a particularly long session. The effects of the Bruises is to causes despondancy and despair among the recipients; if they are reduced to zero bruises, they were be willing to come to an agreement over whatever grievance they had with Nile, or agree to a new contract etc, with modifications according to the "reasonableness" of what is being offered. 
 
-The Customer Relations team, unsurprising, has a very good reputation within the company for Getting Things Done, and having a very successful run of negotiated contracts.
+The Customer Relations team, unsurprising, has a very good reputation within the company for Getting Things Done, and having a very successful run of negotiated contracts. They consider customers who have an issue to be "bugs", and that they have to support such customers; hence "bugbears". What is perhaps less well-known, or at the very least overlooked, is the rampant use of amphetamines and cocaine among the staff, of which at least ten of the fifteen are seriously addicted. 
+
+*Generic Customer Relations Staff*
+
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator, Manager 2
+Intelligence	13	+1	Level		4, 2
+Wisdom		13	+1	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act			+1	+2		+3
+Administration		+1	+4		+5
+Athletics (stamina)	+0	+1		+1
+Bully			+1	+2		+3
+Carousing		+1	+3		+4
+Concentration		+1	+4		+5
+Craft (writing)		+1	+4		+5
+Craft (computing)	+1	+5		+6
+Insight			+1	+2		+3
+Knowledge (general)	+1	+4		+5
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+1	+4		+5
+Sense (sight)		+1	+3		+4
+
+Amongst all this, this is one potential ally for the PC Workers, albeit a slightly annoying one. John "Moose" Seddon actually hates working for Nile, but a worker has to pay the mortgage. Whilst John will be able to assist to the best of their ability in various acts of corporate espionage, once he believes he's part of the PC Workers group, he will start expressing his political ideology - Posadism.
+
+> **Posadism: A Summary**   
+>   
+> Homero Rómulo Cristalli Frasnelli was an Argentian socialist from the 1940s onwards who was referred to as > Juan Posadas. Posadas was active in the trade union and Trotskyist socialist movements becoming a notable > leader of that group in Latin America with notable influence among Cuban railway workers, Bolivian tin 
+> miners, and Brazilian agricultural workers. When Trotsky's Fourth International split in 1953, Posadas 
+> joined with the "International Secretariat of the Fourth International", but left that organisation 
+> several years later, forming the Fourth International Posadist. Their political parties usually went by 
+> the name "Revolutionary Workers Party", under the belief that that other Trotskyist parties were not 
+> revolutionary enough.
+>   
+> Apart from being a fairly orthodox Trotskyist movement in other regards, the  Posadists were notable for   > two famously exceptional theories. Firstly, was their advocacy of nuclear war. The Posadists argued that a > nuclear war between the Stalinist regimes and capitalist regimes was inevitable and ought to be 
+> *encouraged*, as the surviving members of the species - primarily in the Third World - would build 
+> socialism out of it the remains. "Nuclear war equals revolutionary war" is a Posadist slogan.
+>  
+> The second notable component of the Posadists was their interest in UFOs. The Posadists argue that there 
+> must be alien civilizations in the universe and such societies, which are obviously highly advanced, must > also follow the trajectory of history. Such societies must have already reached an advanced stateless 
+> communist society. As a result, Posadasits call open aliens to directly intervene in Earth-world politics.
+>  
+> "We must call upon beings from other planets when they come to intervene, to collaborate with the 
+>  inhabitants of the Earth to overcome misery. We must launch a call on them to use their resources to help > us."   
+> -- Juan Posadas 
+>
+> It is important to remember that with the exception of these more unusual political positions, the 
+> Posadists are an all other ways an orthodox Trotskyist political organisation - as a quick review of
+> a current webiste (yes, they are still with us) will reveal: `http://posadiststoday.com/`.
+>   
+> Long live Posadas!
+
+
+*John "Moose" Seddon*, Customer Relations Officer, Nile Corporation, I+2 N+2 F+2 J+2 (Counsellor)
+
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator, Manager 2
+Intelligence	13	+1	Level		4, 2
+Wisdom		13	+1	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act			+1	+2		+3
+Administration		+1	+4		+5
+Athletics (stamina)	+0	+1		+1
+Bully			+1	+2		+3
+Carousing		+1	+1		+2
+Concentration		+1	+4		+5
+Craft (writing)		+1	+4		+5
+Craft (computing)	+1	+5		+6
+Hobby (Trotskyism)	+1	+2		+3
+Insight			+1	+2		+3
+Knowledge (general)	+1	+4		+5
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+1	+4		+5
+Sense (sight)		+1	+3		+4
 
 
 
-
-
-Customer Relations (Bugbears)
-·  Permanently has a sign outside that staff are needed, with the appropriate lies.
-·  Senior staff are extremely untrustworthy, and will always feign niceness.
-·  Senior staff are also partial to certain green herbs
-·  Anyone taking a job will be placed in a cubical farm answering customer complaints from a script – at this point, the senior staff will become imperialistic overlords.
-·  The cubical workers all look feral, and are almost all extremely cowed, and at most will attempt to hide or flee at the first sign of trouble.
-·  Reward – Wil be able to find one rebel worker, who will join the PCs – he will however continue to talk about workers’ rights and how the proletariat need to rise up and overthrow the ruling class.  How long he stays depend on how long he is humoured, but he has good inside knowledge of the company.
-
-Sales and Marketing (Gnolls)
-·  Entrance will look as if the area has been completely deserted for some time.
-·  Progressing further will find evidence of continuous parties.
-·  S&M staff very much into white powder and copulation
-·  Will be savage to any who interrupt them, and will band together to extract vengeance – they know how to track down PCs and will seek to destroy their reputation at the slightest hint of trouble
-·  If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold.
-·  Reward – The services of an extremely skilled investigator into dirty laundry.
 
 Archives (Minotaur)
 ·  Area consists of a maze of stacks, containing all records of the company
