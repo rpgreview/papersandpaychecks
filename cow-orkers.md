@@ -1569,6 +1569,12 @@ Profession		+1	+4		+5
 Sense (sight)		+1	+3		+4
 
 
+**F2 Sales and Marketin** 
+
+
+Sales and Marketing (Gnolls) · Entrance will look as if the area has been completely deserted for some time. · Progressing further will find evidence of continuous parties. · S&M staff very much into white powder and copulation · Will be savage to any who interrupt them, and will band together to extract vengeance – they know how to track down PCs and will seek to destroy their reputation at the slightest hint of trouble · If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold. · Reward – The services of an extremely skilled investigator into dirty laundry.
+
+
 
 
 Archives (Minotaur)
