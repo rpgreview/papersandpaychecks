@@ -1598,30 +1598,82 @@ Act			+2	+7		+9
 Lie			+2	+7		+9
 
 
+**F3 Archives ("The Minotaur")**
 
+The final room on this level has the least number of stuff, but also the greatest floor space per staff member. The company archives consist of two physical and areas, a maze of archive boxes stacked full of archive boxes containing the physical records of the company, and a smaller maze of a data centre, which Nile engages in a modicum of data analytics and projections. In both cases the rooms are quite confusing, both in terms of the layout and the fact that none of the workers seem to care for lighting except when absolutely necessary. Being quite anti-social the place is also eerily silent except the hum of computer systems (becoming a screaming pitch inside the data centre itself), the breathing of a hidden staff members, and their slow and purposeful footsteps when they are stalking an intruder.
+ 
+The chief librarian of of the company, with a notable "straw blonde" horned hairstyle, is known throughout the company as "the battle axe" on account of her aggressive temperment. She takes the company security very seriously and privileges are requires to enter the archives (and the data centre for that matter). If the PC workers somehow have the appropriate authorisation and she doesn't know about she'll let them through but express her complete horror that she has not been given prior notification and fire off a terse email "upstairs". There will be at least two strategic turns before this is acted on.
 
+*Ude Frisian*, Chief Librarian, I+3 S+2 F+2 J+3 (Protector)
 
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator
+Intelligence	13	+1	Level		6
+Wisdom		15	+2	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	10	+0	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+2	+6		+8
+Athletics (stamina)	+0	+1		+1
+Carousing		+0	+1		+1
+Concentration		+2	+6		+8
+Craft (writing)		+1	+6		+7
+Craft (computing)	+1	+7		+8
+Knowledge (general)	+1	+2		+3
+Language (English)	+1	+3		+4
+Pilot (car)		+0	+1		+1
+Profession		+2	+4		+6
+Sense (sight)		+1	+3		+4
+Sense (hearing)		+1	+2		+3
 
+Also working in the area are the highly anti-social data scientis and systems administrator both of whom barely talk to each other let alone outsiders. The systems administrator is seriously overworked but manages manages to keep not only all the personal computer systems in the company going, but also the 36 servers, switches and fabric, and the drive array in the data centre. They do consider the data centre the priority (which is true on  technical level) rather than dealing with user-level support, despite management telling them  they need to be more responsive to user need. Management is, of course, deaf to the suggestion that perhaps another sysadmin to deal with user-level issues is advised. The sysadmin has a rather bad reputation throughout the company, mainly because most the staff don't even know the data centre exists, and if they do the don't think it requires maintanence. The sysadmin treats breaches of data security in the same way the chief librarian does.
 
+The data scientist, Mike T'set ("Call me 'M'") is an awfully tedious math-nerd who has managed to waste all many of company time providing unusual correlations in their studies of big data. To their credit they are the only person who has managed to develop a 90% accurate prediction of the staff movements of Hobgoblins cafe. Nile once developed an entire range of left-handed books on the scientists' proposed discovery that they could corner the market of left-handed readers by taking such a leadership position. To date, the data scientist insists that their proposal was accurate and nobody has any data that says otherwise.
 
+**Mike Zech**, Computer User Network Technician, I+3 N+3 T+3 P+2 (Architect)
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Scientist
+Intelligence	15	+2	Level		6
+Wisdom		10	+0	Movement (running)	5
+Dexterity	10	+0	Wounds (Physical)	
+Perception	11	+0	Wounds (Mental)	
+Charisma	09	-1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Athletics (stamina)	+0	+1		+1
+Carousing		-1	+1		+0
+Craft (computing)	+2	+9		+11
+Investigate		+2	+6		+8
+Knowledge (philosophy)	+3	+6		+9
+Knowledge (general)	+3	+6		+9
+Knowledge (science)	+2	+8		+10
+Language (English) 	+2	+6		+8
+Language (Japanese)	+2	+3		+5
+Pilot (car)		+0	+1		+1
+Sense (taste)		+0	+1		+1
 
+**Mike T'set**
+Characteristic	Value	Bonus		
+Strength	13	+1	Profession	Scientist
+Intelligence	15	+2	Level		6
+Wisdom		09	-1	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	12	+1	Wounds (Mental)	
+Charisma	08	-1	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Athletics (stamina)	+1	+1		+2
+Carousing		-1	+1		+0
+Craft (computing)	+2	+9		+11
+Investigate		+2	+6		+8
+Knowledge (philosophy)	+3	+6		+9
+Knowledge (general)	+3	+6		+9
+Knowledge (science)	+2	+8		+10
+Language (English) 	+2	+6		+8
+Language (Japanese)	+2	+3		+5
+Pilot (car)		-1	+1		+0
+Sense (taste)		+1	+1		+2
 
-
-Sales and Marketing (Gnolls) · Entrance will look as if the area has been completely deserted for some time. · Progressing further will find evidence of continuous parties. · S&M staff very much into white powder and copulation · Will be savage to any who interrupt them, and will band together to extract vengeance – they know how to track down PCs and will seek to destroy their reputation at the slightest hint of trouble · If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold. · Reward – The services of an extremely skilled investigator into dirty laundry.
-
-
-
-
-Archives (Minotaur)
-·  Area consists of a maze of stacks, containing all records of the company
-·  The area will confuse anyone entering – the lights are very dull and the layout will seem to be random and changeable.
-·  Head Librarian is a large forceful woman with a Horned Hairdo, known universally as “The Battleaxe”
-·  If she detects the PCs, she will hunt them down and harass them relentlessly about any slight infraction.
-·  Also present are the: -
-o   Clerks – thin elderly women with very bad vision, who whizz around on motorised scooters, being a constant threat to health
-o   Researchers – will generally not be met, but the PCs will see their torches in the distance – they will always manage to evade the PCs if they are sought
--  File Server
-·  Reward – Incriminating information on any desired NPC.
+If by some extraordinary result the PC workers manage to befriend any of these thoroughly anti-social characters they will be rewarded with a commensurate degree of file system access that they shouldn't have.
 
 
 ### 5.1.5 Nile, Second Floor
