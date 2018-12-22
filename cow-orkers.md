@@ -805,7 +805,7 @@ The main non-player characters of Borderlands publishing house are Castel Border
 *Castel Border*, owner and chief manager of Borderlands. I+1 N+3 T+2 J+2 (Mastermind)
 
 Characteristic	Value	Bonus		
-Strength	9	-1	Profession	Manager, Administrator
+Strength	9	-1	Profession	(Manager, Administrator)
 Intelligence	15	+2	Level			2, 7
 Wisdom		15	+2	Movement (running)	5
 Dexterity	8	-1	Wounds (Physical)	
@@ -1034,7 +1034,7 @@ If the PC Workers finish the books an attend the meeting they will be introduced
 Brother Zacharia Aleph (real name: Bob Smith), author, lead of Due Authority movement. E+4 N+1 F+1 P+3 (Champion)
 
 Characteristic	Value	Bonus		
-Strength	11	+0	Profession	Administrator 2, Researcher 2, Manager 4
+Strength	11	+0	Profession	Administrator 2, (Researcher 2, Manager 4)
 Intelligence	14	+2	Level		8
 Wisdom		14	+2	Movement (running)	5
 Dexterity	11	+0	Wounds (Physical)	
@@ -1254,7 +1254,7 @@ Almost needless to say the supervisors are not held in high-regard by the packer
 Usually male (there is one female S&P staff member in incoming land deliveries), storers and packers tend to alternate between two professions, labourer and administrator, as their job involves moving goods, storing them, and keeping stock control. This is not great for their pay-rates or for that matter their need to be both strong and wise, but at least gives them the combined perks of both professions simultaneously.
 
 Characteristic	Value	Bonus		
-Strength	13	+1	Profession	Labourer, Administrator
+Strength	13	+1	Profession	(Labourer, Administrator)
 Intelligence	12	+1	Level		2, 2
 Wisdom		13	+1	Movement (running)	7
 Dexterity	10	+0	Wounds (Physical)	
@@ -1277,7 +1277,7 @@ Sense (sight)		+0	+3		+4
 *Generic Storer and Packer Supervisor*
 
 Characteristic	Value	Bonus		
-Strength	13	+1	Profession	Labourer, Administrator, Manager
+Strength	13	+1	Profession	(Labourer, Administrator, Manager)
 Intelligence	12	+1	Level		2, 2, 2
 Wisdom		13	+1	Movement (running)	7
 Dexterity	10	+0	Wounds (Physical)	
@@ -1413,7 +1413,7 @@ Sense (sight)		+1	+3		+4
 *Bree Yark*, chief secretarial administrator
 
 Characteristic	Value	Bonus		
-Strength	10	+0	Profession	Administrator, Manager
+Strength	10	+0	Profession	(Administrator, Manager)
 Intelligence	15	+2	Level		4, 2
 Wisdom		17	+3	Movement (running)	5
 Dexterity	10	+0	Wounds (Physical)	
@@ -1490,7 +1490,7 @@ The Customer Relations team, unsurprising, has a very good reputation within the
 *Generic Customer Relations Staff*
 
 Characteristic	Value	Bonus		
-Strength	10	+0	Profession	Administrator, Manager 2
+Strength	10	+0	Profession	(Administrator, Manager)
 Intelligence	13	+1	Level		4, 2
 Wisdom		13	+1	Movement (running)	5
 Dexterity	10	+0	Wounds (Physical)	
@@ -1545,7 +1545,7 @@ Amongst all this, this is one potential ally for the PC Workers, albeit a slight
 *John "Moose" Seddon*, Customer Relations Officer, Nile Corporation, I+2 N+2 F+2 J+2 (Counsellor)
 
 Characteristic	Value	Bonus		
-Strength	10	+0	Profession	Administrator, Manager 2
+Strength	10	+0	Profession	(Administrator, Manager)
 Intelligence	13	+1	Level		4, 2
 Wisdom		13	+1	Movement (running)	5
 Dexterity	10	+0	Wounds (Physical)	
@@ -1569,7 +1569,42 @@ Profession		+1	+4		+5
 Sense (sight)		+1	+3		+4
 
 
-**F2 Sales and Marketin** 
+**F2 Sales and Marketing ("The Gnolls")** 
+
+At first sight it seems that this space is largely empty. Further investigation will reveal the evidence of streamers, discarded champagne bottle, and a easy search check will reveal an indictable commercial quantity of cocaine, distributed across several tables. Nile believes that Sales & Marketing (also known as S&M on account of their kinks) is the most important part of the company and they are treated with significant leeway as long as they keep on generating good results. Whilst most of the staff are out schmoozing, i.e., "meeting clients" and getting the big contracts and engaging in a number of corporate expansions, there will be a handful (less than six) staff here during any day shift finishing off various bits of paperwork and doing a few lines to keep themselves "alert".
+
+If any of the PCs prove themselves to be sufficiently interesting party animals to the the sales and marketing staff (a strategic turn of engaging in their drug-fueled activities, being extremely liberal with their money and open about when they're run out, plus a successful skill competition in general knowledge) then they'll gain themselves a temporary ally who will can contribute to some pretty impressive marketing - either positive or negative throughout the company. Some choice comments dropped to Bree Yark's team usually gets things going quite niceley.
+
+*Generic Sales and Marketing Staff*
+
+Characteristic	Value	Bonus		
+Strength	09	-1	Profession	(Administrator, Manager)
+Intelligence	13	+1	Level		2, 4
+Wisdom		13	+1	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	10	+0	Wounds (Mental)	
+Charisma	15	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Language (English)	+1	+4		+5
+Language (other)	+1	+1		+2
+Knowledge (general)	+1	+7		+8
+Sense (Hearing)		+0	+1		+1
+Profession		+0	+7		+7
+Pilot (car)		-1	+1		+0
+Carousing		+2	+5		+7
+Craft (computing)	+1	+2		+3
+Administration		+1	+2		+3
+Act			+2	+7		+9
+Lie			+2	+7		+9
+
+
+
+
+
+
+
+
+
 
 
 Sales and Marketing (Gnolls) · Entrance will look as if the area has been completely deserted for some time. · Progressing further will find evidence of continuous parties. · S&M staff very much into white powder and copulation · Will be savage to any who interrupt them, and will band together to extract vengeance – they know how to track down PCs and will seek to destroy their reputation at the slightest hint of trouble · If the PCs show that they are as depraved as the S&M team, then they may be welcomed into the fold. · Reward – The services of an extremely skilled investigator into dirty laundry.
