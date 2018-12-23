@@ -1680,12 +1680,10 @@ If by some extraordinary result the PC workers manage to befriend any of these t
 
 Senior Management (The Shrine of Evil Chaos)
 
-The Source of Nile
+"The Mouth of the Nile", Vice-President Corporate, Neil Hotep, 
+"The Source of the Nile", Vice-President Finance, Victoria Lake ... intimate relationship. Safe, locked.
+"The Queen of the Nile", President Fey Rowe, the Queen of the Nile
 
-Vice-President (Sales and Marketing), Mr. Blue
-Vice-President ( ), Mr. White
-Vice-President (Chief Financial Officer), Victoria Lake ... intimate relationship. Safe, locked.
-President Fey Rowe, the Queen of the Nile
 
 
 
