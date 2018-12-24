@@ -794,6 +794,8 @@ Ahead, up the slight incline, heading towards Cuba mall of Wellington city, loom
 > Next subject, Kowalski, Leon, engineer, waste disposal, file section, new employees, six days.   
 > -- opening words of Blade Runner
 
+Please note that this scenario for *Papers & Paychecks* refers to a publishing and distribution company called "Nile", which is readily admitted in a a satirical alternative to another company that has a book trade and also a name of a particularly long river. It has nothing to do with the rent company "The Nile" which distributes books online which apparently came after "our" Nile. It seems that once again that reality is imitating fiction. There is also a sideways glance to Borders bookstore which underwent liquidation in 2011, and does not in any way refer to Borderlands Book Store of 866 Valencial Street, San Francisco, which specialises in fantasy, science fiction, mystery, and horror - except to encourage everyone within reasonable distance to go visit them and buy some books; more power to your arm. 
+
 **Notes About Borderlands**
 
 The PC Workers in "Keep Our Borderlands" have just joined a medium-sized family-owned publishing house with some fifty employees.
@@ -1006,7 +1008,6 @@ Gymnastics	+2	+4	+2	+8
 Stealth		+2	+4	+2	+8
 Sense (hearing)	+4	+4	+2	+10
 
-
 **Due Authority (aka The Lizard Men)**
 
 Any half-competent Internet research on Nile and their activities in New Zeland will result in discovering the "Due Authority" website. "Due Authority" is a pro-monarchist, New Zealand nationalist (yes, there is really such a thing), and anti-foreign investment group, whose political opinions stray from the wingnut right to the moonbat left, but never in-between. The following is a good example of one of their posts, concerning any potential to the chage of the New Zealand flag, which inspired the formation of the group.
@@ -1021,7 +1022,7 @@ The post continues to explain how the attempt to change the New Zealand flag is 
 
 Despite all this there does seem to be a kernel of truth in their writings about Nile. At least the facts seem accurate and in accord to other published information concerning the size of the company, its senior staff, its operations and so forth. More to the point the make it very clear on their website that they have *secret* information about Nile corporation which they will only divulge to "genuine freedom fighters".
 
-"Due Authority" are located in a well-built, if small, former Baptist Church in one of the poorer areas of the city (Newtown), where they have a New Age store which sells various crystals, homeopathic cures ("just add water"), a resin statues of dragons and faeries. Beyond that there is the bookstore which has a range of books on numerology, the secrets of the (insert ancient or contemporary religious tradition), UFOs, and political texts on the Freemasons, the Illumaniti, the Rosicrucians, the international banking cartels, vaccinations, Chemtrails, HAARP, Deep State, and so forth. Then there's "the really serious stuff", as one helpful bookshop seller will explain, on New Zealand nationalism and anti-Roman Christianity and how NZ is actually the last remaining vestige of deceny in the world. 
+"Due Authority" are located in a well-built, if small, former Baptist Church in one of the poorer areas of the city (Newtown), where they have a New Age store which sells various crystals, homeopathic cures ("just add water"), resin statues of dragons and faeries etc. Beyond that there is the bookstore which has a range of books on numerology, the secrets of the (insert ancient or contemporary religious tradition), UFOs, and political texts on the Freemasons, the Illumaniti, the Rosicrucians, the international banking cartels, vaccinations, Chemtrails, HAARP, Deep State, and so forth. Then there's "the really serious stuff", as one helpful bookshop seller will explain, on New Zealand nationalism and anti-Roman Christianity and how NZ is actually the last remaining vestige of deceny in the world run by perverts. 
 
 If the PC Workers ask about Nile and the special secret information it will be explained that they don't give that information away to anyone. To test their sincerity they will be invited back to a "special meeting" in two days time and given several books to read on the special identity of New Zealand and of Nile Corporation. The books are overpriced and the shop only takes cash. If an attempt is made to pay be credit card the purchaser will be sold another book on how RFID chips in cards are a vector to them compulsory as implants in people. The books will take 12 strategic turns to read due the intricate complexity that is contained and a successful Formidable (15+) Investigate check is required to remember the finer details, which the PC Workers will be quizzed on at the meeting.
 
@@ -1238,7 +1239,6 @@ Pilot (car)		+0 	+1		+1
 Profession		-1	+1		+0
 Sense (Hearing)		+3	+1		+4
 
-
 **G2 Incoming Land Deliveries ("The Orcs")**
 
 With a far less salabrious entrance, a stream of trucks make their way here for incoming supplies. During the day there are at four storers and packers to move and stack boxes, and engage in stock control. In the evening there are two security guards, who spend most the night taking an occasional walk outside or not really viewing the security camera feed. Use the G1 Generic Security Guard statistics and the G2 Generic Storer and Packer stastics. There is also a forklift and several trolleys present.
@@ -1371,7 +1371,6 @@ Pilot (skateboard)	+1	+1		+2
 Profession		+2	+1		+3
 Sense (insight)		+1	+3		+4
 
-
 **G7 Secretarial Pool ("The Goblins", "The Ogre")**
 
 Located behind the business reception and with access to the main lifts and the production and distribution room, this "U" shaped office serves as a complement to "The Kobolds" in terms of business logic and a counter-point to "The Orcs" in terms of characters and disposition. The twenty staff here are the backbone administrators of the company, mainly female, constantly in motion, and managing to look extremely busy and overworked.
@@ -1385,7 +1384,6 @@ In a private office beyond the secetarial poll (G7a) is Al Bear who is one of th
 Bree and Ogre are in deep cohoots with each other, with Bree typically finding ways to prevent access to Ogre ("he's a very busy man"). Further, they have accumulated a great deal of serious dirt on all their fellow employees, and despite Bree's feigned behaviour, they actually have a good idea of what is true and alse rumours. Note that Bree does not have special social skills in hiding her deceptions, so a capable PC Worker will be able to differentiate between true and false gossip coming from her.
 
 This can be both a disaster or a benefit for the PC Workers. By accumulating the collective research skills of her staff, Bree Yark can create quite a dossier on the PC Workers. However, both Bree and Al are also prone to expensive tastes, and, with some consideration, get the PCs out of a difficult situation with an appropriate "gift".
-
 
 *Generic Secretarial Staff*
 
@@ -1435,7 +1433,6 @@ Profession		+3	+4		+6
 Seduce			+1	+2		+3
 Sense (sight)		+1	+3		+4
 Sense (insight)		+1	+3		+4
-
 
 *Al Bear*, floor manager at Nile. E+3 S+3 T+1 J+1 (Supervisor)
 
@@ -1516,7 +1513,9 @@ Amongst all this, this is one potential ally for the PC Workers, albeit a slight
 
 > **Posadism: A Summary**   
 >   
-> Homero Rómulo Cristalli Frasnelli was an Argentian socialist from the 1940s onwards who was referred to as > Juan Posadas. Posadas was active in the trade union and Trotskyist socialist movements becoming a notable > leader of that group in Latin America with notable influence among Cuban railway workers, Bolivian tin 
+> Homero Rómulo Cristalli Frasnelli was an Argentian socialist from the 1940s onwards who was referred to as 
+> Juan Posadas. Posadas was active in the trade union and Trotskyist socialist movements becoming a notable 
+> leader of that group in Latin America with notable influence among Cuban railway workers, Bolivian tin 
 > miners, and Brazilian agricultural workers. When Trotsky's Fourth International split in 1953, Posadas 
 > joined with the "International Secretariat of the Fourth International", but left that organisation 
 > several years later, forming the Fourth International Posadist. Their political parties usually went by 
@@ -1568,7 +1567,6 @@ Pilot (car)		+0	+1		+1
 Profession		+1	+4		+5
 Sense (sight)		+1	+3		+4
 
-
 **F2 Sales and Marketing ("The Gnolls")** 
 
 At first sight it seems that this space is largely empty. Further investigation will reveal the evidence of streamers, discarded champagne bottle, and a easy search check will reveal an indictable commercial quantity of cocaine, distributed across several tables. Nile believes that Sales & Marketing (also known as S&M on account of their kinks) is the most important part of the company and they are treated with significant leeway as long as they keep on generating good results. Whilst most of the staff are out schmoozing, i.e., "meeting clients" and getting the big contracts and engaging in a number of corporate expansions, there will be a handful (less than six) staff here during any day shift finishing off various bits of paperwork and doing a few lines to keep themselves "alert".
@@ -1597,12 +1595,11 @@ Administration		+1	+2		+3
 Act			+2	+7		+9
 Lie			+2	+7		+9
 
-
 **F3 Archives ("The Minotaur")**
 
 The final room on this level has the least number of stuff, but also the greatest floor space per staff member. The company archives consist of two physical and areas, a maze of archive boxes stacked full of archive boxes containing the physical records of the company, and a smaller maze of a data centre, which Nile engages in a modicum of data analytics and projections. In both cases the rooms are quite confusing, both in terms of the layout and the fact that none of the workers seem to care for lighting except when absolutely necessary. Being quite anti-social the place is also eerily silent except the hum of computer systems (becoming a screaming pitch inside the data centre itself), the breathing of a hidden staff members, and their slow and purposeful footsteps when they are stalking an intruder.
  
-The chief librarian of of the company, with a notable "straw blonde" horned hairstyle, is known throughout the company as "the battle axe" on account of her aggressive temperment. She takes the company security very seriously and privileges are requires to enter the archives (and the data centre for that matter). If the PC workers somehow have the appropriate authorisation and she doesn't know about she'll let them through but express her complete horror that she has not been given prior notification and fire off a terse email "upstairs". There will be at least two strategic turns before this is acted on.
+The chief librarian of of the company, with a notable "straw blonde" horned hairstyle, is known throughout the company as "the battle axe" on account of her aggressive temperment. She takes the company security very seriously and privileges are requires to enter the archives (and the data centre for that matter). If the PC workers somehow have the appropriate authorisation and she doesn't know about she'll let them through but express her complete horror that she has not been given prior notification and fire off a terse email "upstairs". There will be at least two strategic turns before this is acted on. Ude is also responsible for allowing visitors to the third level and keeps the appoints for the three senior executives there. She is very busy woman.
 
 *Ude Frisian*, Chief Librarian, I+3 S+2 F+2 J+3 (Protector)
 
@@ -1675,18 +1672,84 @@ Sense (taste)		+1	+1		+2
 
 If by some extraordinary result the PC workers manage to befriend any of these thoroughly anti-social characters they will be rewarded with a commensurate degree of file system access that they shouldn't have.
 
+### 5.1.5 Nile, Second Floor  ("The Shrine of Evil Chaos")
 
-### 5.1.5 Nile, Second Floor
+The third level of Nile is the smallest with a short corridor separating the senior management of the company, being Vice-President, Corporate, the Vice-President, Finance, and the President of the Company. Each room affords impressive views of Wellington harbour and is lavishly furnished with various items from rare woods from around the globe, elephant leg wastebaskets, mounted heads of Darwin's Fox, Iberian Lynx, Ethiopan Wolf etc. A successful Knowledge (science) check with a TN of 7 or a Knowledge (general) with a TN of 11, will lead to recognising these creatures as being the most critically endangered carnivores on Earth (well, assuming we don't know of any *alien* carnivores). 
 
-Senior Management (The Shrine of Evil Chaos)
+In addition to furnishings, locked desk drawers of corporate secrets, a computer system (all with terrible password security, e.g., family dog, mother's maiden name, favourite sports team), each room has a small safe consisting of $50,000 in cash (VP Corporate), $100,000 (VP Finance and President). In addition the VP Corporate has the contract of employment with Leoland Border. The other senior executives know about the contract, but it is the VP Corporate who has the truly incriminating evidence. Of note the truly obsessive quantity of cat paintings, statues etc in the President's office.
 
-"The Mouth of the Nile", Vice-President Corporate, Neil Hotep, 
-"The Source of the Nile", Vice-President Finance, Victoria Lake ... intimate relationship. Safe, locked.
-"The Queen of the Nile", President Fey Rowe, the Queen of the Nile
+Most of the time the senior executives aren't actually in the office. They're either at conferences, meeting other senior executives over long lunches, and generally making important decisions based on the advice of those who do the actual work. None of them actually come from New Zealand either. Neil Hotep is Anglo-Egyptian, Victoria Lake is from the United Kingdom (Kent in particular), and Fey Rowe is from the United States (New York). All come from stunningly wealthy families and have the salary and connections to prove it. 
 
+*Neil Hotep*, Corporate Vice President, "The Mouth of Nile", E+3 N+2 F+1 J+3 (Teacher)
+Characteristic	Value	Bonus		
+Strength	12	+1	Profession	Manager
+Intelligence	12	+1	Level		10
+Wisdom		13	+1	Movement (running)	6
+Dexterity	10	+0	Wounds (Physical)	
+Perception	11	+0	Wounds (Mental)	
+Charisma	17	+3	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act 			+3	+5		+8
+Administration		+1	+4		+5
+Bully			+3	+4		+7
+Carousing 		+3	+5		+8
+Inspire 		+3	+4		+7
+Knowledge (general)	+1	+6		+7
+Lie			+3	+4		+7
+Language (Arabic)	+1	+5		+6
+Language (English)	+1	+6		+7
+Pilot (car)		+0	+1		+1
+Profession 		+1	+4		+5
+Seduce			+3	+4		+7
 
+*Victoria Lake*, Finance Vice President, "The Source of Nile", I+3 N+3 T+3 P+1 (Architect)
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Administrator, Manager)
+Intelligence	14	+2	Level		5, 5
+Wisdom		18	+4	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	11	+0	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act			+0	+6		+6
+Administration		+4	+10		+14
+Bully			+0	+5		+5
+Carousing		+0	+1		+1
+Concentration		+4	+5		+9
+Craft (Computing)	+2	+5		+7
+Knowledge (general)	+2	+7		+9
+Language (English)	+2	+5		+7
+Language (German)	+2	+1		+3
+Language (French)	+1	+1		+2
+Lie			+0	+10		+10
+Pilot			-1	+1		+0
+Profession		+4	+10		+14
+Seduce			+0	+5		+5
 
-
+*Fey Rowe*, President, "The Queen of Nile", I+1 N+2 T+3 J+3 (Mastermind)
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Researcher, Manager)
+Intelligence	14	+2	Level		5, 5
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Act			+2	+6		+8
+Administration		+2	+5		+7
+Bully			+2	+5		+7
+Carousing		+2	+6		+8
+Concentration		+2	+5		+7
+Hobby (cats)		+2	+5		+7
+Investigate		+2	+5		+7
+Insight			+4	+5		+9
+Inspire			+2	+5		+7
+Knowledge (Laws)	+2	+5		+7
+Language (English)	+2	+5		+7
+Language (Spanish)	+2	+2		+4
+Knowledge (general)	+2	+7		+9
+Pilot			-1	+1		+0
+Profession		+2	+5		+7
 
 ## 5.2 Scenario: Palaces of the Electrum Princess
 
