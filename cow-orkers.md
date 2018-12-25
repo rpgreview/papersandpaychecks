@@ -52,9 +52,9 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 2.2 More Equipment
 
 3.0 More Non-Player Characters
-3.1 The Pizza Computer by Shaun Hately
-3.2 Charles The Tall by Daniel Callahan
-3.3 The Telstra by Marg Lewis
+3.1 Characters
+3.2 Bestiary
+3.3 Monsters
 
 4.0 Even More Boss and Alternate Settings
 4.1 So You Want it Darker?
@@ -516,11 +516,11 @@ of giving us greater access to fashion.
 
 *Rod of Dowsing*: An otherwise L-shaped or Y-shaped stick can be used in to locate ground water, oil, precious metals or gems, and even old gravesites. When used by a person who believes in the superstition, they gain a +5 bonus in discovering what they are searching for. When it is subject to scientific observation, it will fail to operate. ENC 1, cost $5000.
 
-*Staff of Striking*: A staff of striking is specialist targetting weapon that especially affects any characters with levels in Labourer or Tradesperson. The bearer of the staff, upon striking the ground, an attracting the attention of members of said classes within hearing range, will provide a bonus of +5 to attempts to influence said characters but only for the purpose of encouraging them to withdraw their labour from their employer. The range, of course, is quite effective in a room with wooden floorboards and a high roof, and is less effective outside on a windy day. Artificial enhancement of the sound and speech is still effective. ENC 2, cost $5000. 
+*Staff of Striking*: A staff of striking is specialist targetting weapon that especially affects any characters with levels in Labourer or Tradesperson. The bearer of the staff, upon striking the ground, an attracting the attention of members of said classes within hearing range, will provide a bonus of +5 to attempts to influence said characters but only for the purpose of encouraging them to withdraw their labour from their employer, engage in a "go slow", "monkey-wrenching" or similar activities. The range, of course, is quite effective in a room with wooden floorboards and a high roof, and is less effective outside on a windy day. Use of artificial enhancement of sound and speech is can also help. ENC 2, cost $5000. 
 
 *Vicarious and Vacuous Grimoire*: "Like sands through the hourglass...." This tome provides drama utterly inane and ficticious characters, their relationships, challenges (especially romantic), and intrigues. Whilst utterly bereft of useful information it is also extraordinarily compelling, and any character who so much as reads the first page will have to make a WIS check with a difficulty of 11. If they fail they will spend the next 15 strategic turns doing nothing but reading the story of the Cordroy and Chime families. During this time their INT is reduced by 5, and their CHA by 5 as they insist on trying to tell all and sundry of the tale. Worse still, when completing the book they find there is another volume, which also requires a WIS check to resist purchasing and reading; "It Never Ends". ENC 1, cost $100
 
-*Wand of Lightening*: Through the very strange machinations of the universe, when a wand a lightening is directed at a physical object the weight of that object will reduce by 10% as long as the wand is remains directed and the object is not actually weighed. The wonders of paranormal science! ENC 1, cost $2000.
+*Wand of Lightening*: Through the very strange machinations of the universe, with origins in the failures of automated spell-checkers, when a wand a lightening is directed at a physical object the weight of that object will reduce by 10% as long as the wand is remains directed and the object is not actually weighed. The wonders of paranormal science! ENC 1, cost $2000.
 
 *Wand of Magic Missiles*: This short black wand has white tips, rather like a classic stage magician's item. When engaging in a social attack, the social barbs used by the attacker have the curious effect of causing double damage, i.e., with a successful attack the social bruises, or even wounds, are doubled. The attacker will look quite foolish of course, pointing a stick at a person in an argument, but they are surprisingly convincing. ENC 1, cost $2000.
 
@@ -570,10 +570,1169 @@ INT 13 (+1), WIS 18 (+4), CHA 13 (+1), I+3 N+2 F+4 J+2 (Counsellor)
 
 A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues.
 
-
 # 3.0 More Non-Player Characters
 
-## 3.1 The Pizza Computer by Shaun Hately
+# 3.1 Characters
+
+**Charles The Tall**
+
+by Daniel Callahan
+
+Level: 3
+Character class: unknown
+
+Charles the Tall Intern appeared one day at the coffee machine, emptied the pot into a massive cup, slew a kobald, and went back to his desk. There, he sits all day planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
+
+That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
+
+Chiron, Greek hero and doctor, Centaur of Disease Control, advocate of herd immunity.
+
+
+## 3.2 Bestiary
+
+
+**Beaver, Giant**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Beaver, Giant
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Giant Beaver story
+
+**Basilisk**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Basilisk
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Basilisk story
+
+**Bugbear**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Bugbear
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Bugbear story
+
+**Centaur**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Centaur
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Centuar story
+
+**Chimera**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Centaur
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Centuar story
+
+**Cockatrice**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Cockatrice
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Cockatrice story
+
+**Couatl**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Centaur
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Couatl story
+
+**Demon**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Demon
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Demon story
+
+**Devil**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Devil
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Devil story
+
+**Djinni**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Djinni
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Djinni story
+
+
+**Dragon**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Dragon
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Dragon story
+
+**Dryad**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Dryad
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Dryad story
+
+**Dwarf**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Dryad
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Dwarf story
+
+**Efreet**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Dryad
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Efreet story
+
+**Elemental**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Dryad
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Elemental story
+
+**Elf**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Elf story
+
+**Ettin**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Ettin story
+
+**Gargoyle**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Gargoyle story
+
+**Ghost**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Ghost story
+
+**Ghoul**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Ghoul story
+
+**Giant**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Giant story
+
+**Gnoll**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Gnoll story
+
+**Gnome**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Gnome story
+
+**Goblin**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Goblin story
+
+**Golem**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Golem story
+
+**Gorgon**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Gorgon story
+
+**Griffin**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Griffin story
+
+**Halfling**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Halfling story
+
+**Harpy**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Harpy story
+
+**Hell-Hound**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Hell-Hound story
+
+**Hobgoblin**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Hobgoblin story
+
+**Homunculus**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Homunculus story
+
+**Imp**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Imp story
+
+**Ki-rin**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Ki-rin story
+
+**Ki-rin**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Ki-rin story
+
+**Kobold**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Kobold story
+
+**Lamia**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Lamia story
+
+**Lammasu**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Lammasu story
+
+**Leprechaun**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Leprechaun story
+
+**Lich**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Lich story
+
+**Lizard-Man**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Lizard-Man story
+
+**Manticore**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Manticore story
+
+**Medusa**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Medusa story
+
+**Mermaid**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Mermaid story
+
+**Minotaur**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Minotaur story
+
+**Mummy**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Mummy story
+
+**Naga**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Naga story
+
+**Night-Hag**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Night-Hag story
+
+**Nighmare**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Nightmare story
+
+**Nixie**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Nixie story
+
+**Nymph**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Nymph story
+
+**Ogre**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Ogre story
+
+**Ogre**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Ogre story
+
+**Orc**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+An Orc story
+
+**Pegasus**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Pegasus story
+
+**Peryton**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Pertyon story
+
+**Pixie**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Pixie story
+
+**Quasit**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Quasit story
+
+**Rakshasa**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Rakshasha story
+
+**Rat, Giant (aka ROUS)**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Giant Rat story
+
+**Roc**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Roc story
+
+**Salamader**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Salamander story
+
+**Satyr**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Satyr story
+
+**Scorpion, Giant**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Giant Scorpion story
+
+**Skeleton**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Skeleton story
+
+**Sprite**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Sprite story
+
+**Sylph**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Sylph story
+
+**Titan**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Titan story
+
+**Troglodyte**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Troglodyte story
+
+**Troll**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Troll story
+
+**Unicorn**
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Elf
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+A Unicorn story
+
+## 3.3 Monsters
+
+**The Pizza Computer** 
+
+by Shaun Hately
 
 From actual experience. Proof positive that some things are *for* us, even if they have a twisted sense of humour.
 
@@ -617,21 +1776,7 @@ From actual experience. Proof positive that some things are *for* us, even if th
 "OK... enjoy your pizzas. Well, some of them anyway."
 
 
-## 3.2 Charles The Tall, Daniel Callahan
-
-Level: 3
-Character class: unknown
-
-Charles the Tall Intern appeared one day at the coffee machine, emptied the pot into a massive cup, slew a kobald, and went back to his desk. There, he sits all day planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
-
-That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
-
-Niles Lath O'Tep
-He's a groundskeeper from Connacht. Lives with his mum and a Glen of Imaal Terrier
-
-Chiron, Greek hero and doctor, Centaur of Disease Control, advocate of herd immunity.
-
-## 3.3 The Telstra Switch
+**The Telstra Switch**
 
 by Marg Lewis
 
