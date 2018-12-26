@@ -1871,6 +1871,8 @@ In North Korea there is one official source of television news, Korean Central T
 
 ## 4.2 Fantasy Papers & Paychecks
 
+<img src="https://imgs.xkcd.com/comics/tabletop_roleplaying.png" />
+
 ## 4.3 Boss-Level Secrets
 
 In the core rulebook there is an extensive section for advising The Boss on how to keep player-character workers in line whilst at the same time generating an interesting story of action and adventure. Alas, sometimes The Boss finds themselves being berated and bullied into submission by their players whilst at the same time plot outcomes seem to unreasonably favour the PCs. Well, it is time for you to take back control. It is time for you to be The Boss, with the definite article, and start shouting in German because life is short and terrifying. Shout it! Bist du unterm Pantoffel stehen?! See, you feel better already. Now, let's take back control of the game whilst *pretending* that you haven't and creating an entertaining story tha that players will think is of their own creation. This is *The Secrets of Being The Boss*.
@@ -1884,7 +1886,7 @@ Maximum Game Fun
 When writing, thinking, and gaming in Glorantha, always ask yourself, "Now, in this situation what is the most fun?" and then go with it. That's Maximum Game Fun (MGF). Keep this principle in mind whenever you apply the rules of RuneQuest to any situation.
 ```
 
-Now one would be thinking that a deliberately comic game like *Papers & Paychecks* would _thoroughly_ endorse this comment. At first blush, it does make a lot of sense with objective of entertainment. But there is a couple of minor modifications to the suggestion, whilst giving it recognition as a worthy contribution. Firstly, it is recognised that the word "fun" comes from the North Germanic noun fon ("foolish, simple, silly") or verb fonnen ("make a fool of"), and in English it first appears in 1680s meaning "to cheat, trick". Now sometimes we do want to play a foolish and silly game; "shits and giggles", as it is often described. But not all the time. 
+Now one would be thinking that a deliberately comic game like *Papers & Paychecks* would *thoroughly* endorse this comment. At first blush, it does make a lot of sense with objective of entertainment. But there is a couple of minor modifications to the suggestion, whilst giving it recognition as a worthy contribution. Firstly, it is recognised that the word "fun" comes from the North Germanic noun fon ("foolish, simple, silly") or verb fonnen ("make a fool of"), and in English it first appears in 1680s meaning "to cheat, trick". Now sometimes we do want to play a foolish and silly game; "shits and giggles", as it is often described. But not all the time. 
 
 Perhaps what should be sought is "Maximum Game Joy", which is closer to a happiness from acquisition or experience, bliss, and glee. What's the difference? With "joy" you can have a _player_ experience depths of frustration and sadness, at a particular moment and still come out of the experience with _joy_ - just like a good play or movie does. Think of a player who is so moved by the description of a scene that they are literally in _tears_ (of sadness or happiness). This does not sound like fun, but it certainly is joy.
 
@@ -1943,9 +1945,7 @@ Please note that this scenario for *Papers & Paychecks* refers to a publishing a
 
 **Notes About Borderlands**
 
-The PC Workers in "Keep Our Borderlands" have just joined a medium-sized family-owned publishing house with some fifty employees.
-
-The whole place is well organised for security and logistics. Despite the description work here is carried out at pace that doesn't damage quality of work. "More haste, less speed" is a proverb that owner Castel Border expresses with the sort of regularity that his wife may one day make a claim for justifiable homicide. It is, indeed, his entire business logic. Eschewing any desire to expand the business, happy with the stable and existing distribution lines for thirty years, using the same printers, the same warehousing company, and many of the same authors. Indeed, there is a mind-numbing sense of sameness about the place. Fortunately, there have bene equipment upgrades, courtesy of the recommendations of the younger son, Leoland Border.
+The PC Workers in "Keep Our Borderlands" have just joined a medium-sized family-owned publishing house with some fifty employees. The whole place is well organised for security and logistics. Despite the description work here is carried out at pace that doesn't damage quality of work. "More haste, less speed" is a proverb that owner Castel Border expresses with the sort of regularity that his wife may one day make a claim for justifiable homicide. It is, indeed, his entire business logic. Eschewing any desire to expand the business, happy with the stable and existing distribution lines for thirty years, using the same printers, the same warehousing company, and many of the same authors. Indeed, there is a mind-numbing sense of sameness about the place. Fortunately, there have bene equipment upgrades, courtesy of the recommendations of the younger son, Leoland Border.
 
 The main non-player characters of Borderlands publishing house are Castel Border, Stellan Border, Leoland Border, and Seneca Philosophus. Castel Border is the silver-haired, pin-striped suit, elderly, cantankerous, and yet quite clever owner of the business. Now in his seventies, he inherited the business from his father and has kept the ship steady, "steady she goes" is yet another of his annoying pearls of wisdom that will be recited several times a day. His two sons are Stellan Border and Leoland Border with the main inheritence of the store almost certainly going to Stellan. Castel has the role of general manager.
 
@@ -2908,53 +2908,144 @@ Then one day a real-estate developer driving a red Maserati appeared in the driv
 
 They paved paradise, and put up a parking lot. Now there's only pink hotels, serviced by big yellow taxis. Plenty of rumors remain, and what legends there are tell of a fabulous dreamcatcher is somewhere within the Palaces of the Electrum Princess.
 
+*The Palaces of the Electrum Princess* is a scenario for low to mid level PC Workers.
+
 **Plot Introduction**
 
-In the Palace of the Electrum Princess, the PC workers are induced to a high-stakes game of real-estate subterfuge. Starting in any of the hotels according to the Boss's choosing, the PC workers have just completed yet another mind-numbing corporate training session on team-building and are having a couple of post-work drinks before the long-weekend, when they are approached by an older woman who is well-dressed in a style of clothes that belongs in the late 1960s, but obviously distressed. Asking for the PCs leave to sit, she tells a sorrowful tale, introducting herself as Ms. Venice Novateló.
+In the Palace of the Electrum Princess, the PC workers are induced to a high-stakes game of real-estate subterfuge. Starting in any of the hotels according to the Boss's choosing, the PC workers have just completed yet another mind-numbing corporate training session on team-building and are having a couple of post-work drinks before the long-weekend, when they are approached by an older woman who is well-dressed in a style of clothes that belongs in the late 1960s, but obviously distressed. Asking for the PCs leave to sit, she tells a sorrowful tale, introducting herself as Ms. Florence Novateló, the mother of Venice Novateló. The Boss should select any one of the hotels listed below to start the adventure.
 
 "You must excuse me for prying, but I have done some research on you. You're all very capable people and probably the best we could find for the task at hand. 'We', you ask? Yes, there is a number of us. We used to be the owners of the land here, where we had our commune. We had nature, birds and wild animals, a little stream, and grew mung-beans and sprouts. Unfortunately we have lost that ownership. You see, rather than having the ownership registered through a land title, we used a series of steps so it was ultimately owned by possession of a paper title, registered through Los Republicos dos los Bananes. I know what you're thinking. We wanted to minimise our involvement with our government and the republic had a revolutionary people's government. It seemed like a good idea at the time."
 
-"Anyway, one day Mr X turned up, and decided this was a fine place for his new property development. He apparently had made some inquiries beforehand, and seemed to know exactly what he needed to do. He wooed my daughter, Venice, with stories of wealth and high-society easy-living, and she stole the paper deed. Well, technically it wasn't stolen, because she was a member of the executive council at the time. You see we have an annual election for the execuite committee of the commune and ... I'm sorry I'm sure you don't need to know these details."
+"Anyway, one day one Mr. Sherlock Homes turned up, and decided this was a fine place for his new property development. He apparently had made some inquiries beforehand, and seemed to know exactly what he needed to do. He wooed my daughter, Venice, with stories of wealth and high-society easy-living, and she stole the paper deed. Well, technically it wasn't stolen, because she was a member of the executive council at the time. You see we have an annual election for the executive committee of the commune. We take it in turns to act as a sort of executive officer for the week. But all the decision of that officer have to be ratified at a special biweekly meeting. By a simple majority in the case of purely internal affairs, but by a two-thirds majority in the case of more... I'm sorry I'm sure you don't need to know these details."
 
-"The practical upshot is that she gave Mr X the title, and now we're forbidden to even be here (she says, sotto vocce). Venice won't talk to me or any of her old friends and she seems to have taken up an entirely new llfe with Mr. X. She used to be such a lovely little girl. The stories she would tell each morning from her dream-catcher, which she named "Mr. Dreamy". You wouldn't believe her wonderful imagination... Oh, I'm sorry, I'm going off-track. Business is at hand. We believe that you are of negotiable virtue, so I have brought with me (she pushes over tassel-bag), ten thousand dollars in cash, and another forty thousand when you complete task. We need you to get that paper title back to us."
+"The practical upshot is that she gave Sherlock Homes the title, and now we're forbidden to even be here (she says, sotto vocce). Venice won't talk to me or any of her old friends and she seems to have taken up an entirely new llfe with Sherlock Homes. She used to be such a lovely little girl. The stories she would tell each morning from her dream-catcher, which she named "Mr. Dreamy". You wouldn't believe her wonderful imagination ... Oh, I'm sorry, I'm going off-track. Business is at hand. We believe that you are of negotiable virtue, so I have brought with me (she pushes over tassel-bag), ten thousand dollars in cash, and another forty thousand when you complete task. We need you to get that paper title back to us."
 
-"Time is of the urgency. We have discovered that Mr. X and Venice have one-way tickets to Los Republicos dos los Bananes for Monday night. Sadly, the Republic is now ruled by Generallismo X EDIT and the friends that we have there are in prison or in hiding. Please, find that deed - and save my daughter."
+"Time is of the urgency. We have discovered that Sherlock and Venice have one-way tickets to Los Republicos dos los Bananes for Monday night. Sadly, the Republic is now ruled by Generallismo Casaputa and the friends that we have there are in prison or in hiding. Please, find that deed - and save my daughter."
 
-An easy Sense (Visual) check at this point will indicate that two hotel security guards are having a conversation and are pointing in the direction of the PC workers. If alerted, Ms. Novateló will exclaim, "I have to go, please, save my daughter! Save her!" - and with that she departs quickly, leaving behind the money and with one of the security guards following closely. If the Sense check is failed, or if the PC workers don't alert Ms. Novateló, then one security guard will roughly escort her off the premises. In either case one security guard will question the PCs about their relationship with Ms. Novateló and what she wanted from them. Any plausible excuse will do as he is not paid for investigation.
+An easy Sense (Visual) check at this point will indicate that two hotel security guards are having a conversation and are pointing in the direction of the PC workers. If alerted, Ms. Novateló will exclaim, "I have to go, please, save my daughter! Save her!" - and with that she departs quickly, leaving behind the money and with one of the security guards following closely. If the Sense check is failed, or if the PC workers don't alert Ms. Novateló, then one security guard will roughly escort her off the premises. In either case one security guard will question the PCs about their relationship with Ms. Novateló and what she wanted from them. Any plausible excuse will do as they is not paid to investigate, they're just paid to remove people who have been banned from the premises.
+
+*Generic Security Guards*, 
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Labourer
+Intelligence	14	+2	Level		5
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Florence Novateló*, Distraught Hippie-Radical Mother 
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator, Tradesperson
+Intelligence	14	+2	Level		3, 5
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
 
 **Boss's Introduction**
 
-Most of what Ms. Novateló says is true, but she is woefully uniformed of some of the finer details and, in a way, she is partially to be blame. Venice Novateló was raised in splenid isolation from the rest of society, and was "educated" under the principles of Dr. Benjamin Spock EDIT with the principle that parents should give their children whatever they asked for. As a result, she become a completely spoiled and utterly irresponsible brat. This wasn't so bad in an environment where the greatest damage she could do was take more than her fair-share of goat milk, but when the rapacious Mr.X arrived on the scene circumstances changed dramatically. Mr.X offered her money, new clothes, stardom, and most importantly, hard drugs. All she had to do was hand over a silly piece of paper and not have anything to do with her hippie family ever again, and to that end she readily consented.
+Most of what Ms. Novateló says is true, but she is woefully uniformed of some of the finer details and, in a way, she is partially to be blame. Venice Novateló was raised in splenid isolation from the rest of society, and was "educated" with the principle that parents should give their children whatever they asked for, because that would show that they truly loved them. As a result, she become a completely spoiled and utterly irresponsible brat. This wasn't so bad in an environment where the greatest damage she could do was take more than her fair-share of goat milk, but when the rapacious Sherlock Homes arrived on the scene circumstances changed dramatically. Sherlock Homes offered her money, new clothes, stardom, and most importantly, hard drugs. All she had to do was hand over a silly piece of paper and not have anything to do with her hippie family ever again, and to that end she readily consented.
 
 These days Venice spends her life in the most superficial and sensual activities. Her day will consist of getting out of a bed in one of the hotels quite late and with some strange but athletic partner from the night before who's name she has already forgotten, going to the beauty salon to get her hair and nails done, and then going out drinking champagne and snorting cocaine at the various clubs at the hotels, which are visited by young dispossessed nobility from Europe, up-and-coming movie stars, young pop stars, predatory aging rock stars etc. There is often a small gaggle of reporters following her around and she is very skilled in manipulating them through scandulous titallation - a review of glossy magazines will show various images where she appears to have a little bit of white powder on her upper lip, or there is just a hint of a nipple showing on a night-club floor due to a minor 'wardrobe failure'. Essentially, she is famous for being famous and is making no worthwhile contribution to existence. 
 
-For their own part, Mr. X, came on to the scene with the single and express desire to make as much money as they possibly could and sought the symbols that they thought represented that wealth and success; a fast car, a slick suit, a big house etc. Mr. X., had previously been a relatively small player in the real-estate world, and whilst they were making a good middle-class income, they weren't heading towards the big time that they desperately desired. One night, hearing the story from a fried hippy of the commune with a paper deed, he saw what was his big break in life (apart from being born in a first-world country as middle-class white male) and, following a modicum of research, took the opportunity to get his hands on the title.
+For their own part, Sherlock Homes, came on to the scene with the single and express desire to make as much money as they possibly could and sought the symbols that they thought represented that wealth and success; a fast car, a slick suit, a big house etc. Sherlock Homes., had previously been a relatively small player in the real-estate world, and whilst they were making a good middle-class income, they weren't heading towards the big time that they desperately desired. One night, hearing the story from a fried hippy of the commune with a paper deed, he saw what was his big break in life (apart from being born in a first-world country as middle-class white male) and, following a modicum of research, took the opportunity to get his hands on the title.
 
-Unfortunately, Mr. X's desires to be rich and comfortable did not accord his business acumen. Whilst turning the former lands of the hippy commune into a hotel complex, he simulatenously managed cut corners everywhere and over-invest in the complex at the same time. Whilst plenty of cash flows through his hands, it is flowing out faster than it comes in, and the reality is that Mr. X., is effectively bankrupt. Mr X., also manages Venice's financial affairs, and whilst her lifestyle choices are expensive to say the least, he manages to make a good amount of underground income on the side by selling adult-entertainment videos of her favourite nocturnal habits via Interenet streaming cameras in her bedroom; Venice is, of course, utterly unaware of this. The reality however is that such adult entertainment can only generate a good income for so long, and Venice is reaching the point of no longer paying her way, so to speak. Whilst not brilliant, Mr. X. is not completely stupid. He's done the sums and realised that the writing is on the wall. He's bought two one-way tickets to take himself and Venice to a new life in Los Republicos dos Los Bananes where he hopes to start a new life in the cocaine import-export business. At the very least, Venice will be good for quality tetsing.
+Unfortunately, Sherlock Home's desires to be rich and comfortable did not accord his business acumen. Whilst turning the former lands of the hippy commune into a hotel complex, he simulatenously managed cut corners everywhere and over-invest in the complex at the same time. Whilst plenty of cash flows through his hands, it is flowing out faster than it comes in, and the reality is that Sherlock Homes., is effectively bankrupt. Homes also manages Venice's financial affairs, and whilst her lifestyle choices are expensive to say the least, he manages to make a good amount of underground income on the side by selling adult-entertainment videos of her favourite nocturnal habits via Interenet streaming cameras in her bedroom. Venice is, of course, utterly unaware of this. The reality however is that such adult entertainment can only generate a good income for so long, and Venice is reaching the point of no longer paying her way, so to speak. Whilst not brilliant, Sherlock Homes is not completely stupid. He's done the sums and realised that the writing is on the wall. He's bought two one-way tickets to take himself and Venice to a new life in Los Republicos dos Los Bananes where he hopes to start a new life in the cocaine import-export business. At the very least, Venice will be good for quality tetsing.
 
-The official object of the PC worker's objective, the paper title deed, is kept in Mr X's office in a safe, with the two passports, tw0 one-way tickets to Republica dos Los Bananes via a small charter jet, a $100,000 cash, and an equivalent sum of cocaine. A secondary object is Venice's dream-catcher, Mr. Dreamy. When Mr X., offered Venice more drugs than he thought she could consume, and told her that she had to break off contact with her family, he symbolically broke the dream-catcher into four parts in front of her, and threw them away. But objects such as these have a habit of convincing people to rescue the components from the trash and they are now scattered in different parts of the four hotels. If the PC workers find the four parts, and repair the dream-catcher it will revive a spirit within it. If Venice is confronted with the dream-catcher the spirit will "attack" her, reminding her of the good times of her past life and when she was a better person.
+The official object of the PC Worker's objective, the paper title deed, is kept in Sherlock Homes's office in a safe, with the two passports, two one-way tickets to Republica dos Los Bananes via a small charter jet, a $100,000 cash, and an equivalent sum of cocaine. A secondary object is Venice's dream-catcher, Mr. Dreamy. When Sherlock Homes, offered Venice more drugs than he thought she could consume, and told her that she had to break off contact with her family, he symbolically broke the dream-catcher into four parts in front of her, and threw them away. But objects such as these have a habit of convincing people to rescue the components from the trash and they are now scattered in different parts of the four hotels. If the PC workers find the four parts, and repair the dream-catcher it will revive a spirit within it. If Venice is confronted with the dream-catcher the spirit will "attack" her, reminding her of the good times of her past life and when she was a better person.
 
 ### 5.2.2 Palace Ritz
 
 Derived from the Ritz in Paris this three storey building is in the style of the classical architecture from the reign of Louis XIV and from looks quite beautiful on an initial glance. There is a total of 60 rooms on the second and third floors, whereas the ground floor has a restaurant, swimming pool and gymnasium, a comfortable lobby with adjacent bar, plus the the hotel's laundry and administration. There are two cleaning and laundry staff for the hotel, two people who work in administration, three kitchen and waiting staff, two personal trainers in the gymnasium, two people for security and grounds, and a gardener. The administration, laundry, and garden contain nothing of interest for this adventure, although they would have expected levels of security and potential rewards for petty thieves. The rooms are of a modest size, but include all the expected facilities (toilet, shower, TV, Wifi etc). 
 
-Notably, everything about this hotel is fake, a complete facade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value, there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean, although if there is ever a fire the place will go up in a toxic fireball.
+Notably, everything about this hotel is fake, a complete façade one may suggest. Superficialy the furnishings appear to be in the style of the Louis XIV period; there are commodes, Mazarin desks, canapés, tables à gibier etc adorning every room. However, a discerning eye will quickly determine these are far from authentic. Where there should be marble, or wood, or really anything of value, there is chipboard and plastic laminate. Where there should be gilding there is yellow paint. Instead of oil paintings there are cheaply framed posters, albeit of the appropriate style. Instead of goose feather and down duvet and pillow filling, there is polyester. There are plastic flowers in the plastic vases. The quill sets on the desks of each room are plastic. In fact, even the walls of the building are made from plastic. At least it is all easy to clean, although if there is ever a fire the place will go up in a toxic fireball.
 
 The restaurant is named "A demain" ("Until Tomorrow") although several of the current and mostly former staff have suggested that this is a mispelling of the phonetically equivalent "A deux mains" ("Using both hands"), referring to the maître d'hôtel's amorous predicilitions. The maître d' himself, Ali Monpourchien (which could be the phonetic "Aliment pour chien", i.e., dog food), is unsurprisingly not actually French or even remotely French, but a rather clever Egyptian who cannot believe his luck in finding a job where he can both pretend to French and can pretend to cook at the same time. In a more unfortunate act of self-delusion he also promotes the myth that the he is the world's greatest lover. Any female character who is even slightly attractive (CHA 12+) will inevitably receive a special visit from the chef, who will expound at length his skill at cooking with none-too-subtle sexual metaphors that invariably conclude with an offer to visit his room to help him make his especially thick and creamy Vichysoise.
 
-The swimming pool and gymnaiusm is staffed by a French couple, XXX and XXX EDIT, who look like that they belong from a 1980s home-fitness TV show with their thin bodies, colourful leotards, legwarmers, big hair, and perfect smiles. On the various big-screen TVs throughout there fitness centres there is an endless repeat of stretching exercises with early 80s synthpop. The couple keep a busy schedule for interested guests of personal training, yoga classes, and even jazz ballet. Enrolling in any of these gruelling courses, which torture mind, body, and soul, which require visiting their office which is adorned in various fitness posters of the period, including their personal addition, a signed print of Oliver Newton-John's "Physical". Above this print attached to the wall is a quarter of the Venice's dreamcatcher. If asked they will say that they found it by the swimming pool just as they started working here. They're not particularly attached to it, but if will say they just thought they should keep it (this is the spirit of the dreamcatcher trying to prevent itself from being discarded). Any character who has this part of their dreamcatcher in their possession will dream of running and swimming outdoors, and will gain +1 to skill checks involving such activities.
+The swimming pool and gymnasium is staffed by a French couple, Arnaud "Woody" Dubois and Crystal Château, who look like that they belong from a 1980s home-fitness TV show with their thin bodies, colourful leotards, legwarmers, big hair, and perfect smiles. On the various big-screen TVs throughout there fitness centres there is an endless repeat of stretching exercises with early 80s synthpop. The couple keep a busy schedule for interested guests of personal training, yoga classes, and even jazz ballet. Enrolling in any of these gruelling courses, which torture mind, body, and soul, which require visiting their office which is adorned in various fitness posters of the period, including their personal addition, a signed print of Oliver Newton-John's "Physical". Above this print attached to the wall is a quarter of the Venice's dreamcatcher. If asked they will say that they found it by the swimming pool just as they started working here. They're not particularly attached to it, but if will say they just thought they should keep it (this is the spirit of the dreamcatcher trying to prevent itself from being discarded). Any character who has this part of their dreamcatcher in their possession will dream of running and swimming outdoors, and will gain +1 to skill checks involving such activities.
+
+*Ali Monpourchien*, Amourous Maître d'hôtel
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Tradesperson, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Arnaud "Woody" Dubois*, Pumped-up Gym Instructor
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Crystal Château*, Pumped-up Gym Instructor
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
 
 ### 5.2.3 Palace Cliveden
 
 Derived from the Cliveden in Buckinghamshire, this hotel is designed in the style of an Italianate mansion and with a significant estate of very green grass which includes a sizable hedge maze, an English landscaped garden, complete with lake and ducks, and a 9-hole golf course. There is a total of 47 rooms and 15 suites, with ground floor wings which include a restaurant on one wing and a truly vast lounge and bar on the other, with the hotel administratrion and smaller lobby located at the central ground floor. 
 
-As with the Palace Ritz, a pretense is made towards authenticity. It is true, for example, that the lounge has Chesterfield lounges and club chairs; anyone sitting on them will soon discover the sticky joy of the vinyl upholstery. The prints of famous hunting paintings are beautifully framed with baroque-styled gold plastic. Many will note that various whiskeys, crockery, foodstuffs etc are "By appointment" complete with crest, and whilst one may immediately think that these refer to products that hold a Royal Warrant of Appointment (United Kingdom), they are actually novelty crests referring to the Imperial and Royal Warrant of Appointment of the (former) Austro-Hungarian Empire. There are several animal trophies mounted in the bar and a close inspection will reveal them to be fakes etc.
+As with the Palace Ritz, a pretence is made towards authenticity. It is true, for example, that the lounge has Chesterfield lounges and club chairs; anyone sitting on them will soon discover the sticky joy of the vinyl upholstery. The prints of famous hunting paintings are beautifully framed with baroque-styled gold plastic. Many will note that various whiskeys, crockery, foodstuffs etc are "By appointment" complete with crest, and whilst one may immediately think that these refer to products that hold a Royal Warrant of Appointment (United Kingdom), they are actually novelty crests referring to the Imperial and Royal Warrant of Appointment of the (former) Austro-Hungarian Empire. There are several animal trophies mounted in the bar and a close inspection will reveal them to be fakes etc.
 
 The staff are a collection of the most unusual parodies of British culture, all in one place. The maître d'hôtel, Peter File, is always deadly serious with a stiff upper lip regardless of how ridiculous the situation he often finds himself in, which is common enough. Peter is well assisted by the far-too jovial accounts and bookings officer (and aspiring author) of ambiguous gender, Paige Turner who will also double as waiting staff on Friday and Saturday nights. The chef, Nick Oleslaw, is a strong believer in the artistic merit of British cuisine, and very much English cuisine in particular (recipes from Wales, Scotland, and Ireland are as close as he will get to "foreign"). "The English have only three vegetables and two of them are cabbage" is the notorious quote by Walter Page and Nick puts in practise with cabbage boiled in milk with suet and offal, cabbage with tripe, cabbage with mushy peas and kidneys etc. Expect to find haggis, jellied eels, stargazy pie, fried chocolate bars etc on the menu. Anyone who is unfamiliar with such far will have to make a test against the STR or suffer a -1 per 2 points of failure for all actions for a day, until the problem is passed (so to speak).
 
 Another colourful character at the Cliveden is the slightly scruffy Major Grimes, a permanent resident. The Major is a former former naval officer who, in his late thirties, was an intelligence office on an outfitted fishing trawler that had been converted to a spy ship in the Falklands War. Unfortunately his hearing was damaged during that period due to close encounters with enemy shells, and now he is well and truly retired and effectively living in the bar, where he endlessly drones on about the quality of the scotch and the hush-hush missions that he had to engage in. Phlegmatic to the point of impossible, Major Gimes simply unfazeable regardless of what's going on around him. Which is just as well, as Major Grimes has a cache of unlicensed high-powered firearms stashed in his room. 
 
 Another pair of likely characters are two young groundskeepers, Jack and William Smith, brothers from the North West region. Incorrigible pranksters they have developed increasingly elaborate plans to get a rise out of Major Grimes. This time they think they will actually achieve it on Guy Fawkes Night, which should coincide with the visit of the PC Workers. Responsible for maintenance of the golf course grounds, there will be of course an almighty bonfire on the night. The two brothers will get a golf-cart of fireworks and take them to the green of the 9th hole where they will blast a few shots in the general direction of the Major's room, whilst simultaneously playing Himno Nacional Argentino, the Argentine National Anthem. The combination of events will cause the Major to finally flip and start shooting at what he thinks is a Argentinian hit-squad finally catching up to him for his wartime deeds. For what it is worth, Jack and William also recovered a quarter of the Venice's dreamcatcher, and have mounted it on the 9th hole flagpole. Any character who has this part of their dreamcatcher in their possession will dream of gardens and nature, and will gain +1 to checks against stress or social attacks, as well as +1 for activities requiring fine manual dexterity.
+
+*Peter File*, Very serious maître d'hôtel
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Major Grimes*, Retired Intelligence Agent
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Jack and William Smith*, Prankster Groundskeepers
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
 
 ### 5.2.4 Palace Raffles
 
@@ -2966,13 +3057,112 @@ In addition to the restaurants and grocers there are no less than four clothings
 
 And what would such a shopping centre be without the darling urchins who add a lot of local colour? The scallywags have an astoundingly good variety of techniques to remove a visitor of their possessions including a convincing begging routine of an incurable twisted and broken ankle (+6 Acting skill total), which is actually double-jointed, whilst a pair of colleagues collects what is carried in purses, backpacks, and backpockets (+5 Sleight skill total). As is often the case this gang is controlled by an older businessman who runs a higher-class restaurant, and karaoake bar, one Hung Long, whose has an appropriately reputation (often in *Papers & Paychecks* you may have noticed that NPCs do match their name because the universe is an aesthetic place). The winner of karaoke night (as voted by the patrons) gets to choose and item of their selection from a pile of accumulated goods which were not valuable enough to make to the black market. Among the imitation designer watches and the like is garish mixed-media painting which includes another quarter part of the fabled dreamcatcher. Possession of this portion of the dreamcatcher will generate vivid dreams of international cuisine, generating a +1 bonus to cooking and a +2 STR bonus of protection of any sort of poisoning.
 
+*Generic Urchins*, 
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Hung Long*, fagin of the urchins, Karoake bar owner 
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
 ### 5.2.5 Palace Beverly Hills 
 
-Derived from the Beverly Hills Hotel, of Sunset Boulevard in Beverly Hills, California, this hotel has 75 suites, and 8 bungalows. It is the pride and joy of the establishment and as a result charges commensurate prices. With a style that is not-quite art deco with various pastel pink and light greens throughout the the entire complex (looking rather like the after-effects of too much pink spumante mixed with a spinach and riccotta pie), and not-quite functionalist 1960s functionalism, and not-quite Disneyland, the Palace Beverly Hills somehow succeeds in generating a nauseating combination of the worst all three. Nevertheless, there is an impressive entrance with a extensive lobby and semi-covered dining area which backs onto a wading pools whose water curiously matches the colour-scheme of the building. Matching the style the furnishings throughout the hotel are the finest cane and ratten, especially the roofs of the bungalows which can generate an authentic feeling of being in a Pacific Island storm if the weather assists.
+Derived from the Beverly Hills Hotel, of Sunset Boulevard in Beverly Hills, California, this hotel has 75 suites, and 8 bungalows. It is the pride and joy of the establishment and as a result charges commensurate prices. With a style that is not-quite art deco with various pastel pink and light greens throughout the the entire complex (looking rather like the after-effects of too much pink spumante mixed with a spinach and riccotta pie), and not-quite functionalist 1960s functionalism, and not-quite Disneyland, the Palace Beverly Hills somehow succeeds in generating a nauseating combination of the worst all three. Nevertheless, there is an impressive entrance with a extensive lobby and semi-covered dining area which backs onto a wading pools whose water often curiously matches the colour-scheme of the building. Matching the style the furnishings throughout the hotel are the finest cane and ratten, especially the roofs of the bungalows which can generate an authentic feeling of being in a Pacific Island storm if the weather assists.
 
-Palace Beverly Hills is three stories high, with thirty room on on the second and third floors and fifteen on the ground floor which also hosts the lobby, bar, and restaurant. Beyond the dining area, swimming pools, and bungalows is a sprawling golf course with so many electric carts scooting about that one would be forgiven the prime purpose of golf is to hit a ball and go for a walk. This said, many of the people at Palace Beverly Hills require such vehicles. Whether it is simply a matter of genetics, bad diet, or lack of exercise, the proportion of people who fall into the obese scale of the BMI is close to one hundred percent. Actually anyone staying here will soon find out that the local restaurant, "Lard Have Mercy", is a contributing factor. Here the historical food pyramid is inverted, so refined sugars, corn syrup, trans-unsaturated fats, etc provide a foundation which works its way up to minimal provision of vegetables, salads, and fruit. For Sundays its also becomes an church where one can possibly receive the most nutritious meal of the week - loaves and fishes. A hefty donation is requisite, as Rev. Telly Vangelist needs a new private jet. After all, how is he going to travel to those poor people in foreign countries and spread the good word? The Reverend Telly of course has their own secret and is always on the lookout for handsome young men to join him on these journeys where he can fulfil his sense of charity - "it is better to give than to receive". Training for such exotic journeys are often carried out in the Telly's bunga-bungalow. 
+Palace Beverly Hills is three stories high, with thirty room on on the second and third floors and fifteen on the ground floor which also hosts the lobby, bar, and restaurant. Beyond the dining area, swimming pools, and bungalows is a sprawling golf course with so many electric carts scooting about that one would be forgiven the prime purpose of golf is to hit a ball and go for a walk. This said, many of the people at Palace Beverly Hills require such vehicles. Whether it is simply a matter of genetics, bad diet, or lack of exercise, the proportion of people who fall into the obese scale of the BMI is close to one hundred percent. Actually anyone staying here will soon find out that the local restaurant, "Lard Have Mercy", is a contributing factor. Here the historical food pyramid is inverted, so refined sugars, corn syrup, trans-unsaturated fats, etc provide a foundation which works its way up to minimal provision of vegetables, salads, and fruit. 
 
-The only people found at the Palace Beverly Hills who don't fall into the WASP stereotype are the workers. The olive-skinned chef, Jim Balaya, is of Creole Louisiana background, and speaks English, French, and Spanish fluently. He is also surprisingly thin, given the food that he cooks and the reason for this is quite simple - he never eats a meal. Certainly he snacks all day on whatever is being prepared, but no-one has ever seen him sit down and eat a meal. Whilst one may assume that his grazing activities are sufficient what is unknown to almost all is that Jim keeps a secret stash of fresh fruit and vegetables in the restaurant's walk-in fridge, which he snacks on when nobody is looking. As much as he loves providing mountains of foie gras, the fluffiest white bread, dishes constructed out of chicken and pork fat, impossibly sweet pastries, and so forth, he is less of a fool that his customers. In fact, he is deliberately trying to kill them; so far four people at the hotel have suffered fatal heart attacks. One day a psychologist will discover that Jim's impoverished (and often hungry) childhood has led him to a position where he derives pleasure from watching the people that he despises most die from the culinary pleasure that he can provide them. This is in part inspired by the whisperings of "Cheesecake", the feminine fridge with a Fieldmarshall personality, who shares this extreme disdain for the well-to-do. Why 'Cheesecake'? Because everyone knows that revenge is a sweet dish best served cold.
+As an alternative meal on Sundays there is also a church, "Solomon's Temple" where one can possibly receive the most nutritious meal of the week - loaves and fishes. Whilst only of a modest size, is certainly fulfills the spiritual needs of the community by making themselves feel good about their (obviously) god-blessed fortunes. A hefty donation is requisite, as Rev. Telly Vangelist needs a new private jet. After all, how is he going to travel to those poor people in the Pacific islands and spread the good word? The Reverend Telly of course has their own secret and is always on the lookout for handsome young men to join him on these journeys where he can fulfil his sense of charity - "it is better to give than to receive". Training for such exotic journeys are often carried out in the Telly's bunga-bungalow, where another part of Mr. Dreamy can be found, among various cultural items of the Pacific. Possession of this portion of the dreamcatcher will generate serene dreams of travel to Pacific islands, generating a +1 bonus to Wisdom.
+
+The only people found at the Palace Beverly Hills who don't fall into the WASP stereotype are the workers. The olive-skinned chef, Jim Balaya, is of Creole Louisiana background, and speaks English, French, and Spanish fluently. He is also surprisingly thin, given the food that he cooks and the reason for this is quite simple - he never eats a meal. Certainly he snacks all day on whatever is being prepared, but no-one has ever seen him sit down and eat a meal. Whilst one may assume that his grazing activities are sufficient what is unknown to almost all is that Jim keeps a secret stash of fresh fruit and vegetables in the restaurant's walk-in fridge, which he eats when nobody is looking. As much as he loves providing mountains of foie gras, the fluffiest white bread, dishes constructed out of chicken and pork fat, impossibly sweet pastries, and so forth, he is less of a fool that his customers. In fact, he is deliberately trying to kill them; so far four people at the hotel have suffered fatal heart attacks. One day a psychologist will discover that Jim's impoverished (and often hungry) childhood has led him to a position where he derives pleasure from watching the people that he despises most die from the culinary pleasure that he can provide them. This is in part inspired by the whisperings of "Cheesecake", the feminine fridge with a Fieldmarshall personality, who shares this extreme disdain for the well-to-do. Why 'Cheesecake'? Because everyone knows that revenge is a sweet dish best served cold.
+
+*Rev. Telly Vangelist*, Preacher and fleecer of flocks
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Jim Balaya*,  
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	(Labourer, Manager)
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Cheesecake*, A Monster
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Monster
+Intelligence	14	+2	Level		3, 3
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+### 5.2.6 Homes' and Noveteló's Maison 
+
+Positioned between the hotels but ringed by a strip of woodland, the private home of Sherlock Homes and Venice Novateló is both secluded and prominent. The two-storey building itself is solidly-made (probably the only solid building on the estate) and the interior looks like a display home; well-appointed, perfectly clean, everything its place, and lacking any sort of personal character whatsoever. One notable characteristic is the complete lack of books in the house, with the exeption of a large collection of Readers' Digest Condensed Books which are located behind an office desk on the first level - they have nice binding and look good in photographs. On the first level is an entrance hall, dining room, lounge room, entertainent area, games room (with pool table), office, and kitchen. The upstairs consists of four vast bedrooms, two for Sherlock and Venice (of course they have separate rooms), two for guests, and various restroom and shower facilities. Naturally enough they don't do their own laundry.
+
+On the early Monday evening Sherlock and Venice are hosting a cocktail party, although unbeknowst to the guests this is their final hurrah before driving to the airport to leave the country for good. It is possible for a character to receive an invitation to the party through any one of the named characters (except Florence, Jack, and William) in this scenario, all of whom will be in attendance, along with the deputy mayor, a representative of the Senator's office, and several other major criminal figures. It won't be an enormous gathering, about twenty in all, but certainly with plenty of opportunities to snoop around.
+
+If confronted with a *repaired* version of Mr. Dreamy, Venice Novateló will immediately undergo a psychic attack from the dreamcatcher, with situational modifiers. Presented among a number of the guests, Venice will receive a bonus of +3 to defend, because the social embarassement of being affected by a past she has publically rejected is so strong. If presented to her in private the difference is +0. If presented to her in private and the person or persons delivering the item leave the room for her to reflect, her psychic defense is reduced by -2. If Mr. Dreamy successfully reduces her psychic hit points to zero (bruising attacks) Venice will have a major turning point in her life, taking the Title Deed (if the PC Workers haven't done so already) and escaping the clutches of Sherlock Homes. She might even need the PC Workers to help make good her escape.
+
+*Sherlock Homes*, Real-Estate Agent 
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Administrator
+Intelligence	14	+2	Level		8
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Venice Novateló*, Celebrity
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Manager
+Intelligence	14	+2	Level		5
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
+*Mr. Dreamy*, A Helpful Monster
+Characteristic	Value	Bonus		
+Strength	10	+0	Profession	Manager
+Intelligence	14	+2	Level		5
+Wisdom		14	+2	Movement (running)	5
+Dexterity	09	-1	Wounds (Physical)	
+Perception	18	+4	Wounds (Mental)	
+Charisma	14	+2	Wounds (Social)	
+Skill			Char	Train	Other	Total
+EDIT
+
 
 
 ## 5.3 Camp 22
