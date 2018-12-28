@@ -79,25 +79,23 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 1.6 Skills
 
-Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is alread an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead.
+Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is alread an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead. Hobbies can also be used to replace professionally acquired skills, i.e., they always costs 1 Skill Point.
+
 
 Section 1.6, under character class backgrounds where it reads "Perception", this should be "Sense (various)"
 
+p28 - Intellect Fortress appears twice with two different descriptions
 
 1.7 
 
-File system knowledge
-
-provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment.
-
-2.3 
-
-Tactical Conflict
-
-Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
+File system knowledge provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment.
 
 
-p28 - Intellect Fortress appears twice with two different descriptions
+In section 2.2 "The Resistentialist Environment", references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
+
+
+2.3 Tactical Conflict Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
+
 
 
 # 1.0 Additional Character Classes
@@ -576,17 +574,39 @@ A bottle of gin from the Levant, made from juniper berries grown near the Sea of
 
 **Charles The Tall**
 
-by Daniel Callahan
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Administrator
+Intelligence	1	-5	Level	3
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
 
-Level: 3
-Character class: unknown
+By Daniel Callahan
 
 Charles the Tall Intern appeared one day at the coffee machine, emptied the pot into a massive cup, slew a kobald, and went back to his desk. There, he sits all day planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
 
 That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
 
-Chiron, Greek hero and doctor, Centaur of Disease Control, advocate of herd immunity.
+**Chiron, Greek hero and doctor**
 
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Scientist
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+Chiron is a Centaur of Disease Control and advocate of herd immunity.
 
 ## 3.2 Bestiary
 
@@ -1775,6 +1795,18 @@ From actual experience. Proof positive that some things are *for* us, even if th
 "Yeah... don't worry. I know this isn't your fault. And I appreciate you both trying to fix it. And it's a pretty cool story."
 "OK... enjoy your pizzas. Well, some of them anyway."
 
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession Computer
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
 
 **The Telstra Switch**
 
@@ -1793,7 +1825,7 @@ Telstra: Please hold while I set this up.
 
 Telstra:Thank you for waiting. We are unable to provide a home phone to that address.
 Me: I am calling from my Telstra home phone at this address.
-Telstra: Please hold while I try again.
+Telstra: Please hold while I try again.h
 
 25 minutes later...
 
@@ -1803,6 +1835,17 @@ Telstra: How long have you had the service?
 Me: My grandparents had the phone connected to this address in 1926, my grandmother operated the local telephone exchange from this address until 1968, then we switched over to an automatic exchange 5 km down the road, so my family has had a phone at this address for 92 years.
 Telstra: Oh, there must be a problem our end, I’ll get it fixed and call you back. Do you have a mobile number?
 
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession Computer
+Intelligence	1	-5	Level	
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
 
 
 # 4.0 Even More Boss and Alternate Settings
@@ -3163,13 +3206,111 @@ Charisma	14	+2	Wounds (Social)
 Skill			Char	Train	Other	Total
 EDIT
 
+## 5.3 The Administrator of Camp 22
+
+### 5.3.1 Introduction
+
+Part story, part game, this is an article with a difference - one in which YOU become the hero!
+
+Armed with two dice, a pencil and eraser, you can set off on a perilous quest to find the Camp Administrator's Records. YOU will will need to decide which route to follow, and which guards to fight in the elaborate *cough* combat system given in the article.
+
+You may not survive your first journey. But with experience, skill and luck, each fresh attempt should bring you nearer to your goal.
+
+### 5.3.2 Your Character, Rim Song-il
+
+YOU are Rim Song-il, a North Korean prisoner in Hoeryong concentration camp, also known as *Kwalliso* (penal labour colony) No. 22, where you work as a farm worker. You're not to sure exactly why you're here, in fact you can't remember much of your past life. You recall you used to work in an office, and your skills in reading, writing, even using a computer (if you had access to one), have not left you. But you do remember being taken away one morning and for an unknown period of time being afterwards being left in a dark room, except for periodic scraps of food, and regular beatings. You do, fortunately, remember your name.
+
+Finally, one day, you were taken out to the farm, where you have worked for what must be a year, at least if the chalked calculations you make each sunset are accurate. By your estimations it is now spring, and the potatoes will be ready for harvesting. 
+
+*Rim Song-il*, I+2 S+2 T+2 P+2 (Crafter), Player Points 3
+
+Characteristic	Value	Bonus		
+Strength	9	-1	Profession Administrator, Labourer
+Intelligence	13	+1	Level	4, 1
+Wisdom		15	+2	Movement (running)	4
+Dexterity	13	+1	Wounds (Physical)	
+Perception	13	+1	Wounds (Mental)	
+Charisma	11	+0	Wounds (Social)	
+Skill			Char	Train	Other	Total
+Administration		+2	+4		+6
+Athletics (strength)	-1	+2		+1
+Athletics (stamina)	-1	+1		+1
+Carousing 		+0	+1		+1
+Concentration		+2	+4		+6
+Craft (writing) 	+2	+3		+5
+Craft (computing)	+1	+3		+4
+Craft (structural)	+1	+1		+2
+Knowledge (general)	+1	+4		+5
+Language (Korean)	+1	+3		+4
+Melee			-1	+1		+0
+Lie			+0	+3		+3
+Pilot (car)		+1	+1		+2
+Profession		+2	+5		+7
+Sense (hearing)		+1	+1		+2
+Sleight			+1	+2		+3
+
+### 5.3.3 The Box
+
+For a few days you have been detained in the dark of a small solitary cell, where there is just enough room to sit, but not to stand or lie down. You start off the story having suffered the equivalent of 3 attacks from a STR 12 opponent, represent the various cramps from not being able to stretch, along with 6 mental attacks from a WIS 10 opponent, representing the assault om the mind that being constrained in such a manner causes.
+
+Note that you can die or go insane from these physical and mental bruises. If this is so, it is game over. Whilst improbable when you are starting the adventure, you may find that the accumulated bruises have taken their toll.
+
+Finally, you have been let out. Squinting in the sunlight, you are motioned towards a Sungri-58 truck by a guard, where you can see several other prisoners that have been bundled in. What do you do?
+
+Ask the guard why you were in solitary confinement? Go to 5.3.11 The Box Guard
+Join the other prisoners without saying anything? Go to 5.3.21 The Truck Journey
+
+### 5.3.4 The Gun Fight
+
+### 5.3.11 The Box Guard
+
+With a bestial snarl the Box Guard calls you "kotjebi!" ('vagrant child!', literally 'flowering swallow') raises his truncheon and hits you! The Guard has a STR of 12 (+1) and training in melee of +2. The Box Guard will be attacking with a Damaging Attack (+1x) with a truncheon (x1x), for double damage and half defense. If you adopt a defensive stance (no attack, x1.5 defense), the Guard will carry out 1d6/2 attacks before getting bored with hitting you. If you are unconscious after this, go to 5.3.3 The Box. If you are still conscious go to 5.3.21 The Truck Journey. 
+
+If you adopt any other stance apart from defensive, remember that you will be at (x0.5) damage because you are using fists. If you're very lucky and win the fight, go to 5.3.31 The Great Escape. Otherwise the Guard will beat you until you are unconscious; go to 5.3.3 The Box.
+
+### 5.3.15 Juche Mercy
+
+You are executed. Game over.
+
+### 5.3.21 The Truck Journey
+
+Is this your first time here on this adventure? If so read on. If not, go to 5.3.22 The Truck Journey Part II
+
+Bundled into the back of the Sungri-58 truck the vehicle makes its way down the narrow and poorly maintained road on the way to the farm. Returning from the family a similar vehicle approaches. Make a Craft (structural) or Pilot (car) TN 9 check. If you succeed you have braced yourself by either recognising the effects of the narrowness of road and the pot-holes or you down a quick mental check on the trajectory of the two vehicles. If you fail, you take the full force of the trucks crashing into one another, and experience the equivalent of a STR 15 (+2), mellee attack (+2) with bludgeoning damage. The success of the Craft or Pilot roll adds a bonus to the DEX roll made in resistance to the "attack".
+
+The truck that has collided with yours is full of cages of chickens. The two trucks are written off, both drivers are apparently unconcious. Your fellow travellers in the prison vehicle are making different choices. Some are staying behing to help the drivers. Others are taking the opportunity to steal or capture a chicken (fresh meat!). Others are taking the opportunity to escape. Which one are you going to choose?
+
+Make a great escape? Go 5.3.31 The Great Escape
+Help one of the drivers? Go to 5.3.41 Unconscious Drivers
+Capture a chicken? Go to 5.3.51 Escaped Chickens
+
+### 5.3.31 The Great Escape
+
+Prisoners are scattering in all directions? Which way will you go? It depends on whether you make a Knowledge (general) check, TN 9. If you succeed, you may choose. Otherwise you have to select randomly, by rolling 1d6
+
+- If you fail your Knowledge (general) check, and roll a '1', you stand around confused and then attempt to run in one direction, then backtrack to another, then turn back again. Eventually you are caught again. Go to 5.3.3 The Box.
+- South. If you fail your Knowledge (general) check, and roll a '2', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to Hoeryong city, and may choose to go in this direction. Go to 5.3.61 Hoeryong City Gate.
+- North. If you fail your Knowledge (general) check, and roll a '3', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to the Chinese border, and may choose to go in this direction. Go to 5.3.71 Chinese Border Gate. 
+- West. If you fail your Knowledge (general) check, and roll a '4', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the Tumen River, which forms the border with China, and may choose to go in this direction. Go to 5.3.81 Tumen River Fence.
+- East. If you fail your Knowledge (general) check, and roll a '5', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to a train station and beyond that mountains, and may choose to go in this direction. 5.3.91 Camp 22 Train Station.
+- If you fail your Knowledge (general) check, and roll a '6', you may select one of the directions of your choosing.
+
+# 5.3.41 Unconscious Drivers
+
+There are two uncounscious driver-guards here following the accident between the prisoner truck and the guard truck. You can undertake one or two actions here; provide first aid and/or steal their pistols and ammunition. If you attempt first aid (an untrained Survival skill), roll with your WIS modifier with a TN of 7, but with a -4 penalty (i.e., 11 or more required). After a few minutes another truck will arrive with eight guards; four will round up escaped prisoners, three will attend to chicken thieves, and one will check on you.
+
+If you are successful you have provided critical first aid, healing them of some of their wounds and preventing death through blood loss. The Guards are impressed with your level of rehabilitated social duty and provide you extra rations. Gain +1 STR and go to 5.3.85 The Farm.
+
+If you are successful and have taken the pistols, roll your Sleight vs their Sense (sight) at 12. If you succeed, the Guards are impressed with your level of rehabilitated social duty, provide you extra rations, and you have two pistols with ammunition. Gain +1 STR and go to 5.3.85 The Farm.
+
+If you are successful and have taken the pistols, but failed your Sleight vs their Sense (sight) contest, you may either fight your way out or surrender. If you choose to fight your way out go to 5.3.4 The Gun Fight, but gain +5 on your first shot as you have surprise. If you surrender go to 5.3.15 Juche Mercy.
+
+If you fail the Survival check and did not take the pistols you are taken back to 5.3.3 The Box.
+
+If you fail the Survival check and you took the pistols, roll your Sleight vs their Sense (sight) at 12.  If you succeed, you are taken back to 5.3.3 The Box, but now you have two pistols and ammunition. If you fail your Sleight vs their Sense contest, go to 5.3.4 The Gun Fight.
 
 
-## 5.3 Camp 22
 
-Synopsis: A mash-up between the novel 'Catch 22' and Hoeryong concentration camp in North Kora (known as Camp 22), which makes use of the setting "So You Want It Darker?", from a perspective of spurious logic.
-
-http://www.abc.net.au/news/2018-09-17/amp-charges-dead-customers-for-life-insurance/10255978
 
 
 # Crime and Punishment
@@ -3188,7 +3329,6 @@ John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
 
 Roger E. Moore, Tucker's Kobolds, Dragon 127
 https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf
-
 
 
 # Publishing
