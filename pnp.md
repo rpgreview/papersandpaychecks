@@ -751,7 +751,7 @@ A Craft (visual art) skill check is used when a character is engaging in the pro
 
 **Firearms**
 
-A Firearms skill check is used whenever a character uses a portable barrelled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anachronisms such as muskets and crossbows. {what about tasers?}
+A Firearms skill check is used whenever a character uses a portable barrelled weapon that launches projectiles with powered force which invariably operates by pointing and the weapon at the target and releasing with a trigger. There are optional specialisations for handguns, rifles, and even esoteric anachronisms such as muskets and crossbows.
 
 **Gymnastics**
 

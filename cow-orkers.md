@@ -3218,7 +3218,7 @@ You may not survive your first journey. But with experience, skill and luck, eac
 
 ### 5.3.2 Your Character, Rim Song-il
 
-YOU are Rim Song-il, a North Korean prisoner in Hoeryong concentration camp, also known as *Kwalliso* (penal labour colony) No. 22, where you work as a farm worker. You're not to sure exactly why you're here, in fact you can't remember much of your past life. You recall you used to work in an office, and your skills in reading, writing, even using a computer (if you had access to one), have not left you. But you do remember being taken away one morning and for an unknown period of time being afterwards being left in a dark room, except for periodic scraps of food, and regular beatings. You do, fortunately, remember your name.
+YOU are Rim Song-il, a North Korean prisoner in Hoeryong concentration camp, also known as *Kwalliso* (penal labour colony) No. 22, where you work as a farm worker. You're not to sure exactly why you're here, in fact you can't remember much of your past life. You recall you used to work in an office, and your skills in reading, writing, even using a computer, have not left you. But you do remember being taken away one morning and for an unknown period of time being afterwards being left in a dark room, except for periodic scraps of food, and regular beatings. You do, fortunately, remember your name.
 
 Finally, one day, you were taken out to the farm, where you have worked for what must be a year, at least if the chalked calculations you make each sunset are accurate. By your estimations it is now spring, and the potatoes will be ready for harvesting. 
 
@@ -3251,9 +3251,9 @@ Sleight			+1	+2		+3
 
 ### 5.3.3 The Box
 
-For a few days you have been detained in the dark of a small solitary cell, where there is just enough room to sit, but not to stand or lie down. You start off the story having suffered the equivalent of 3 attacks from a STR 12 opponent, represent the various cramps from not being able to stretch, along with 6 mental attacks from a WIS 10 opponent, representing the assault om the mind that being constrained in such a manner causes.
+For a few days you have been detained in the dark of a small solitary cell, where there is just enough room to sit, but not to stand or lie down. You start off the story having suffered the equivalent of 3 attacks from a STR 12 (+1) opponent, represent the various cramps from not being able to stretch, along with 6 mental attacks from a WIS 10 opponent, representing the assault om the mind that being constrained in such a manner causes.
 
-Note that you can die or go insane from these physical and mental bruises. If this is so, it is game over. Whilst improbable when you are starting the adventure, you may find that the accumulated bruises have taken their toll.
+Note that you can die or go insane from these physical and mental bruises. If this is so, it is game over. Whilst improbable when you are starting the adventure, you may find that the accumulated bruises have taken their toll. If you have been beaten unconscious on your return to The Box, you will start this section again barely conscious with an accumulated 8 bruises - one more and your unconscious again.
 
 Finally, you have been let out. Squinting in the sunlight, you are motioned towards a Sungri-58 truck by a guard, where you can see several other prisoners that have been bundled in. What do you do?
 
@@ -3261,6 +3261,20 @@ Ask the guard why you were in solitary confinement? Go to 5.3.11 The Box Guard
 Join the other prisoners without saying anything? Go to 5.3.21 The Truck Journey
 
 ### 5.3.4 The Gun Fight
+
+You have ended up in a gun fight with four trained guards. What were you thinking? They have Firearms +2, Gymnastics +2, STR 11, +0 and DEX 13, +1 ; you have default skills at -4 and DEX +1. Standard handguns from the core rules are used, causing 3x Wounds damage. 
+
+The Guards will continue shooting at you until you are dead. Finally, you are at one with Kim Il-sung, the Eternal President of the Democratic People's Republic of Korea. Game over.
+
+If, by an extraordinary success of lucky dice rolls, "wonsung-ido namueseo tteoreojinda" ("even monkeys fall from trees"), or the judicious use of Player Points, you succeed in the gun fight, you may make your escape. Go tp 5.3.31, The Great Escape.
+
+### 5.3.5 The Farm
+
+You're back at the farm, in barracks accomodation, with a hard bed and a thin blanket. Maybe you've managed to sneak some chicken meat in, maybe you've even managed a pistol. You try think back, before being put in the box, what work at the farm was like. Your memory is blurry. You remember meals, twice a day, mainly corn meal. Any meat you had was from animals - rats, insects, lizards - that you caught in the field. You remember the work being very hard and the hours long, with constant exposure to the elements.
+
+A child cries out somewhere in the darkness. Entire families are often incarcerated here, "guilt by association". Why are you here? You still do not know, and when you asked the guard at the box beat you. 
+
+But you have a choice, you always have a choice. If you decide to stay here at the farm go to 5.3.22 A Work Day. If you decide that you're going to escape go to 5.3.32 The Latrines.
 
 ### 5.3.11 The Box Guard
 
@@ -3270,7 +3284,7 @@ If you adopt any other stance apart from defensive, remember that you will be at
 
 ### 5.3.15 Juche Mercy
 
-You are executed. Game over.
+You are executed. Finally, you are at one with Kim Il-sung, the Eternal President of the Democratic People's Republic of Korea. Game over.
 
 ### 5.3.21 The Truck Journey
 
@@ -3284,18 +3298,43 @@ Make a great escape? Go 5.3.31 The Great Escape
 Help one of the drivers? Go to 5.3.41 Unconscious Drivers
 Capture a chicken? Go to 5.3.51 Escaped Chickens
 
+### 5.3.22 A Work Day
+
+You are awakened before dawn by the Guards. They shove a cup with a mix of watery weevil-infested half-cooked rice and potatoes. That will be your meal until sunset. You make your way out to the potato fields, where you will spend the day digging for the harvest, placing the potatoes into sacks, and carrying them to the trucks. It is back-breaking manual work, with no respite, and always under the watch of the guards. Entire families, with various levels of malnutrition, work alongside you.
+
+An Athletics (stamina) check is required with a TN of 7. If you fail, you are beaten by a Guard with a club. The Guard has a STR of 12 (+1) and training in melee of +2. The Guard will only hit you once to get you to your feet, but you will still take damage. As you are hit, make a Craft (writing) check with a TN of 9. If you succeed, go to 5.3.30 Subversive Thoughts and then return back to the farm lodgings, 5.3.5. If you succeed in your Athletics (stamina) check you work through the day, exhausted but relatively unharmed, and are taken back to your lodgings, 5.3.5.
+
+### 5.3.30 Subversive Thoughts
+
+As the Guard's club slams into you, reminding you to get back on your feet and work, a thought comes unbidden to your memory:
+
+> When the people are being beaten with a stick, they are not much happier if it is called "the People's Stick".   
+> -- Mikhail Bakunin, Statism and Anarchy, 1873
+
+Where did you get such ideas from? What sort of monster were you? And there's more...
+
+"A truncheon is a weapon with a worker at both ends".
+
+That one doesn't seem quite right, somehow. Return to The Farm 5.3.5 for another day's cycle.
+
 ### 5.3.31 The Great Escape
 
 Prisoners are scattering in all directions? Which way will you go? It depends on whether you make a Knowledge (general) check, TN 9. If you succeed, you may choose. Otherwise you have to select randomly, by rolling 1d6
 
-- If you fail your Knowledge (general) check, and roll a '1', you stand around confused and then attempt to run in one direction, then backtrack to another, then turn back again. Eventually you are caught again. Go to 5.3.3 The Box.
-- South. If you fail your Knowledge (general) check, and roll a '2', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to Hoeryong city, and may choose to go in this direction. Go to 5.3.61 Hoeryong City Gate.
-- North. If you fail your Knowledge (general) check, and roll a '3', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to the Chinese border, and may choose to go in this direction. Go to 5.3.71 Chinese Border Gate. 
-- West. If you fail your Knowledge (general) check, and roll a '4', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the Tumen River, which forms the border with China, and may choose to go in this direction. Go to 5.3.81 Tumen River Fence.
-- East. If you fail your Knowledge (general) check, and roll a '5', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to a train station and beyond that mountains, and may choose to go in this direction. 5.3.91 Camp 22 Train Station.
-- If you fail your Knowledge (general) check, and roll a '6', you may select one of the directions of your choosing.
+1. If you fail your Knowledge (general) check, and roll a '1', you stand around confused and then attempt to run in one direction, then backtrack to another, then turn back again. Eventually you are caught again. Go to 5.3.3 The Box.
+2. South. If you fail your Knowledge (general) check, and roll a '2', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to Hoeryong city, and may choose to go in this direction. Go to 5.3.61 Hoeryong City Gate.
+3. North. If you fail your Knowledge (general) check, and roll a '3', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to the Chinese border, and may choose to go in this direction. Go to 5.3.71 Chinese Border Gate. 
+4. West. If you fail your Knowledge (general) check, and roll a '4', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the Tumen River, which forms the border with China, and may choose to go in this direction. Go to 5.3.81 Tumen River Fence.
+5. East. If you fail your Knowledge (general) check, and roll a '5', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to a train station and beyond that mountains, and may choose to go in this direction. 5.3.91 Camp 22 Train Station.
+6. If you fail your Knowledge (general) check, and roll a '6', you may select one of the directions of your choosing.
 
-# 5.3.41 Unconscious Drivers
+### 5.3.32 The Latrines
+
+Leaving the barracks you make your way to the nearby toilet block that has a barely flickering kerosene lamp. Nearby you can spot the cigarettes of two guards. You know that the guards will be on the lookout for attempted escapes and that they are armed with assault rifles and carry torches. Escape attempts are not uncommon, but success is unheard of.
+
+Without any doubt these worst toilets in the People's Democratic Republc of Korea, but certainly better than any imperialist toilets that might include water, toilet paper, and a semblance of cleanliness. Make a Concentration check (TN 9) to avoid throwing up due to the stench. If you fail take that number of mental bruises. If you succeed, you may attempt to climb over the toilet block wall, as this is your best means and opportunity to escape. 
+
+### 5.3.41 Unconscious Drivers
 
 There are two uncounscious driver-guards here following the accident between the prisoner truck and the guard truck. You can undertake one or two actions here; provide first aid and/or steal their pistols and ammunition. If you attempt first aid (an untrained Survival skill), roll with your WIS modifier with a TN of 7, but with a -4 penalty (i.e., 11 or more required). After a few minutes another truck will arrive with eight guards; four will round up escaped prisoners, three will attend to chicken thieves, and one will check on you.
 
@@ -3303,12 +3342,15 @@ If you are successful you have provided critical first aid, healing them of some
 
 If you are successful and have taken the pistols, roll your Sleight vs their Sense (sight) at 12. If you succeed, the Guards are impressed with your level of rehabilitated social duty, provide you extra rations, and you have two pistols with ammunition. Gain +1 STR and go to 5.3.85 The Farm.
 
-If you are successful and have taken the pistols, but failed your Sleight vs their Sense (sight) contest, you may either fight your way out or surrender. If you choose to fight your way out go to 5.3.4 The Gun Fight, but gain +5 on your first shot as you have surprise. If you surrender go to 5.3.15 Juche Mercy.
+If you are successful and have taken the pistols, but failed your Sleight vs their Sense (sight) contest, you may either fight your way out or surrender. If you choose to fight your way out go to 5.3.4 The Gun Fight, but gain +1x damage on your first shot and the opponent's DEX is effectively 0 (-5 to contest) as you have surprise. If you surrender go to 5.3.15 Juche Mercy.
 
 If you fail the Survival check and did not take the pistols you are taken back to 5.3.3 The Box.
 
 If you fail the Survival check and you took the pistols, roll your Sleight vs their Sense (sight) at 12.  If you succeed, you are taken back to 5.3.3 The Box, but now you have two pistols and ammunition. If you fail your Sleight vs their Sense contest, go to 5.3.4 The Gun Fight.
 
+### 5.3.51 ChickenQuest
+
+Fresh meat! Such a fortuitous opportunity cannot be passed up. You take the opportunity, as do others, to hide some fresh chicken meat on your person. Soon, another truckload of guards will appear to take you away to the farm. Roll your Sleight vs their Sense (sight) at 12. If you succeed, you have succeeded and will have chicken tonight; gain a point of STR and go to 5.3.5 The Farm. If you fail, your precious chicken carcass is cruelly wrenched from you, and you're taken back to 5.3.3 The Box.
 
 
 
