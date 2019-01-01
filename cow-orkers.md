@@ -94,6 +94,8 @@ File system knowledge provides a +2 bonus for research and perception skill chec
 In section 2.2 "The Resistentialist Environment", references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
 
 
+In section 2.2 "The Resistentialist Environment", the rules for a character holding their breath should be twice their Strength score, not twice their Constitution.
+
 2.3 Tactical Conflict Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
 
 
@@ -1889,7 +1891,10 @@ In 1982 these ideas where expressed in an authoritative form as "On the Juche Id
 
 Kim Il-sung died in 1994 and was replaced by his son Kim Jong-il as General Secretary of the governing Korean Workers' Party and chair of the National Defense Commission (NDC). Kim Jong-il's seventeen year rule was particularly notable for a major economic crisis and famine in the 1990s, caused by declining foreign aid, loss of trade partners, lack of critical capital equipment, and flooding. The famine, known as The Ardous March, resulted in several hundred thousand deaths by conservative estimates. Politically, in 1998 the the Supreme People's Assembly wrote the president's post out of the constitution and designated Kim Il-sung as the country's "Eternal President". Already recognised as the leader in Juche thought, Kim Jong-il further developed the idea of an independent military to the policy of "Songun", or "army first" in 1998, notably becoming a nuclear weapons power in 2006. The Songun policy was further developmed in the 2000s with the argument that the army represented the leading force of society, which some political historians have observed is another departure from Marxist orthodoxy which argues that this role belongs to the workers (or, in China's case. the peasants). As a historic achievement, of sorts, North Korea's military expenditure reached over 20% of the country's GDP under Kim Jong-il, the highest proportion in the world (the world average is 2.25%). 
 
-As a minor, but successful departure, from Juche thought, a special industrial zone, the Kaesong Industrial Region, was established in 2002 with trade links to China and South Korea. This dovetailed with the "Sunshine Policy" advocated by South Korean President Kim Dae-jung to improve North-South relations and to allow South Korean companies to start projects in the North. The Kaesong Industrial Region however was closed in 2016 folllowing rising military tensions. Another example was the opening of the Mount Kumgang (Diamond Mountain) Tourist Region in 1998 which allowed South Korean and other foreign tourists to visit this part of North Korean territory. However it was closed in 2008 when a South Korean tourist was shot; the North claimed he had entered a military zone. In 2011, after many years of illness, Kim Jong-il died. The regime declared him "Eternal General Secretary" of the WPK and the "Eternal Chairman of the National Defence Commission", in keeping with the tradition of establishing eternal posts for the dead leaders. This two is a historic achievement of the country, being the world's only necrocracy - officially ruled by the dead, if in name only.
+> "We cannot live without you! Our country cannot exist without you!"   
+> No Motherland Without You (aka, "Ode to Kim Jong-il"), popular North Korean song frequently broadcast on the radio and from loudspeakers on the streets of Pyongyang   
+
+As a minor, but successful, departure from Juche thought a special industrial zone, the Kaesong Industrial Region, was established in 2002 with trade links to China and South Korea. This dovetailed with the "Sunshine Policy" advocated by South Korean President Kim Dae-jung to improve North-South relations and to allow South Korean companies to start projects in the North. The Kaesong Industrial Region however was closed in 2016 folllowing rising military tensions. Another example was the opening of the Mount Kumgang (Diamond Mountain) Tourist Region in 1998 which allowed South Korean and other foreign tourists to visit this part of North Korean territory. However it was closed in 2008 when a South Korean tourist was shot; the North claimed he had entered a military zone. In 2011, after many years of illness, Kim Jong-il died. The regime declared him "Eternal General Secretary" of the WPK and the "Eternal Chairman of the National Defence Commission", in keeping with the tradition of establishing eternal posts for the dead leaders. This two is a historic achievement of the country, being the world's only necrocracy - officially ruled by the dead, if in name only.
 
 Kim Jong-il was replaced by his younger son Kim Jong-un, who took a usual array of positions heading the political, ideological, and military functions. Kim Jong-il had his uncle Jang Song-thaek executed in 2013, and it is believed that North Korean agents were behind the assassination of the eldest brother of Kim Jong-il, Kim Jong-nam, in Malayia in 2017. Like his predecessors, Kim Jong-il cultivates a personality cult, with satellite photos revealing in 2012 that a 500m message carved into a hillside in Ryanggang Province, reading, "Long Live General Kim Jong-un, the Shining Sun!". In 2013 a new set of economic measures were introduced which allowed enterprises to engage in a degree of autonomy, wage differentiation by management, improved levels of autonomy and family-harvest collection in the smaller collective farms, expansion of consumer goods, and increased trade with China. A show-case of gleaming modern buildings in 2014 were mockingly dubbed "Pyonghattan" by reporters at the time, expansion of the construction industry continues to this day. Despite some apparent improvements for the urban population, it was estimated by a UN report in 2018 that some 40% of the population, primarily rural, suffer from undernutrition. It is in this context that the future history of North Korea will be written.
 
@@ -1903,7 +1908,7 @@ Korean is an agglutinative language; affixes are added ("glued") to words to cha
 
 North Korea is officially an atheist state where estimates suggest that approximately 2/3rds of the population are non-religious. Among those that do follow a religion (apart from Juche, of course) approximately 1 in 7 follow tradition Korean shaminism, 1 in 7 are part of the Chondoism faith ("Religion of the Heavenly Way"), a neo-Confucion religion established in the early 20th century, approximately 1 in 20 are Buddhists, and there is a small number of Christians. Korean shaminism, also known as Muism or Sinism, incorporates ancestor worship, spirits of various scope and power, holistic considerations, and mediation in rituals of sacrifices, dance, song, and prayers, between the gods, the mu (shaman), and worshippers. The mu are ascetics who seek purity of body and man. Chondoism developed from the Donghak ("Eastern Learning") Confucian movement which opposed the encroachement of Western ideas, and carried the secular ideas of poverty alleviation, especially amont the peasants, and political stability. It is recognised by the North Korean government as being revolutionary, anti-imperialist, and is represented in the government through its own political party. The North Korean constitition does include freedom of religion and even the construction of religious buildings, but all within the caveat of protecting the state from foreign powers and ensuring social order. In effect this means that any religious organisation is, at best, closely monitored.
 
-Religion also plays a role in the traditional crafts of North Korea, incorporating elements of historical shamanistic dance rituals, 
+Religion also plays a role in the traditional crafts of North Korea, incorporating elements of historical shamanistic dance rituals, EDIT
 
 Whilst freedom of the press is technically allowed under the constitution, in reality it is strictly controlled. North Korea regularly rates near the bottom of the international assessments conducted by groups such as Reporters Without Borders. Propaganda is pervasive, and news content is heavily orientated (c95%) towards local issues, albeit including the issue of reunification. Foreign affairs or news is rarely mentioned. There are twelve newspapers and twenty periodicals, with the major newspapers being Rodong Sinmun ('Labour Daily', newspaper of the Central Committee of the Worker's Party of Kora), Joson Inmingun (newspaper of Korean People's Army), Minju Choson ('Democratic Korea', the government newspaper), Rodongja Sinmun ('Workers Newspaper', newspaper of the Central Committee of the General Federation of Trade Unions of Korea), and in English and French editions, 'The Pyongyang Times'.
 
@@ -1969,7 +1974,6 @@ In another sense however they are not real. That is, all their activities remain
 Under almost no circumstances however, will the monsters reveal themselves, and to a degree they probably can't - their perception is called "Extra Sensory Perception" for a reason. They are, in a sense, "spiritual machines" and created from their presence with humans. With the exception of voice-controlled devices, even communication between monsters and humans takes the appearance of "voices in one's head", and we know how people who make such claims are treated. Of course, exceptions do exist (c.f., Garry the Gazebo) but again such a revelation is stories which no person would believe, and those who claim otherwise would be justly ridiculed.
 
 The literary genre to apply, albeit often in a comic manner in *Papers & Paychecks*, is that of 'magical realism'. Whilst it is common among fictional genres for their to be some furious debate about such terms in this context it follows the expression found in writers like Gabriel García Márquez (_One Hundred Years of Solitude_) and Salman Rushdie (_Midnight's Children_). In these novels, from the protagonist's perspective, the world is certainly magical. But the expression of this magic is subtle, and subjective. From an objective viewer, various events may have a dramatic quality about them, but they are certainly realistic. Keep that spirit in *Papers & Paychecks*.
-
 
 # 5.0 Alternate Settings and Scenarios
 
@@ -3208,6 +3212,9 @@ EDIT
 
 ## 5.3 The Administrator of Camp 22
 
+"The Department of Immigration will deport a North Korean-born refugee despite recognising he would probably be executed or sent to a forced labour camp on arrival in his birth country... documents obtained by The Age and The Sydney Morning Herald show, even though the department accepted the man, Choe*, may be subject to the death penalty, or put into one of the secretive regime’s notorious forced labour camps on his return, these threats are not an “insurmountable” hardship sufficient to stop his deportation."
+-- Execution not 'insurmountable' hardship, immigration department says, The Age, 28 December 2018
+
 ### 5.3.1 Introduction
 
 Part story, part game, this is an article with a difference - one in which YOU become the hero!
@@ -3257,84 +3264,173 @@ Note that you can die or go insane from these physical and mental bruises. If th
 
 Finally, you have been let out. Squinting in the sunlight, you are motioned towards a Sungri-58 truck by a guard, where you can see several other prisoners that have been bundled in. What do you do?
 
-Ask the guard why you were in solitary confinement? Go to 5.3.11 The Box Guard
-Join the other prisoners without saying anything? Go to 5.3.21 The Truck Journey
+Ask the guard why you were in solitary confinement? Go to 5.3.7 The Box Guard
+Join the other prisoners without saying anything? Go to 5.3.10 The Truck Journey
 
 ### 5.3.4 The Gun Fight
 
-You have ended up in a gun fight with four trained guards. What were you thinking? They have Firearms +2, Gymnastics +2, STR 11, +0 and DEX 13, +1 ; you have default skills at -4 and DEX +1. Standard handguns from the core rules are used, causing 3x Wounds damage. 
+You have ended up in a gun fight with four trained guards. What were you thinking? They have Firearms +2, Gymnastics +2, STR 11, +0 and DEX 13, +1 ; you have default skills at -4 and DEX +1. Standard handguns from the core rules are used, causing 3x Wounds damage.  The Guards will continue shooting at you until you are dead. Finally, you are at one with Kim Il-sung, the Eternal President of the Democratic People's Republic of Korea. Game over.
 
-The Guards will continue shooting at you until you are dead. Finally, you are at one with Kim Il-sung, the Eternal President of the Democratic People's Republic of Korea. Game over.
-
-If, by an extraordinary success of lucky dice rolls, "wonsung-ido namueseo tteoreojinda" ("even monkeys fall from trees"), or the judicious use of Player Points, you succeed in the gun fight, you may make your escape. Go tp 5.3.31, The Great Escape.
+If, by an extraordinary success of lucky dice rolls, "wonsung-ido namueseo tteoreojinda" ("even monkeys fall from trees"), or the judicious use of Player Points, you succeed in the gun fight, you may make your escape. Go tp 5.3.16, The Great Escape.
 
 ### 5.3.5 The Farm
 
-You're back at the farm, in barracks accomodation, with a hard bed and a thin blanket. Maybe you've managed to sneak some chicken meat in, maybe you've even managed a pistol. You try think back, before being put in the box, what work at the farm was like. Your memory is blurry. You remember meals, twice a day, mainly corn meal. Any meat you had was from animals - rats, insects, lizards - that you caught in the field. You remember the work being very hard and the hours long, with constant exposure to the elements.
+You're back at the farm, in barracks accomodation, with a hard bed and a thin blanket. Maybe you've managed to sneak some chicken meat in, maybe you've even managed a pistol. You try think back, before being put in the box, what work at the farm was like. Your memory is blurry. You remember meals, twice a day, mainly corn meal. You remember the work being very hard and the hours long, with constant exposure to the elements. Any meat you had was from animals - rats, insects, lizards - that you caught in the field. The lizards were the best; how wonderful it was for the Supreme Leader, Kim Jong-un, to provide such bounty!
 
 A child cries out somewhere in the darkness. Entire families are often incarcerated here, "guilt by association". Why are you here? You still do not know, and when you asked the guard at the box beat you. 
 
-But you have a choice, you always have a choice. If you decide to stay here at the farm go to 5.3.22 A Work Day. If you decide that you're going to escape go to 5.3.32 The Latrines.
+But you have a choice, you always have a choice. If you decide to stay here at the farm go to 5.3.11 A Work Day. If you decide that you're going to escape go to 5.3.17 The Latrines.
 
-### 5.3.11 The Box Guard
+### 5.3.6 Chinese Border Gate
 
-With a bestial snarl the Box Guard calls you "kotjebi!" ('vagrant child!', literally 'flowering swallow') raises his truncheon and hits you! The Guard has a STR of 12 (+1) and training in melee of +2. The Box Guard will be attacking with a Damaging Attack (+1x) with a truncheon (x1x), for double damage and half defense. If you adopt a defensive stance (no attack, x1.5 defense), the Guard will carry out 1d6/2 attacks before getting bored with hitting you. If you are unconscious after this, go to 5.3.3 The Box. If you are still conscious go to 5.3.21 The Truck Journey. 
+It takes over an hour to get to the Chinese Border Gate.  There are two guardhouses here, one inner guardhouse that is parallel to what you know is an electric fence, and one outer guardhouse, parallel to a barbed wire fence. In the daytime, each guardhouse will have eight guards with assault rifles stationed, and at night, there will be four. The guardhouses are sufficiently close that all guards will engage in a combat if you attempt to escape or, if you have a gun, engage in combat. Well, you could fight them your fists. But you know the saying: "Looks like you're brought your fists to a gun fight".
 
-If you adopt any other stance apart from defensive, remember that you will be at (x0.5) damage because you are using fists. If you're very lucky and win the fight, go to 5.3.31 The Great Escape. Otherwise the Guard will beat you until you are unconscious; go to 5.3.3 The Box.
+The Guards have STR 12 (+1), DEX 12 (+1), firearms +2. They will fire the assault rifles in semi-automatic mode (three shots, -1 to skill). An assault rifle requires a reloading action after 30 round, does 4x damage. The Guards will shot to kill and if they succeed in doing so, go to 5.3.8 Juche Mercy. If by some miracle, you succeed in defeating the Guards go to 5.3.12 The Chinese Border.
 
-### 5.3.15 Juche Mercy
+### 5.3.7 The Box Guard
 
-You are executed. Finally, you are at one with Kim Il-sung, the Eternal President of the Democratic People's Republic of Korea. Game over.
+With a bestial snarl the Box Guard calls you "kotjebi!" ('vagrant child!', literally 'flowering swallow') raises his truncheon and hits you! The Guard has a STR of 12 (+1) and training in melee of +2. The Box Guard will be attacking with a Damaging Attack (+1x) with a truncheon (x1x), for double damage and half defense. If you adopt a defensive stance (no attack, x1.5 defense), the Guard will carry out 1d6/2 attacks before getting bored with hitting you. If you are unconscious after this, go to 5.3.3 The Box. If you are still conscious go to 5.3.10 The Truck Journey. 
 
-### 5.3.21 The Truck Journey
+If you adopt any other stance apart from defensive, remember that you will be at (x0.5) damage because you are using fists. If you're very lucky and win the fight, go to 5.3.16 The Great Escape. Otherwise the Guard will beat you until you are unconscious; go to 5.3.3 The Box.
 
-Is this your first time here on this adventure? If so read on. If not, go to 5.3.22 The Truck Journey Part II
+### 5.3.8 Juche Mercy
+
+You are executed. Finally, you are at one with Kim Il-sung, the Eternal President of the Democratic People's Republic of Korea, the world's only necrocracy. Game over.
+
+### 5.3.9 Inside Knowledge
+
+You have made it into an administration building. If it is daytime and there were any administrative staff, you have managed to avoid them as you make your way into a small room for document processing. There is a collection of desks, filing cabinets, and even a few desktop computers, all lined up in neat rows. You start to look over the paper work, the files describing the various crimes of the estimated fifty thousand people in the camp, and the records of the thousand guards and other staff.
+
+You get an eerie feeling that you should look up one of the computers. It is almost as if it is calling you. Sitting down, and placing your finger to the keyboard, your brain recalls pathways that you have consciously forgotten. You start to type, searching for your own name. Make a Craft (computing) check, TN 9.
+
+If you fail, you find records that you have been incarcerated here for a year and have been assigned to the farming sector. There is not much useful information. You have to leave quickly, as there will be Guards looking for you. Go to 5.3.14 Hoeryong City Gate. If you succeed, go to 5.3.24 Revelations.
+
+### 5.3.10 The Truck Journey
 
 Bundled into the back of the Sungri-58 truck the vehicle makes its way down the narrow and poorly maintained road on the way to the farm. Returning from the family a similar vehicle approaches. Make a Craft (structural) or Pilot (car) TN 9 check. If you succeed you have braced yourself by either recognising the effects of the narrowness of road and the pot-holes or you down a quick mental check on the trajectory of the two vehicles. If you fail, you take the full force of the trucks crashing into one another, and experience the equivalent of a STR 15 (+2), mellee attack (+2) with bludgeoning damage. The success of the Craft or Pilot roll adds a bonus to the DEX roll made in resistance to the "attack".
 
-The truck that has collided with yours is full of cages of chickens. The two trucks are written off, both drivers are apparently unconcious. Your fellow travellers in the prison vehicle are making different choices. Some are staying behing to help the drivers. Others are taking the opportunity to steal or capture a chicken (fresh meat!). Others are taking the opportunity to escape. Which one are you going to choose?
+The truck that has collided with yours is full of cages of chickens. The two trucks are written off, both drivers are apparently unconcious. Your fellow travellers in the prison vehicle are making different choices. Some are staying behing to help the drivers. Others are taking the opportunity to steal the remains of a dead chicken (fresh meat!). Others are taking the opportunity to escape. Which one are you going to choose?
 
-Make a great escape? Go 5.3.31 The Great Escape
-Help one of the drivers? Go to 5.3.41 Unconscious Drivers
-Capture a chicken? Go to 5.3.51 Escaped Chickens
+Make a great escape? Go 5.3.16 The Great Escape
+Help one of the drivers? Go to 5.3.21 Unconscious Drivers
+Collect some chicken? Go to 5.3.25 ChickenQuest
 
-### 5.3.22 A Work Day
+### 5.3.11 A Work Day
 
-You are awakened before dawn by the Guards. They shove a cup with a mix of watery weevil-infested half-cooked rice and potatoes. That will be your meal until sunset. You make your way out to the potato fields, where you will spend the day digging for the harvest, placing the potatoes into sacks, and carrying them to the trucks. It is back-breaking manual work, with no respite, and always under the watch of the guards. Entire families, with various levels of malnutrition, work alongside you.
+You are awakened before dawn by the Guards. They shove a small cup with a mix of watery weevil-infested half-cooked rice and potatoes with a little bit of some grassy substance. That will be your meal until sunset. The generosity of the Democratic People's Republic knows no bounds!
+
+You make your way out to the potato fields, where you will spend the day digging for the harvest, placing the potatoes into sacks, and carrying them to the trucks. It is back-breaking manual work, with no respite, and always under the watch of the guards. Entire families, with various levels of malnutrition, work alongside you, gloriously making a contribution to a better tomorrow whilst also being rehabilitated from their erroneous thoughts (some in advance of even having them).
 
 An Athletics (stamina) check is required with a TN of 7. If you fail, you are beaten by a Guard with a club. The Guard has a STR of 12 (+1) and training in melee of +2. The Guard will only hit you once to get you to your feet, but you will still take damage. As you are hit, make a Craft (writing) check with a TN of 9. If you succeed, go to 5.3.30 Subversive Thoughts and then return back to the farm lodgings, 5.3.5. If you succeed in your Athletics (stamina) check you work through the day, exhausted but relatively unharmed, and are taken back to your lodgings, 5.3.5.
 
-### 5.3.30 Subversive Thoughts
+### 5.3.12 The Chinese Border
 
-As the Guard's club slams into you, reminding you to get back on your feet and work, a thought comes unbidden to your memory:
+It's three hours travel from Camp 22 to the Chinese border, through farmlands and around the township of Sechon, Hakpo, and then across the Tumen River which is shallow and narrow, however the border is patrolled on the Korean side. Whether daytime or nighttime you will have four Guards with assault rifles to avoid. You have no skill at sneaking , so you operate at a default level (-4) with a bonus (+1) due to your size. If you are attempting the action at night, you also receive an additional +4 bonus due to the lack of lighting, plus you have a environment modifier (+2).
+
+Unfortunately, you are engaging in a contest against Guards who are, unsurprisingly, good at Guarding. You must succeed a contest against all the Guards' Sense (sight) checks; they have a PER of 12, (+1) and a Sense (sight) of +2. If they spot you they have STR 12 (+1), DEX 12 (+1), firearms +2. They will fire the assault rifles in semi-automatic mode (three shots, -1 to skill). An assault rifle requires a reloading action after 30 round, does 4x damage. The Guards will shot to kill and if they succeed in doing so, go to 5.3.8 Juche Mercy. 
+
+If you succeed in sneaking past the Guards you must also make a Swim check. You have no skill at this, so you operate at the default level (-4), plus you are quite weak (-1). However it is a relatively easy crossing so the Target Number is only 5 (whilst strictly speaking this would require a large number of rolls, it is abstracted into a longer-term effect and greater movement). For each failure, take that amount of damage in physical bruises equal to the failure as you begin to drown. You require three successes to cross the river. If you cross the river go to 5.4.23 Illegal Economic Migrant.
+
+### 5.3.13 Steal a Car!
+
+You've managed to steal a car! Fortunately the keys are in the ignition. Make a Pilot (car) test, TN 7. If you succeed, you can drive *very fast* through the Hoeryong City Gate and only experience one round of gunfire per soldier. That's still a lot of bullets, but you have a chance. The car has 8 points of armour and a STR of 50. Return to 5.3.14 Hoeryong City Gate. Those behind the car will get exhausted, but those in front will have to run very fast.
+
+### 5.3.14 Hoeryong City Gate
+
+It takes over an hour to get to the Hoeryong City Gate. Just before the Gate however there is a collection of administration buildings. If you arrive here during the daytime there are eight guards here at each building, all with assault rifles. If you arrive at nighttime, there are four. In both cases there is a vehicle as well. The option exists to try investigating one of the buildings. If you do so, go to 5.3.42 Administration Buildings.
+
+If not, you make the effort to skirt around the buildings and remain out of eyesight. Eventually you can approach the gate itself. There are two guardhouses, one inner guardhouse that is parallel to what you know is an electric fence, and one outer guardhouse, parallel to a barbed wire fence. In the daytime, each guardhouse will have eight guards with assault rifles stationed, and at night, there will be four. The guardhouses are sufficiently close that all guards will engage in a combat if you attempt to escape or, if you have a gun, engage in combat.
+
+The Guards have STR 12 (+1), DEX 12 (+1), firearms +2. They will fire the assault rifles in semi-automatic mode (three shots, -1 to skill). An assault rifle requires a reloading action after 30 round, does 4x damage. The Guards will shot to kill and if they succeed in doing so, go to 5.3.8 Juche Mercy. If by some miracle, you succeed in defeating the Guards go to 5.3.18 Hoeryong City.
+
+### 5.3.15 Subversive Thoughts
+
+Is the first time here? If so, as the Guard's club slams into you, reminding you to get back on your feet and work, a thought comes unbidden to your memory:
 
 > When the people are being beaten with a stick, they are not much happier if it is called "the People's Stick".   
 > -- Mikhail Bakunin, Statism and Anarchy, 1873
 
-Where did you get such ideas from? What sort of monster were you? And there's more...
+Where did you get such ideas from? What sort of monster are you? 
 
-"A truncheon is a weapon with a worker at both ends".
+Return to 5.3.5 The Farm for another day's cycle.
 
-That one doesn't seem quite right, somehow. Return to The Farm 5.3.5 for another day's cycle.
+If you've been here before, different sayings come to mind.
 
-### 5.3.31 The Great Escape
+> A truncheon is a weapon with a worker at both ends.
 
-Prisoners are scattering in all directions? Which way will you go? It depends on whether you make a Knowledge (general) check, TN 9. If you succeed, you may choose. Otherwise you have to select randomly, by rolling 1d6
+That one doesn't quite seem right. After all, somebody is hitting someone else.
+
+Return to 5.3.5 The Farm for another day's cycle.
+
+> Comrades, you must all analyse your own responsibility. If you have to shit, shit! If you have to fart, fart! You will feel much better for it.
+> -- Mao Zedong, Speech At The Lushan Conference (23 July 1959)
+
+You wonder if the Central Committee of the Workers' Party of Korea analyse their own responsibility, or if they think that they everything they decide is fragrant.
+
+Return to 5.3.5 The Farm for another day's cycle.
+
+> Citizens shall have freedom of speech, press, assembly, demonstration, and association. The state shall guarantee conditions for the free activities of democratic political parties and social organizations.   
+> --- Constitution of the Democratic People's Republic of Korea (April 2009), Article 67, Chapter VII
+
+You suffer an attack of cognitive dissonance, WIS 17 (+3), receiving mental bruises.
+
+Return to 5.3.5 The Farm for another day's cycle.
+
+> The basis of the Juche Idea is that man is the master of all things and the decisive factor in everything.
+> -- Kim Il-sung, On Juche in Our Revolution vol. 2 (1977)
+
+After attempting the same process several times in a row, you reconsider your irrational optimism. Return to 5.3.5 The Farm for another day's cycle and make an escape attempt.
+
+### 5.3.16 The Great Escape
+
+Which way will you go? It depends on whether you make a Knowledge (general) check, TN 9. If you succeed, you may choose. Otherwise you have to select randomly, by rolling 1d6
 
 1. If you fail your Knowledge (general) check, and roll a '1', you stand around confused and then attempt to run in one direction, then backtrack to another, then turn back again. Eventually you are caught again. Go to 5.3.3 The Box.
-2. South. If you fail your Knowledge (general) check, and roll a '2', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to Hoeryong city, and may choose to go in this direction. Go to 5.3.61 Hoeryong City Gate.
-3. North. If you fail your Knowledge (general) check, and roll a '3', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to the Chinese border, and may choose to go in this direction. Go to 5.3.71 Chinese Border Gate. 
-4. West. If you fail your Knowledge (general) check, and roll a '4', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the Tumen River, which forms the border with China, and may choose to go in this direction. Go to 5.3.81 Tumen River Fence.
-5. East. If you fail your Knowledge (general) check, and roll a '5', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to a train station and beyond that mountains, and may choose to go in this direction. 5.3.91 Camp 22 Train Station.
+2. South. If you fail your Knowledge (general) check, and roll a '2', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to Hoeryong city, and may choose to go in this direction. Go to 5.3.14 Hoeryong City Gate.
+3. North. If you fail your Knowledge (general) check, and roll a '3', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the gate that has a road which leads to the Chinese border, and may choose to go in this direction. Go to 5.3.6 Chinese Border Gate. 
+4. West. If you fail your Knowledge (general) check, and roll a '4', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to the Tumen River, which forms the border with China, and may choose to go in this direction. Go to 5.3.20 Tumen River Fence.
+5. East. If you fail your Knowledge (general) check, and roll a '5', you head in this direction whether you want to or not! If you succeed your Knowledge (general) check, you know this leads to a train station and beyond that mountains, and may choose to go in this direction. 5.3.19 Camp 22 Train Station.
 6. If you fail your Knowledge (general) check, and roll a '6', you may select one of the directions of your choosing.
 
-### 5.3.32 The Latrines
+### 5.3.17 The Latrines
 
 Leaving the barracks you make your way to the nearby toilet block that has a barely flickering kerosene lamp. Nearby you can spot the cigarettes of two guards. You know that the guards will be on the lookout for attempted escapes and that they are armed with assault rifles and carry torches. Escape attempts are not uncommon, but success is unheard of.
 
-Without any doubt these worst toilets in the People's Democratic Republc of Korea, but certainly better than any imperialist toilets that might include water, toilet paper, and a semblance of cleanliness. Make a Concentration check (TN 9) to avoid throwing up due to the stench. If you fail take that number of mental bruises. If you succeed, you may attempt to climb over the toilet block wall, as this is your best means and opportunity to escape. 
+Without any doubt these worst toilets in the People's Democratic Republc of Korea, but certainly better than any imperialist toilets that might include water, toilet paper, and a semblance of cleanliness. Make a Concentration check (TN 9) to avoid throwing up due to the stench. If you fail take that number of mental bruises. If you succeed, you may attempt to climb over the toilet block wall, as this is your best means and opportunity to escape. Make a Sense (hearing) check, TN 9. If you succeed, you make it over the wall and into the fields. Go to 5.3.16 The Great Escape. If you fail, a Guard has caught you unawares as you're climbing over the wall. Go to 5.3.8 Juche Mercy.
 
-### 5.3.41 Unconscious Drivers
+### 5.3.18 Hoeryong City
+
+Several hours later, after climbing through farm, forest, mud, and hills, you have reached the outskirts of Hoeryong City. It is by no means a large city, but one supposes that they can make the right contacts and go into hiding. Make a Knowledge (general) with a TN of 17 as a streetwise check. If you fail, you have made the wrong contacts, and have been turned in by an *Inminban* (neighbourhood watch) informant, who will be rewarded for their service to the People's Democratic Republic. On the other hand, you will experience a different sort of reward. Go to 5.3.8 Juche Mercy.
+
+If you succeed however you are hidden in a cellar for a few days. Your saviours demand 50,000 Chinese Yuan for you to taken to South Korea as a refugee. As an escapee, you have no money. Make a Concentration check, TN 15. If you fail, you are turned in by the people you trusted. Go to 5.3.8 Juche Mercy.
+
+If you succeed however, you remember the address of your family home. A few days later you are told the surprising news that your family has somehow raised the money and paide the people smugglers. They have made arrangements to collect the money and smuggle you across the border, first into China, where you are bundled into a transport truck along with twenty others. After two day's journey in the back of the truck, will be emptied in Ulaanbaatar, where you make your way to the South Korean embassy and apply for refugee status.
+
+Did you make it? Probably not, that is the fate of most refugees. But that's another story to tell. As for now, you have escaped from Camp 22.
+
+https://commons.wikimedia.org/wiki/File:%E5%B7%A1%E9%81%93%E5%B7%A5%E5%87%BA%E5%93%81_photo_by_Xundaogong%E2%80%94%E2%80%94%E4%BC%9A%E5%AE%81%E5%B8%82%E5%8C%BA%E5%92%8C%E4%BC%9A%E5%AE%81%E7%81%AB%E8%BD%A6%E7%AB%99_Hoery%C5%8Fng-si_and_Hoery%C5%8Fng_railway_station_-_panoramio.jpg#/media/File:%E5%B7%A1%E9%81%93%E5%B7%A5%E5%87%BA%E5%93%81_photo_by_Xundaogong%E2%80%94%E2%80%94%E4%BC%9A%E5%AE%81%E5%B8%82%E5%8C%BA%E5%92%8C%E4%BC%9A%E5%AE%81%E7%81%AB%E8%BD%A6%E7%AB%99_Hoery%C5%8Fng-si_and_Hoery%C5%8Fng_railway_station_-_panoramio.jpg
+
+### 5.3.19 Camp 22 Train Station
+
+It takes about an hour to get to the Camp 22 Train Station. If you arrive during the day, there is four Guards here, and a truck transporting various goods (farm or mine produce) from the camp. If you arrive during the night, there are two Guards and no train. 
+
+You have no skill at hiding , so you operate at a default level (-4) with a bonus (+1) due to your size. If you are attempting the action at night, you also receive an additional +4 bonus due to the lack of lighting. Unfortunately, you are engaging in a contest against Guards who good at Guarding. You must succeed a contest against all the Guards' Sense (sight) checks; they have a PER of 12, (+1) and a Sense (sight) of +2. 
+
+If they spot you the Guards have STR 12 (+1), DEX 12 (+1), firearms +2. They will fire the assault rifles in semi-automatic mode (three shots, -1 to skill). An assault rifle requires a reloading action after 30 round, does 4x damage. The Guards will shot to kill and if they succeed in doing so, go to 5.3.8 Juche Mercy. 
+
+If you arrived during the night you will have to make two successful hide attemps - one for hiding during the night itself, and one for trying to sneak to the train when it arrives.
+
+If you succeed boarding the train, you can escape to 5.3.33 Hoerying City without having to travel through the countryside. This plot runs on rails.
+
+### 5.3.20 Tumen River Fence.
+
+It takes about an hour to reach the two-part fence. Facing you is an electric fence, then there's some open land and then there's a barbed wire fence. You have no means to get past the electric fence. What were you thinking? 
+
+Four Guards come looking for you. The Guards have STR 12 (+1), DEX 12 (+1), firearms +2. They will fire the assault rifles in semi-automatic mode (three shots, -1 to skill). An assault rifle requires a reloading action after 30 round, does 4x damage. The Guards will shot to kill and if they succeed in doing so, go to 5.3.8 Juche Mercy. 
+
+If you somehow survive and defeat the Guards you can follow the fence around to either 5.3.14 Hoeryong City Gate, 5.3.6 Chinese Border Gate, or 5.3.19 Camp 22 Train Station.
+
+### 5.3.21 Unconscious Drivers
 
 There are two uncounscious driver-guards here following the accident between the prisoner truck and the guard truck. You can undertake one or two actions here; provide first aid and/or steal their pistols and ammunition. If you attempt first aid (an untrained Survival skill), roll with your WIS modifier with a TN of 7, but with a -4 penalty (i.e., 11 or more required). After a few minutes another truck will arrive with eight guards; four will round up escaped prisoners, three will attend to chicken thieves, and one will check on you.
 
@@ -3342,15 +3438,41 @@ If you are successful you have provided critical first aid, healing them of some
 
 If you are successful and have taken the pistols, roll your Sleight vs their Sense (sight) at 12. If you succeed, the Guards are impressed with your level of rehabilitated social duty, provide you extra rations, and you have two pistols with ammunition. Gain +1 STR and go to 5.3.85 The Farm.
 
-If you are successful and have taken the pistols, but failed your Sleight vs their Sense (sight) contest, you may either fight your way out or surrender. If you choose to fight your way out go to 5.3.4 The Gun Fight, but gain +1x damage on your first shot and the opponent's DEX is effectively 0 (-5 to contest) as you have surprise. If you surrender go to 5.3.15 Juche Mercy.
+If you are successful and have taken the pistols, but failed your Sleight vs their Sense (sight) contest, you may either fight your way out or surrender. If you choose to fight your way out go to 5.3.4 The Gun Fight, but gain +1x damage on your first shot and the opponent's DEX is effectively 0 (-5 to contest) as you have surprise. If you surrender go to 5.3.8 Juche Mercy.
 
-If you fail the Survival check and did not take the pistols you are taken back to 5.3.3 The Box.
+If you fail the Survival check and did not take the pistols you are taken back to 5.3.3 The Box, unless to succeed at a Act check TN 9 where you give a bawling story of how you struggled to keep the drivers alive. The Guards are impressed with your efforts and provide you extra rations; gain +1 STR and go to 5.3.85 The Farm.
 
 If you fail the Survival check and you took the pistols, roll your Sleight vs their Sense (sight) at 12.  If you succeed, you are taken back to 5.3.3 The Box, but now you have two pistols and ammunition. If you fail your Sleight vs their Sense contest, go to 5.3.4 The Gun Fight.
 
-### 5.3.51 ChickenQuest
+### 5.3.22 Administration Buildings
 
-Fresh meat! Such a fortuitous opportunity cannot be passed up. You take the opportunity, as do others, to hide some fresh chicken meat on your person. Soon, another truckload of guards will appear to take you away to the farm. Roll your Sleight vs their Sense (sight) at 12. If you succeed, you have succeeded and will have chicken tonight; gain a point of STR and go to 5.3.5 The Farm. If you fail, your precious chicken carcass is cruelly wrenched from you, and you're taken back to 5.3.3 The Box.
+You attemp to sneak up on one of the administration buildings without being seen. You have no skill at this, so you operate at a default level (-4). Fortunately, you are small (+1). If you are attempting the action at night, you also receive an additional +4 bonus due to the lack of lighting.
+
+Unfortunately, you are engaging in a contest against Guards who are, unsurprisingly, good at Guarding. You must succeed a contest against all the Guards' Sense (sight) checks; they have a PER of 12, (+1) and a Sense (sight) of +2. If you are spotted the Guards, the following Guard statistics also become relevant: STR 12 (+1), DEX 12 (+1), firearms +2. They will fire the assault rifles in semi-automatic mode (three shots, -1 to skill). An assault rifle requires a reloading action after 30 round, does 4x damage. 
+
+The Guards will shot to kill and if they succeed in doing so, go to 5.3.8 Juche Mercy. If by some miracle, you succeed in defeating the Guards go to 5.3.9 Inside Knowledge, or 5.3.13 Steal a Car!
+
+### 5.4.23 Illegal Economic Migrant
+
+Congratulations, you have made it across the border into China. However China does not look kindly upon North Korean refugees, and will not grant you refugee status. You must make contact with friendly Koreans who live on the Chinese side of the border. Make a Knowledge (general) with a TN of 15 as a streetwise check. If you fail, you have made the wrong contacts, and have been turned in to the Chinese authorities. After a couple of days in a Chinese prison, you are returned to Korea where you will receive 5.3.8 Juche Mercy.
+
+If you succeed however you are now working as an illegal farmworker in China and you are provided food and lodging. It isn't much, but it's a lot better than where you were before. One day you may even try to make it to South Korea as a *real* refugee. But that's another story.
+
+### 5.3.24 Revelations
+
+An old memory comes forth and you enter in a password for advanced privileges. Access is granted and once again you search for your name. This time, startling information is received. YOU were the administrator of Camp 22. Yes, it was only in acting role, whilst the usual administrator was on leave for "illness", but nevertheless you were in charge. In charge of those who did the beatings, in charge of those who provided the meagre rations. That was your responsibility.
+
+Apparently, however, you had some moral sense. You had written to one of the many Vice-Presidents about the many "kotjebi" (vagrant children) that were at the camp, whose parents or other family members had died due to various reasons. As they had committed to crime against society themselves, you recommended that they be rehabilitated and integrated to society.
+
+The problem wasn't the suggestion as such, but rather your use of the term "kotjebi", which is forbidden in official correspondence. The order to incarcerate notes that you had engaged in a "bourgeoisie-liberal sentimentalism", "anti-Party propaganda", "destabilising the State and society" and that a harsh regime of "re-education" was necessary. It was the result of this "re-education" that you had forgotten not just the memo, but also your prior position in the camp. If you experienced a beating by The Box Guard, it becomes clear that he wasn't insulting you - but rather telling you the truth.
+
+You suffer a mental attack with a WIS 18 (+4) as a result of this revealation. This is a mental wound, not a bruise, and it shakes you in realisation and will take a long time to heal. 
+
+If you are still *compos mentis*, you may make your way to 5.3.14 Hoeryong City Gate, but before you go there is one other thing that comes to mind; make an Administration check, TN 9. If you succeed, you write a short script that deletes the eletronic records and recurses into the online backups. Gain 5 Mental health bruise points back, as you are bouyant with at least some success.
+
+### 5.3.25 ChickenQuest
+
+Fresh meat! Such a fortuitous opportunity cannot be passed up. Kim Il-sung must be looking down on the heavens for you. You take the opportunity, as do others, to hide some fresh chicken meat on your person. Soon, another truckload of guards will appear to take you away to the farm. Roll your Sleight vs their Sense (sight) at 12. If you succeed, you have succeeded and will have chicken tonight; gain a point of STR and go to 5.3.5 The Farm. If you fail, your precious chicken carcass is cruelly wrenched from you, and you're taken back to 5.3.3 The Box.
 
 
 
