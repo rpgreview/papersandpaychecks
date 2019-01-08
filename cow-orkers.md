@@ -86,19 +86,17 @@ Section 1.6, under character class backgrounds where it reads "Perception", this
 
 p28 - Intellect Fortress appears twice with two different descriptions
 
-1.7 
+Section 1.7 
 
 File system knowledge provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment.
 
-
 In section 2.2 "The Resistentialist Environment", references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
-
 
 In section 2.2 "The Resistentialist Environment", the rules for a character holding their breath should be twice their Strength score, not twice their Constitution.
 
-2.3 Tactical Conflict Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
+Section 2.3 Tactical Conflict Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
 
-
+Dogs are listed as having 'Movement (flight)' 8-15. This should simply read 'Movement'. Dogs don't fly.
 
 # 1.0 Additional Character Classes
 
@@ -637,7 +635,7 @@ Apart the obvious uses from their fur and meat, in a fantasy environment one can
 
 *A Giant Beaver story*
 
-A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married of to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required (1 week per point of Giant Beaver STR). To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time. The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who also realise its economic value.
+A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married off to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required. To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time (1 week per point of Giant Beaver STR). The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who also realise its economic value.
 
 **Basilisk**
 
@@ -663,23 +661,28 @@ In combat a Basilisk attacks with its Sense (sight) skill, with the gaze causing
 
 *A Basilisk story*
 
-A Basilisk named Gerald has spent many years at the familiar of a wizard and has learned some skills in magic, as well as a degree of moral reasoning. Unfortunately the wizard has died and Gerald has become lonely, in a very un-Basilisk manner. Gerald craves human (or dwarven, or elven, or even halfling) company again, despite the fact that most people who prefer to destroy him. Further, Gerald wants to know exactly what sort of serpent and what sort of rooster is required to make more of his kin, as he has dreams of raising a family of "good" Basilisk. This could be hard for Gerald as he is still a venomous serpent with a death-gaze and if startled he may accidently look in the wrong direction. Will the brave PCs adopt Gerald and assist him on his dream? What could possibly go wrong?
+A Basilisk named Anguis has spent many years at the familiar of a wizard and has learned some skills in magic, as well as a degree of moral reasoning. Unfortunately the wizard has died and Anguis has become lonely, in a very un-Basilisk manner. Anguis craves human (or dwarven, or elven, or even halfling) company again, despite the fact that most people who prefer to destroy him. Further, Anguis wants to know exactly what sort of serpent and what sort of rooster is required to make more of his kin, as he has dreams of raising a family of good Basilisk. This could be hard for Anguis as he is still a venomous serpent with a death-gaze and if startled he may accidently look in the wrong direction. Will the brave PCs adopt Anguis and assist him on his dream? What could possibly go wrong?
 
 **Bugbear**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Bugbear
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+Related to *goblins*, and *hobgoblins* (c.f.,) the Bugbear is a larger member of the kin and is often so large and hirsuite to be described as bear-like. They are a creature of European mythology and are rather partial in lurking in woods near human (dwarf, elf, halfling etc) habitations, where they have opportunities to prey on the sweet meat of children, being their favourite food. After a peasant family has lost their third child to the local bugbear one can understand where the etymology of said beings being a "pet peeve" comes from. Their solitary and ambush hunting style matches their social organisation. Bugbears tend only to associate with their immediate family and often then the relationship is strained due to an innately gruff and bullying disposition. Their disposition, size, and skill does however make them highly sought after by goblins and hobgoblins for particular missions, however the bugbears will insist that they take a lead tactical role in such situations.
 
-A Bugbear story
+Characteristic	Value	Bonus		
+Strength	18-24	+4 to +6	Profession Ranger
+Intelligence	3-18	-4 to +4	Level	1
+Wisdom		3-18	-4 to +4	Movement	18-24
+Dexterity	3-12	-4 to +1	Wounds (Physical)	
+Perception	8-18	-1 to +4	Wounds (Mental)	
+Charisma	3-12	-4 to +1	Wounds (Social)	
+Skill			Char		Train	Other	Total
+Athletics (stamina)	+4 to +6	+1		+5 to +7
+Melee			+4 to +6	+1		+5 to +7
+Survival		-4 to +4	+1		-3 to +5
+Sense (smell)		-1 to +4	+1		+0 to +5
+
+*A Bugbear story*
+
+Gerald fancies himself a well-educated Bugbear. He isn't that that really doesn't matter given his attitude. Following a rather devastating regional war, a local Cleric has set up a school at the edge of a local town to cater for the growing orphan population. The fact that it was a religious war has not gone unnoticed. Gerald has taken up stalking residence nearby and has taken to leaving behind notes to the Cleric. These notes, apart from describing the taste of the most recent victim, consist of annoying misspellings and malformed phrases - such as the confusion between "their", "there", and "they're", references to an "escape goat", eating "cold slaw", and being "curled up in the feeble position". The Cleric, who is desperate to teach the youngster the correct use of the language of the realm has had enough and has called in the PCs to deal with Gerald. 
 
 **Centaur**
 
