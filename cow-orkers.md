@@ -641,19 +641,29 @@ A local lord has a rather promiscuous and headstrong daughter who is greatly lov
 
 **Basilisk**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Basilisk
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+The Basilisk as a thoroughly mythological creature, with an early account from Pliny the Elder. Found in Northern Africa, the Basilisk is described as a serpent (later bestiaries gave it legs), "being not more than twelve fingers in length", that is so noxious it destroys shrubs by its breath, and even breaks stones. The venom of the Basilisk is ranged, and even worse still, it can kill with its gaze. A basilisk is born of a serpent's hatched by a rooster and its evil disposition is possibly due to this unusual parentage. According to legend the crowing of a rooster will kill as basilisk, but this would mean that the young would have a very short lifespan. Appropriately for the comic value of *Papers & Paychecks*, the crowing of a rooster will send a Basilisk into a panic and it will flee whenever it hears one; such is its fear of being scolded by its known parent.
 
-A Basilisk story
+Famously, the only natural enemy of the Basilisk is the weasel. The weasel is capable of rapid movement, dodging the the gaze of the Basilisk, and is also immune the Basilisk's venom. Unfortunately for the Basilisk, it is not immune to the urine of the weasel, which acts as both an antidote to the Basilisk venom and also as a poison to the Basilisk; "so true is it that it has pleased Nature that there should be nothing without its antidote".
+
+For various reasons the Basilisk is a solitary creature. Regrettably they are also intelligent and could theoretically gain levels in fantasy professions. There are known stories of Basilisks being capable of speech and one can only imagine the circumstances that lead to such a being acquiring such skill.
+
+Characteristic	Value	Bonus		
+Strength	1	-5		Profession	Basilisk
+Intelligence	10-11	+0		Level	1
+Wisdom		8-9	-1		Movement	1
+Dexterity	3-18	-4 to +4	Wounds (Physical)	
+Perception	10-11	+0		Wounds (Mental)	
+Charisma	4	-3		Wounds (Social)	
+Skill		Char		Train	Other	Total
+Melee		-5		+0		-5
+Sense (sight)	+0		+1		+1
+Missile		-4 to +4	+1		-3 to +5	
+
+In combat a Basilisk attacks with its Sense (sight) skill, with the gaze causing death (NO SAVING THROW) with an effective range of 25m. The gaze can be reflected back on the Basilisk. The venom of a Basilisk attacks with a STR 15 against the target, using the Basilisk's Missile skill and DEX as a characteristic bonus with a range of 5m. The peck of a Basilisk also delivers venom. 
+
+*A Basilisk story*
+
+A Basilisk named Gerald has spent many years at the familiar of a wizard and has learned some skills in magic, as well as a degree of moral reasoning. Unfortunately the wizard has died and Gerald has become lonely, in a very un-Basilisk manner. Gerald craves human (or dwarven, or elven, or even halfling) company again, despite the fact that most people who prefer to destroy him. Further, Gerald wants to know exactly what sort of serpent and what sort of rooster is required to make more of his kin, as he has dreams of raising a family of "good" Basilisk. This could be hard for Gerald as he is still a venomous serpent with a death-gaze and if startled he may accidently look in the wrong direction. Will the brave PCs adopt Gerald and assist him on his dream? What could possibly go wrong?
 
 **Bugbear**
 
