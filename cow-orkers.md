@@ -577,7 +577,7 @@ A bottle of gin from the Levant, made from juniper berries grown near the Sea of
 Characteristic	Value	Bonus		
 Strength	1	-5	Profession	Administrator
 Intelligence	1	-5	Level	3
-Wisdom	1	-5	Movement (flight)	5
+Wisdom		1	-5	Movement 	5
 Dexterity	9	-1	Wounds (Physical)	
 Perception	10-11	+0	Wounds (Mental)	
 Charisma	4	-3	Wounds (Social)	
@@ -597,7 +597,7 @@ That was three years ago. Since then, Charles the Tall's behavior has not change
 Characteristic	Value	Bonus		
 Strength	1	-5	Profession	Scientist
 Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
+Wisdom		1	-5	Movement 	5
 Dexterity	9	-1	Wounds (Physical)	
 Perception	10-11	+0	Wounds (Mental)	
 Charisma	4	-3	Wounds (Social)	
@@ -717,7 +717,7 @@ Gerald fancies himself a well-educated Bugbear. He isn't that that really doesn'
 
 The centaur is a mythic half-human half-horse being described as being found in the ancient Hellenic and Roman world, across Asia minor and even to the borders of India. Considered to be wild and eschewing civiliztion, Centaurs also were known for a rather strong libido, but also with their human nature showing great sensitivity to the musical and healing arts. Notoriously, Centaurs are most prone to their worst behaviour when drunk, which is unfortunate because they quite enjoy getting drunk. 
 
-As with hores, centaurs are foraging herbivore herd animals preferring open plains. 
+As with horses, centaurs are foraging herbivore herd animals preferring open plains. 
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -737,7 +737,7 @@ As with hores, centaurs are foraging herbivore herd animals preferring open plai
 
 *A Centuar story*
 
-Horse race.
+It's time for the Olympus in the big city! The Centaurs are present with their team, but their champion athlete the long-distance runner, Incitatus, has been kidnapped. Not only are PC workers are employed by the Centaurs to find out what has happened to their famous galloper, they are also given a very generous sum of gold solidi to purchase several barrels of wine for a victory celebration after Incitatus gallops to victory. There is the slight problem however that the city authority has expressely forbidden the sale of wine to Centaurs on account of their atrocious behaviour when inebriated.
 
 **Chimera**
 
