@@ -610,24 +610,34 @@ Sense (Hearing)	+0	+1		-1
 
 Chiron is a Centaur of Disease Control and advocate of herd immunity.
 
-## 3.2 Bestiary
-
+## 3.2 Fantasy Bestiary
 
 **Beaver, Giant**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Beaver, Giant
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+Giant Beavers (Castoroides, Trogontherium) is a Pleistocene-period creature that was native to North America and Eurasia respectively which, for all intents and purposes, has the climatic range and is assumed to have behaviour of contemporary beavers. Apart from the obvious difference of size, the Giant Beaver propotionally shorter hind legs, probably a longer and thinner tail, and had larger teeth, and a smaller brain in proportion to size. With a length of around 2m and a weight of over 100kg, Giant Beavers will build dams, canals, and lodges for their homes. Beaver families typically consist of a single adult male and female and their kits. Whilst beaver pairs mate for life if a beaver's mate dies, the survivor will partner with another one. Both the male and female take part in raising offspring and maintenance of the lodge. 
 
-A Giant Beaver story
+Apart the obvious uses from their fur and meat, in a fantasy environment one can replicate the medieval belief that Beaver testicles and castor sacs for both pain relief and as a contraception. Aesop's *Fables* describes beavers chewing off their testicles to preserve themselves from hunters. In the great classic Hellenic tradition, nobody actually checked this, because beaver's testicles are inside its body. Nevertheless, it made a good story and was continued in medieval bestiaries. For purposes of fantasy *Papers & Paychecks*, both are true. The Giant Beaver's testicles are internal, but can be 'externalised' by muscular relaxtion if required. Although not very bright, they are smart enough to leave their balls behind if someone is hunting for them.
+
+<img src="https://en.wikipedia.org/wiki/File:Beaverbollocks.jpg" />
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  13-16    |  +1 to +3  | Profession	 | Giant Beaver |
+| Intelligence	    |  4-5      |  -3        | Level	         | 1	 |
+| Wisdom 	    |  5-10     |  -3 to +0  | Movement (run) | 13-16 |
+| Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
+| Perception	    |  13-15    |  +1 to +3  | Wounds (Mental)   |   |
+| Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Melee         | +1 to +3 | +1         |           | +2 to +4   |
+| Swim		| +1 to +3 | +1		| +4	    | +5 to +8   |
+| Sense (smell) | +1 to +3 | +1         |           | +2 to +4   |
+
+*A Giant Beaver story*
+
+A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married of to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required (1 week per point of Giant Beaver STR). To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time. The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who also realise its economic value.
 
 **Basilisk**
 
@@ -1429,22 +1439,6 @@ Melee	-5	+0		-5
 Sense (Hearing)	+0	+1		-1
 
 A Nymph story
-
-**Ogre**
-
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Elf
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
-
-An Ogre story
 
 **Ogre**
 
@@ -3307,7 +3301,7 @@ If you fail, you find records that you have been incarcerated here for a year an
 
 ### 5.3.10 The Truck Journey
 
-Bundled into the back of the Sungri-58 truck the vehicle makes its way down the narrow and poorly maintained road on the way to the farm. Returning from the family a similar vehicle approaches. Make a Craft (structural) or Pilot (car) TN 9 check. If you succeed you have braced yourself by either recognising the effects of the narrowness of road and the pot-holes or you down a quick mental check on the trajectory of the two vehicles. If you fail, you take the full force of the trucks crashing into one another, and experience the equivalent of a STR 15 (+2), mellee attack (+2) with bludgeoning damage. The success of the Craft or Pilot roll adds a bonus to the DEX roll made in resistance to the "attack".
+Bundled into the back of the Sungri-58 truck the vehicle makes its way down the narrow and poorly maintained road on the way to the farm. Returning from the Farm a similar vehicle approaches. Make a Craft (structural) or Pilot (car) TN 9 check. If you succeed you have braced yourself by either recognising the effects of the narrowness of road and the pot-holes or you down a quick mental check on the trajectory of the two vehicles. If you fail, you take the full force of the trucks crashing into one another, and experience the equivalent of a STR 15 (+2), mellee attack (+2) with bludgeoning damage. The success of the Craft or Pilot roll adds a bonus to the DEX roll made in resistance to the "attack".
 
 The truck that has collided with yours is full of cages of chickens. The two trucks are written off, both drivers are apparently unconcious. Your fellow travellers in the prison vehicle are making different choices. Some are staying behing to help the drivers. Others are taking the opportunity to steal the remains of a dead chicken (fresh meat!). Others are taking the opportunity to escape. Which one are you going to choose?
 

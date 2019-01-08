@@ -2498,7 +2498,7 @@ Dogs have advanced perception skills, including a sensitivity to the earth's mag
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1-13     |  -5 to +1  | Profession	 | Dog |
 | Intelligence	    |  4-7      |  -3 to -2  | Level	         | 1	 |
-| Wisdom 	    |  5-10     |  -3 to +0  | Movement (flight) | 8-15 |
+| Wisdom 	    |  5-10     |  -3 to +0  | Movement 	| 8-15 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
 | Perception	    |  17-18     |  +3 to +4  | Wounds (Mental)   |   |
 | Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
