@@ -657,11 +657,40 @@ Melee		-5		+0		-5
 Sense (sight)	+0		+1		+1
 Missile		-4 to +4	+1		-3 to +5	
 
-In combat a Basilisk attacks with its Sense (sight) skill, with the gaze causing death (NO SAVING THROW) with an effective range of 25m. The gaze can be reflected back on the Basilisk. The venom of a Basilisk attacks with a STR 15 against the target, using the Basilisk's Missile skill and DEX as a characteristic bonus with a range of 5m. The peck of a Basilisk also delivers venom. 
+In combat a Basilisk attacks with its Sense (sight) skill, with the gaze causing death (NO SAVING THROW) with an effective range of 25m. The gaze can be reflected back on the Basilisk. The venom of a Basilisk attacks with a STR 15 against the target, using the Basilisk's Missile skill and DEX as a characteristic bonus with a base range of 3m. The peck of a Basilisk also delivers venom. 
 
 *A Basilisk story*
 
 A Basilisk named Anguis has spent many years at the familiar of a wizard and has learned some skills in magic, as well as a degree of moral reasoning. Unfortunately the wizard has died and Anguis has become lonely, in a very un-Basilisk manner. Anguis craves human (or dwarven, or elven, or even halfling) company again, despite the fact that most people who prefer to destroy him. Further, Anguis wants to know exactly what sort of serpent and what sort of rooster is required to make more of his kin, as he has dreams of raising a family of good Basilisk. This could be hard for Anguis as he is still a venomous serpent with a death-gaze and if startled he may accidently look in the wrong direction. Will the brave PCs adopt Anguis and assist him on his dream? What could possibly go wrong?
+
+**Bonnacon**
+
+Classic and medieval bestiaries refer to the Bonnacon as coming from south-eastern Europe into Asia minor, and perhaps beyond. Very similar to other bovine breeds in terms of size and general appearance, the Bonnacon has inward-facing horns (rather like a ram) and a horse-like mane. Whilst the Bonnacon can butt with its head, or even trample, its preferred attack mechanism is to release dung which can "covers a distance of as much as three furlongs", according to Pliny, and which is incredibly acidic, "scorches pursuers like a sort of fire"
+
+In most other respects the Bonnacon is like other members of the *bovinae* subfamily; a large quadrupedal ungulate mammals with cloven hooves, with a lifespan of around 20-25 years, living as a herd animal with collective behaviour with bulls on the circumference of the herd's range protecting the cows and calves. The gestation period for a cow is about nine months long. Unlike most *bovinae* the Bonnacon is not domesticated by humans, for some fairly obvious reasons.
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  30-60    |  +3 to +10 | Profession	 | Bonnacon |
+| Intelligence	    |  2        |  -4	     | Level	         | 1	 |
+| Wisdom 	    |  2        |  -4        | Movement          | 6 |
+| Dexterity	    |  5        |  -3        | Wounds (Physical) |   |
+| Perception	    |  10-11    |  +0 | Wounds (Mental)   |   |
+| Charisma	    |  3	|  -4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Intimidate    | +3 to +10| +1         | sp.       | +4 to +11  |
+| Melee         | +3 to +10| +1         | sp.       | +4 to +11  |
+| Sense (hearing) | +0     | +1         | sp.       | +1         |
+| Missile	| +0	   | +1		| 	    | +1	 |
+		
+When attacking with its "Missile" the Bonnacon uses its PER as a characteristic bonus. The weapon does x2 acidic damage after armour with a base range of 200m.
+
+*A Bonnacon story*
+
+A local warlord offers a small fortune to the PCs to round up a herd of Bonnacon and train them for a cavalry-artillery force, which for some reason he wants called "Tachanka".  
 
 **Bugbear**
 
