@@ -713,21 +713,31 @@ Sense (smell)		-1 to +4	+1		+0 to +5
 
 Gerald fancies himself a well-educated Bugbear. He isn't that that really doesn't matter given his attitude. Following a rather devastating regional war, a local Cleric has set up a school at the edge of a local town to cater for the growing orphan population. The fact that it was a religious war has not gone unnoticed. Gerald has taken up stalking residence nearby and has taken to leaving behind notes to the Cleric. These notes, apart from describing the taste of the most recent victim, consist of annoying misspellings and malformed phrases - such as the confusion between "their", "there", and "they're", references to an "escape goat", eating "cold slaw", and being "curled up in the feeble position". The Cleric, who is desperate to teach the youngster the correct use of the language of the realm has had enough and has called in the PCs to deal with Gerald. 
 
-**Centaur**
+**Centaur** (*Equus-Homo centaurus*)
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Centaur
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+The centaur is a mythic half-human half-horse being described as being found in the ancient Hellenic and Roman world, across Asia minor and even to the borders of India. Considered to be wild and eschewing civiliztion, Centaurs also were known for a rather strong libido, but also with their human nature showing great sensitivity to the musical and healing arts. Notoriously, Centaurs are most prone to their worst behaviour when drunk, which is unfortunate because they quite enjoy getting drunk. 
 
-A Centuar story
+As with hores, centaurs are foraging herbivore herd animals preferring open plains. 
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  50-100   |  +20 to +45	| Profession	 | Ranger |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-8      |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	     | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +2       | +3       |           | +5         |
+| Athletics (stamina) | +20 to +45 | +1	|	    | +21 to +46 |
+| Melee 	| +20 to +45 | +1	|	    | +21 to +46 |
+
+*A Centuar story*
+
+
 
 **Chimera**
 
@@ -743,7 +753,7 @@ Climb	-5	+1		-4
 Melee	-5	+0		-5
 Sense (Hearing)	+0	+1		-1
 
-A Centuar story
+A Chimera story
 
 **Cockatrice**
 

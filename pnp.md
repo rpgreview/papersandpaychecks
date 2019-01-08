@@ -2524,7 +2524,6 @@ The domestic goat *Capra aegagrus hircus* and domestic sheep *Ovis aries* are cl
 
 Goats and sheep show significant variance in size according to breed and with sexual dimorphism, with the male being larger; as little as 20 kilograms for the smallest goat does, up to 160 kgs to the largest rams. Goats reach puberty between three and fifteen months of age, and sheep from four to eight. Gestation length is approximately 150 days, with twins the typical result. Sheep live on average 10 to 12 years, and goats 15 to 18 years. Both sheep and goats have good hearing, and an excellent field of vision and sense of smell. They do not have good depth perception. Sheep and goats are both herbivores and grazing animals.
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  2-20     |  -4 to +5  | Profession	 | Sheep or Goat |
