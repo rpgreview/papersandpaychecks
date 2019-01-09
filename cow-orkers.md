@@ -745,7 +745,7 @@ It's time for the Olympus in the big city! The Centaurs are present with their t
 
 The Chimera is a mythological creature initially described as coming from Asia minor and originally a singular being, although that is a lot less fun in a fantasy setting. Accoridng to Homer it has "a thing of immortal make, not human, lion-fronted and snake behind, a goat in the middle, and snorting out the breath of the terrible flame of bright fire", and using some versions here, it is the goat's head that breathes fire. The original chimera was apparently from Mount Chimaera in contemporary Turkey which appropriately has permanent gas vents and fire. This serves well with the theme that some high-powered sorcerer has the notion in their head in building a large number of such beasts. 
 
-The Chimera is highly adaptable to mountains and plains. An omnivore, it is as sure-footed as the goat, it has the strength of the lion, and the ambush strikes of the serpent. Fortunately when it comes to social organisation the snake dominates and it is typically found alone. As an asexual and created creature is does not mate. A chimera has a lifespan of around 15 years, reaching maturity at 3 years. There is, however, one major disadvantage that the Chimera has that PC Adventurers may be able to take advantage of; the three heads are of independent mind and sometimes can be quite contrary to each other with problematic results.
+The Chimera is highly adaptable to mountains and plains. An omnivore, it is as sure-footed as the goat, it has the strength of the lion, and the ambush strikes of the serpent. Fortunately when it comes to social organisation the snake dominates and it is typically found alone. As an asexual and created creature is does not mate. A chimera has a lifespan of around 15 years, reaching maturity at 3 years. There is, however, one major disadvantage that the Chimera has that PC Adventurers may be able to take advantage of; the three heads are of independent mind and sometimes can be quite contrary to each other with problematic results. Typically the lion head operates as an ego, boldly directing the beast as a whole, the goat head as a superego sagaciously advising on what others are thinking, and the serpent as the chimera's id, espressing matters of self-interest.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2318,7 +2318,9 @@ The BMX Kids are a group of several mostly male adolescents aged between 12 and 
 
 If approached the BMX Kids will be extremely wary and may even attempt to flee, however appropriate coaxing (Seduce skill, using bribery, TN 7) will encourage them to stay and talk. The three main bandits, High-Fly (famed for their big jumps), Emu (an Australian), and The Code (a bespectacled girl) will do most of the talking and despite being the seniors among the game (i.e., they're 14-15) they are just as prone to having loose lips when it comes to describing their criminal abilities. Specifically the BMX Kids will claim that there there isn't a computer or building that they can't get into, "for a price", The Code adds. If a price is requested, High-Fly will blurt out "Five hundred dollars!", causing Emu to grimace. Kindly PC Workers may offer them double that, just to ensure their loyalty.
 
-The reality is that these are just kids; they do have some skills in the the areas that they think they are the city's best, but they are not professional criminals by any stretch of the imagination, although a particularly Machiavellian party will find a "patsy" use for them. Given their age they will have characteristics around 25%  lower than their adult levels (a more fine-grained description of section 1.4 Characteristics, in the core rulebook). They also have a full complement of background skills. The BMX Kids have typically swapped "Pilot" for "Bike" in their background skills, and have a bonus to Stealth (and other skills) on account of their relatively size. One interesting identifier for the group is that they talk in late 1970s slang and have preference for 1970s pop music, even including the Bay City Rollers for some incomprehensible reason.
+The reality is that these are just kids; they do have some skills in the the areas that they think they are the city's best, but they are not professional criminals by any stretch of the imagination, although a particularly Machiavellian party will find a "patsy" use for them. Given their age they will have characteristics around 25%  lower than their adult levels (a more fine-grained description of section 1.4 Characteristics, in the core rulebook). They also have a full complement of background skills. The BMX Kids have typically swapped "Pilot" for "Bike" in their background skills, and have a bonus to Stealth (and other skills) on account of their relatively size. 
+
+One interesting identifier for the group is that they talk in late 1970s slang and have preference for 1970s pop music, even including the Bay City Rollers for some incomprehensible reason. They see the 1970s as the origins of BMX and hold the era in some awe. If any PC Worker can convingly describe the period with first-hand knowledge and used a BMX bike at the time they will be treated with respect if not outright awe. They will be challenged of course, with requests to sing "Shang-a-Lang", and other atrocious tunes from the period.
 
 *High-Fly*, leader of the BMX Kids. E+3 S+1 F+2 J+2 (Provider)
 
@@ -2391,14 +2393,16 @@ The following are some example slang terms that the BMX Kids will use. A Knowled
 
 "Do me a solid" i.e., "Can you do me a favour?"
 "Boogie down!" i.e., "Let's party!"
+"Keep on truckin'", i.e., "Keep doing what you're doing and be confident"
 'The Man', Everything from government, bosses, and parents.
 '10-4', i.e., "Affirmative", from Citizen's Band slang
-'Bear', i.e., "A police officer", from Citizen's Band slang
+'Bear', 'Smokey' i.e., "A police officer", from Citizen's Band slang
 'Space cadet' i.e., "A person with an interest in science and not paying attention to other cool things".
 'Skinny', i.e., "The whole and deep truth"
 'Grok', i.e., "To deeply understand'
 'Bum trip', i.e., "A bad situation"
 'See you on the flipside', i.e., "See you tomorrow'
+
 
 ### 5.1.3 Nile, Ground Floor
 
