@@ -743,11 +743,11 @@ It's time for the Olympus in the big city! The Centaurs are present with their t
 
 The Chimera is a mythological creature initially described as coming from Asia minor and originally a singular being, although that is a lot less fun in a fantasy setting. Accoridng to Homer it has "a thing of immortal make, not human, lion-fronted and snake behind, a goat in the middle, and snorting out the breath of the terrible flame of bright fire", and using some versions here, it is the goat's head that breathes fire. The original chimera was apparently from Mount Chimaera in contemporary Turkey which appropriately has permanent gas vents and fire. This serves well with the theme that some high-powered sorcerer has the notion in their head in building a large number of such beasts. 
 
-The Chimera is highly adaptable to mountains and plains. An omnivore, it is as sure-footed as the goat, it has the strength of the lion, and the ambush strikes of the serpent. Fortunately when it comes to social organisation the snake dominates and it is typically found alone. As an asexual and created creature is does not mate. A chimera has a lifespan of around 15 years, reaching maturity at 3 years. 
+The Chimera is highly adaptable to mountains and plains. An omnivore, it is as sure-footed as the goat, it has the strength of the lion, and the ambush strikes of the serpent. Fortunately when it comes to social organisation the snake dominates and it is typically found alone. As an asexual and created creature is does not mate. A chimera has a lifespan of around 15 years, reaching maturity at 3 years. There is, however, one major disadvantage that the Chimera has that PC Adventurers may be able to take advantage of; the three heads are of independent mind and sometimes can be quite contrary to each other with problematic results.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +20 to +45	| Profession	 | Ranger |
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
@@ -756,16 +756,24 @@ The Chimera is highly adaptable to mountains and plains. An omnivore, it is as s
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +2       | +3       |           | +5         |
-| Athletics (stamina) | +20 to +45 | +1	|	    | +21 to +46 |
-| Melee 	| +20 to +45 | +1	|	    | +21 to +46 |
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
+A Chimera's claws do x2 damage and does its bite. The Chimera's snake bite attacks with a venom of STR 15. The goat's fire breath is a bolt that has a base range of 10m and does x2 damage. 
 
-Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
+*A Chimera story*
 
+A particular variety of cannibis grows on top of a rugged hill that can cure the Caliph's young son of a the mental affliction of pica, where they eat pretty much anything but especially those things which have no nutritional content (e.g., clay). The PC Adventurers are charged with the task of recovering a sufficient quantity of the special herb. The unfortunate journey involves dealing with a band of fanatical assassins at the foot of the hill who are under the control of the Chimera, who is rather fond of its special stash. The Chimera, Nouapó Pétra, whilst a deadly opponent, has become quite philosophical due to its consumption of its favourite herb, and will offer a riddle game to each PC Adventurer for access to the plant - and if the PCs lose, it will eat them (of course). The riddles are those of a typical stoner, for example:
 
+"If the universe is constantly expanding, what's it expanding into?"
+"Is the S or C silent in scent?"
+"If there's an exception to every rule, is there an exception to that rule? What is it?"
+"If a mirror's reflection reverses right and left, why doesn't it reverse up and down?"
 
-A Chimera story
+Any satisfactory answer (and the Chimera is hard to satisfy; a mental successful attack will be required, "mind blowm"). Obviously, the Chimera speaks with a sixties hippie drawl.
 
 **Cockatrice**
 
