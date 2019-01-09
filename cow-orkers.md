@@ -845,9 +845,9 @@ A Djinni story
 
 **Dragon**
 
-The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence. 
+The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, and those of Hellenic and Slavic backgrounds often have multiple heads, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence, knowledge, and magic. 
 
-European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. 
+European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence. 
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
