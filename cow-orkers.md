@@ -637,9 +637,11 @@ Apart the obvious uses from their fur and meat, in a fantasy environment one can
 
 A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married off to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required. To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time (1 week per point of Giant Beaver STR). The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who also realise its economic value.
 
-**Basilisk**
+**Basilisk and Cockatrice**
 
-The Basilisk as a thoroughly mythological creature, with an early account from Pliny the Elder. Found in Northern Africa, the Basilisk is described as a serpent (later bestiaries gave it legs), "being not more than twelve fingers in length", that is so noxious it destroys shrubs by its breath, and even breaks stones. The venom of the Basilisk is ranged, and even worse still, it can kill with its gaze. A basilisk is born of a serpent's hatched by a rooster and its evil disposition is possibly due to this unusual parentage. According to legend the crowing of a rooster will kill as basilisk, but this would mean that the young would have a very short lifespan. Appropriately for the comic value of *Papers & Paychecks*, the crowing of a rooster will send a Basilisk into a panic and it will flee whenever it hears one; such is its fear of being scolded by its known parent.
+The Basilisk as a thoroughly mythological creature, with an early account from Pliny the Elder. Found in Northern Africa, the Basilisk is described as a serpent (later bestiaries gave it legs), "being not more than twelve fingers in length", that is so noxious it destroys shrubs by its breath, and even breaks stones. The venom of the Basilisk is ranged, and even worse still, it can kill with its gaze. A basilisk is born of a serpent's hatched by a rooster (or even a rooster's egg hatched by a serpent) and its evil disposition is possibly due to this unusual parentage. According to legend the crowing of a rooster will kill as basilisk, but this would mean that the young would have a very short lifespan. Appropriately for the comic value of *Papers & Paychecks*, the crowing of a rooster will send a Basilisk into a panic and it will flee whenever it hears one; such is its fear of being scolded by its known parent.
+
+The European subspecies of the Basilisk is the Cockatrice. These charming variants also have wings, which just adds to the pain. 
 
 Famously, the only natural enemy of the Basilisk is the weasel. The weasel is capable of rapid movement, dodging the the gaze of the Basilisk, and is also immune the Basilisk's venom. Unfortunately for the Basilisk, it is not immune to the urine of the weasel, which acts as both an antidote to the Basilisk venom and also as a poison to the Basilisk; "so true is it that it has pleased Nature that there should be nothing without its antidote".
 
@@ -775,21 +777,6 @@ A particular variety of cannibis grows on top of a rugged hill that can cure the
 
 Any satisfactory answer (and the Chimera is hard to satisfy; a mental successful attack will be required, "mind blowm"). Obviously, the Chimera speaks with a sixties hippie drawl.
 
-**Cockatrice**
-
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Cockatrice
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
-
-A Cockatrice story
 
 **Couatl**
 
@@ -858,17 +845,28 @@ A Djinni story
 
 **Dragon**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Dragon
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence. 
+
+European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. 
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
 
 A Dragon story
 
