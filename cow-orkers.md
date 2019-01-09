@@ -241,7 +241,7 @@ Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
 
-Description: The Fighter is any number of warrior professions whose job it is to live by bashing things and to die by bashing things and hence their nickname as "meat shields", meaning they should stay at the front of the battle and hit things and be hit. In the quasi-European-medieval-Tolkien-Conan soup that is Generic Fantasy RPGs this role is so important that they often find themselves in a leadership role both within parties or for societies as a whole. A careful obsever will notice that Fighters are the only profession that can reach the giddy heights of owning land and title (but see Cleric, below).
+Description: The Fighter is any number of warrior professions whose job it is to live by bashing things and to die by bashing things, hence their nickname as "meat shields", meaning they should stay at the front of the battle and hit things and be hit. In the quasi-European-medieval-Tolkien-Conan soup that is Generic Fantasy RPGs this role is so important that they often find themselves in a leadership role both within parties or for societies as a whole. A careful obsever will notice that Fighters are the only profession that can reach the giddy heights of owning land and title (but see Cleric, below).
 
 | Level | Wage     | Perks			|
 |-------|----------|----------------------------|
@@ -326,7 +326,7 @@ Prime Requisite: Perception
 Starting Age: 15+2d4
 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
 
-Description: Eschewing the comforts of civilisation in favour of the rough and rugged lifestyle of a leaky shack, a few old skins for blankets, and an astounding lack of personal hygeine, the Ranger is a well-known kook who lives away from most other people in preference to the company of wild beasts, which inevitably leads to many jokes about their sexual preferences. This is not helped by the fact that a great number of their perks are based around seemingly magical abilities to establish friendships with animals and communicate with them. Stil, jokes aside, the Ranger is definitely the go-to person if you want to need to travel through dangerous wilds - and there is plenty of that in the Generic Fantasy world.
+Description: Eschewing the comforts of civilisation in favour of the rough and rugged lifestyle of a leaky shack, a few old skins for blankets, and an astounding lack of personal hygeine, the Ranger is a well-known kook who lives away from most other people in preference to the company of wild beasts, which inevitably leads to many jokes about their sexual preferences. This is not helped by the fact that a great number of their perks are based around seemingly magical abilities to establish friendships with animals and communicate with them. Still, jokes aside, the Ranger is definitely the go-to person if you want to need to travel through dangerous wilds - and there is plenty of that in the Generic Fantasy world.
 
 | Level | Wage     | Perks		|
 |-------|----------|--------------------|
@@ -726,7 +726,7 @@ As with horses, centaurs are foraging herbivore herd animals preferring open pla
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-8      |  -4 to -1  	| Movement (running)| 10-15 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	     | Wounds (Mental)   |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
@@ -741,17 +741,29 @@ It's time for the Olympus in the big city! The Centaurs are present with their t
 
 **Chimera**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Centaur
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+The Chimera is a mythological creature initially described as coming from Asia minor and originally a singular being, although that is a lot less fun in a fantasy setting. Accoridng to Homer it has "a thing of immortal make, not human, lion-fronted and snake behind, a goat in the middle, and snorting out the breath of the terrible flame of bright fire", and using some versions here, it is the goat's head that breathes fire. The original chimera was apparently from Mount Chimaera in contemporary Turkey which appropriately has permanent gas vents and fire. This serves well with the theme that some high-powered sorcerer has the notion in their head in building a large number of such beasts. 
+
+The Chimera is highly adaptable to mountains and plains. An omnivore, it is as sure-footed as the goat, it has the strength of the lion, and the ambush strikes of the serpent. Fortunately when it comes to social organisation the snake dominates and it is typically found alone. As an asexual and created creature is does not mate. A chimera has a lifespan of around 15 years, reaching maturity at 3 years. 
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +20 to +45	| Profession	 | Ranger |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +2       | +3       |           | +5         |
+| Athletics (stamina) | +20 to +45 | +1	|	    | +21 to +46 |
+| Melee 	| +20 to +45 | +1	|	    | +21 to +46 |
+
+
+Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
+
+
 
 A Chimera story
 
