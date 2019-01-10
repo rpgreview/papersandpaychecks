@@ -777,7 +777,6 @@ A particular variety of cannibis grows on top of a rugged hill that can cure the
 
 Any satisfactory answer (and the Chimera is hard to satisfy; a mental successful attack will be required, "mind blowm"). Obviously, the Chimera speaks with a sixties hippie drawl.
 
-
 **Couatl**
 
 Characteristic	Value	Bonus		
