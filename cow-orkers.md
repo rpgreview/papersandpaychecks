@@ -568,7 +568,7 @@ INT 13 (+1), WIS 18 (+4), CHA 13 (+1), I+3 N+2 F+4 J+2 (Counsellor)
 A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues.
 
 # 3.0 More Non-Player Characters
-
+   
 # 3.1 Characters
 
 **Charles The Tall**
