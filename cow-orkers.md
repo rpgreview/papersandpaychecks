@@ -81,7 +81,6 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is alread an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead. Hobbies can also be used to replace professionally acquired skills, i.e., they always costs 1 Skill Point.
 
-
 Section 1.6, under character class backgrounds where it reads "Perception", this should be "Sense (various)"
 
 p28 - Intellect Fortress appears twice with two different descriptions
@@ -846,9 +845,9 @@ A Djinni story
 
 The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, and those of Hellenic and Slavic backgrounds often have multiple heads, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence, knowledge, and magic. 
 
-European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically* I'm a ebevore", they will explain.
+European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically* I'm a ebevore", they will explain, wondering why people want to put them to the sword.
 
-In start contrast the Indo-Asiatic dragons have innate transformation powers (use the *Papers & Paychecks* bestiary) and are powerful magic users, with a particular propensity towards water-based creatures and water-magic and weather control by a matter of preference. Their wealth is measured in terms of knowledge. Those of a wicked disposition are destructive; their "hoard", so to speak, is the fearful compliance of their subjects, whereas others are satisfied with just respect. Many people of such regions believe that dragons are responsible for creating the first kingdoms and the rulers (if not all people) are descended from dragons. Indian dragons in particular are also sometimes multi-headed. The greatest annoyance of India-Asiatic dragons, apart from the capacity to trick everyone into carrying out their agenda, is their propensity to speak in riddles.
+In start contrast the Indo-Asiatic dragons have innate transformation powers (use the *Papers & Paychecks* bestiary) and are powerful magic users, with a particular propensity towards water-based creatures and water-magic and weather control by a matter of preference. Their wealth is measured in terms of knowledge. Those of a wicked disposition are destructive; their "hoard", so to speak, is the fearful compliance of their subjects, whereas others are satisfied with just respect. Many people of such regions believe that dragons are responsible for creating the first kingdoms and the rulers (if not all people) are descended from dragons. Indian dragons in particular are also sometimes multi-headed. The greatest annoyance of India-Asiatic dragons, apart from the capacity to trick everyone into carrying out their agenda, is their propensity to speak in inscrutible riddles.
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1986,6 +1985,7 @@ In North Korea there is one official source of television news, Korean Central T
 
 <img src="https://imgs.xkcd.com/comics/tabletop_roleplaying.png" />
 
+
 ## 4.3 Boss-Level Secrets
 
 In the core rulebook there is an extensive section for advising The Boss on how to keep player-character workers in line whilst at the same time generating an interesting story of action and adventure. Alas, sometimes The Boss finds themselves being berated and bullied into submission by their players whilst at the same time plot outcomes seem to unreasonably favour the PCs. Well, it is time for you to take back control. It is time for you to be The Boss, with the definite article, and start shouting in German because life is short and terrifying. Shout it! Bist du unterm Pantoffel stehen?! See, you feel better already. Now, let's take back control of the game whilst *pretending* that you haven't and creating an entertaining story tha that players will think is of their own creation. This is *The Secrets of Being The Boss*.
@@ -2039,6 +2039,52 @@ In another sense however they are not real. That is, all their activities remain
 Under almost no circumstances however, will the monsters reveal themselves, and to a degree they probably can't - their perception is called "Extra Sensory Perception" for a reason. They are, in a sense, "spiritual machines" and created from their presence with humans. With the exception of voice-controlled devices, even communication between monsters and humans takes the appearance of "voices in one's head", and we know how people who make such claims are treated. Of course, exceptions do exist (c.f., Garry the Gazebo) but again such a revelation is stories which no person would believe, and those who claim otherwise would be justly ridiculed.
 
 The literary genre to apply, albeit often in a comic manner in *Papers & Paychecks*, is that of 'magical realism'. Whilst it is common among fictional genres for their to be some furious debate about such terms in this context it follows the expression found in writers like Gabriel García Márquez (_One Hundred Years of Solitude_) and Salman Rushdie (_Midnight's Children_). In these novels, from the protagonist's perspective, the world is certainly magical. But the expression of this magic is subtle, and subjective. From an objective viewer, various events may have a dramatic quality about them, but they are certainly realistic. Keep that spirit in *Papers & Paychecks*.
+
+**Magic Realism Plot Seeds**
+
+As just mentioned the "monsters" of *Papers & Paychecks* are an example of "magical realism", set in a contemporary environment but with events so strange pushing the borders of acceptable realism. This can be pushed further from just the 'monsters' to narrative devices themselves. If a Boss is short of a plot device there is a very handy Twitter account, Magic Realism Bot (`https://twitter.com/MagicRealismBot`), which through a combination of words and functions produces strange and often curiously insightful sentences that can form wondrous plot devices. Written by Chris and Ali Rodley, the Magic Realism bot, "take[s] a structure or practice (a map, a library, a labyrinth, writing a novel, falling in love, death by firing squad), find its underlying goal or purpose, then exaggerate the structure or practice ad absurdum so that it overfulfils it."
+
+For your convenience, a small selection is provided here of some favourite examples culled from the Twitter account that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario.
+
+* A swan made of rubies is born in Silicon Valley.
+* During the middle of the night all the belts in Madagascar suddenly vanish.
+* A Trojan doctor finds a telescope which lets her see every ice cream cone on earth.
+* A nun is reading a long lost book of Hegel on the subject of compasses.
+* The body of an emperor is found in a cathedral. Next to it is a dead cat and a broken telescope. Can you explain what happened?
+* A Turkish politician walks into a forest and discovers an ash tree made of the One Percent.
+* A French astronomer has a rare gift: She can understand the language of carnations.
+* A screenwriter owns a diamond that allows her to read every treatise in Constantinople at the same time.
+* A dictionary whispers to a doctoral student: "I wish I was a cinnamon roll."
+* A book collector finds a handwritten book containing instructions for building a pyramid out of Stradivarius violins.
+* There is a cyclone in Germany. It is made of razor blades.
+* A detective novel in which the killer is revealed to be a gold mine.
+* A medieval murderer plants a seed which grows into a chrysanthemum made of mathematics.
+* A frozen maze covers the whole of Kiev. A Janet Jackson CD is in the centre.
+* Solve this mystery: A solicitor is found murdered in a maze. Beside her is a love letter and an ostrich.
+* A quantum physicist imagines a grain of sand that can destroy the laws of thermodynamics, and devotes her life to finding it.
+* A 16-year-old Young Adult writer owns a crystal ball that lets him sense the presence of forgetting.
+* A post office is haunted by the ghost of a 14th century architect. He was murdered by a Galapagos tortoise.
+* A sentient gondola walks the streets of Shanghai. On New Year's Eve it places a torture chamber into every little girl's mind.
+* At dusk a message is written in the sky in flying spiders. It reads: "Stop."
+* A gas station is haunted by the ghost of a Madagascan king. He carries a tiny clockwork device in his hands.
+* A sweet potato starts talking to you. It says: "Beware of the colour violet."
+* Three novelists meet once a year on top of a frozen mountain to decide the fate of the children of earth.
+* At dawn miniature cobras roam the streets of Sao Paulo.
+* Ninety-nine professors join forces to defeat a witch.
+* An Iraqi congresswoman has sexual intercourse with a book.
+* A witch is plotting to steal every Siamese cat in Wales.
+* A Latvian child owns a crystal ball that gives him complete understanding of history.
+* A magical cathedral whispers to a witch: "I feel so weary."
+* There is an ATM in Calcutta where you can withdraw pigeons.
+* A Croatian sorcerer owns a lighthouse that is filled with greed.
+* A dental hygienist is cutting up carrots in a cemetery. She is thinking about arthritis. An elf is checking Facebook behind her.
+* At the stroke of midnight a poem is inscribed on a bronze tablet. It reads: "I'm in love with you."
+* A rifle range is haunted by the ghost of a Polish quantum physicist. He keeps repeating an odd phrase: "The serene Barbie doll is vomiting."
+* A secret society of nuns imagine a wedding ring into existence.
+* A factory in Silicon Valley produces vast quantities of nihilism.
+* A learned society of mathematicians meet once a year inside a ruined synagogue to decide the fate of life on earth.
+* There is a library in the Forbidden City where you can borrow unicorns instead of books.
+
 
 # 5.0 Alternate Settings and Scenarios
 
