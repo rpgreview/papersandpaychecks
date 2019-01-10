@@ -846,12 +846,14 @@ A Djinni story
 
 The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, and those of Hellenic and Slavic backgrounds often have multiple heads, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence, knowledge, and magic. 
 
-European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence. 
+European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically* I'm a ebevore", they will explain.
+
+In start contrast the Indo-Asiatic dragons have innate transformation powers (use the *Papers & Paychecks* bestiary) and are powerful magic users, with a particular propensity towards water-based creatures and water-magic and weather control by a matter of preference. Their wealth is measured in terms of knowledge. Those of a wicked disposition are destructive; their "hoard", so to speak, is the fearful compliance of their subjects, whereas others are satisfied with just respect. Many people of such regions believe that dragons are responsible for creating the first kingdoms and the rulers (if not all people) are descended from dragons. Indian dragons in particular are also sometimes multi-headed. The greatest annoyance of India-Asiatic dragons, apart from the capacity to trick everyone into carrying out their agenda, is their propensity to speak in riddles.
 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
