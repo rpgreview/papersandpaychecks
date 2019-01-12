@@ -68,6 +68,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 6.0 Appendicies
 6.1 Source and Inspirational Material
+6.2 Combined Charts and Tables
 
 # 0.0 Introduction
 
@@ -3628,12 +3629,97 @@ http://content.time.com/time/magazine/article/0,9171,746859,00.html
 
 # 6.0 Appendicies
 
-# 6.1 Source and Inspirational Material
+## 6.1 Source and Inspirational Material
 
 John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
 
 Roger E. Moore, Tucker's Kobolds, Dragon 127
 https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf
+
+Terry Pratchett and Phil Masters, GURPS Discworld, Steve Jackson Games, 1998
+
+## 6.2 Combined Charts and Tables
+
+MBTI	Kiersey Role Variant	Kiersey Descriptives
+ESFJ	Provider	Concrete, Logistical, Supporting, Supplying
+ISFJ	Protector	Concrete, Logistical, Supporting, Securing
+ESTJ	Supervisor	Concrete, Logistical, Regulating, Enforcing
+ISTJ	Inspector	Concrete, Logistical, Regulating, Certifying
+ESFP	Performer	Concrete, Tactical, Improvising, Demonstrating
+ISFP	Composer	Concrete, Tactical, Improvising, Synthesizing
+ESTP	Promoter	Concrete, Tactical, Expediating, Persuading
+ISTP	Crafter		Concrete, Tactical, Expediating, Instrumenting
+ENFP	Champion	Abstract, Diplomatic, Mediating, Motivating
+INFP	Healer		Abstract, Diplomatic, Mediating, Concilliating
+ENFJ	Teacher		Abstract, Diplomatic, Developing, Educating
+INFJ	Counsellor	Abstract, Diplomatic, Developing, Guiding
+ENTP	Inventor	Abstract, Rational, Costructing, Devising
+INTP	Architect	Abstract, Rational, Constructing, Designing
+ENTJ	Fieldmarshal	Abstract, Rational, Arranging, Mobilizing
+INTJ	Mastermind	Abstract, Rational, Arranging, Entailing
+
+
+2	Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge 1, Hobby 1, Perception 1, Pilot 1, Carousing 1
+3-5	Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1
+6-8	Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1
+9-11	Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1,
+12	Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1
+
+Strength Based Skills
+Athletics (Strength)., Athletics (stamina)., Climb., Intimidate., Jump., Melee., Swim
+
+Intelligence Based Skills
+Craft (computing)., Craft (chemical)., Craft (pharmaceutical)., Craft (writing)., Investigate., Knowledge (Arts)., Knowledge (Laws)., Knowledge (sciences)., Knowledge (philosophy)., Knowledge (general)., Language (various)
+
+Wisdom Based Skills
+Administration., Concentration., Gamble., Hobby., Profession., Survival
+
+Dexterity Based Skills
+Craft (electronic)., Craft (mechanical)., Craft (structural)., Craft (visual art)., Firearms., Gymnastics., Missiles., Pilot., Ride., Sleight., Stealth
+
+Perception Based Skills
+Insight., Sense (various)
+
+Charisma Based Skills
+Act., Carousing., Bully., Inspire., Lie., Seduce
+
+Labourer
+Prime Requisite: Strength Starting Age: 15+1d4 Profession Skills: Athletics (Strength), Athletics (Stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various)
+
+Scientist
+Prime Requisite: Intelligence Starting Age: 15+3d4 Profession Skills: Craft (Computing), Craft (chemical), Craft (pharmaceutical), Craft (writing), Investigate, Knowledge (Sciences), Knowledge (Philosophy), Knowledge (General), Language (various)
+
+Administrator
+Prime Requisite: Wisdom Starting Age: 15+1d6 Profession Skills: Craft (Computing), Knowledge (General), Administration, Profession, Sleight, Concentration, Sense (various), Act, Lie
+
+Tradesperson
+Prime Requisite: Dexterity Starting Age: 15+1d6 Profession Skills: Craft (electronic), Craft (mechanical), Craft (structural), Profession, Knowledge (Science), Knowledge (General), Carousing, Concentration, Sense (various)
+
+Researcher
+Prime Requisite: Perception Starting Age: 15+2d4 Profession Skills: Investigate, Knowledge (General), Knowledge (Arts), Knowledge (Laws), Knowledge (Sciences), Knowledge (Philosophy), Concentration, Insight, Sense (various)
+
+Manager
+Prime Requisite: Charisma Starting Age: 15+3d4 Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
+
+Prime Requisite: Strength
+Starting Age: 15+1d4
+Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
+
+
+Ranger
+Prime Requisite: Perception
+Starting Age: 15+2d4
+Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
+
+* Normal attack, normal defense.
+* Damaging attack, +1x damage, x0.5 defense.
+* Defensive stance, no attack, x1.5 defense. 
+* Beserk attack, x1.5 attack, x0.5 defense. 
+* Damage reduction, x0.5 attack, -1x damage.
+
+
+For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x. Determine whether the damage is *wounds* or *bruises*. For physical weapons, 'bashing' weapons cause *bruises*, whereas impaling, stabbing, explosive, shredding, burning, eviscerating, and basically anything that gets under the skin, causes wounds.
+
 
 
 # Publishing
@@ -3644,5 +3730,5 @@ In 2017 this game became a reality, a 128 page book with artwork from Dan 'Smif'
 
 *Cow-Orkers in the Scary Devil Monastry* is the first supplement for *Papers & Paychecks*, there are new character classes, new equipment, new NPCs, new settings (fantasy, noir), and new scenarios, including "Keep Our Borderlands", "The Palace of the Electrum Princess", and "Camp 22".
 
-
-
+“I have to say, this game has some solid mechanics for a game based on a joke”. 
+- Dan Davenport
