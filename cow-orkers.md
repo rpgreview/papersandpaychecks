@@ -899,65 +899,85 @@ A Dragon story
 
 **Dryad**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Dryad
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 A Dryad story
 
 **Dwarf**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Dryad
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 A Dwarf story
 
 **Efreet**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Dryad
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 An Efreet story
 
 **Elemental**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Dryad
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 An Elemental story
 
