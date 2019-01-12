@@ -776,7 +776,7 @@ Any satisfactory answer (and the Chimera is hard to satisfy; a mental successful
 
 **Daemon**
 
-Daemons are part of the mythology of the ancient world; Greece, Egypt, Mesoptamia, and the Levant. In this form they are usually considered intermediary spirits that can inspire or advise mortals through possession. They are not full personalities but rather a mode of activity. One is possessed by a Muse, but that provides a creative energy, rather than the possession of a ghost (q.v.). Most famously Socrates was possessed by a daemon that demanded that he use his conscience! That of course led to all sorts of trouble. In *Fantasy Papers & Paychecks* daemons can exist for any variety of obessive behaviours that may be less than helpful, but never directly malevolent as such. Daemons are often formed from heroic personalities; whether or not the daemons possessed the hero or are a residual of their life is a matter for the priests to determine. 
+Daemons are part of the mythology of the ancient world; Greece, Egypt, Mesoptamia, and the Levant. In this form they are usually considered intermediary spirits that can inspire or advise mortals through possession. They are not full personalities but rather a mode of activity. One is possessed by a Muse, but that provides a creative energy, rather than the possession of a ghost (q.v.). Most famously Socrates was possessed by a daemon that demanded that he use his conscience! That of course led to all sorts of trouble. In *Fantasy Papers & Paychecks* daemons can exist for any variety of obessive behaviours that may be less than helpful, but rarely directly malevolent as such. Daemons are often formed from heroic personalities; whether or not the daemons possessed the hero or are a residual of their life is a matter for the priests to determine. 
 
 As they are spiritual creatures Daemons have no STR or DEX characteristics. Their movement is based on their INT. Their low WIS is a reflection of their single-mindedness, and the low CHA a lack of communicative reason. When attacking to possess a Daemon will use its INT to engage in a series of mental attacks causing bruises; if a character is reduced to 0 bruises the demon will possess the character, and they will gradually heal with the daemon within them. The daemon will typically continue ensure subject's mental bruises are kept at a level to retain functionality, but not high enough to break free of the daemon's control.
 
@@ -798,7 +798,29 @@ As they are spiritual creatures Daemons have no STR or DEX characteristics. Thei
 
 For examples of how such a daemon could play out see *The Whole Truth*, an episode of 'The Twilight Zone', or in a more contemporary form, the film *Liar Liar* starring Jim Carrey. 
 
+**Demon**
 
+Deriving from the malevolent form of *daemons* (q.v.) the demons of traditional Christianity and Islam (but less so in Judiasm) retain the possession capabilities of the traditional daemon but with the added bonus of having complete personalities in addition to their general maleficence. Powerful beings they are often under control of a Devil or, occassionally, a mortal who has summoned them and bound them to do their bidding. Demons are not as smart as Devils are will usually fulfill an agreement.
+
+The early modern (c1570) book *Ars Goetia*, from the *Clavicula Salomonis Regis* or Lesser Key of Solomon, has an interesting list of some seventy-two demons divided into Kings, Dukes, Marquises, Presidents, Princes, and Counts. It from this registry that the SPI game "Demons" and the list in the fantasy FRPG *DragonQuest* (1980), at least in the first and second editions.
+
+Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-material form. They may transition between material and non-material forms in the course of a round. They will have a variety of attack and defense forms based on their level and form, which is quite unique, and which the aforementioned sources may assist. Rules for summoning and binding a demon are given under the Wizard character class. The statistics given are for a "general" servitor demon, rather than one of rank.
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  3-18    	|  -4 to +4		| Profession	 | Wizard |
+| Intelligence	    |  3-18     |  -4 to +4    	| Level	         | 1	 |
+| Wisdom 	    |  3-18 	|  -4 to +4  	| Movement (running)| 6 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Possess	| -4 to +4 | +1		| +0	    | -3 to +5	 |
+| Knowlege (General) | -4 to +4 | +1		| +0	    | -3 to +5	 |
+
+*A Demon story*. Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong.
 
 **Devil**
 
