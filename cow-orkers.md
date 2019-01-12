@@ -574,22 +574,32 @@ A bottle of gin from the Levant, made from juniper berries grown near the Sea of
 **Charles The Tall**
 
 Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Administrator
-Intelligence	1	-5	Level	3
-Wisdom		1	-5	Movement 	5
+Strength	9	-1	Profession	Administrator, Wizard
+Intelligence	14	+2	Level	3 3
+Wisdom		16	+3	Movement 	5
 Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
+Perception	12	+1	Wounds (Mental)	
 Charisma	4	-3	Wounds (Social)	
 Skill	Char	Train	Other	Total
 Climb	-5	+1		-4
 Melee	-5	+0		-5
 Sense (Hearing)	+0	+1		-1
 
-By Daniel Callahan
+*by Daniel Callahan and Lev Lafayette*
 
-Charles the Tall Intern appeared one day at the coffee machine, emptied the pot into a massive cup, slew a kobald, and went back to his desk. There, he sits all day planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
+Charles the Tall started their career as an intern in a legal firm. They are fairly competent at their job, and are becoming especially good at strategy and logistics for the firm that we works for. This seems to be a direct result of the the inordinate amount of time that they spend at their desk planning planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
 
-That was three years ago. Since then, Charles the Tall's behavior has not changed, although his shoulders are more slumped, and he visits the Little Adventurer's Room more regularly.
+The reason for Charles' unusual behaviour is that one day they visited the coffee machine, emptied the pot into a massive cup, and accidentially fell down a portal to a fantastic world where he was set upon by a kobold who rather fancied the cut of his jib. Charles was not about to take this from the monster and managed to kill the kobold with his bare hands. 
+
+After defeating the kobold he met an elderly woman who said that the kobold had been thieving off her for years and Charles began to learn about the strange and fantastic world that he had found himself in, with kobolds and elves and dragons and many other wondrous beasts. Curiously, at least to is perception, he found that they could all speak English - or rather the universe had decided that he could speak 'Common'. 
+
+Then, one day, another portal appeared underneath Charle's feet and he found himself back exactly where he was before, coffee cup still in hand. Since then Charles has had several visits to the fantast world and at each visit there has been no change in time from his previous departure. He has a peculiar situation where he is learning and experiencing at twice the speed of normal people who are trapped in a single universe. 
+
+It is however taking quite a toll on his mind, as Charles is not entirely sure which reality is "real" and which one he should treat as a dream. Also, as he is taken out and taken in to the two realities apparently at random, Charles is a little on-edge in preparation for these sudden changes. There is also the moral quandry he has with informing his now two partners, one on each world, and how he can explain that there's someone else in his life, but they're in another universe, or maybe it's a dream.
+
+Since his initial visit three years in the past, Charles The Tall has become an adviser to the Elf King whose lands are being encroached upon by neighbouring humans. Charles has made use of his engineering and logistic skills to develop seige weapons in the forest against these invaders and as a result has become well-known in the Elven lands.
+
+Charles The Tall serves are an illustrative example of how you can introduce existing *Papers & Paychecks* characters into a *Fantasy Papers & Paychecks* environment.
 
 **Chiron, Greek hero and doctor**
 
@@ -823,6 +833,8 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 *A Demon story*. Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong.
 
 **Devil**
+
+Broadly speaking, a Devil is a bodily representation of various cultural and temporal expressions of evil, and thus has varied forms and names. The ancient Egyptian religion has Apep, the giant serpent of chaos, the Zoroastrians had Angra Mainyu, the Buddhists Mara. In the Abrahamic religions Satan is considered to be the Devil, although sometimes other gods are referred to as devils as well (e.g., Beelzebub is originally the name of a Philistine god). In *Fantasy Papers & Paychecks* a devil is the ultimate ruler of the demons as far as they can be ruled within their feudal hierarchy. At any one time there is only "the Devil", but there is always a number of former holders of the title and invariably they would like to have a shot at the top title again. 
 
 Characteristic	Value	Bonus		
 Strength	1	-5	Profession	Devil
