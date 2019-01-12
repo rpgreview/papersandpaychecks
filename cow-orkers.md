@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/group.jpg" />
 
-by Lev Lafayette and Michael Cole with contributions by Fred, Daniel Callahan, and Shaun Hatley
+by Lev Lafayette with contributions by Michael Cole, Fred, Daniel Callahan, Shaun Hatley, and Marg Lewis
 
 ### Playtesters and Reviewers
 
@@ -638,9 +638,7 @@ A local lord has a rather promiscuous and headstrong daughter who is greatly lov
 
 **Basilisk and Cockatrice**
 
-The Basilisk as a thoroughly mythological creature, with an early account from Pliny the Elder. Found in Northern Africa, the Basilisk is described as a serpent (later bestiaries gave it legs), "being not more than twelve fingers in length", that is so noxious it destroys shrubs by its breath, and even breaks stones. The venom of the Basilisk is ranged, and even worse still, it can kill with its gaze. A basilisk is born of a serpent's hatched by a rooster (or even a rooster's egg hatched by a serpent) and its evil disposition is possibly due to this unusual parentage. According to legend the crowing of a rooster will kill as basilisk, but this would mean that the young would have a very short lifespan. Appropriately for the comic value of *Papers & Paychecks*, the crowing of a rooster will send a Basilisk into a panic and it will flee whenever it hears one; such is its fear of being scolded by its known parent.
-
-The European subspecies of the Basilisk is the Cockatrice. These charming variants also have wings, which just adds to the pain. 
+The Basilisk as a thoroughly mythological creature, with an early account from Pliny the Elder. Found in Northern Africa, the Basilisk is described as a serpent (later bestiaries gave it legs), "being not more than twelve fingers in length", that is so noxious it destroys shrubs by its breath, and even breaks stones. The venom of the Basilisk is ranged, and even worse still, it can kill with its gaze. A basilisk is born of a serpent's hatched by a rooster (or even a rooster's egg hatched by a serpent) and its evil disposition is possibly due to this unusual parentage. According to legend the crowing of a rooster will kill as basilisk, but this would mean that the young would have a very short lifespan. Appropriately for the comic value of *Papers & Paychecks*, the crowing of a rooster will send a Basilisk into a panic and it will flee whenever it hears one; such is its fear of being scolded by its known parent. The European subspecies of the Basilisk is the Cockatrice. These charming variants also have wings, which just adds to the pain. 
 
 Famously, the only natural enemy of the Basilisk is the weasel. The weasel is capable of rapid movement, dodging the the gaze of the Basilisk, and is also immune the Basilisk's venom. Unfortunately for the Basilisk, it is not immune to the urine of the weasel, which acts as both an antidote to the Basilisk venom and also as a poison to the Basilisk; "so true is it that it has pleased Nature that there should be nothing without its antidote".
 
@@ -776,37 +774,31 @@ A particular variety of cannibis grows on top of a rugged hill that can cure the
 
 Any satisfactory answer (and the Chimera is hard to satisfy; a mental successful attack will be required, "mind blowm"). Obviously, the Chimera speaks with a sixties hippie drawl.
 
-**Couatl**
+**Daemon**
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Centaur
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+Daemons are part of the mythology of the ancient world; Greece, Egypt, Mesoptamia, and the Levant. In this form they are usually considered intermediary spirits that can inspire or advise mortals through possession. They are not full personalities but rather a mode of activity. One is possessed by a Muse, but that provides a creative energy, rather than the possession of a ghost (q.v.). Most famously Socrates was possessed by a daemon that demanded that he use his conscience! That of course led to all sorts of trouble. In *Fantasy Papers & Paychecks* daemons can exist for any variety of obessive behaviours that may be less than helpful, but never directly malevolent as such. Daemons are often formed from heroic personalities; whether or not the daemons possessed the hero or are a residual of their life is a matter for the priests to determine. 
 
-A Couatl story
+As they are spiritual creatures Daemons have no STR or DEX characteristics. Their movement is based on their INT. Their low WIS is a reflection of their single-mindedness, and the low CHA a lack of communicative reason. When attacking to possess a Daemon will use its INT to engage in a series of mental attacks causing bruises; if a character is reduced to 0 bruises the demon will possess the character, and they will gradually heal with the daemon within them. The daemon will typically continue ensure subject's mental bruises are kept at a level to retain functionality, but not high enough to break free of the daemon's control.
 
-**Demon**
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  0    	|  na		| Profession	 | Daemon |
+| Intelligence	    |  3-18     |  -4 to +4    	| Level	         | 1	 |
+| Wisdom 	    |  3-8     	|  -4 to -1  	| Movement (running)| 3-18 |
+| Dexterity	    |  0     	|  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-8	|  -4 to -1     | Wounds (Social)   |   |
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Demon
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Possess	| -4 to +4 | +1		| +0	    | -3 to +5	 |
 
-A Demon story
+
+*A Daemon story*. Nearly all people talk to themselves, from the rhetorical "where did I put my pants?" after a drunken night, to the 3am outward manifestation of one's inner conversation of the meaning of life (which may lead to the aforementioned comment the following morning). Some consider it a sign of great intelligence if there is no-one else to talk to. Modern science notes that replaying or rehearsing conversations is a early warning signs of potential schizophrenia. However the daemon of outward honesty is different to these versions. This daemons forces the character (roleplay it!) to express their judgemental thoughts about others aloud even, and especially, when they are present, e.g., "My goodness, that hat she's wearing is look's like a magpie's nest", "Does this bore ever shut up?", or "I'd love to get into your pants". As you can imagine having such a daemon could be awkward, but at worst those who know the character will never be in doubt of any possibilty of underhand dealing. 
+
+For examples of how such a daemon could play out see *The Whole Truth*, an episode of 'The Twilight Zone', or in a more contemporary form, the film *Liar Liar* starring Jim Carrey. 
+
+
 
 **Devil**
 
@@ -845,7 +837,7 @@ A Djinni story
 
 The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, and those of Hellenic and Slavic backgrounds often have multiple heads, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence, knowledge, and magic. 
 
-European dragons have a propensity to hoard valuables, especially gold. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically* I'm a ebevore", they will explain, wondering why people want to put them to the sword.
+European dragons are basement-dwellers that have a propensity to hoard valuables. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically*, I'm a ebevore", they will explain, wondering why people want to put them to the sword.
 
 In start contrast the Indo-Asiatic dragons have innate transformation powers (use the *Papers & Paychecks* bestiary) and are powerful magic users, with a particular propensity towards water-based creatures and water-magic and weather control by a matter of preference. Their wealth is measured in terms of knowledge. Those of a wicked disposition are destructive; their "hoard", so to speak, is the fearful compliance of their subjects, whereas others are satisfied with just respect. Many people of such regions believe that dragons are responsible for creating the first kingdoms and the rulers (if not all people) are descended from dragons. Indian dragons in particular are also sometimes multi-headed. The greatest annoyance of India-Asiatic dragons, apart from the capacity to trick everyone into carrying out their agenda, is their propensity to speak in inscrutible riddles.
 
