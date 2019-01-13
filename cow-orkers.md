@@ -2318,8 +2318,11 @@ In North Korea there is one official source of television news, Korean Central T
 
 <img src="https://imgs.xkcd.com/comics/tabletop_roleplaying.png" />
 
+The opportunities for humour in fantasy is rather impressive, and even more than the opportunities from realistic settings. There is a degree of course that the normal world of *Papers & Paychecks* immediately matches with *Fantasy Papers & Paychecks* with sapient items. In *Fantasy Papers & Paychecks* the hidden aspect of items is no longer necessary. A magical world allows for items to be intelligent, active, and often malicious - but now they argue back ("don't worry, many fighters have swords more intelligent than they are", as a certain cartoon in *Dragon* magazine once stated).
 
+Remember "Monster Mythology", a supplement for AD&D2e? Here's the introduction to the back cover blurb.
 
+"Maglubiyet... Blibdoolpoolp... Diinkarazan... Panzuriel... Such names are whispered in the dark on the far side of midnight, or muttered fearfully around jugs of wine when old, scarred adventurers tell their tales."
 
 ## 4.3 Boss-Level Secrets
 
@@ -3939,12 +3942,16 @@ http://content.time.com/time/magazine/article/0,9171,746859,00.html
 
 ## 6.1 Source and Inspirational Material
 
+Henry N. Beard, Douglas C. Kenney, Bored of the Rings, National Lampoon, 1969
+
 John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
 
 Roger E. Moore, Tucker's Kobolds, Dragon 127
 https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf
 
 Terry Pratchett and Phil Masters, GURPS Discworld, Steve Jackson Games, 1998
+
+
 
 ## 6.2 Combined Charts and Tables
 
