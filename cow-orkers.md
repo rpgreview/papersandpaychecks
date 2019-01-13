@@ -872,7 +872,7 @@ A Djinni story
 
 The Dragon is a mythological serpentine creature of various forms appearing in Hellenic, European, Indian, Vietnamese, Chinese, Japanese etc cultures, both as land and sea creatures. The European dragons are often winged and capable of breathing fire, and those of Hellenic and Slavic backgrounds often have multiple heads, whilst the dragons of India and eastwards tend to be thinner, and with spectacular intelligence, knowledge, and magic. 
 
-European dragons are basement-dwellers that have a propensity to hoard valuables. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically*, I'm a ebevore", they will explain, wondering why people want to put them to the sword.
+European dragons are basement-dwellers that have a propensity to hoard valuables. They are, in fact, advocates of a metallic-based currency, especially the gold standard. They will go on for hours about the evils of fractional reserve banking, the damage to purchasing power, that inflation is robbery against those foolish careful savers of fiat currency and so forth. Woe to any who recommend that currency should depreciate at the same rate as physical capital. Keynesians and their ilk will be attacked on sight. Likewise such dragons are also renowned for their taste of young maidens (the younger the better) and they may even quietly mention that attempts to regulate such tastes are surely an act of Statist violence; "*Technically*, I'm a hebevore", they will explain, wondering why people want to put them to the sword.
 
 In start contrast the Indo-Asiatic dragons have innate transformation powers (use the *Papers & Paychecks* bestiary) and are powerful magic users, with a particular propensity towards water-based creatures and water-magic and weather control by a matter of preference. Their wealth is measured in terms of knowledge. Those of a wicked disposition are destructive; their "hoard", so to speak, is the fearful compliance of their subjects, whereas others are satisfied with just respect. Many people of such regions believe that dragons are responsible for creating the first kingdoms and the rulers (if not all people) are descended from dragons. Indian dragons in particular are also sometimes multi-headed. The greatest annoyance of India-Asiatic dragons, apart from the capacity to trick everyone into carrying out their agenda, is their propensity to speak in inscrutible riddles.
 
@@ -2184,17 +2184,22 @@ From actual experience. Proof positive that some things are *for* us, even if th
 "Yeah... don't worry. I know this isn't your fault. And I appreciate you both trying to fix it. And it's a pretty cool story."
 "OK... enjoy your pizzas. Well, some of them anyway."
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession Computer
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 
 **The Telstra Switch**
@@ -2224,17 +2229,22 @@ Telstra: How long have you had the service?
 Me: My grandparents had the phone connected to this address in 1926, my grandmother operated the local telephone exchange from this address until 1968, then we switched over to an automatic exchange 5 km down the road, so my family has had a phone at this address for 92 years.
 Telstra: Oh, there must be a problem our end, I’ll get it fixed and call you back. Do you have a mobile number?
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession Computer
-Intelligence	1	-5	Level	
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 
 # 4.0 Even More Boss and Alternate Settings
@@ -2307,6 +2317,8 @@ In North Korea there is one official source of television news, Korean Central T
 ## 4.2 Fantasy Papers & Paychecks
 
 <img src="https://imgs.xkcd.com/comics/tabletop_roleplaying.png" />
+
+
 
 
 ## 4.3 Boss-Level Secrets
