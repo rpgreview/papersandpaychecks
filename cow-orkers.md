@@ -2137,6 +2137,50 @@ A Troll story
 
 A Unicorn story
 
+**Vampire**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
+A Vampire story
+
+**Zombie**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
+A Zombie story
+
+
+
 ## 3.3 Monsters
 
 **The Pizza Computer** 
@@ -2390,7 +2434,7 @@ The literary genre to apply, albeit often in a comic manner in *Papers & Paychec
 
 As just mentioned the "monsters" of *Papers & Paychecks* are an example of "magical realism", set in a contemporary environment but with events so strange pushing the borders of acceptable realism. This can be pushed further from just the 'monsters' to narrative devices themselves. If a Boss is short of a plot device there is a very handy Twitter account, Magic Realism Bot (`https://twitter.com/MagicRealismBot`), which through a combination of words and functions produces strange and often curiously insightful sentences that can form wondrous plot devices. Written by Chris and Ali Rodley, the Magic Realism bot, "take[s] a structure or practice (a map, a library, a labyrinth, writing a novel, falling in love, death by firing squad), find its underlying goal or purpose, then exaggerate the structure or practice ad absurdum so that it overfulfils it."
 
-For your convenience, a small selection is provided here of some favourite examples culled from the Twitter account that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario.
+For your convenience, a small selection is provided here of some personal favourite examples culled from the Twitter account over the past couple of years that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario.
 
 * A swan made of rubies is born in Silicon Valley.
 * During the middle of the night all the belts in Madagascar suddenly vanish.
@@ -2425,12 +2469,36 @@ For your convenience, a small selection is provided here of some favourite examp
 * A Croatian sorcerer owns a lighthouse that is filled with greed.
 * A dental hygienist is cutting up carrots in a cemetery. She is thinking about arthritis. An elf is checking Facebook behind her.
 * At the stroke of midnight a poem is inscribed on a bronze tablet. It reads: "I'm in love with you."
-* A rifle range is haunted by the ghost of a Polish quantum physicist. He keeps repeating an odd phrase: "The serene Barbie doll is vomiting."
 * A secret society of nuns imagine a wedding ring into existence.
 * A factory in Silicon Valley produces vast quantities of nihilism.
 * A learned society of mathematicians meet once a year inside a ruined synagogue to decide the fate of life on earth.
-* There is a library in the Forbidden City where you can borrow unicorns instead of books.
-
+* A schoolmistress watches a movie about an SQL injection that can destroy the Sun, and sets out to find it.
+* A famous architect designs a mansion made of flowers. But a committee decides it should be built out of concrete instead.
+* There is a hospital in Bengal for sick hailstones.
+* A psychic turns over a tarot card with a pineapple on it. 'Your destiny is to be eaten by a demon,' he says to you.
+* An Assyrian book collector spends her whole life writing a mathematical treatise about trampolines.
+* A monk finds an ancient book containing instructions for building a city out of mussel shells.
+* A pope aims to imprison every pearl in Bangkok.
+* You are convicted of the crime of killing a monster.
+* An Egyptian congresswoman believes it is her destiny to torture UC Berkeley.
+* A bottle of vodka causes anyone who drinks it to stay drunk, forever.
+* A Bolivian book describes a pearl that kills everyone who is handsome.
+* A flight attendant has trapped an ancient Spartan scribe inside a glacier.
+* A stonemason has a recurring dream about being killed by a woolly mammoth. It eventually sends her mad.
+* A rifle range is haunted by the ghost of a Polish quantum physicist. He keeps repeating an odd phrase: "The serene Barbie doll is vomiting."
+* A Babylonian priest writes a textbook that is made out of mirrors.
+* There is a tornado in Addis Ababa. It sucks up locks and keys.
+* A kiwifruit made of emeralds and coral is growing in a Turkish garden. A tsar plots to steal it.
+* A library is haunted by the ghost of a novelist. He carries a bat in his hands.
+* An accountant is murdered. The killer turns out to be a palindrome.
+* An ambitious professor is sentenced to death by a princess for writing an almanac about emeralds.
+* An entrepreneur invents a new form of music based on the movement of kites.
+* An architect in Switzerland is famous for remembering the number Pi
+* Last night I dreamt about chess pieces, hospitals, and a snowflake.
+* A mechanical labyrinth covers the whole of Athens. An undertaker is in the centre.
+* An Albanian book describes a world where everyone is ordinary.
+* The ghost of a child visits a small town in Colorado. On All Hallow's Eve it places spiders into every little girl's mind.
+* A railway station is haunted by the ghost of a Kenyan busboy. He keeps repeating one word: "Puns."
 
 # 5.0 Alternate Settings and Scenarios
 
@@ -2445,7 +2513,9 @@ Ahead, up the slight incline, heading towards Cuba mall of Wellington city, loom
 > Next subject, Kowalski, Leon, engineer, waste disposal, file section, new employees, six days.   
 > -- opening words of Blade Runner
 
-Please note that this scenario for *Papers & Paychecks* refers to a publishing and distribution company called "Nile", which is readily admitted in a a satirical alternative to another company that has a book trade and also a name of a particularly long river. It has nothing to do with the rent company "The Nile" which distributes books online which apparently came after "our" Nile. It seems that once again that reality is imitating fiction. There is also a sideways glance to Borders bookstore which underwent liquidation in 2011, and does not in any way refer to Borderlands Book Store of 866 Valencial Street, San Francisco, which specialises in fantasy, science fiction, mystery, and horror - except to encourage everyone within reasonable distance to go visit them and buy some books; more power to your arm. 
+Please note that this scenario for *Papers & Paychecks* refers to a publishing and distribution company called "Nile", which is readily admitted in a a satirical alternative to another company that has a book trade and also a name of a particularly long river. It has nothing to do with the company "The Nile" which distributes books online which apparently came after "our" Nile written up and playtested. It seems that once again that reality is imitating fiction. 
+
+There is also a sideways glance here to Borders bookstore which underwent liquidation in 2011, and does not in any way refer to Borderlands Book Store of 866 Valencial Street, San Francisco, which specialises in fantasy, science fiction, mystery, and horror - except to encourage everyone within reasonable distance to go visit them and buy some books; more power to your arm. 
 
 **Notes About Borderlands**
 
