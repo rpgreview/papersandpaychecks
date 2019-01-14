@@ -2472,6 +2472,11 @@ For your convenience, a small selection is provided here of some personal favour
 * A secret society of nuns imagine a wedding ring into existence.
 * A factory in Silicon Valley produces vast quantities of nihilism.
 * A learned society of mathematicians meet once a year inside a ruined synagogue to decide the fate of life on earth.
+
+
+* A princess rebuilds Stonehenge out of nuclear reactors.
+* An emperor makes a smoothie out of carrots, plums and mathematics.
+* A college professor in Texas spends her lunch break poisoning cathedrals.
 * A schoolmistress watches a movie about an SQL injection that can destroy the Sun, and sets out to find it.
 * A famous architect designs a mansion made of flowers. But a committee decides it should be built out of concrete instead.
 * There is a hospital in Bengal for sick hailstones.
