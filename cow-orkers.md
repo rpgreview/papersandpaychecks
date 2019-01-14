@@ -62,7 +62,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 4.3 Boss-Level Secrets
 
 5.0 Alternate Settings and Scenarios
-5.1 Scenario: Keep Our Borderlands by Michael Cole
+5.1 Scenario: Keep Our Borderlands
 5.2 Scenario: Palaces of the Electrum Princess
 5.3 Scenario: Camp 22
 
