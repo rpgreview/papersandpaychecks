@@ -2434,8 +2434,32 @@ The literary genre to apply, albeit often in a comic manner in *Papers & Paychec
 
 As just mentioned the "monsters" of *Papers & Paychecks* are an example of "magical realism", set in a contemporary environment but with events so strange pushing the borders of acceptable realism. This can be pushed further from just the 'monsters' to narrative devices themselves. If a Boss is short of a plot device there is a very handy Twitter account, Magic Realism Bot (`https://twitter.com/MagicRealismBot`), which through a combination of words and functions produces strange and often curiously insightful sentences that can form wondrous plot devices. Written by Chris and Ali Rodley, the Magic Realism bot, "take[s] a structure or practice (a map, a library, a labyrinth, writing a novel, falling in love, death by firing squad), find its underlying goal or purpose, then exaggerate the structure or practice ad absurdum so that it overfulfils it."
 
-For your convenience, a small selection is provided here of some personal favourite examples culled from the Twitter account over the past couple of years that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario.
+For your convenience, a small selection is provided here of some personal favourite examples culled from the Twitter account over the past three years or so (yes, gentle reader, I have read all of them) that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario if a Boss is stuck for an plot device. Obviously, some should be interpreted at least somewhat metaphorically, but the opportunity to find the points where metaphor and reality come together is very enticing.
 
+* A Moroccan king dreams exactly the same dream 723 times.
+* Tonight you will dream about telephones, business suits and an ice cube.
+* A hermit meets a lunatic who is building a clockwork device that will fundamentally alter mathematics.
+* At midnight a poem appears in the sky above Cape Town. It reads: "Be kind to grandmothers."
+* A Swiss clinical psychologist establishes a practice that assists silent demons.
+* A sorcerer wants to befriend every carrot in Miami.
+* A monk discovers a treatise by Heidegger on the subject of sandwiches.
+* A boy realises that 20 giant squids are controlling our lives.
+* A math teacher whistles a song. In that time, she lives for 16 years as a tiger.
+* In a mechanical pine forest there is a porcelain beehive.
+* A stone-hearted realtor falls in love with the number Pi.
+* A professor dreams of an art gallery that can destroy the Sun, and becomes obsessed with finding it.
+* There is a secret department in Microsoft that is developing a diamond that can destroy the laws of physics.
+* Solve this mystery: A grandfather is found dead in a library. Beside him is a beret and a dishwasher.
+* A bureaucrat in Ohio is famous for destroying existence.
+* A baron is assassinated. The killer is revealed to be an axolotl.
+* A prime minister distributes sugared almonds to every child in the land. It causes them to think they are a crocodile.
+* A Barbie doll appears in a reptile park. A dentist says: "This is how it ends."
+* A stranger tells you that you are made of Mondays.
+* A bureaucrat falls into a lake filled with keys, and drowns.
+* An office manager opens a shop which sells tropical islands.
+* An archduke dreams of an albatross that can destroy self-sacrifice, and becomes obsessed with finding it.
+* Every artist in Nepal is poisoning swans.
+* A professor is writing a history of Japan which describes a war against umbrellas that took place in 4,890 BC.
 * A swan made of rubies is born in Silicon Valley.
 * During the middle of the night all the belts in Madagascar suddenly vanish.
 * A Trojan doctor finds a telescope which lets her see every ice cream cone on earth.
@@ -2472,8 +2496,10 @@ For your convenience, a small selection is provided here of some personal favour
 * A secret society of nuns imagine a wedding ring into existence.
 * A factory in Silicon Valley produces vast quantities of nihilism.
 * A learned society of mathematicians meet once a year inside a ruined synagogue to decide the fate of life on earth.
-
-
+* A witch is plotting to steal every Siamese cat in Wales.
+* A cold-hearted baron introduces a law that everyone must start dancing.
+* An innkeeper starts a company which sells twilight.
+* A sculptor is sent to jail, where he meets an innocent man who claims to have stolen love.
 * A princess rebuilds Stonehenge out of nuclear reactors.
 * An emperor makes a smoothie out of carrots, plums and mathematics.
 * A college professor in Texas spends her lunch break poisoning cathedrals.
@@ -2481,6 +2507,7 @@ For your convenience, a small selection is provided here of some personal favour
 * A famous architect designs a mansion made of flowers. But a committee decides it should be built out of concrete instead.
 * There is a hospital in Bengal for sick hailstones.
 * A psychic turns over a tarot card with a pineapple on it. 'Your destiny is to be eaten by a demon,' he says to you.
+* A witch has an unusual ability: She can feel the presence of roses.
 * An Assyrian book collector spends her whole life writing a mathematical treatise about trampolines.
 * A monk finds an ancient book containing instructions for building a city out of mussel shells.
 * A pope aims to imprison every pearl in Bangkok.
@@ -2490,6 +2517,7 @@ For your convenience, a small selection is provided here of some personal favour
 * A Bolivian book describes a pearl that kills everyone who is handsome.
 * A flight attendant has trapped an ancient Spartan scribe inside a glacier.
 * A stonemason has a recurring dream about being killed by a woolly mammoth. It eventually sends her mad.
+* A watch creates feelings of regret in everyone who touches it.
 * A rifle range is haunted by the ghost of a Polish quantum physicist. He keeps repeating an odd phrase: "The serene Barbie doll is vomiting."
 * A Babylonian priest writes a textbook that is made out of mirrors.
 * There is a tornado in Addis Ababa. It sucks up locks and keys.
@@ -2504,6 +2532,11 @@ For your convenience, a small selection is provided here of some personal favour
 * An Albanian book describes a world where everyone is ordinary.
 * The ghost of a child visits a small town in Colorado. On All Hallow's Eve it places spiders into every little girl's mind.
 * A railway station is haunted by the ghost of a Kenyan busboy. He keeps repeating one word: "Puns."
+* A boy is painting inside an Egyptian mummy.
+* A mother hears a flute that sounds like insanity.
+* On All Hallow's Eve a poem appears above a Turkish opera house. It reads: "Look for the sign of the crystal rabbit."
+* Thirteen literary critics try to disprove the existence of the future.
+
 
 # 5.0 Alternate Settings and Scenarios
 
