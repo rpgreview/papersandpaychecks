@@ -2159,6 +2159,11 @@ A Vampire story
 
 **Zombie**
 
+The classic Zombi is a magically reanimated corpse from Haiti, the word first recorded in the 19th century, however it has become a very popular staple in science fiction with radiation, viruses, etc as being the source of zombification. There is good evidence that the Haitan zombie has its origins in central, west, and south African legend. Others locate expressions of zombification from Mesopotamia where there is threats of the dead rising to eat the living in the Descent of Ishtar and the Epic of Gilgamesh. As for Lazarus being raised from the dead...
+
+Whilst *Fantasy Papers & Paychecks* encourages the most widespread use of zombies, because they are so much fun, there are some thematic considerations to include. Zombies should be strong, not too quick, and not too bright. They're a bit stiff having been dead for a while, and the brain is quite sluggish too. But they have a dead weight about them and can pack a hell of a punch. Whilst they don't have to breathe or sleep, they do need to eat and lacking in any sort of social mores, they don't mind eating people. They will follow, to the best of their ability, the orders given to them by their creator, and if their creator comes to an unfortunate end they'll try to continue whatever the last order was. If they don't have any orders they'll wander around aimlessley and occasionally eat someone. 
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
