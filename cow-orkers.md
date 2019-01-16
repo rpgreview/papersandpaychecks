@@ -2138,6 +2138,13 @@ A Unicorn story
 
 **Vampire**
 
+Whilst the term itself (originally vampyre) is relatively recent, dating from the eighteenth century, the *concept* of blood-sucking demons in human form that are shapeshifters seems to have a cultural resonance across Europe, Africa, Asia, and even to a lesser extent the Americas. There is a multitude of reasons that the dead rise as a vampires as are the solutions for preventing or destroying a vampire. Courtesy of *Vampire: The Masquerade* (1991), the roleplaying game, a dominant contemporary meme is the concept that vampires are *sired* by an existing vampire draining the blood of a mortal, setting up a generational hierarchy. This seems to a fairly good concept that is acceptable to other mythologies so it's worth keeping in *Papers & Paychecks*, not being at all adverse to copying good ideas from anywhere. Sincere imitation really is flattery.
+
+As undead creatures Vampires do not need to breathe and sleep, although they do need to eat, although their diet is restricted to the species-specific blood that they once were (usually human). Vampires can be killed by a stake (wooden, iron, whatever) through the chest which destroys the heart, or decapitation. Apart from these methods and those which completely destroy the body in entirety, vampires regenerate pretty much any sort of wound [EDIT]. 
+
+Vampires tend to come from the wealthy members of society, partially due to their heretical lifestyle and partially because they have access to ready supply of poor people at hand whose disappearance can number in the scores before suspicions are raised. The other advantage of being wealthy is that Vampires can make a killing (haha) on long-term investments. Some political theorists have recognised this: "Capital is dead labour, that, vampire-like, only lives by sucking living labour, and lives the more, the more labour it sucks" (Karl Marx, Capital, Volume One)
+ 
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
@@ -2155,7 +2162,7 @@ A Unicorn story
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Vampire story
+*A Vampire story*. 
 
 **Zombie**
 
@@ -2181,9 +2188,7 @@ Whilst *Fantasy Papers & Paychecks* encourages the most widespread use of zombie
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Zombie story
-
-
+*A Zombie story*. Isn't the worst sort of Zombie the cute little lost girl who an opportune moment rips your throat out? With famous appearances in *Night of the Living Dead* (1968) and annoyingly typical in the South African variant of the Zombie myth, this little Ishtar delights in the taste of human flesh, but it is very patient and will appear as a confused waif in dire need of rescuing from some terrible tragedy (often enough she's the actual cause of the tragedy). Naturally enough she likes to fight on her own terms and will direct the PC Adventurers into an environment where their weapons are next to useless and she can make best use of her size, such as the oubliette or latrines of old castle. Think of her as Newt but with the cunning of one of the hunting aliens.
 
 ## 3.3 Monsters
 
