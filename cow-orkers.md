@@ -620,6 +620,28 @@ Chiron is a Centaur of Disease Control and advocate of herd immunity.
 
 ## 3.2 Fantasy Bestiary
 
+**Al-Jinn**
+
+Often Anglicised at Djinn, Genie and the like these are ancient demon-like creatures of the Middle-East and northern Africa. They are not necessarily evil, but are spirits that have an insubstantial form (usually humanoid but often enough as animals) and the more poweful ones are not exactly adverse to being worshipped, and not adverse to possession if the need or desire arises. Because of their great power Jinni are appropriately feared although powerful sorcerers sometimes seek to bind them to servitude. Naturally enough Jinni do not approve of being bound in such a fashion but will be relentlessly polite in fulfilling their master's wishes and exacting according to their preferred interpretation of the order provided. They are, in many respects, the ultimate deconstructionalists. There is a famous story of a person who rescues an Jinn bound in an item and it grants the rescuer a wish; like many would the rescuer asks for great wealth. A local Sheikh becomes very angry to discover his treasury has been looted.
+
+> No one gets angry at a mathematician or a physicist whom he or she doesn't understand at all, or at someone who speaks a foreign language, but rather at someone who tampers with your own language, with this 'relation,' precisely, which is yours.  
+-- Jacques Derrida    
+
+Characteristic	Value	Bonus		
+Strength	1	-5	Profession	Djinni
+Intelligence	1	-5	Level	1
+Wisdom	1	-5	Movement (flight)	5
+Dexterity	9	-1	Wounds (Physical)	
+Perception	10-11	+0	Wounds (Mental)	
+Charisma	4	-3	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Climb	-5	+1		-4
+Melee	-5	+0		-5
+Sense (Hearing)	+0	+1		-1
+
+*A Djinni story*. Abu Hasan Zoba'ah is a powerful Jinn king and is associated with Friday which, according to Islamic custom, is supposed to be a day of rest (at least after midday prayers). Being an individual of some piety, this particular Jinn has become very annoyed with people in a particular town going about their business as usual on a day which they believe should be reserved for rest and contemplation. Their plan, in very *Papers & Paychecks* style, is to get their a score of Jinni in town to run amok, upturning trader's carts and so forth. Unfortunately that has created *more* work on this day of rest (c.f. "parable of the broken window") and many of the lesser jinni are quite enjoying causing such problems. Frustrated Abu Hasan Zoba'ah has turned to the PC Adventurers (if through a third party) to get the lesser jinni to behave and have provided special capturing lamps to do (think of the containment units from the film *Ghostbusters* (1984)). Bonus player points to anyone who has the audacity to point out Abu Hasan Zoba'ah that by releasing the jinni to do work on Friday afternoons they were actually contradicting their own principle. 
+
+
 **Beaver, Giant**
 
 Giant Beavers (Castoroides, Trogontherium) is a Pleistocene-period creature that was native to North America and Eurasia respectively which, for all intents and purposes, has the climatic range and is assumed to have behaviour of contemporary beavers. Apart from the obvious difference of size, the Giant Beaver propotionally shorter hind legs, probably a longer and thinner tail, and had larger teeth, and a smaller brain in proportion to size. With a length of around 2m and a weight of over 100kg, Giant Beavers will build dams, canals, and lodges for their homes. Beaver families typically consist of a single adult male and female and their kits. Whilst beaver pairs mate for life if a beaver's mate dies, the survivor will partner with another one. Both the male and female take part in raising offspring and maintenance of the lodge. 
@@ -835,11 +857,23 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 
 **Devil**
 
-Broadly speaking, a Devil is a bodily representation of various cultural and temporal expressions of evil, and thus has varied forms and names. The ancient Egyptian religion has Apep, the giant serpent of chaos, the Zoroastrians had Angra Mainyu, the Buddhists Mara. In the Abrahamic religions Satan is considered to be the Devil, although sometimes other gods are referred to as devils as well (e.g., Beelzebub is originally the name of a Philistine god). In *Fantasy Papers & Paychecks* a devil is the ultimate ruler of the demons as far as they can be ruled within their feudal hierarchy. At any one time there is only "the Devil", but there is always a number of former holders of the title and invariably they would like to have a shot at the top title again. 
+> I went out one spring morning  
+To find myself a friend  
+Someone I could believe in   
+Until the very end  
+I found myself the Devil  
+He was sitting in a bar  
+He bought me fifteen Rum and Cokes  
+And then he went too far  
+-- *The Jazz Butcher*, "The Devil is My Friend"
+
+Broadly speaking, a Devil is a bodily representation of various cultural and temporal expressions of evil, and thus has varied forms and names. The ancient Egyptian religion has Apep, the giant serpent of chaos, the Zoroastrians had Angra Mainyu, the Buddhists Mara. In the Abrahamic religions Satan or Iblis is considered to be the Devil, although sometimes other gods are referred to as devils as well (e.g., Beelzebub is originally the name of a Philistine god, Lucifer originally a Babylonian king). In *Fantasy Papers & Paychecks* a devil is the ultimate ruler of the demons as far as they can be ruled within their feudal hierarchy. At any one time there is only "the Devil", but there is always a number of former holders of the title and invariably they would like to have a shot at the top title again. 
+
+The Devil is a shapeshifter of course and can take the form of pretty much any creature in this book or the core rules. However in their preferred form they appear human (indeed in Tengrism, the shamanic religion of Central Asia, the Devil *is* the first human), albeit with a number of additional features to give themselves that supernatural aesthetic such as great height, goat legs, horns, firey red or black skin, a halo of flames, giant bat wings, and so forth. 
 
 Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Devil
-Intelligence	1	-5	Level	1
+Strength	1	-5	Profession	Wizard, Cleric
+Intelligence	1	-5	Level	10, 10
 Wisdom	1	-5	Movement (flight)	5
 Dexterity	9	-1	Wounds (Physical)	
 Perception	10-11	+0	Wounds (Mental)	
@@ -849,23 +883,7 @@ Climb	-5	+1		-4
 Melee	-5	+0		-5
 Sense (Hearing)	+0	+1		-1
 
-A Devil story
-
-**Djinni**
-
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Djinni
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
-
-A Djinni story
+*A Devil story*. The perpetual Faustian bargain! If you haven't played *kill puppies for satan* (2001) get yourself a copy of the perfect theme. The Devil will grant PC Adventurer's the supernatural and magical powers that they need. However he requires people to lose their faith; so go kill someone's favourite pet in a gruesome manner and they'll soon be thinking that God doesn't care. However, Satan's a smart guy and will just give the PC Adventurer's a less than enough to achieve what they need. So, like a strung-out junkie, they have to come crawling back to Satan begging for more power and an ever-demanding wish list of souls. After all, the Devil is just the tempter and someone who doesn't *quite* tell the truth. The PC Adventurer's are the one's who've killed somebody's puppy.
 
 **Dragon**
 
@@ -898,6 +916,10 @@ A Dragon story
 
 **Dryad**
 
+Dryads are humanoid nymphs (female nature spirits) tied to a particular tree. Based in Hellenic mythology, they can be found throughout the Greek and Roman world. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Dryad, like other Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters. Human-Dryad children are known; if they are male they will follow the human path, and if female the dryad path. Dryads have the ability to step into a tree and step out of another one up to 20 metres a way, a form of teleportation, however they will never willingly move more than one hundred metres from their "home" tree. When their tree the dryad dies with it, which means that some are very long-lived indeed. In Japanese mythology a Kodama's tree bleeds if cut which is a nice aesthetic touch that can be ported to the rest of *Fantasy Papers & Paychecks*.
+
+Different types of dryads are tied to different species of tree, whose traits are associated with their personality, thus Daphnaie (laurel), Epimelides (fruit trees), Hamadryad (oak), Meliai (ash), Oreiades (pine), Shalabhanjika (asoka), Kodama (pagoda) etc.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
@@ -915,30 +937,13 @@ A Dragon story
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Dryad story
+*A Dryad story*. "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be tree in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
+
+
 
 **Dwarf**
 
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Dwarf story
-
-**Efreet**
+The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope across most of Scandinavia, the British Isles, central Europe and parts of eastern Europe. A humanoid folk, they live in various mountain locales (not many Belgian dwarfs), where they show enormous acumen at mining and smithing, and are especially well-known for creating crafting magical items to the point that a cloak of invisibility is almost standard in Dwarfen society. Physically considered somewhat unattractive by human standards, dwarfs are short and muscular. There is a notable gender disparity among Dwards with less than a third of population being female, and culturally they are the hearth-keepers, loremasters and bureaucrats. As a result they are rarely seen outside of Dwarfen society.  
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -957,10 +962,14 @@ A Dwarf story
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-An Efreet story
+*A Dwarf story*
+
 
 **Elemental**
 
+Elementals are fundamental forces of nature made animate, which varies according to culture. Starting from the Hellenic world and expanding into Europe, the Middle-East and northen Africa, the elements are rather like phase states; Earth, Water, Wind, and Fire. In Jainism of India there are also beings that consist of only one substance (*kaya*) however they also the addition of the Plant element. One fairly common mistake is that the Chinese "elements" (wu xing) a representative of this type. Wu Xing is more about movement rather than being and as a result there are no corresponding elementals.
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
@@ -978,10 +987,12 @@ An Efreet story
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-An Elemental story
+*An Elemental story*
 
 **Elf**
 
+Elves are sapient beings originating in Germanic folklore, but also by proximal contact through Celtic, Slavic, Romance, and Hellenic language regions. They are otherwordly beings but also creatures of the woodland, kinfolk of Dryads, magical, and seemingly invisible, and whilst unaging, often lacking in developed moral cognition. Elves, at least of the European variety, tend to want to protect the forests first, enjoy themselves, and worry about humanity a very distant third. Interestingly in the Malay archipelago there is an associated population, the Orang bunian. In both Euopean and Malay mythology, time passes differently in the parallel Elven realm to human society - weeks can pass in the the human world whilst years pass in the Elven world.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
@@ -999,7 +1010,8 @@ An Elemental story
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-An Elf story
+*An Elf story*
+
 
 **Ettin**
 
@@ -1357,6 +1369,33 @@ A Homunculus story
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 An Imp story
+
+**Ifreet**
+
+Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African legend. There are several major characteristics about them which put them in a category of their own. Firstly, they are a death spirit, which means that they a drawn to a life-force, and especially to locales of a murder victim. They are fire spirits, which means that they're often found underground or in certain regions (e.g., volcanoes, deserts), known for heat and fire. They are also shapeshifters and are able to take the appearance and form of a humanoid. All this would suggest that they are a wicked species and indeed most of them are with a few exceptions. They can be banished by the correct prayers by the faithful.
+
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
+*An Ifreet story*. Almashay is an extremely unusual ifreet insofar the he wishes not only to help people, but he wants to be firefighter. His career in this direction started when he was attracted to a massive fire caused by a landlord who wished to claim insurance and was pretty indifferent in who was inhabiting the buildings at the time. Horrified by this lack of compunction, Almashay sword to put out fires whenever he could. However his own firey nature often gets the better of him and he more often *causes* fires in his attempts. The PC Adventurers are hired to find out why their are so many fires in the old town and Almashay is tasked with given them a tour, with potentially hilarious and tragic results. See episodes of the 1960s children's television series Grisù for example misadventures of Almashay.
+
+
+
 
 **Ki-rin**
 
@@ -2373,9 +2412,7 @@ In North Korea there is one official source of television news, Korean Central T
 
 The opportunities for humour in fantasy is rather impressive, and even more than the opportunities from realistic settings. There is a degree of course that the normal world of *Papers & Paychecks* immediately matches with *Fantasy Papers & Paychecks* with sapient items. In *Fantasy Papers & Paychecks* the hidden aspect of items is no longer necessary. A magical world allows for items to be intelligent, active, and often malicious - but now they argue back ("don't worry, many fighters have swords more intelligent than they are", as a cartoon in *Dragon* magazine once stated). A magic world allows quite openly for bizarre natural effects; talking columns, rivers that flow in the wrong direction, floating rocks and so forth. Adding implausible and contradictory descriptions. For example, the hilarious National Lampoon satire *Bored of the Rings* includes "The Tiny X-shaped Forest" and "The Flat Mountains". Even an entire world can be this effect, and its becomes especially effective when used for real-world cultural referents. For example, Terry Pratchett's *Discworld* is a flat planet balanced on the backs of four elephants which in turn stand on the back of a giant turtle. Adding the right personality traits and objectives to these bizarre effects can provide an additional comic effect.
 
-Character place names provide many opportunities for puns or satire. Greg Costikyan's wargame *Swords & Sorcery* included Logarithm Son of Algorithm and with the locations the Nattily and Evelyn Woods and the Stream of Consciousnes. In the *Bored of the Rings*, there's Dildo Bugger instead of Bilbo Baggins, Moxie and Pepsi instead of Merry and Pippin, Arrowroot, son of Arrowshirt instead of Aragorn, Sorhed of Fordor instead of Sauron of Mordor, son of Arathorn, Gimlet and Legolam instead of Gimli and Legolas, and of course Tim Benzedrine and Hashberry. The simple method being used here is take a well-known fantasy character, make a parody of their name that fits *both* the personality trope and the behaviour. 
-
-As for an example of how this plays out, who can forget the effects of eating some of the "dubious-looking mushrooms" offered by Tim and Hasberry?
+Character place names provide many opportunities for puns or satire. Greg Costikyan's wargame *Swords & Sorcery* included Logarithm Son of Algorithm and with the locations the Nattily and Evelyn Woods and the Stream of Consciousnes. In the *Bored of the Rings*, there's Dildo Bugger instead of Bilbo Baggins, Moxie and Pepsi instead of Merry and Pippin, Arrowroot, son of Arrowshirt instead of Aragorn, Sorhed of Fordor instead of Sauron of Mordor, son of Arathorn, Gimlet and Legolam instead of Gimli and Legolas, and of course Tim Benzedrine and Hashberry. The simple method being used here is take a well-known fantasy character, make a parody of their name that fits *both* the personality trope and the behaviour. As for an example of how this plays out, who can forget the effects of eating some of the "dubious-looking mushrooms" offered by Tim and Hasberry?
 
 > Tim, now a rather handsome six-foot carrot, laughed loudly and changed into a coiled parking meter. Frito, dizzy as a great wave of oatmeal flowed through his brain, grew heedless of the puddle of drool collecting in his lap. There was a noiseless explosion between his ears and he watched with terror as the room began stretching and pulsating like Silly Putty in heat. Frito's ears began to grow and his arms changed into badminton rackets. The floor developed holes out of which poured fanged peanut brittle. A score of polka-dotted cockroaches danced a buck-and-wing on his stomach. A Swiss cheese waltzed him twice around the room, and his nose fell off. Frito opened his mouth to speak and a flock of flying earthworms escaped. His gall bladder sang an aria and did a little tap dance on his appendix. He began to lose consciousness, but before it ebbed completely, he heard a six-foot waffle iron giggle, "If yoo dig it now, jes' wade till th' _rush_ hits you!"   
 
@@ -2384,9 +2421,6 @@ Fantasy authors, and especially FRPG authors often seem lackadaisical about char
 > "Maglubiyet... Blibdoolpoolp... Diinkarazan... Panzuriel... Such names are whispered in the dark on the far side of midnight, or muttered fearfully around jugs of wine when old, scarred adventurers tell their tales."  
 
 It seems far more probable that these are names that are mispronounced in moments of red-faced drunken laughter rather than "muttered fearfully". "And then we confronted Blippoopoop... I mean Bliddlilooploop.. Sorry Blibdoolpoolp, that's what I *really* mean!".
-
-
-
 
 ## 4.3 Boss-Level Secrets
 
