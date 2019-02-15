@@ -6,7 +6,7 @@ by Lev Lafayette with contributions by Michael Cole, Fred, Daniel Callahan, Shau
 
 ### Playtesters and Reviewers
 
-Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson, Karl Brown, Joe Grech
+Andrew Daborn, Michael Cole, Rodney Brown, Simon Stainsby, Adrian Smith, Jay Patterson, Karl Brown, Joe Grech et. al.
 
 ### Publication
 
@@ -939,8 +939,6 @@ Different types of dryads are tied to different species of tree, whose traits ar
 
 *A Dryad story*. "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be tree in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
-
-
 **Dwarf**
 
 The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope across most of Scandinavia, the British Isles, central Europe and parts of eastern Europe. A humanoid folk, they live in various mountain locales (not many Belgian dwarfs), where they show enormous acumen at mining and smithing, and are especially well-known for creating crafting magical items to the point that a cloak of invisibility is almost standard in Dwarfen society. Physically considered somewhat unattractive by human standards, dwarfs are short and muscular. There is a notable gender disparity among Dwards with less than a third of population being female, and culturally they are the hearth-keepers, loremasters and bureaucrats. As a result they are rarely seen outside of Dwarfen society.  
@@ -963,7 +961,6 @@ The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 *A Dwarf story*
-
 
 **Elemental**
 
@@ -1393,9 +1390,6 @@ Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African lege
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 *An Ifreet story*. Almashay is an extremely unusual ifreet insofar the he wishes not only to help people, but he wants to be firefighter. His career in this direction started when he was attracted to a massive fire caused by a landlord who wished to claim insurance and was pretty indifferent in who was inhabiting the buildings at the time. Horrified by this lack of compunction, Almashay sword to put out fires whenever he could. However his own firey nature often gets the better of him and he more often *causes* fires in his attempts. The PC Adventurers are hired to find out why their are so many fires in the old town and Almashay is tasked with given them a tour, with potentially hilarious and tragic results. See episodes of the 1960s children's television series Grisù for example misadventures of Almashay.
-
-
-
 
 **Ki-rin**
 
@@ -2347,7 +2341,6 @@ Telstra: Oh, there must be a problem our end, I’ll get it fixed and call you b
 
 Nearly all games of *Papers & Paychecks* are run with a high degree of tongue-in-cheek humour. There is however, a certain body of gamers who prefer their grim characters to face up to the horrors of the world. These are the sort who like to play *Paranoia*, for example, in 'straight' mode, or delight in their *Call of Cthulhu* investigators being driven mad by eldritch horrors from beyond the stars. Recognising that such people exist led us to explore the possibility - what is the most strange, totalitarian, authoritarian, and bureaucratic regime that exists on earth today? Whilst some places may have the dubious honour of winning a single metric among these dimensions, for purposes of consistency across the board, the Democratic People's Republic of North Korea is the winner. As a very unusual change of pace from the standard *Papers & Paychecks* game, 'So, You Want it Darker?' provides a researched account (including anonymous first-hand reports) from a setting that is nevertheless worthy of in-game exploration.
 
-
 ### 4.1.2 Geography
 
 A description of the geography is hopefully a safe and non-controversial starting point. As a country, it is located in the northern half of the Korean peninsula, sharing a land border to the North with the People's Republic of China along the Amnok River, a short border along the Tumen River with Russia in the far north-east, and with the Republic of Korea (South Korea) in the south along the Korean Demilitarized Zone. The length of the meandering land border with China is just over 1400km, the border with Russia is less than 20km, and that with South Korea is almost 240km.
@@ -2583,6 +2576,11 @@ For your convenience, a small selection is provided here of some personal favour
 99	On All Hallow's Eve a poem appears above a Turkish opera house. It reads: "Look for the sign of the crystal rabbit."
 100	Thirteen literary critics try to disprove the existence of the future.
 
+**Mask Falls Off**
+
+Sometimes the 'Monsters' of the world of *Papers & Paychecks* aren't as careful as they should be, and and there is a 'glitch in the matrix'. A very famous case occured in 1995, when Robert Matthews of Aston University, England, demonstrated that toast often falls on the buttered side, far beyond the expected laws of randomness (c.f., Matthews, Robert (1995) *Tumbling toast, Murphy's Law and the fundamental constants*, European Journal of Physics, vol.16, no.4, July 18, 1995, p. 172-6.). The author argues that it is the angular momentum of the toast (or "Murphodynamics") that causes it to land butter-side down. 
+
+For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provide us a great deal of information about the subtle self-defense mechanisms of monsters in the resistentialist environment. They will subtley discredit or turn in to folk-comedy any possibility that they have been unmasked, effectively rendering serious investigation into such ephiphenomeno harmless.
 
 # 5.0 Alternate Settings and Scenarios
 
