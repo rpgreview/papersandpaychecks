@@ -56,10 +56,12 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 3.2 Bestiary
 3.3 Monsters
 
-4.0 Even More Boss and Alternate Settings
+4.0 More Boss Material and Alternate Settings
 4.1 So You Want it Darker?
 4.2 Fantasy Papers & Paychecks
 4.3 Boss-Level Secrets
+4.4 Organisations
+4.5 Magic Realism Plot Seeds
 
 5.0 Alternate Settings and Scenarios
 5.1 Scenario: Keep Our Borderlands
@@ -605,18 +607,37 @@ Charles The Tall serves are an illustrative example of how you can introduce exi
 **Chiron, Greek hero and doctor**
 
 Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Scientist
-Intelligence	1	-5	Level	1
-Wisdom		1	-5	Movement 	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
+Strength	75	+32	Profession	Scientist
+Intelligence	18	+4	Level		10
+Wisdom		11	+0	Movement 	13
+Dexterity	8	-1	Wounds (Physical)	
+Perception	16	+3	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
 Skill	Char	Train	Other	Total
 Climb	-5	+1		-4
 Melee	-5	+0		-5
 Sense (Hearing)	+0	+1		-1
 
 Chiron is a Centaur of Disease Control and advocate of herd immunity.
+
+**Emerson Hunter, bringer of death**
+
+Characteristic	Value	Bonus		
+Strength	3	-4	Profession	Labourer
+Intelligence	13	+1	Level		3
+Wisdom		15	+2	Movement 	1-3
+Dexterity	4	-4	Wounds (Physical)	
+Perception	16	+3	Wounds (Mental)	
+Charisma	13	+1	Wounds (Social)	
+Skill	Char	Train	Other	Total
+Sense (ESP)	+0	+1	
+Suffocate	
+
+Emerson Hunter appears as a simple ceiling mounted fan, however unbeknownst to the visitors to Room 101 of the Love Hotel, Emerson is a killer. Emerson uses his ESP abilities to investigate the mind of whomever is sleeping in the room and, if they are found to be wanting by Emerson's quirky moral standards, he will engage in the slow death of hyperthermia, hypothermia, and asphyxiation. The practical effect of this is that Emerson will engage in one Suffocate attack per strategic turn, that is, two attacks per night. People of Korean ethnicity will receive double damage. The movement rate is for Emerson is, of course, circular. 
+
+Emerson can be placed anyway in a tropical locale where use of a fan is encouraged, but the wet season means that windows are kept closed. PC Workers can be called on to investigate after a number of unexplained deaths and hospitalisations from being sleeping in the room. There will be, of course, no way to connect the fan to the deaths, except for one strange discovery in some ancient records - the first person to die in the room was a Korean War veteran suffering from PTSD whose name was, coincidentall of course, Emerson Hunter.
+
+See: Korean Fan Death on Snopes `https://www.snopes.com/fact-check/fan-death/`
 
 ## 3.2 Fantasy Bestiary
 
@@ -640,7 +661,6 @@ Melee	-5	+0		-5
 Sense (Hearing)	+0	+1		-1
 
 *A Djinni story*. Abu Hasan Zoba'ah is a powerful Jinn king and is associated with Friday which, according to Islamic custom, is supposed to be a day of rest (at least after midday prayers). Being an individual of some piety, this particular Jinn has become very annoyed with people in a particular town going about their business as usual on a day which they believe should be reserved for rest and contemplation. Their plan, in very *Papers & Paychecks* style, is to get their a score of Jinni in town to run amok, upturning trader's carts and so forth. Unfortunately that has created *more* work on this day of rest (c.f. "parable of the broken window") and many of the lesser jinni are quite enjoying causing such problems. Frustrated Abu Hasan Zoba'ah has turned to the PC Adventurers (if through a third party) to get the lesser jinni to behave and have provided special capturing lamps to do (think of the containment units from the film *Ghostbusters* (1984)). Bonus player points to anyone who has the audacity to point out Abu Hasan Zoba'ah that by releasing the jinni to do work on Friday afternoons they were actually contradicting their own principle. 
-
 
 **Beaver, Giant**
 
@@ -2469,11 +2489,25 @@ Under almost no circumstances however, will the monsters reveal themselves, and 
 
 The literary genre to apply, albeit often in a comic manner in *Papers & Paychecks*, is that of 'magical realism'. Whilst it is common among fictional genres for their to be some furious debate about such terms in this context it follows the expression found in writers like Gabriel García Márquez (_One Hundred Years of Solitude_) and Salman Rushdie (_Midnight's Children_). In these novels, from the protagonist's perspective, the world is certainly magical. But the expression of this magic is subtle, and subjective. From an objective viewer, various events may have a dramatic quality about them, but they are certainly realistic. Keep that spirit in *Papers & Paychecks*.
 
-**Magic Realism Plot Seeds**
+**Mask Falls Off**
 
-As just mentioned the "monsters" of *Papers & Paychecks* are an example of "magical realism", set in a contemporary environment but with events so strange pushing the borders of acceptable realism. This can be pushed further from just the 'monsters' to narrative devices themselves. If a Boss is short of a plot device there is a very handy Twitter account, Magic Realism Bot (`https://twitter.com/MagicRealismBot`), which through a combination of words and functions produces strange and often curiously insightful sentences that can form wondrous plot devices. Written by Chris and Ali Rodley, the Magic Realism bot, "take[s] a structure or practice (a map, a library, a labyrinth, writing a novel, falling in love, death by firing squad), find its underlying goal or purpose, then exaggerate the structure or practice ad absurdum so that it overfulfils it."
+Sometimes the 'Monsters' of the world of *Papers & Paychecks* aren't as careful as they should be, and and there is a 'glitch in the matrix'. A very famous case occured in 1995, when Robert Matthews of Aston University, England, demonstrated that toast often falls on the buttered side, far beyond the expected laws of randomness (c.f., Matthews, Robert (1995) *Tumbling toast, Murphy's Law and the fundamental constants*, European Journal of Physics, vol.16, no.4, July 18, 1995, p. 172-6.). The author argues that it is the angular momentum of the toast (or "Murphodynamics") that causes it to land butter-side down. 
 
-For your convenience, a small selection is provided here of some personal favourite examples culled from the Twitter account over the past three years or so (yes, gentle reader, I have read all of them) that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario if a Boss is stuck for an plot device. Obviously, some should be interpreted at least somewhat metaphorically, but the opportunity to find the points where metaphor and reality come together is very enticing. Roll a d100 a couple of times and consult the list, bring the items together in a manner that is entertaining and insightful. Listen to the wild speculations of your PC Workers, smile and take notes. 
+For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provide us a great deal of information about the subtle self-defense mechanisms of monsters in the resistentialist environment. They will subtley discredit or turn in to folk-comedy any possibility that they have been unmasked, effectively rendering serious investigation into such ephiphenomeno harmless.
+
+## 4.4 Organisations
+
+
+
+**Ten Weird Organisations**
+
+Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Durectory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory.
+
+## 4.5 Magic Realism Plot Seeds
+
+As mentioned the "monsters" of *Papers & Paychecks* are an example of "magical realism", set in a contemporary environment but with events so strange pushing the borders of acceptable realism. This can be pushed further from just the 'monsters' to narrative devices themselves. If a Boss is short of a plot device there is a very handy Twitter account, Magic Realism Bot (`https://twitter.com/MagicRealismBot`), which through a combination of words and functions produces strange and often curiously insightful sentences that can form wondrous plot devices. Written by Chris and Ali Rodley, the Magic Realism bot, "take[s] a structure or practice (a map, a library, a labyrinth, writing a novel, falling in love, death by firing squad), find its underlying goal or purpose, then exaggerate the structure or practice ad absurdum so that it overfulfils it."
+
+For your convenience, a small selection is provided here of some personal favourite examples culled from the Twitter account over the past three years or so (yes, gentle reader, I have read all of them) that can be used with inserted with strange and comic ease in a *Papers & Paychecks* scenario if a Boss is stuck for an plot device. Obviously, some should be interpreted at least somewhat metaphorically, but the opportunity to find the points where metaphor and reality come together is very enticing. Roll a d100 a couple of times and consult the list, bring the items together in a manner that is entertaining and insightful. Listen to the wild speculations of your PC Workers, smile, and take notes. 
 
 01	A Moroccan king dreams exactly the same dream 723 times.
 02	Tonight you will dream about telephones
@@ -2576,11 +2610,6 @@ For your convenience, a small selection is provided here of some personal favour
 99	On All Hallow's Eve a poem appears above a Turkish opera house. It reads: "Look for the sign of the crystal rabbit."
 100	Thirteen literary critics try to disprove the existence of the future.
 
-**Mask Falls Off**
-
-Sometimes the 'Monsters' of the world of *Papers & Paychecks* aren't as careful as they should be, and and there is a 'glitch in the matrix'. A very famous case occured in 1995, when Robert Matthews of Aston University, England, demonstrated that toast often falls on the buttered side, far beyond the expected laws of randomness (c.f., Matthews, Robert (1995) *Tumbling toast, Murphy's Law and the fundamental constants*, European Journal of Physics, vol.16, no.4, July 18, 1995, p. 172-6.). The author argues that it is the angular momentum of the toast (or "Murphodynamics") that causes it to land butter-side down. 
-
-For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provide us a great deal of information about the subtle self-defense mechanisms of monsters in the resistentialist environment. They will subtley discredit or turn in to folk-comedy any possibility that they have been unmasked, effectively rendering serious investigation into such ephiphenomeno harmless.
 
 # 5.0 Alternate Settings and Scenarios
 
@@ -4087,9 +4116,6 @@ If you are still *compos mentis*, you may make your way to 5.3.14 Hoeryong City 
 
 Fresh meat! Such a fortuitous opportunity cannot be passed up. Kim Il-sung must be looking down on the heavens for you. You take the opportunity, as do others, to hide some fresh chicken meat on your person. Soon, another truckload of guards will appear to take you away to the farm. Roll your Sleight vs their Sense (sight) at 12. If you succeed, you have succeeded and will have chicken tonight; gain a point of STR and go to 5.3.5 The Farm. If you fail, your precious chicken carcass is cruelly wrenched from you, and you're taken back to 5.3.3 The Box.
 
-
-
-
 # Crime and Punishment
 
 "Please, Your Honor," whined Pauper William Nodes, 27, in a London court last week, "don't part me and the rat." The judge looked appraisingly at Nodes' pet rat in a cage on the barristers' table, frowned severely at Nodes. Clearing his throat he then did British Justice: "I sentence you, William Nodes, to six months in prison as an incorrigible rogue. The rat will be sent to a good home."
@@ -4097,10 +4123,9 @@ Fresh meat! Such a fortuitous opportunity cannot be passed up. Kim Il-sung must 
 Time Magazine, Foreign News: Rogue's Rat, Monday, Jan. 22, 1934
 http://content.time.com/time/magazine/article/0,9171,746859,00.html
 
-
 # 6.0 Appendicies
 
-## 6.1 Source and Inspirational Material
+## 6.1 Additional Source and Inspirational Material
 
 Henry N. Beard, Douglas C. Kenney, Bored of the Rings, National Lampoon, 1969
 
@@ -4111,9 +4136,9 @@ https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf
 
 Terry Pratchett and Phil Masters, GURPS Discworld, Steve Jackson Games, 1998
 
-
-
 ## 6.2 Combined Charts and Tables
+
+**Personality Types (aka Alignment)**
 
 MBTI	Kiersey Role Variant	Kiersey Descriptives
 ESFJ	Provider	Concrete, Logistical, Supporting, Supplying
@@ -4133,12 +4158,15 @@ INTP	Architect	Abstract, Rational, Constructing, Designing
 ENTJ	Fieldmarshal	Abstract, Rational, Arranging, Mobilizing
 INTJ	Mastermind	Abstract, Rational, Arranging, Entailing
 
+**Character Class Background**
 
 2	Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge 1, Hobby 1, Perception 1, Pilot 1, Carousing 1
 3-5	Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1
 6-8	Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1
 9-11	Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1,
 12	Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1
+
+**Characteristic Bonuses**
 
 Strength Based Skills
 Athletics (Strength)., Athletics (stamina)., Climb., Intimidate., Jump., Melee., Swim
@@ -4158,6 +4186,8 @@ Insight., Sense (various)
 Charisma Based Skills
 Act., Carousing., Bully., Inspire., Lie., Seduce
 
+**Profession Skills**
+
 Labourer
 Prime Requisite: Strength Starting Age: 15+1d4 Profession Skills: Athletics (Strength), Athletics (Stamina), Intimidate, Melee, Knowledge (General), Profession, Craft (structural), Carousing, Sense (various)
 
@@ -4176,15 +4206,17 @@ Prime Requisite: Perception Starting Age: 15+2d4 Profession Skills: Investigate,
 Manager
 Prime Requisite: Charisma Starting Age: 15+3d4 Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
+Fighter
 Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
-
 
 Ranger
 Prime Requisite: Perception
 Starting Age: 15+2d4
 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
+
+**Combat Summary**
 
 * Normal attack, normal defense.
 * Damaging attack, +1x damage, x0.5 defense.
@@ -4192,10 +4224,7 @@ Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowle
 * Beserk attack, x1.5 attack, x0.5 defense. 
 * Damage reduction, x0.5 attack, -1x damage.
 
-
 For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x. Determine whether the damage is *wounds* or *bruises*. For physical weapons, 'bashing' weapons cause *bruises*, whereas impaling, stabbing, explosive, shredding, burning, eviscerating, and basically anything that gets under the skin, causes wounds.
-
-
 
 # Publishing
 
