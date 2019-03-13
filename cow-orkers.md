@@ -614,11 +614,26 @@ Dexterity	8	-1	Wounds (Physical)
 Perception	16	+3	Wounds (Mental)	
 Charisma	13	+1	Wounds (Social)	
 Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+Athletics	+16	+2	+0	+18
+Intimidate	+16	+1	+0	+17
+Melee	+16	+6	+0	+22		
+Climb	+16	+1	-10	
+Sense (Hearing)	+0	+1	
+Craft (chemical)	+10
+Craft (pharmaceutical)	-1	+12	-10	+
+Craft (writing)	+10
+Investigate	+10
+Knowledge (Sciences)	+10
+Knowledge (Scienes - Medicine) +10
+Knowledge (Philosophy)	+10
+Knowledge (General)	+10
+Language (Ancient Greek)	+12
+
+
 
 Chiron is a Centaur of Disease Control and advocate of herd immunity.
+
+
 
 **Emerson Hunter, bringer of death**
 
