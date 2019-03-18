@@ -41,6 +41,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 0.1 Foreword
 0.2 Preface
 0.3 Papers & Paychecks Errata
+0.4 2D6 Revisited
 
 1.0 Additional Character Classes
 1.1 Sporting Professions
@@ -99,6 +100,35 @@ In section 2.2 "The Resistentialist Environment", the rules for a character hold
 Section 2.3 Tactical Conflict Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
 
 Dogs are listed as having 'Movement (flight)' 8-15. This should simply read 'Movement'. Dogs don't fly.
+
+## 0.4 2D6 Revisited
+
+Who knew that 2D6 could be so interesting? When the chance of success table was included in the original rules (4.2 Episode and Season Design) one would think that would the end of it. The game uses 2d6, like the original cartoon, versus target number. What could be more simple? OK, 1d6 could be more simple, Or flip a coin. Or make it up as you go along. You get the point.
+
+But no, math nerds crawl out from behind non-Euclidean corners and demand further elaboration on the mighty 2d6. So here it is.
+
+A d6 provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested). Each d6 has the numbers 1 to 6 with equal probability. The random variable X is the sum of the numbers of 2d6. For example, when 4 and 6 are rolled, X is equal to 10, or if 2 and 5 are rolled the result is 7. If one was to create a table of 1d6 plus 1d6 with the results cross-references there would be 36 (6*6) possible outcomes, ranging from 2 (1 and 1 on each die) to 12 (6 and 6 on each die). The value *f* is defined as, the frequencies associated with the possible values of X. For example, there are four outcomes where X is equal to 5 i.e., (4,1 ; 3,2 ; 2,3 ; 4,1). Easy so far? Just like *Fox in Socks*, right?
+
+*Knox in box. Fox in socks.*
+
+The full set of frequencies for X are as follows, along with the probability. The probability for X is highest at X and declines from this mean. The value E(X) is defined as the expected value of X, which is : E (X) = x_1 p_1 + ... + x_n p_n, or Sigma_(i=i)^n x_i p_i, or mu_x. The expected value of a random variable, such as X, is also known as its population mean. It is the weighted average of its possible values, the weights being the probabilities attached to the values. Abstract values (x_1, p_1, x_1p_1) are provided first. The concrete values of x_i are the same as in the column X, and the concrete values of p_i are the same as in column p. The expected value, E(X), is the sum of the entries in the column x_ip_i), or in this case 252/36, or 7, which you probably already knew 
+
+*Let's have a little talk about tweetle beetles....*
+
+| X	| *f*	| p 	| x_i	| p_i	| x_ip_i|
+|-------|-------|-------|-------|-------|-------|
+| 2	| 1	| 1/36	| x_1	| p_1	| 2/36	|
+| 3	| 2	| 2/36	| x_2	| p_2	| 6/36	|
+| 4	| 3	| 3/36	| x_3	| p_3	| 12/36	|
+| 5	| 4	| 4/36	| x_4	| p_4	| 20/36	|
+| 6	| 5	| 5/36	| x_5	| p_5	| 30/36	|
+| 7	| 6	| 6/36	| x_6	| p_6	| 42/36	|
+| 8	| 5	| 5/36	| x_7	| p_7	| 40/36	|
+| 9	| 4	| 4/36	| x_8 	| p_8	| 36/36	|
+| 10	| 3	| 3/36	| x_9	| p_9	| 30/36	|
+| 11	| 2	| 2/36	| x_10	| p_10	| 22/36	|
+| 12	| 1	| 1/36	| x_11	| p_11	| 12/36	|
+
 
 # 1.0 Additional Character Classes
 
@@ -629,11 +659,7 @@ Knowledge (Philosophy)	+10
 Knowledge (General)	+10
 Language (Ancient Greek)	+12
 
-
-
 Chiron is a Centaur of Disease Control and advocate of herd immunity.
-
-
 
 **Emerson Hunter, bringer of death**
 
