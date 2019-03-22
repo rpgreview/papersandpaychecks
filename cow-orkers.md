@@ -119,23 +119,43 @@ Dogs are listed as having 'Movement (flight)' 8-15. This should simply read 'Mov
 
 ## 0.4 2D6 Revisited
 
-Who knew that 2D6 could be so interesting? When the chance of success table was included in the original rules (4.2 Episode and Season Design) one would think that would the end of it. The game uses 2d6, like the original cartoon, versus target number. What could be more simple? OK, 1d6 could be more simple, Or flip a coin. Or make it up as you go along. You get the point.
+Who knew that 2D6 could be so interesting? When the chance of success table was included in the original rules (4.2 Episode and Season Design) one would think that would the end of it. The game uses 2d6, like the original cartoon, versus target number. What could be more simple? OK, 1d6 could be more simple, Or flip a coin. Or make it up as you go along. You get the point. But no, math nerds crawl out from behind non-Euclidean corners and demand further elaboration on the mighty 2d6. So here it is.
 
-But no, math nerds crawl out from behind non-Euclidean corners and demand further elaboration on the mighty 2d6. So here it is.
+A 1d6 roll provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested), which can be expected, based on rational elaboration, or . Each d6 has the numbers 1 to 6 with equal probability, which establishes its *range* as 6 and the *random variable* in each case as X_1, X2, X3 etc. The *mean* (which is often expressed as *average*) of the random variables from 1d6 is 3.5; not 3 which is commonly thought. The mean is determined by adding all probabilities and dividing, i.e., 1+2+3+4+5+6 = 21/6 = 3.50. A quick way of calculating the mean of die rolls is to add the highest and lowest expected values and divide by 2 i.e. 1 + 6 = 7 / 2 = 3.5. The *median* for 1d6 is the mid-point of the distribution of possible results i.e., 1, 2, 3, 4, 5, 6. In this case there is no rolled mid-point as it is a range from 3-4. The *mode* is the most commonly occuring value in a distribution. Whilst actual rolled results may generate such a distribution there is no mode from expected results, which would provide an equal distribution of all potential values.
 
-A d6 provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested). Each d6 has the numbers 1 to 6 with equal probability. 
+This is all easy so far? Just like *Fox in Socks*, right?
 
+*Fox. Socks. Box. Knox. Knox in box. Fox in socks.* (Fox in Socks, Dr. Seuss, 1965)
 
-The random variable X is the sum of the numbers of 2d6. For example, when 4 and 6 are rolled, X is equal to 10, or if 2 and 5 are rolled the result is 7. If one was to create a table of 1d6 plus 1d6 with the results cross-references there would be 36 (6*6) possible outcomes, ranging from 2 (1 and 1 on each die) to 12 (6 and 6 on each die). The value *f* is defined as, the frequencies associated with the possible values of X. For example, there are four outcomes where X is equal to 5 i.e., (4,1 ; 3,2 ; 2,3 ; 4,1). 
+The opportunity is taken here to dispel one alarmingly common misconception which, fortunately, seems to be more common among the general public rather than gamers in particular, and that refers to the probability of results on multiple dice tests. From a single die, the probability of rolling any specific number from 1d6 is 1/6. Likewise the probability of rolling any specific number from subsequent dice from 1d6 is 1/6. It doesn't matter if you have rolled six 1s in a row or 10 6s in a row. "What are the odds?", you might ask - 1 in 6, *each* time, and the chance of you rolling a 1 or a 6 on the next die roll is also 1/6 for a 1 and 1/6 for a 6. *Dice don't have memory*. Unless of course, you have *very special* dice.
 
+```
+First, I'll make a quick trick brick stack.   
+Then I'll make a quick trick block stack.   
+You can make a quick trick chick stack.   
+You can make a quick trick clock stack.   
+```
 
-Easy so far? Just like *Fox in Socks*, right?
+Having established *range*, *mean*, *median*, and *mode*, the opportunity is taken to initially elaborate this to *variance*. Variance is a measure of distibution, specifically the expected (or actual, if want to generate a rolled, empirical result) of the squared deviation of a random variable from the mean. Or, if you wish to hear in another form, first calculate the mean of the square then subtract the square of the mean. If that sounds confusing is perhaps easier to illustrate by equation, initially using 1d6 as an example, and then elaborating to 2d6. Because each die is independent (dice don't have memory, remember) the variance of n-dice is n times 1d6.
 
-*Knox in box. Fox in socks.*
+Mean of the square =  (1^2 + 2^2 + 3^2 + 4^2 + 5^2 + 6^2)/6 = 91/6 = 15.17
+Variance = (91/6) - (7/2)^2 = 35/12
 
-The full set of frequencies for X are as follows, along with the probability. The probability for X is highest at X and declines from this mean. The value E(X) is defined as the expected value of X, which is : E (X) = x_1 p_1 + ... + x_n p_n, or Sigma_(i=i)^n x_i p_i, or mu_x. The expected value of a random variable, such as X, is also known as its population mean. It is the weighted average of its possible values, the weights being the probabilities attached to the values. Abstract values (x_1, p_1, x_1p_1) are provided first. The concrete values of x_i are the same as in the column X, and the concrete values of p_i are the same as in column p. The expected value, E(X), is the sum of the entries in the column x_ip_i), or in this case 252/36, or 7, which you probably already knew.
+Var(X), 1d6 = (1 + 3.5)^2 * 1/6 + (2 + 3.5)^2 * 1/6 + .. + (6 + 3.5)^2 * 1/6  = 70/24 = 35/12 = 2.92
+Var(X), 2d6 = 35/12 + 35/12 = 70/12 = 5.83
+Var(X), nd6 = n * 35/12
+
+Broadly speaking, if there's a low variance it means the sums of the dice rolls will be relatively close together and if there's a wide variance it means that there that there's more frequent deviations. If you want to see nerds having aneurysms read a debate on which is more 'realistic'; 3d6 or d20 or 2d10. Of course, it depends whether you're trying to simulate something that have a lot of variance, not very little, or how you're treating modifiers. *Papers & Paychecks* uses 2d6 for aesthetic purposes, and that's all there is to it. That aesthetic choice does come with a couple of matters of importance; there is relatively less influence on randomness in the game, and modifiers are significantly more important.  
+
+One other matter that gamers love for obvious reasons is working out percentage of ranges. This can be expressed from the *standard deviation* which is the square root of the variance, that is, for a single dice sqrt(35/12). For 2d6 the value is sqrt(70/12) = c2.42 etc. The standard deviation means that around 34.1% of results will be within 1 standard deviation from the mean, and additional 13.5% within two and so forth. So from around 5-9 on 2d6 will take up roughly 68% of all results.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Standard_deviation_diagram.svg" title="From GliderMaven on Wikipedia, CCA 2.5">
+
+The initial exploration of 1d6 can be extended to 2d6. IN the following, the random variable X is the sum of the numbers of 2d6. For example, when 4 and 6 are rolled, X is equal to 10, or if 2 and 5 are rolled the result is 7. If one was to create a table of 1d6 plus 1d6 with the results cross-references there would be 36 (6*6) possible outcomes, ranging from 2 (1 and 1 on each die) to 12 (6 and 6 on each die). The value *f* is defined as, the frequencies associated with the possible values of X. For example, there are four outcomes where X is equal to 5 i.e., (4,1 ; 3,2 ; 2,3 ; 4,1). 
 
 *Let's have a little talk about tweetle beetles....*
+
+The full set of frequencies for X are as follows, along with the probability. The probability for X is highest at X and declines from this mean. The value E(X) is defined as the expected value of X, which is : E (X) = x_1 p_1 + ... + x_n p_n, or Sigma_(i=i)^n x_i p_i, or mu_x. The expected value of a random variable, such as X, is also known as its population mean. It is the weighted average of its possible values, the weights being the probabilities attached to the values. Abstract values (x_1, p_1, x_1p_1) are provided first. The concrete values of x_i are the same as in the column X, and the concrete values of p_i are the same as in column p. The expected value, E(X), is the sum of the entries in the column x_ip_i), or in this case 252/36, or 7, which you probably already knew. And that's about enough of statistical elaborations on 2d6. Roll some dice and have fun.
 
 | X	| *f*	| p 	| x_i	| p_i	| x_ip_i|
 |-------|-------|-------|-------|-------|-------|
