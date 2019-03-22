@@ -661,7 +661,7 @@ A bottle of gin from the Levant, made from juniper berries grown near the Sea of
 **Charles The Tall**
 
 Characteristic	Value	Bonus		
-Strength	9	-1	Profession	Administrator, Wizard
+Strength	11	+0	Profession	Administrator, Wizard
 Intelligence	14	+2	Level	3 3
 Wisdom		16	+3	Movement 	5
 Dexterity	9	-1	Wounds (Physical)	
@@ -674,9 +674,9 @@ Sense (Hearing)	+0	+1		-1
 
 *by Daniel Callahan and Lev Lafayette*
 
-Charles the Tall started their career as an intern in a legal firm. They are fairly competent at their job, and are becoming especially good at strategy and logistics for the firm that we works for. This seems to be a direct result of the the inordinate amount of time that they spend at their desk planning planning mighty sieges against distant kingdoms; his cow-orkers have no idea why.
+Charles the Tall started their career as an intern in a legal firm. They are fairly competent at their job, and are becoming especially good at strategy and logistics for the firm that we works for. This seems to be a direct result of the the inordinate amount of time that they spend at their desk planning planning mighty sieges against distant fantasy kingdoms; his cow-orkers have no idea why and any attempt in conversation will result in him engaging in his elaborate tales of a magical world.
 
-The reason for Charles' unusual behaviour is that one day they visited the coffee machine, emptied the pot into a massive cup, and accidentially fell down a portal to a fantastic world where he was set upon by a kobold who rather fancied the cut of his jib. Charles was not about to take this from the monster and managed to kill the kobold with his bare hands. 
+The reason for Charles' unusual behaviour is that one day he visited the coffee machine, emptied the pot into a massive cup, and accidentially fell down a portal to a fantastic world where he was set upon by a kobold who rather fancied the cut of his jib. Charles was not about to take this from the monster and managed to kill the kobold with his bare hands through a series of comic errors and good fortune on Charles' part. 
 
 After defeating the kobold he met an elderly woman who said that the kobold had been thieving off her for years and Charles began to learn about the strange and fantastic world that he had found himself in, with kobolds and elves and dragons and many other wondrous beasts. Curiously, at least to is perception, he found that they could all speak English - or rather the universe had decided that he could speak 'Common'. 
 
@@ -701,19 +701,24 @@ Skill	Char	Train	Other	Total
 Athletics	+16	+2	+0	+18
 Intimidate	+16	+1	+0	+17
 Melee	+16	+6	+0	+22		
-Climb	+16	+1	-10	
-Sense (Hearing)	+0	+1	
-Craft (chemical)	+10
-Craft (pharmaceutical)	-1	+12	-10	+
-Craft (writing)	+10
-Investigate	+10
-Knowledge (Sciences)	+10
-Knowledge (Scienes - Medicine) +10
-Knowledge (Philosophy)	+10
-Knowledge (General)	+10
-Language (Ancient Greek)	+12
+Climb	+16	+1	-10	+7	
+Sense (hearing)	+0	+1	+0	+1
+Craft (chemical)	+4	+10	+0	+14
+Craft (pharmaceutical)	-1	+12	-10	+1
+Craft (writing)	+4	+10	+0	+14
+Investigate	+4	+10	+0	+14
+Knowledge (Sciences)	+4	+10	+0	+14
+Knowledge (Scienes - Medicine) +10	+4	+0	+14
+Knowledge (Philosophy)	+4	+10	+0	+14
+Knowledge (General)	+4	+10	+0	+14
+Language (Archiac Greek)	+4	+6	+10
+Language (Thracian)	+4	+3	+7
+Language (Dacian)	+4	+2	+6
+Language (Egyptian)	+4	+1	+5
 
-Chiron is a Centaur of Disease Control and advocate of herd immunity.
+Chiron is the Centaur of Disease Control and advocate of herd immunity. Educated by Apollo in the fine arts and medicine, and granted intellect and wisdom, Chiron is highly sought for his medical skills, however he will sharply castigate those who have sought medical treatment from "sorcerers" and "magi" - this coming from a talking horse. This said, Chiron is simply the best healer in the ancient heroic world. Although, he does have one particular weakness - wine. As a Centaur, Chiron simply cannot hold his drink and if he has too much (Centaurs drink like horses and it affects them proportionally like humans) he will revert to his "wild side" which can be a little too amourous. Unlike other Centaurs, Chiron is wise enough to be a teetotaller - but is someone was to slip him a drink.
+
+Chiron is married to the nymph Chariclo; they had three daughters and a son. Further elaboration is up to The Boss' imagination. 
 
 **Emerson Hunter, bringer of death**
 
@@ -763,7 +768,7 @@ Giant Beavers (Castoroides, Trogontherium) is a Pleistocene-period creature that
 
 Apart the obvious uses from their fur and meat, in a fantasy environment one can replicate the medieval belief that Beaver testicles and castor sacs for both pain relief and as a contraception. Aesop's *Fables* describes beavers chewing off their testicles to preserve themselves from hunters. In the great classic Hellenic tradition, nobody actually checked this, because beaver's testicles are inside its body. Nevertheless, it made a good story and was continued in medieval bestiaries. For purposes of fantasy *Papers & Paychecks*, both are true. The Giant Beaver's testicles are internal, but can be 'externalised' by muscular relaxtion if required. Although not very bright, they are smart enough to leave their balls behind if someone is hunting for them.
 
-<img src="https://en.wikipedia.org/wiki/File:Beaverbollocks.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Beaverbollocks.jpg" height="25%" width="25%" />
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
