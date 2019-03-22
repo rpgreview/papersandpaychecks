@@ -43,7 +43,8 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 0.3 Papers & Paychecks Errata
 0.4 2D6 Revisited
 
-1.0 Additional Character Classes
+1.0 Additional Character Resources
+1.1 
 1.1 Sporting Professions
 1.2 Fantasy Professions
 1.3 Skill Options and Elaborations
@@ -81,25 +82,40 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 ## 0.3 Papers & Paychecks Errata
 
-1.6 Skills
+```
+So if your air conditioner goes on the fritz, or your washing machine blows up, or your video recorder conks out, before you call the repairman, turn on all the lights, check all the closets and cupboards, look under all the beds, 'cause you never can tell. There just might be a gremlin in your house.   
+-- Rand Peltzer, Gremlins (1984)
+````
+
+Who could believe that even after getting multiple people to look over the rules, some of which provided error-checking in detail that (a) some of their suggestions I managed to completely overlook and (b) others were missed by all and sundry. It is almost as if the computer itself *hid* the text that needed editing from our view, as it knew that if such a publication made it to the light of day that *we* would be on to *them*. But that's just crazy talk, right? 
+
+Whether crazy or sane, or most likely somewhere in between, here is the list of errata that has been caught *so far*.
+
+**1.6 Skills and Knowledges**
+
+Rolled Wealth: Under character class backgrounds where it reads "Perception", this should be "Sense (various)", which can be distributed as desired.
 
 Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is alread an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead. Hobbies can also be used to replace professionally acquired skills, i.e., they always costs 1 Skill Point.
 
-Section 1.6, under character class backgrounds where it reads "Perception", this should be "Sense (various)"
+Intellect Fortress: Observant-management types may notice that this appears twice with two different descriptions. Surprisingly, both apply! A manager (or some other weird home-brew character profession) may have either activiated at a particular but not both. By default characters with an Intellect Fortress operating will use it to gain bonus the hit points. However, if a manager so chooses, they can make an inspiring speech, shedding those hit points and distributing the +2 bonus across all those that have heard it (*not* including the Manager themselves). The loss of their own bonus is because the speech was so inspiring, so heartfelt, that they've opened themselves up to an attack by others. Also, note that the Manager must still have bonus hit points left from the default version of the Intellect Fortress. 
 
-p28 - Intellect Fortress appears twice with two different descriptions
-
-Section 1.7 
+**1.7 Perks**
 
 File system knowledge provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment.
 
-In section 2.2 "The Resistentialist Environment", references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
+**2.2 The Resistentialist Environment**
 
-In section 2.2 "The Resistentialist Environment", the rules for a character holding their breath should be twice their Strength score, not twice their Constitution.
+All references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
 
-Section 2.3 Tactical Conflict Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Perception skill check with a target number of 11 in standard situations
+The rules for a character holding their breath should be twice their Strength score, not twice their Constitution.
 
-Dogs are listed as having 'Movement (flight)' 8-15. This should simply read 'Movement'. Dogs don't fly.
+**2.3 Tactical Conflict**
+
+Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Sense skill check with a target number of 11 in standard situations
+
+**3.7 Bestiary**
+
+Dogs are listed as having 'Movement (flight)' 8-15. This should simply read 'Movement'. Dogs don't fly. Although if you do want to include a flying dog in your world, name it Laika and give it wings like Icarus.
 
 ## 0.4 2D6 Revisited
 
@@ -107,11 +123,17 @@ Who knew that 2D6 could be so interesting? When the chance of success table was 
 
 But no, math nerds crawl out from behind non-Euclidean corners and demand further elaboration on the mighty 2d6. So here it is.
 
-A d6 provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested). Each d6 has the numbers 1 to 6 with equal probability. The random variable X is the sum of the numbers of 2d6. For example, when 4 and 6 are rolled, X is equal to 10, or if 2 and 5 are rolled the result is 7. If one was to create a table of 1d6 plus 1d6 with the results cross-references there would be 36 (6*6) possible outcomes, ranging from 2 (1 and 1 on each die) to 12 (6 and 6 on each die). The value *f* is defined as, the frequencies associated with the possible values of X. For example, there are four outcomes where X is equal to 5 i.e., (4,1 ; 3,2 ; 2,3 ; 4,1). Easy so far? Just like *Fox in Socks*, right?
+A d6 provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested). Each d6 has the numbers 1 to 6 with equal probability. 
+
+
+The random variable X is the sum of the numbers of 2d6. For example, when 4 and 6 are rolled, X is equal to 10, or if 2 and 5 are rolled the result is 7. If one was to create a table of 1d6 plus 1d6 with the results cross-references there would be 36 (6*6) possible outcomes, ranging from 2 (1 and 1 on each die) to 12 (6 and 6 on each die). The value *f* is defined as, the frequencies associated with the possible values of X. For example, there are four outcomes where X is equal to 5 i.e., (4,1 ; 3,2 ; 2,3 ; 4,1). 
+
+
+Easy so far? Just like *Fox in Socks*, right?
 
 *Knox in box. Fox in socks.*
 
-The full set of frequencies for X are as follows, along with the probability. The probability for X is highest at X and declines from this mean. The value E(X) is defined as the expected value of X, which is : E (X) = x_1 p_1 + ... + x_n p_n, or Sigma_(i=i)^n x_i p_i, or mu_x. The expected value of a random variable, such as X, is also known as its population mean. It is the weighted average of its possible values, the weights being the probabilities attached to the values. Abstract values (x_1, p_1, x_1p_1) are provided first. The concrete values of x_i are the same as in the column X, and the concrete values of p_i are the same as in column p. The expected value, E(X), is the sum of the entries in the column x_ip_i), or in this case 252/36, or 7, which you probably already knew 
+The full set of frequencies for X are as follows, along with the probability. The probability for X is highest at X and declines from this mean. The value E(X) is defined as the expected value of X, which is : E (X) = x_1 p_1 + ... + x_n p_n, or Sigma_(i=i)^n x_i p_i, or mu_x. The expected value of a random variable, such as X, is also known as its population mean. It is the weighted average of its possible values, the weights being the probabilities attached to the values. Abstract values (x_1, p_1, x_1p_1) are provided first. The concrete values of x_i are the same as in the column X, and the concrete values of p_i are the same as in column p. The expected value, E(X), is the sum of the entries in the column x_ip_i), or in this case 252/36, or 7, which you probably already knew.
 
 *Let's have a little talk about tweetle beetles....*
 
