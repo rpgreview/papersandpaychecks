@@ -668,9 +668,22 @@ Dexterity	9	-1	Wounds (Physical)
 Perception	12	+1	Wounds (Mental)	
 Charisma	4	-3	Wounds (Social)	
 Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+Act -3	+3	+0	+0
+Athletics (stamina) +0	+1	+0	+1
+Carousing -3	+1	+0	-2
+Concentration +3	+3	+0	+6
+Craft (writing) +2	+6	+0	+8
+Craft (mechanical) +2	+3	+0	+5
+Craft (structural)	+2	+3	+0	+5
+Investigate +2	+3	+0	+5
+Knowledge (general - mundane)	+2	+7	+9
+Knowledge (general -fantasy)	+2	+3	+5
+Knowledge (philosophy) +2	+3	+5
+Sense (insight) +1	+4	+5
+Language (English/Common)	+2	+3	+0 	+5
+Lie -3	+3	+0	+0
+Pilot (car) -1	+1	+0	+0
+Profession (clerk) +3	+3	+0	+6 
 
 *by Daniel Callahan and Lev Lafayette*
 
@@ -682,7 +695,9 @@ After defeating the kobold he met an elderly woman who said that the kobold had 
 
 Then, one day, another portal appeared underneath Charle's feet and he found himself back exactly where he was before, coffee cup still in hand. Since then Charles has had several visits to the fantast world and at each visit there has been no change in time from his previous departure. He has a peculiar situation where he is learning and experiencing at twice the speed of normal people who are trapped in a single universe. 
 
-It is however taking quite a toll on his mind, as Charles is not entirely sure which reality is "real" and which one he should treat as a dream. Also, as he is taken out and taken in to the two realities apparently at random, Charles is a little on-edge in preparation for these sudden changes. There is also the moral quandry he has with informing his now two partners, one on each world, and how he can explain that there's someone else in his life, but they're in another universe, or maybe it's a dream.
+It is however taking quite a toll on his mind, as Charles is not entirely sure which reality is "real" and which one he should treat as a dream and will done on about how confused he is with endless monotony. On the plus side, he has become quite a competent writer combining the dry logic of being a clerk in the mundane world with the creative imagination of being a fantasy world wizard. 
+
+As he is taken out and taken in to the two realities apparently at random, Charles is a little on-edge in preparation for these sudden changes. There is also the moral quandry he has with informing his now two partners, one on each world, and how he can explain that there's someone else in his life, but they're in another universe, or maybe it's a dream.
 
 Since his initial visit three years in the past, Charles The Tall has become an adviser to the Elf King whose lands are being encroached upon by neighbouring humans. Charles has made use of his engineering and logistic skills to develop seige weapons in the forest against these invaders and as a result has become well-known in the Elven lands.
 
@@ -4311,6 +4326,10 @@ Prime Requisite: Strength
 Starting Age: 15+1d4
 Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
 
+Wizard
+Prime Requisite: Intelligence
+Starting Age: 15+3d4
+Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight
 Ranger
 Prime Requisite: Perception
 Starting Age: 15+2d4
