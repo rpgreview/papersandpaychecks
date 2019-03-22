@@ -249,7 +249,19 @@ Prime Requisite: Dexterity
 Starting Age: 14+1d4 
 Profession Skills: Athletics (Strength)., Athletics (stamina)., Climb., Jump., Gymnastics., Ride., Sleight., Stealth, Sense (Balance)
 
-Description: A gymnast or equestrian are athletes that specialised in bodily movement, whether their own or that of of their mount. Whilst Dexterity is their primary characteristic they will often will have high scores in Strength as well. In addition, the Gymnast also has a Sense (Balance) skill, which typically provides a bonus to the gymnastics skill or its specialisations. With a heavy emphasis on physical skills, gymnasts are trained young and enter professional life younger than any other. It also means that they are the characters most likely to retire young too, as their body gives way.
+Description: A gymnast or equestrian are athletes that specialised in bodily movement, whether their own or that of of their mount. Whilst Dexterity is their primary characteristic they will often will have high scores in Strength as well. In addition, the Gymnast will also have additional concentration on a Sense (Balance) skill, which typically provides a bonus to the gymnastics skill or its specialisations, where as the Equestrian will have greater values in Ride. With a heavy emphasis on physical skills, gymnasts are trained young and enter professional life younger than any other. It also means that they are the characters most likely to retire young too, as their body collapses from contortions or they fall of their horse just that one time to many.
+
+```
+Sky News Reporter: the difficulty There is of course that you've compared the dangers of ecstasy to horse riding so you see what you say falls down a little when you talk about hard scientific evidence...whether if I may say so crass comment like that   
+Dr. David Nutt (sacked Chair of the UK Home Office's Advisory Council on the Misuse of Drugs): Well obviously you haven't read the paper have you? but it's not a crass comment that was a carefully considered analysis and you know how many people die every year from horse riding accident in this
+country? It's over 30; of ecstasy is about 10 about proportions a proportion   
+Sky News Reporter: About proportions now are you?    
+Dr. David Nutt: A proportion of users? Oh yes, if you read my paper you'll seem particularly venting so hard, horse riding there's a serious
+accident every 35 hours and ecstasy it's about a serious event every 350,000 hours. So this is the part of the issue here; you are trying to argue the science. You're not a scientist. We've done the analysis, we've looked at it. If you don't like what we say about the science, we'll say ok we will make, well take a moral position. But don't try to tell me that the science we've done is wrong. My committee had 28 people. We did the most detailed analysis of ecstasy, the most detailed analysis of cannabis, ever done. We know what the harms are...   
+Sky News Reporter: But do you not see that the headlines that come out of the science that you described? You're quite right I haven't read your paper."   
+-- Sky News Interview, 2009
+```
+
 
 | Level | Wage     |  Perks			|
 |-------|----------|----------------------------|
