@@ -774,23 +774,22 @@ Often Anglicised at Djinn, Genie and the like these are ancient demon-like creat
 | Administration|  +7 	   | +5         |           | +12        |
 | Bully 	| +4 	   | +5         |           | +9         |
 | Concentration |  +7	   | +5         |           | +12        |
+| Craft (alchemical) | +7  | +5         |           | +12        |
+| Craft (mechanical) | +7  | +5         |           | +12        |
 | Craft (writing)| +7 	   | +5 	|           | +12   	 | 
-| Investigate   |  +7 	   | +5		| 	    | +12        |
+| Insight   	|  +7 	   | +5        	| 	    | +12        |
+| Investigate   |  +7 	   | +10        | 	    | +17        |
 | Knowledge (laws) | +7    | +5         |           | +12        |
 | Knowledge (general)| +7  | +5         |           | +12        |
 | Knowledge (general - region 1)| +7  | +5    |     | +12        |
+| Knowledge (general - region 2)| +7  | +5    |     | +12        |
+| Knowledge (general - region 3)| +7  | +5    |     | +12        |
+| Knowledge (philosophy) | +7   | +5       |        | +12        |
+| Knowledge (sciences) | +7   | +5      |           | +12        |
 | Language (first)| +7 	   | +8         |           | +15        |
 | Language (second)| +7    | +5         |           | +12        |
+| Language (third)| +7    | +5         |            | +12        |
 | Survival      | +7  	   | +5         |           | +12        |
-|  		|  	   |            |           |            |
-|  		|  	   |            |           |            |
-|  		|  	   |            |           |            |
-
-
-
-
-Wizard Prime Requisite: Intelligence Starting Age: 15+3d4 Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight Ranger Prime Requisite: Perception Starting Age: 15+2d4 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
-
 
 *Al-Jinni story*. Abu Hasan Zoba'ah is a powerful Jinn king and is associated with Friday which, according to Islamic custom, is supposed to be a day of rest (at least after midday prayers). Being an individual of some piety, this particular Jinn has become very annoyed with people in a particular town going about their business as usual on a day which they believe should be reserved for rest and contemplation. Their plan, in very *Papers & Paychecks* style, is to get their a score of Jinni in town to run amok, upturning trader's carts and so forth. Unfortunately that has created *more* work on this day of rest (c.f. "parable of the broken window") and many of the lesser jinni are quite enjoying causing such problems. Frustrated Abu Hasan Zoba'ah has turned to the PC Adventurers (if through a third party) to get the lesser jinni to behave and have provided special capturing lamps to do (think of the containment units from the film *Ghostbusters* (1984)). Bonus player points to anyone who has the audacity to point out Abu Hasan Zoba'ah that by releasing the jinni to do work on Friday afternoons they were actually contradicting their own principle. 
 
