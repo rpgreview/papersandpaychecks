@@ -799,13 +799,13 @@ Giant Beavers (Castoroides, Trogontherium) is a Pleistocene-period creature that
 
 Apart the obvious uses from their fur and meat, in a fantasy environment one can replicate the medieval belief that Beaver testicles and castor sacs for both pain relief and as a contraception. Aesop's *Fables* describes beavers chewing off their testicles to preserve themselves from hunters. In the great classic Hellenic tradition, nobody actually checked this, because beaver's testicles are inside its body. Nevertheless, it made a good story and was continued in medieval bestiaries. For purposes of fantasy *Papers & Paychecks*, both are true. The Giant Beaver's testicles are internal, but can be 'externalised' by muscular relaxtion if required. Although not very bright, they are smart enough to leave their balls behind if someone is hunting for them.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Beaverbollocks.jpg" height="25%" width="25%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Beaverbollocks.jpg" height="50%" width="50%" />
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  13-16    |  +1 to +3  | Profession	 | Giant Beaver |
 | Intelligence	    |  4-5      |  -3        | Level	         | 1	 |
-| Wisdom 	    |  5-10     |  -3 to +0  | Movement (run) | 13-16 |
+| Wisdom 	    |  5-10     |  -3 to +0  | Movement (run) | 6-8 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
 | Perception	    |  13-15    |  +1 to +3  | Wounds (Mental)   |   |
 | Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
@@ -829,17 +829,20 @@ Famously, the only natural enemy of the Basilisk is the weasel. The weasel is ca
 
 For various reasons the Basilisk is a solitary creature. Regrettably they are also intelligent and could theoretically gain levels in fantasy professions. There are known stories of Basilisks being capable of speech and one can only imagine the circumstances that lead to such a being acquiring such skill.
 
-Characteristic	Value	Bonus		
-Strength	1	-5		Profession	Basilisk
-Intelligence	10-11	+0		Level	1
-Wisdom		8-9	-1		Movement	1
-Dexterity	3-18	-4 to +4	Wounds (Physical)	
-Perception	10-11	+0		Wounds (Mental)	
-Charisma	4	-3		Wounds (Social)	
-Skill		Char		Train	Other	Total
-Melee		-5		+0		-5
-Sense (sight)	+0		+1		+1
-Missile		-4 to +4	+1		-3 to +5	
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  1        |  -5        | Profession	 | Basilisk |
+| Intelligence	    |  10-11    |  +0        | Level	         | 1	 |
+| Wisdom 	    |  8-9      |  -1        | Movement (run) | 3 |
+| Dexterity	    |  3-18     |  -4 to +4  | Wounds (Physical) |   |
+| Perception	    |  10-11    |  +0        | Wounds (Mental)   |   |
+| Charisma	    |  4	|  -3        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Melee 	|  -5	   | +0         | +3        | +3         |
+| Missile	| -4 to +4 | +1		| +0	    | -3 to _5   |
+| Sense (sight) | +0       | +1    	| +0 	    | +1         | 
 
 In combat a Basilisk attacks with its Sense (sight) skill, with the gaze causing death (NO SAVING THROW) with an effective range of 25m. The gaze can be reflected back on the Basilisk. The venom of a Basilisk attacks with a STR 15 against the target, using the Basilisk's Missile skill and DEX as a characteristic bonus with a base range of 3m. The peck of a Basilisk also delivers venom. 
 
@@ -852,7 +855,6 @@ A Basilisk named Anguis has spent many years at the familiar of a wizard and has
 Classic and medieval bestiaries refer to the Bonnacon as coming from south-eastern Europe into Asia minor, and perhaps beyond. Very similar to other bovine breeds in terms of size and general appearance, the Bonnacon has inward-facing horns (rather like a ram) and a horse-like mane. Whilst the Bonnacon can butt with its head, or even trample, its preferred attack mechanism is to release dung which can "covers a distance of as much as three furlongs", according to Pliny, and which is incredibly acidic, "scorches pursuers like a sort of fire"
 
 In most other respects the Bonnacon is like other members of the *bovinae* subfamily; a large quadrupedal ungulate mammals with cloven hooves, with a lifespan of around 20-25 years, living as a herd animal with collective behaviour with bulls on the circumference of the herd's range protecting the cows and calves. The gestation period for a cow is about nine months long. Unlike most *bovinae* the Bonnacon is not domesticated by humans, for some fairly obvious reasons.
-
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -878,28 +880,32 @@ A local warlord offers a small fortune to the PCs to round up a herd of bonnacon
 
 If by some good fortune the PC Adventurer's succeed in rounding up the herd, the warload gives them another offer. To train and command the Tachanka cavalry-artillery force. From such humble beginnings, a mighty campaign begins.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Bonnacon.jpg" height="25%" width="25%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Bonnacon.jpg" height="50%" width="50%" />
 
 **Bugbear**
 
 Related to *goblins*, and *hobgoblins* (c.f.,) the Bugbear is a larger member of the kin and is often so large and hirsuite to be described as bear-like. They are a creature of European mythology and are rather partial in lurking in woods near human (dwarf, elf, halfling etc) habitations, where they have opportunities to prey on the sweet meat of children, being their favourite food. After a peasant family has lost their third child to the local bugbear one can understand where the etymology of said beings being a "pet peeve" comes from. Their solitary and ambush hunting style matches their social organisation. Bugbears tend only to associate with their immediate family and often then the relationship is strained due to an innately gruff and bullying disposition. Their disposition, size, and skill does however make them highly sought after by goblins and hobgoblins for particular missions, however the bugbears will insist that they take a lead tactical role in such situations.
 
-Characteristic	Value	Bonus		
-Strength	18-24	+4 to +6	Profession Ranger
-Intelligence	3-18	-4 to +4	Level	1
-Wisdom		3-18	-4 to +4	Movement	18-24
-Dexterity	3-12	-4 to +1	Wounds (Physical)	
-Perception	8-18	-1 to +4	Wounds (Mental)	
-Charisma	3-12	-4 to +1	Wounds (Social)	
-Skill			Char		Train	Other	Total
-Athletics (stamina)	+4 to +6	+1		+5 to +7
-Melee			+4 to +6	+1		+5 to +7
-Survival		-4 to +4	+1		-3 to +5
-Sense (smell)		-1 to +4	+1		+0 to +5
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-24    |  +4 to +6  | Profession	 | Ranger |
+| Intelligence	    |  3-18     |  -4 to +4  | Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to +4  | Movement          | 9-12 |
+| Dexterity	    |  3-18     |  -4 to +4  | Wounds (Physical) |   |
+| Perception	    |  8-18     |  -1 to +4  | Wounds (Mental)   |   |
+| Charisma	    |  3-12	|  -4 to +1  | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Athletics (stamina)  | 4 to +6| +1    | +0        | +5 to +7   |
+| Melee         | +4 to +6 | +1         | +0        | +5 to +7   |
+| Sense (smell) | +1 to +4 | +1         | +0        | +0 to +5   |
 
 *A Bugbear story*
 
-Gerald fancies himself a well-educated Bugbear. He isn't that that really doesn't matter given his attitude. Following a rather devastating regional war, a local Cleric has set up a school at the edge of a local town to cater for the growing orphan population. The fact that it was a religious war has not gone unnoticed. Gerald has taken up stalking residence nearby and has taken to leaving behind notes to the Cleric. These notes, apart from describing the taste of the most recent victim, consist of annoying misspellings and malformed phrases - such as the confusion between "their", "there", and "they're", references to an "escape goat", eating "cold slaw", and being "curled up in the feeble position". The Cleric, who is desperate to teach the youngster the correct use of the language of the realm has had enough and has called in the PCs to deal with Gerald. 
+Gerald fancies himself a well-educated Bugbear. He isn't that that really doesn't matter given his attitude. Following a rather devastating regional war, a local Cleric has set up a school at the edge of a local town to cater for the growing orphan population. The fact that it was a religious war has not gone unnoticed by some of the brighter students. Gerald has taken up stalking residence nearby and has taken to leaving behind notes to the Cleric. These notes, apart from describing the taste of the most recent child victim, consist of annoying misspellings and malformed phrases - such as the confusion between "their", "there", and "they're", references to an "escape goat", eating "cold slaw", and being "curled up in the feeble position". The Cleric, who is desperate to teach the youngster the correct use of the language of the realm has had enough and has called in the PCs to deal with Gerald. 
+
+Typically Bugbears eat children. Gerald is no different in that regard. However, once ensconced in his well-trapped lair, he fires off a few quick questions, such as a math problem using order of operations, the capital of Assyria, the airspeed velocity of a laden swallow etc. If the answers of the are satisfactory, Gerald will take the clever child to a classroom oubliette where they will have the opportunity to educate *him*. Otherwise, it off to the cooking pot (Gerald does provide his teachers a delicious sweet pork stew). To make matters more annoying some of the children have grown quite fond of Gerald and his efforts to become educated (Stockholm Syndrome) and will resist any attempt to harm him, or even be rescued.
 
 **Centaur** (*Equus-Homo centaurus*)
 
@@ -1066,7 +1072,6 @@ In start contrast the Indo-Asiatic dragons have innate transformation powers (us
 | Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
 
 A Dragon story
 
@@ -1725,6 +1730,8 @@ A Lizard-Man story
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
