@@ -812,14 +812,14 @@ Apart the obvious uses from their fur and meat, in a fantasy environment one can
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-|          	|  	   |          	|           |         	 | 
-| 		|  	   | 		| 	    |            |
-|  		|  	   |            |           |            |
+| Sense (smell) | +1 to +3 | +0    	| +2 	    | +3 to +5   | 
+| Melee		| +1 to +3 | +0		| +2	    | +3 to +5   |
+| Craft (structural) |  -3 | +1         | +3        | +1         |
 
 
 *A Giant Beaver story*
 
-A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married off to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required. To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time (1 week per point of Giant Beaver STR). The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who also realise its economic value.
+A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married off to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required. To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time (1 week per point of Giant Beaver STR). The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who, apart from being nature-loving hippies, also realise its economic value.
 
 **Basilisk and Cockatrice**
 
