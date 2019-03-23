@@ -125,16 +125,15 @@ A 1d6 roll provides a discrete random variable (not 'discreet' as one post-gradu
 
 This is all easy so far? Just like *Fox in Socks*, right?
 
-*Fox. Socks. Box. Knox. Knox in box. Fox in socks.* (Fox in Socks, Dr. Seuss, 1965)
+> Fox. Socks. Box. Knox. Knox in box. Fox in socks.* 
+> *Fox in Socks*, Dr. Seuss, 1965
 
 The opportunity is taken here to dispel one alarmingly common misconception which, fortunately, seems to be more common among the general public rather than gamers in particular, and that refers to the probability of results on multiple dice tests. From a single die, the probability of rolling any specific number from 1d6 is 1/6. Likewise the probability of rolling any specific number from subsequent dice from 1d6 is 1/6. It doesn't matter if you have rolled six 1s in a row or 10 6s in a row. "What are the odds?", you might ask - 1 in 6, *each* time, and the chance of you rolling a 1 or a 6 on the next die roll is also 1/6 for a 1 and 1/6 for a 6. *Dice don't have memory*. Unless of course, you have *very special* dice.
 
-```
-First, I'll make a quick trick brick stack.   
-Then I'll make a quick trick block stack.   
-You can make a quick trick chick stack.   
-You can make a quick trick clock stack.   
-```
+> First, I'll make a quick trick brick stack.   
+> Then I'll make a quick trick block stack.   
+> You can make a quick trick chick stack.   
+> You can make a quick trick clock stack.   
 
 Having established *range*, *mean*, *median*, and *mode*, the opportunity is taken to initially elaborate this to *variance*. Variance is a measure of distibution, specifically the expected (or actual, if want to generate a rolled, empirical result) of the squared deviation of a random variable from the mean. Or, if you wish to hear in another form, first calculate the mean of the square then subtract the square of the mean. If that sounds confusing is perhaps easier to illustrate by equation, initially using 1d6 as an example, and then elaborating to 2d6. Because each die is independent (dice don't have memory, remember) the variance of n-dice is n times 1d6.
 
@@ -153,7 +152,7 @@ One other matter that gamers love for obvious reasons is working out percentage 
 
 The initial exploration of 1d6 can be extended to 2d6. IN the following, the random variable X is the sum of the numbers of 2d6. For example, when 4 and 6 are rolled, X is equal to 10, or if 2 and 5 are rolled the result is 7. If one was to create a table of 1d6 plus 1d6 with the results cross-references there would be 36 (6*6) possible outcomes, ranging from 2 (1 and 1 on each die) to 12 (6 and 6 on each die). The value *f* is defined as, the frequencies associated with the possible values of X. For example, there are four outcomes where X is equal to 5 i.e., (4,1 ; 3,2 ; 2,3 ; 4,1). 
 
-*Let's have a little talk about tweetle beetles....*
+> Let's have a little talk about tweetle beetles....
 
 The full set of frequencies for X are as follows, along with the probability. The probability for X is highest at X and declines from this mean. The value E(X) is defined as the expected value of X, which is : E (X) = x_1 p_1 + ... + x_n p_n, or Sigma_(i=i)^n x_i p_i, or mu_x. The expected value of a random variable, such as X, is also known as its population mean. It is the weighted average of its possible values, the weights being the probabilities attached to the values. Abstract values (x_1, p_1, x_1p_1) are provided first. The concrete values of x_i are the same as in the column X, and the concrete values of p_i are the same as in column p. The expected value, E(X), is the sum of the entries in the column x_ip_i), or in this case 252/36, or 7, which you probably already knew. And that's about enough of statistical elaborations on 2d6. Roll some dice and have fun.
 
@@ -513,19 +512,20 @@ Lahnda. Spoken as a first language by 119 million in Pakistan and India. Distant
 
 Persian. Spoken as a first language by 60 million in Iran, Afghanistan, Tajikstan, Uzbekistan, Iraq etc. Spoken as an addtional language by 50 million. Distantly related to all Indo-European languages, related to Iranian languages, sister language to Tajik and Dari. Dialects include Tat, Iranian, Judeo-Persian, Bukhori, etc
 
-The degree of complexity of the communication establishes the Target Number. 
+The degree of complexity of the communication establishes the Target Number. Note how the sentence, technically identical all along, becomes more complex in terms of noun-specificity and conditional verbal expression, starting from a simple present-tense subject-verb-object, generic noun. Inspired by the language functions chart from *RuneQuest* (third edition, 1984)
 
 Difficulty		Rating		Example
-Very easy		5		"I want food."
-Easy			7		"
-Average			9
-Tough			11
-Challenging		13
-Formidable		15
-Heroic			17
-Nearly Impossible	19
+Very easy		5		"I want food." 
+Easy			7		"I want some lamb, please"
+Average			9		"I want some lamb with sweet potato, please" 
+Tough			11		"I would like some lamb shank casseole with sweet potatoes, please"
+Challenging		13		"I would like some slow-cooked spring lamb shank casseole with sweet potatoes or rice if you don't have any, please"
 
-As a practical implementation of linguistic issues according to the theme of *Papers & Paychecks* the Boss should consider applying issues of mistranslation as often as possible. There is the classic example of the "water sheep" as a transliteration of "hydraulic ram" in Philip K. Dick's "The Galatic Pot Healer" (1969), which received special attention in the "Camp 22" scenario in this publication. Another potential situation is to applying different legal applications in a multi-lingual country, such as the apocaphyl story of the Luxembourg police using German to follow their procedures and French for their legal code. For actual examples, do consider these real-world failures of translation engines and incorporate them into your scenarios.
+> No one gets angry at a mathematician or a physicist whom he or she doesn't understand at all, or at someone who speaks a foreign language, but rather at someone who tampers with your own language, with this 'relation,' precisely, which is yours.  
+-- Jacques Derrida    
+
+
+As a practical implementation of linguistic issues according to the theme of *Papers & Paychecks* the Boss should consider applying issues of mistranslation as often as possible. There is the classic example of the "water sheep" as a transliteration of "hydraulic ram" in Philip K. Dick's "The Galatic Pot Healer" (1969), which received special attention in the "Camp 22" scenario in this publication. Another potential situation is to applying different legal applications in a multi-lingual country, such as the apocryphal story of the Luxembourg police using German to follow their procedures and French for their legal code. For actual examples, do consider these real-world failures of translation engines and incorporate them into your scenarios.
 
 1. "Fall" and "autumn". In English "fall" and "autumn" refer to a season, the former more common in American English, the latter in Commonwealth English and from Germanic and Latin origins respectively. A problem arises in many translations where documents may deliberate on strategies for "fall prevention" which translate into "autumn prevention" (e.g., in Spanish "prevención de otoño"). PC Workers may be sent on a mission by Occupational Health & Safety to ensure that the office environment is "autumn proof".
 
@@ -652,7 +652,7 @@ https://web.archive.org/web/20040202035152/http://www.apa.org/releases/homophob.
 
 INT 13 (+1), WIS 18 (+4), CHA 13 (+1), I+3 N+2 F+4 J+2 (Counsellor)
 
-A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues.
+A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues. See also al-Jinn under section 3.2, Monsters.
 
 # 3.0 More Non-Player Characters
    
@@ -758,24 +758,41 @@ See: Korean Fan Death on Snopes `https://www.snopes.com/fact-check/fan-death/`
 
 **Al-Jinn**
 
-Often Anglicised at Djinn, Genie and the like these are ancient demon-like creatures of the Middle-East and northern Africa. They are not necessarily evil, but are spirits that have an insubstantial form (usually humanoid but often enough as animals) and the more poweful ones are not exactly adverse to being worshipped, and not adverse to possession if the need or desire arises. Because of their great power Jinni are appropriately feared although powerful sorcerers sometimes seek to bind them to servitude. Naturally enough Jinni do not approve of being bound in such a fashion but will be relentlessly polite in fulfilling their master's wishes and exacting according to their preferred interpretation of the order provided. They are, in many respects, the ultimate deconstructionalists. There is a famous story of a person who rescues an Jinn bound in an item and it grants the rescuer a wish; like many would the rescuer asks for great wealth. A local Sheikh becomes very angry to discover his treasury has been looted.
+Often Anglicised at Djinn, Genie and the like these are ancient demon-like creatures of the Middle-East and northern Africa. They are not necessarily evil, but are spirits that have an insubstantial form (usually humanoid but often enough as animals) and the more powerful ones are not exactly adverse to being worshipped, and not adverse to possession if the need or desire arises. Because of their great power Jinni are appropriately feared although powerful sorcerers sometimes seek to bind them to servitude. Naturally enough Jinni do not approve of being bound in such a fashion but will be relentlessly polite in fulfilling their master's wishes and exacting according to their preferred interpretation of the order provided. They are, in many respects, the ultimate deconstructionalists. There is a famous story of a person who rescues an Jinn bound in an item and it grants the rescuer a wish; like many would the rescuer asks for great wealth. A local Sheikh becomes very angry to discover his treasury has been looted.
 
-> No one gets angry at a mathematician or a physicist whom he or she doesn't understand at all, or at someone who speaks a foreign language, but rather at someone who tampers with your own language, with this 'relation,' precisely, which is yours.  
--- Jacques Derrida    
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-19    |  +4  	     | Profession	 | Wizard-Cleric |
+| Intelligence	    |  24-25    |  +7        | Level	         | 5-5	 |
+| Wisdom 	    |  24-25    |  +7        | Movement (run) | 13-16 |
+| Dexterity	    |  18-19    |  +4        | Wounds (Physical) |   |
+| Perception	    |  24-25    |  +7        | Wounds (Mental)   |   |
+| Charisma	    |  18-19	|  +4        | Wounds (Social)   |   |
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Djinni
-Intelligence	1	-5	Level	1
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Administration|  +7 	   | +5         |           | +12        |
+| Bully 	| +4 	   | +5         |           | +9         |
+| Concentration |  +7	   | +5         |           | +12        |
+| Craft (writing)| +7 	   | +5 	|           | +12   	 | 
+| Investigate   |  +7 	   | +5		| 	    | +12        |
+| Knowledge (laws) | +7    | +5         |           | +12        |
+| Knowledge (general)| +7  | +5         |           | +12        |
+| Knowledge (general - region 1)| +7  | +5    |     | +12        |
+| Language (first)| +7 	   | +8         |           | +15        |
+| Language (second)| +7    | +5         |           | +12        |
+| Survival      | +7  	   | +5         |           | +12        |
+|  		|  	   |            |           |            |
+|  		|  	   |            |           |            |
+|  		|  	   |            |           |            |
 
-*A Djinni story*. Abu Hasan Zoba'ah is a powerful Jinn king and is associated with Friday which, according to Islamic custom, is supposed to be a day of rest (at least after midday prayers). Being an individual of some piety, this particular Jinn has become very annoyed with people in a particular town going about their business as usual on a day which they believe should be reserved for rest and contemplation. Their plan, in very *Papers & Paychecks* style, is to get their a score of Jinni in town to run amok, upturning trader's carts and so forth. Unfortunately that has created *more* work on this day of rest (c.f. "parable of the broken window") and many of the lesser jinni are quite enjoying causing such problems. Frustrated Abu Hasan Zoba'ah has turned to the PC Adventurers (if through a third party) to get the lesser jinni to behave and have provided special capturing lamps to do (think of the containment units from the film *Ghostbusters* (1984)). Bonus player points to anyone who has the audacity to point out Abu Hasan Zoba'ah that by releasing the jinni to do work on Friday afternoons they were actually contradicting their own principle. 
+
+
+
+Wizard Prime Requisite: Intelligence Starting Age: 15+3d4 Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight Ranger Prime Requisite: Perception Starting Age: 15+2d4 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
+
+
+*Al-Jinni story*. Abu Hasan Zoba'ah is a powerful Jinn king and is associated with Friday which, according to Islamic custom, is supposed to be a day of rest (at least after midday prayers). Being an individual of some piety, this particular Jinn has become very annoyed with people in a particular town going about their business as usual on a day which they believe should be reserved for rest and contemplation. Their plan, in very *Papers & Paychecks* style, is to get their a score of Jinni in town to run amok, upturning trader's carts and so forth. Unfortunately that has created *more* work on this day of rest (c.f. "parable of the broken window") and many of the lesser jinni are quite enjoying causing such problems. Frustrated Abu Hasan Zoba'ah has turned to the PC Adventurers (if through a third party) to get the lesser jinni to behave and have provided special capturing lamps to do (think of the containment units from the film *Ghostbusters* (1984)). Bonus player points to anyone who has the audacity to point out Abu Hasan Zoba'ah that by releasing the jinni to do work on Friday afternoons they were actually contradicting their own principle. 
 
 **Beaver, Giant**
 
@@ -796,9 +813,10 @@ Apart the obvious uses from their fur and meat, in a fantasy environment one can
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Melee         | +1 to +3 | +1         |           | +2 to +4   |
-| Swim		| +1 to +3 | +1		| +4	    | +5 to +8   |
-| Sense (smell) | +1 to +3 | +1         |           | +2 to +4   |
+|          	|  	   |          	|           |         	 | 
+| 		|  	   | 		| 	    |            |
+|  		|  	   |            |           |            |
+
 
 *A Giant Beaver story*
 
@@ -4275,10 +4293,10 @@ INTJ	Mastermind	Abstract, Rational, Arranging, Entailing
 
 **Character Class Background**
 
-2	Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge 1, Hobby 1, Perception 1, Pilot 1, Carousing 1
-3-5	Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Perception 1, Pilot 1, Carousing 1
-6-8	Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Perception 1, Pilot 1, Carousing 1
-9-11	Language (own) 4, Language (foreign) 1, Knowledge 3, Perception 1, Profession 1, Pilot 1, Carousing 1,
+2	Language (own) 1, Athletics 2, Intimidate 1, Melee 1, Craft 2, Knowledge 1, Hobby 1, Sense 1, Pilot 1, Carousing 1
+3-5	Language (own) 2, Athletics 1, Craft 3, Knowledge 1, Hobby 2, Sense 1, Pilot 1, Carousing 1
+6-8	Language (own) 3, Athletics 1, Craft 3, Knowledge 2, Sense 1, Pilot 1, Carousing 1
+9-11	Language (own) 4, Language (foreign) 1, Knowledge 3, Sense 1, Profession 1, Pilot 1, Carousing 1,
 12	Language (own) 5, Language (foreign) 2, Knowledge 2, Pilot 1, Act 1, Carousing 1
 
 **Characteristic Bonuses**
