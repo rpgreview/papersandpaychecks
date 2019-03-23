@@ -1005,6 +1005,7 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 |---------------|----------|------------|-----------|------------|
 | Possess	| -4 to +4 | +1		| +0	    | -3 to +5	 |
 | Knowlege (General) | -4 to +4 | +1		| +0	    | -3 to +5	 |
+| Knowlege (Philosophy) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 
 *A Demon story*. Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong, and *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
 
@@ -1048,20 +1049,23 @@ In start contrast the Indo-Asiatic dragons have innate transformation powers (us
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  60-90    |  +25 to +40	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  11-25    |  +0 to +7  	| Level	         | 1	 |
+| Wisdom 	    |  11-25    |  +0 to +7  	| Movement (running)| 30-45 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  11-25    |  +0 to +7	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Intimidate	|  +25 to +40   | +1    |           | +26 to +41 |
+| Melee		|  +25 to +40   | +1    |           | +26 to +41 |
+| Survival	|  +4	   | +1		|    	    | +5         |
+| Athletics (strength)	|  +25 to +40  | +1 |       | +26 to +41 |
+| Knowledge (general)	|  +4	| +1	|   	    | +5         |
+| Insight	|  +4	   | +1		|    	    | +5         |
+| Language	|  +4	   | +3		|    	    | +7         |
+| Investigate 	|  +4	   | +1		|    	    | +5         |
 
 *A Dragon story* With inspiration from Disney's 1941 film *The Reluctant Dragon*, a comedy of unexpected behaviour can be generated. Members of a remote village near a mountain range approach the PC Adventurers with the handful of coins that the entire village has scraped together pleading that a dragon has moved into the region. So far it has only taken a few sheep, but who can say how long it will be before a child is consumed? Based on eye-witnesses the dragon is on the smaller scale of the usual range.
 
@@ -1075,50 +1079,47 @@ Different types of dryads are tied to different species of tree, whose traits ar
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  3-18     |  -4 to +4	| Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 5 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Hobby (gardening) | +0     | +1         |   	    |  +1        |
+| Insight 	| +0     | +1         |   	    |  +1        |
+| Sense (hearing) | +0     | +1         |   	    |  +1        |
+| Survival  	| +0     | +1         |   	    |  +1        |
 
-*A Dryad story*. "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be tree in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
+*A Dryad story*. "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
 **Dwarf**
 
-The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope across most of Scandinavia, the British Isles, central Europe and parts of eastern Europe. A humanoid folk, they live in various mountain locales (not many Belgian dwarfs), where they show enormous acumen at mining and smithing, and are especially well-known for creating crafting magical items to the point that a cloak of invisibility is almost standard in Dwarfen society. Physically considered somewhat unattractive by human standards, dwarfs are short and muscular. There is a notable gender disparity among Dwards with less than a third of population being female, and culturally they are the hearth-keepers, loremasters and bureaucrats. As a result they are rarely seen outside of Dwarfen society.  
+The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope across most of Scandinavia, the British Isles, central Europe and parts of eastern Europe. A humanoid folk, they live in various mountain locales (not many Belgian dwarfs), where they show enormous acumen at mining and smithing, and are especially well-known for creating crafting magical items to the point that a cloak of invisibility is almost standard in Dwarfen society. Physically considered somewhat unattractive by human standards, dwarfs are short and muscular. There is a notable gender disparity among Dwards with less than a third of population being female, and culturally they are the hearth-keepers, loremasters and bureaucrats. As a result they are rarely seen outside of Dwarfen society. Dwarfs have a half-normal movement on account of their height, relative to STR, but also half STR for the purpose of calculating Stealth characteristic bonuses.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  8-18     |  -1 to +4	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)| 2-4 |
+| Dexterity	    |  8-18     |  -1 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  2-12	|  -4 to +1     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Carousing 	| +1     | +1         |   	    |  +2        |
+| Melee 	| +1     | +1         |   	    |  +2        |
+| Survival 	| +0     | +1         |   	    |  +1        |
+| Stealth  	| +2     | +1         |   	    |  +3        |
 
-*A Dwarf story*
+*A Dwarf story* As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed an ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted.
 
 **Elemental**
 
 Elementals are fundamental forces of nature made animate, which varies according to culture. Starting from the Hellenic world and expanding into Europe, the Middle-East and northen Africa, the elements are rather like phase states; Earth, Water, Wind, and Fire. In Jainism of India there are also beings that consist of only one substance (*kaya*) however they also the addition of the Plant element. One fairly common mistake is that the Chinese "elements" (wu xing) a representative of this type. Wu Xing is more about movement rather than being and as a result there are no corresponding elementals.
-
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1522,8 +1523,7 @@ An Imp story
 
 **Ifreet**
 
-Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African legend. There are several major characteristics about them which put them in a category of their own. Firstly, they are a death spirit, which means that they a drawn to a life-force, and especially to locales of a murder victim. They are fire spirits, which means that they're often found underground or in certain regions (e.g., volcanoes, deserts), known for heat and fire. They are also shapeshifters and are able to take the appearance and form of a humanoid. All this would suggest that they are a wicked species and indeed most of them are with a few exceptions. They can be banished by the correct prayers by the faithful.
-
+Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African legend. There are several major characteristics about them which put them in a category of their own. Firstly, they are a death spirit, which means that they a drawn to a life-force, and especially to locales of a murder victim. They are fire spirits, which means that they're often found underground or in certain regions (e.g., volcanoes, deserts), known for heat and fire. They are also shapeshifters and are able to take the appearance and form of a humanoid. All this would suggest that they are a wicked species and indeed most of them are with a few exceptions. They can be banished by the correct prayers by the faithful, of which there are truly very few people indeed.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
