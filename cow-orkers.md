@@ -82,10 +82,8 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 ## 0.3 Papers & Paychecks Errata
 
-```
-So if your air conditioner goes on the fritz, or your washing machine blows up, or your video recorder conks out, before you call the repairman, turn on all the lights, check all the closets and cupboards, look under all the beds, 'cause you never can tell. There just might be a gremlin in your house.   
--- Rand Peltzer, Gremlins (1984)
-````
+> So if your air conditioner goes on the fritz, or your washing machine blows up, or your video recorder conks out, before you call the repairman, turn on all the lights, check all the closets and cupboards, look under all the beds, 'cause you never can tell. There just might be a gremlin in your house.   
+> -- Rand Peltzer, Gremlins (1984)
 
 Who could believe that even after getting multiple people to look over the rules, some of which provided error-checking in detail that (a) some of their suggestions I managed to completely overlook and (b) others were missed by all and sundry. It is almost as if the computer itself *hid* the text that needed editing from our view, as it knew that if such a publication made it to the light of day that *we* would be on to *them*. But that's just crazy talk, right? 
 
@@ -250,17 +248,14 @@ Profession Skills: Athletics (Strength)., Athletics (stamina)., Climb., Jump., G
 
 Description: A gymnast or equestrian are athletes that specialised in bodily movement, whether their own or that of of their mount. Whilst Dexterity is their primary characteristic they will often will have high scores in Strength as well. In addition, the Gymnast will also have additional concentration on a Sense (Balance) skill, which typically provides a bonus to the gymnastics skill or its specialisations, where as the Equestrian will have greater values in Ride. With a heavy emphasis on physical skills, gymnasts are trained young and enter professional life younger than any other. It also means that they are the characters most likely to retire young too, as their body collapses from contortions or they fall of their horse just that one time to many.
 
-```
-Sky News Reporter: the difficulty There is of course that you've compared the dangers of ecstasy to horse riding so you see what you say falls down a little when you talk about hard scientific evidence...whether if I may say so crass comment like that   
-Dr. David Nutt (sacked Chair of the UK Home Office's Advisory Council on the Misuse of Drugs): Well obviously you haven't read the paper have you? but it's not a crass comment that was a carefully considered analysis and you know how many people die every year from horse riding accident in this
+> Sky News Reporter: the difficulty There is of course that you've compared the dangers of ecstasy to horse riding so you see what you say falls down a little when you talk about hard scientific evidence...whether if I may say so crass comment like that   
+> Dr. David Nutt (sacked Chair of the UK Home Office's Advisory Council on the Misuse of Drugs): Well obviously you haven't read the paper have you? but it's not a crass comment that was a carefully considered analysis and you know how many people die every year from horse riding accident in this
 country? It's over 30; of ecstasy is about 10 about proportions a proportion   
-Sky News Reporter: About proportions now are you?    
-Dr. David Nutt: A proportion of users? Oh yes, if you read my paper you'll seem particularly venting so hard, horse riding there's a serious
-accident every 35 hours and ecstasy it's about a serious event every 350,000 hours. So this is the part of the issue here; you are trying to argue the science. You're not a scientist. We've done the analysis, we've looked at it. If you don't like what we say about the science, we'll say ok we will make, well take a moral position. But don't try to tell me that the science we've done is wrong. My committee had 28 people. We did the most detailed analysis of ecstasy, the most detailed analysis of cannabis, ever done. We know what the harms are...   
-Sky News Reporter: But do you not see that the headlines that come out of the science that you described? You're quite right I haven't read your paper."   
--- Sky News Interview, 2009
-```
-
+> Sky News Reporter: About proportions now are you?    
+> Dr. David Nutt: A proportion of users? Oh yes, if you read my paper you'll seem particularly venting so hard, horse riding there's a serious
+accident every 35 hours and with ecstasy it's about a serious event every 350,000 hours. So this is the part of the issue here; you are trying to argue the science. You're not a scientist. We've done the analysis, we've looked at it. If you don't like what we say about the science, we'll say ok we will make, we'll take a moral position. But don't try to tell me that the science we've done is wrong. My committee had 28 people. We did the most detailed analysis of ecstasy, the most detailed analysis of cannabis, ever done. We know what the harms are...   
+> Sky News Reporter: But do you not see that the headlines that come out of the science that you described? You're quite right I haven't read your paper..."   
+> -- Sky News Interview with Dr. David Nutt, 2009
 
 | Level | Wage     |  Perks			|
 |-------|----------|----------------------------|
@@ -302,7 +297,7 @@ Prime Requisite: Charisma
 Starting Age: 15+1d4 
 Profession Skills: Act., Carousing., Inspire., Seduce., Athletics (Strength)., Athletics (stamina)., Jump., Profession., Insight
 
-Description: The fan-contributed character profession that led your author to go down the rabbit-hole of developing an entire set of 'sporting professions'. The cheerleader inspires athletes and fans alike nominally through leading cheers, chants, and song, but more than often through their through their atheletic maneuvers where the sheer beauty in motion often leaves the fans in a bit of a stupor - which curiously is counter-productive to the purpose of actual leading a cheer. When said fans come to, however their determination to cheer is typically enhanced due to the ecstastic experience of the cheer. Cheerleaders have CHA as their primary characteristic, but like other athletes, DEX and STR are of a high priority as well. Note that due to the various athletic maneuvers expected of them, Cheerleaders are one of the most dangerous sporting professions.
+Description: The fan-contributed character profession that led your author to go down the rabbit-hole of developing an entire set of 'sporting professions'. The cheerleader inspires athletes and fans alike nominally through leading cheers, chants, and song, but more than often through their through their atheletic maneuvers where the sheer beauty in motion often leaves the fans in a bit of a stupor - which curiously is counter-productive to the actual purpose of leading a cheer. When said fans come to, however their determination to cheer is typically enhanced due to the ecstastic experience of the cheer. Cheerleaders have CHA as their primary characteristic, but like other athletes, DEX and STR are of a high priority as well. Note that due to the various athletic maneuvers expected of them, Cheerleaders are one of the most dangerous sporting professions.
 
 | Level | Wage     |  Perks			|
 |-------|----------|----------------------------|
@@ -316,7 +311,6 @@ Description: The fan-contributed character profession that led your author to go
 | 8	| $1900    | Conference Attendance	|
 | 9	| $2200    | Team Captain		|
 | 10	| $2500    | Superannuation    		|
-
 
 ## 1.2 Fantasy Professions
 
@@ -448,7 +442,6 @@ Description: A bard, to use contemporary parlance, is a combination of rock-star
 | 9	| $1300    | Poetic License	|
 | 10	| $1350    | Killing Joke	|
 
-
 ## 1.3 Skill Options and Elaborations
 
 **Languages**
@@ -514,16 +507,16 @@ Persian. Spoken as a first language by 60 million in Iran, Afghanistan, Tajiksta
 
 The degree of complexity of the communication establishes the Target Number. Note how the sentence, technically identical all along, becomes more complex in terms of noun-specificity and conditional verbal expression, starting from a simple present-tense subject-verb-object, generic noun. Inspired by the language functions chart from *RuneQuest* (third edition, 1984)
 
-Difficulty		Rating		Example
-Very easy		5		"I want food." 
-Easy			7		"I want some lamb, please"
-Average			9		"I want some lamb with sweet potato, please" 
-Tough			11		"I would like some lamb shank casseole with sweet potatoes, please"
-Challenging		13		"I would like some slow-cooked spring lamb shank casseole with sweet potatoes or rice if you don't have any, please"
+| Difficulty		| Rating	| Example			|
+|-----------------------|---------------|-------------------------------|
+| Very easy		| 5		| "I want food."		|
+| Easy			| 7		| "I want lamb, please"		|
+| Average		| 9		| "I want some lamb with sweet potato, please" 	|
+| Tough			| 11		| "I would like some lamb shank casseole with sweet potatoes, please" |
+| Challenging		| 13		| "I would like some slow-cooked spring lamb shank casseole with sweet potatoes or rice if you don't have any, please" |
 
 > No one gets angry at a mathematician or a physicist whom he or she doesn't understand at all, or at someone who speaks a foreign language, but rather at someone who tampers with your own language, with this 'relation,' precisely, which is yours.  
 -- Jacques Derrida    
-
 
 As a practical implementation of linguistic issues according to the theme of *Papers & Paychecks* the Boss should consider applying issues of mistranslation as often as possible. There is the classic example of the "water sheep" as a transliteration of "hydraulic ram" in Philip K. Dick's "The Galatic Pot Healer" (1969), which received special attention in the "Camp 22" scenario in this publication. Another potential situation is to applying different legal applications in a multi-lingual country, such as the apocryphal story of the Luxembourg police using German to follow their procedures and French for their legal code. For actual examples, do consider these real-world failures of translation engines and incorporate them into your scenarios.
 
@@ -4349,20 +4342,32 @@ Prime Requisite: Perception Starting Age: 15+2d4 Profession Skills: Investigate,
 Manager
 Prime Requisite: Charisma Starting Age: 15+3d4 Profession Skills: Knowledge (General), Administration, Profession, Carousing, Act, Bully, Inspire, Lie, Seduce
 
-Fighter
-Prime Requisite: Strength
-Starting Age: 15+1d4
-Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
+Athlete
+Prime Requisite: Strength Starting Age: 15+1d4 Profession Skills: Athletics (Strength), Athletics (Stamina), Intimidate, Jump, Melee, Swim, Knowledge (General), Profession, Carousing, Sense (various) 
 
-Wizard
-Prime Requisite: Intelligence
-Starting Age: 15+3d4
-Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight
-Ranger
-Prime Requisite: Perception
-Starting Age: 15+2d4
-Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
+Agent Prime Requisite: Intelligence Starting Age: 15+3d4 Profession Skills: Act, Administration, Craft (Computing), Craft (writing), Gamble, Insight, Knowledge (Laws), Knowledge (General), Language (various)
 
+Coach
+Prime Requisite: Wisdom  Starting Age: 21+3d4  Profession Skills: Intimidate, Investigate, Knowledge (General), Concentration, Hobby (Sport), Profession, Sense (Sight), Inspire, plus one of Athletics (Strength)., Athletics (stamina), Firearms., Gymnastics., Missiles., or Ride.
+
+Gymnast or Equestrian Prime Requisite: Dexterity  Starting Age: 14+1d4  Profession Skills: Athletics (Strength)., Athletics (stamina)., Climb., Jump., Gymnastics., Ride., Sleight., Stealth, Sense (Balance)
+
+Shooter Prime Requisite: Perception  Starting Age: 15+1d4 Profession Skills: Athletics (Strength)., Athletics (stamina)., Concentration., Craft (mechanical)., Firearms., Knowledge (general)., Missiles, Sense (various), Sleight.
+
+Cheerleader Prime Requisite: Charisma  Starting Age: 15+1d4  Profession Skills: Act., Carousing., Inspire., Seduce., Athletics (Strength)., Athletics (stamina)., Jump., Profession., Insight
+
+Fighter Prime Requisite: Strength Starting Age: 15+1d4 Profession Skills: Athletics (Strength)., Athletics (stamina)., Intimidate., Jump., Melee., Survival., Missiles., Carousing., Stealth
+
+Wizard Prime Requisite: Intelligence Starting Age: 15+3d4 Profession Skills: Craft (alchemical)., Craft (writing)., Investigate., Knowledge (Philosophy)., Knowledge (General)., Language (various)., Craft (mechanical)., Craft (structural)., Insight
+
+Cleric Prime Requisite: Wisdom Starting Age: 15+3d4 Profession Skills: Craft (writing)., Investigate., Knowledge (Laws)., Knowledge (General)., Administration., Concentration., Profession., Survival., Bully
+
+Rogue Prime Requisite: Dexterity Starting Age: 15+1d4 Profession Skills: Climb., Jump., Melee., Swim., Craft (mechanical)., Gymnastics., Missiles., Sleight., Stealth
+
+Ranger Prime Requisite: Perception Starting Age: 15+2d4 Profession Skills: Athletics (stamina)., Melee., Swim., Ride., Survival., Knowledge (General)., Missiles, Insight., Sense (various)
+
+Bard Prime Requisite: Charisma Starting Age: 15+2d4 Profession Skills: Act., Carousing., Inspire., Lie., Seduce., Craft (writing)., Knowledge (Arts)., Knowledge (General)., Language (various)
+ 
 **Combat Summary**
 
 * Normal attack, normal defense.
