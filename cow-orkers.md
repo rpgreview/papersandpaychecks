@@ -860,21 +860,25 @@ In most other respects the Bonnacon is like other members of the *bovinae* subfa
 | Intelligence	    |  2        |  -4	     | Level	         | 1	 |
 | Wisdom 	    |  2        |  -4        | Movement          | 6 |
 | Dexterity	    |  5        |  -3        | Wounds (Physical) |   |
-| Perception	    |  10-11    |  +0 | Wounds (Mental)   |   |
+| Perception	    |  10-11    |  +0 	     | Wounds (Mental)   |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Intimidate    | +3 to +10| +1         | sp.       | +4 to +11  |
-| Melee         | +3 to +10| +1         | sp.       | +4 to +11  |
-| Sense (hearing) | +0     | +1         | sp.       | +1         |
+| Intimidate    | +3 to +10| +1         | +0        | +4 to +11  |
+| Melee         | +3 to +10| +1         | +0        | +4 to +11  |
+| Sense (hearing) | +0     | +1         | +3        | +4         |
 | Missile	| +0	   | +1		| 	    | +1	 |
 		
-When attacking with its "Missile" the Bonnacon uses its PER as a characteristic bonus. The weapon does x2 acidic damage after armour with a base range of 200m.
+When attacking with its "Missile" the Bonnacon uses its PER as a characteristic bonus, rather the DEX. The weapon does x2 acidic damage after armour with a base range of 200m, and will burn armour reduing it at a rate of 1 point of damage to the armour points per 10 points caused.
 
 *A Bonnacon story*
 
-A local warlord offers a small fortune to the PCs to round up a herd of Bonnacon and train them for a cavalry-artillery force, which for some reason he wants called "Tachanka".  
+A local warlord offers a small fortune to the PCs to round up a herd of bonnacon and train them for a cavalry-artillery force, which for some reason he wants called "Tachanka". The task is indeed worth a small fortune, for the herd is almost impossible to catch. The bonnacon occupy a flat grassland with a medium-sized central lake in a field littered with the burnt and grizzled remains of other people, and part of a wolf-pack, who have attempted to capture them. The herd consists of some thirty cows and bulls and fifteen young of various ages.
+
+If by some good fortune the PC Adventurer's succeed in rounding up the herd, the warload gives them another offer. To train and command the Tachanka cavalry-artillery force. From such humble beginnings, a mighty campaign begins.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Bonnacon.jpg" height="25%" width="25%" />
 
 **Bugbear**
 
