@@ -4387,3 +4387,6 @@ In 2017 this game became a reality, a 128 page book with artwork from Dan 'Smif'
 
 “I have to say, this game has some solid mechanics for a game based on a joke”. 
 - Dan Davenport
+
+"The simulation of office drudgery beneath overlords who in no way understand the jobs of those they command is complete and soul crushing."
+-- Loscha
