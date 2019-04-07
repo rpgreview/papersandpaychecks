@@ -1148,14 +1148,16 @@ A wizard hires the party in search for us much pure element as they can find. Th
 
 Elfs are sapient beings originating in Germanic folklore, but also by proximal contact through Celtic, Slavic, Romance, and Hellenic language regions. They are otherwordly beings but also creatures of the woodland, kinfolk of Dryads, magical, and seemingly invisible, and whilst unaging, often lacking in developed moral cognition. Elves, at least of the European variety, tend to want to protect the forests first, enjoy themselves, and worry about humanity a very distant third. Interestingly in the Malay archipelago there is an associated population, the Orang bunian. In both Euopean and Malay mythology, time passes differently in the parallel Elfen realm to human society - weeks can pass in the the human world whilst years pass in the Elven world.
 
+Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are thoroughly unpleasant beings, at least from a human experience. As beings are "everyoung" (they stop aging in late adolescence) and with an unlimited lifespan their rulers tends to be extremely powerful, extremely haughty, extremely knowledgeable, and have little consideration for the lives of what they consider to be lesser beings ("they're going to die soon enough anyway"). The subjects of Elven rule tend to be utterly dangerous pranksters whose primary consideration is aesthetic distraction. If a mortal suffers grevious harm as a result that is just too bad. Of course, they are absolutely saddened if one their own kin is maimed or killed, spending months moping about the event. Elfs are immoral narcissists; you don't want anything to do with them.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  3-12     |  -4 to +1	| Profession	 | Ranger or Wizard |
+| Intelligence	    |  8-18     |  -1 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 5 |
+| Dexterity	    |  8-18     |  -1 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
@@ -1167,27 +1169,6 @@ Elfs are sapient beings originating in Germanic folklore, but also by proximal c
 
 *An Elf story*
 
-
-**Ettin**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-An Ettin story
 
 **Gargoyle**
 
