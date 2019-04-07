@@ -1115,34 +1115,38 @@ The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope
 | Survival 	| +0     | +1         |   	    |  +1        |
 | Stealth  	| +2     | +1         |   	    |  +3        |
 
-*A Dwarf story* As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed an ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted.
+*A Dwarf story* As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed an ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see some of the edge cases of Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted.
 
 **Elemental**
 
-Elementals are fundamental forces of nature made animate, which varies according to culture. Starting from the Hellenic world and expanding into Europe, the Middle-East and northen Africa, the elements are rather like phase states; Earth, Water, Wind, and Fire. In Jainism of India there are also beings that consist of only one substance (*kaya*) however they also the addition of the Plant element. One fairly common mistake is that the Chinese "elements" (wu xing) a representative of this type. Wu Xing is more about movement rather than being and as a result there are no corresponding elementals.
+Elementals are fundamental forces of nature made animate, which varies according to culture. Starting from the Hellenic world and expanding into Europe, the Middle-East and northen Africa, the elements are rather like phase states; Earth, Water, Wind, and Fire. In Jainism of India there are also beings that consist of only one substance (*kaya*) however they also the addition of the Plant element. One fairly common mistake is that the Chinese "elements" (wu xing) a representative of this type. Wu Xing is more about movement rather than being and as a result there are no corresponding elementals. Nevertheless, it is from this system of movement that *Fantasy Papers & Paychecks* derives a dominance and overcoming interaction; the Hellenic Water elemental will cause 3* (yes, triple) damage after armour to Fire, which will likewise do the same to Air, which will do the same to Earth, which will do the same to Water. If the Plant element is added, then it is Fire that does tripe damage to Plant, and Plant which does the same to Air. Don't think about it too much, it's doesn't make too much sense. 
+
+Elementals have physical form, often in a general humanoid shape, which also means that they are subject to physical destruction. They can move through their native element at normal speed (the sudden appearance of a burrowing Earth elemental is always an interesting encounter). The physical form of each does provide some advantages. The Wind elemental obviously has the ability to fly but also does so at double rate ("fly like the wind"), the Earth elemental has double the listed STR (but same size and volume) for the purposes of physical hit points, clobbering and lifting things etc. Fire elementals have the advantage of optionally setting combustible items on fire (STR 5 for dry wood, paper etc, 10 for logs, 20 for leather, 40 for iron etc). Water elementals, unlike others, are able to modify their shape and thus are almost impossible to contain. If Plant elementals are used they have the ability to Heal wounds (or bruises) on touch, equal to twice the points that they destructively transfer from their own STR. Note that this healing ability includes all types of damage, physical, social, or mental. 
+
+Elementals have personality types that correlate with their type. Earth elementals are melancholic and sombre, Water elementals are phlegmatic and sagacious, Air elementals are sanguine and socialable, and Fire elementals are choleric and ambitious. Interestingly, Plant elements have no dominant personality except the concept of personal growth. 
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  5-50     |  -3 to +30	| Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 5-6 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (ESP)   | +0       | +2         |           | +2         |
+| Melee 	| -3 to +20| +2	        |	    | -1 to +22  |
 
 *An Elemental story*
 
+A wizard hires the party in search for us much pure element as they can find. This in itself is not unusual, wizards are often hiring adventurers do this. When the party is successful, they can go off any do other things - until one day almost a year later they will receive another request from the wizard's *former* apprentice - the wizard entrapped the elementals in various magics and subjected them to a breeding program to create elementals. The elementals now want rescuing from the eugenicist wizard, and also there is new elemental babies to save. A mud elemental, a steam elemental etc.
+
 **Elf**
 
-Elves are sapient beings originating in Germanic folklore, but also by proximal contact through Celtic, Slavic, Romance, and Hellenic language regions. They are otherwordly beings but also creatures of the woodland, kinfolk of Dryads, magical, and seemingly invisible, and whilst unaging, often lacking in developed moral cognition. Elves, at least of the European variety, tend to want to protect the forests first, enjoy themselves, and worry about humanity a very distant third. Interestingly in the Malay archipelago there is an associated population, the Orang bunian. In both Euopean and Malay mythology, time passes differently in the parallel Elven realm to human society - weeks can pass in the the human world whilst years pass in the Elven world.
+Elfs are sapient beings originating in Germanic folklore, but also by proximal contact through Celtic, Slavic, Romance, and Hellenic language regions. They are otherwordly beings but also creatures of the woodland, kinfolk of Dryads, magical, and seemingly invisible, and whilst unaging, often lacking in developed moral cognition. Elves, at least of the European variety, tend to want to protect the forests first, enjoy themselves, and worry about humanity a very distant third. Interestingly in the Malay archipelago there is an associated population, the Orang bunian. In both Euopean and Malay mythology, time passes differently in the parallel Elfen realm to human society - weeks can pass in the the human world whilst years pass in the Elven world.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
