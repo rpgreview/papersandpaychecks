@@ -1148,7 +1148,7 @@ A wizard hires the party in search for us much pure element as they can find. Th
 
 Elfs are sapient beings originating in Germanic folklore, but also by proximal contact through Celtic, Slavic, Romance, and Hellenic language regions. They are otherwordly beings but also creatures of the woodland, kinfolk of Dryads, magical, and seemingly invisible, and whilst unaging, often lacking in developed moral cognition. Elves, at least of the European variety, tend to want to protect the forests first, enjoy themselves, and worry about humanity a very distant third. Interestingly in the Malay archipelago there is an associated population, the Orang bunian. In both Euopean and Malay mythology, time passes differently in the parallel Elfen realm to human society - weeks can pass in the the human world whilst years pass in the Elven world.
 
-Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are thoroughly unpleasant beings, at least from a human experience. As beings are "everyoung" (they stop aging in late adolescence) and with an unlimited lifespan their rulers tends to be extremely powerful, extremely haughty, extremely knowledgeable, and have little consideration for the lives of what they consider to be lesser beings ("they're going to die soon enough anyway"). The subjects of Elven rule tend to be utterly dangerous pranksters whose primary consideration is aesthetic distraction. If a mortal suffers grevious harm as a result that is just too bad. Of course, they are absolutely saddened if one their own kin is maimed or killed, spending months moping about the event. Elfs are immoral narcissists; you don't want anything to do with them.
+Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are thoroughly unpleasant beings, at least from a human experience. As beings are "everyoung" (they stop aging in late adolescence) and with an unlimited lifespan their rulers tends to be extremely powerful, extremely haughty, extremely knowledgeable, and have little consideration for the lives of what they consider to be lesser beings ("they're going to die soon enough anyway"). The subjects of Elven rule tend to be utterly dangerous pranksters whose primary consideration is aesthetic distraction. If a mortal suffers grevious harm as a result that is just too bad. Of course, they are absolutely saddened if one their own kin is maimed or killed, spending months moping about the event. Elfs are amoral narcissists; you don't want anything to do with them.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1161,14 +1161,15 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-*An Elf story*
-
+| Language (own)| +0       | +3        |    +0     | +3         |
+| Athletics (strenth) | -2       | +1        |    +0     | -1         |
+| Carousing  | +0       | +1        |    +0     | +1         |
+| Craft (art)  | +0       | +1        |    +0     | +1         |
+| Knowledge (general)  | +1       | +2        |    +0     | +3         |
+| Sense (hearing)  | +0       | +1        |    +0     | +1         |
+| Ride (horse)  | +0       | +1        |    +0     | +1         |
+	
+*An Elf story* If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink!
 
 **Gargoyle**
 
