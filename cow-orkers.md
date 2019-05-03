@@ -44,7 +44,6 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 0.4 2D6 Revisited
 
 1.0 Additional Character Resources
-1.1 
 1.1 Sporting Professions
 1.2 Fantasy Professions
 1.3 Skill Options and Elaborations
@@ -507,6 +506,8 @@ Persian. Spoken as a first language by 60 million in Iran, Afghanistan, Tajiksta
 
 The degree of complexity of the communication establishes the Target Number. Note how the sentence, technically identical all along, becomes more complex in terms of noun-specificity and conditional verbal expression, starting from a simple present-tense subject-verb-object, generic noun. Inspired by the language functions chart from *RuneQuest* (third edition, 1984)
 
+[EDIT]
+
 | Difficulty		| Rating	| Example			|
 |-----------------------|---------------|-------------------------------|
 | Very easy		| 5		| "I want food."		|
@@ -531,6 +532,7 @@ c.f., `https://www.thelocal.es/20151102/galicia-celebrates-its-annual-clitoris-f
 4. Sometimes this can go the other way as well. The former Australian Prime Minister, Bob Hawke, was well-known for his use of the Australian dialect of English and at one particular ocassion during a speech to a business audience in Tokyo about Australian industrial relations, he remarked: "We're just not interested in playing silly buggers on this issue". This resulted in some shock among the audience as it was later revealed that the translator had converted the speech to "We're just not interested in acting as laughing homosexuals on this issue".
 
 c.f., `http://www.gevans.org/speeches/Speech605Cultural.html`
+
 
 # 2.0 Additional Actions and the Environment
 
@@ -2590,7 +2592,7 @@ Further, players should seriously earn their Luck points. Just an overly-generou
 
 In many ways, Luck is both a carrot and a stick to encourge players to engage in the story in a dramatic fashion. When the Boss awards points it acts as a carrot. Waving around a shiny glass bead that catches the light at the right moment is a great prop. On the other hand the possibility of the Boss taking away a Luck point acts as a very powerful stick. Remember that this is a game where Luck points can go negative - which means that the Boss will favour the world as antagonist against the player and their characters at the worst possible time. Overall however, there should be sufficient opportunities for players to earn at least a 3-4 Luck points per game session - and certainly at least 4-5 situations where they almost certainly have to spend one to get out of a problem. Review the *Code Of Cthulhu* from the core rulebook to give a particularly strong example of Luck in action. 
 
-Make the players are actively seeking ways to gain Luck points. Remember that Luck is a *player*  characteristic, not a characteristic. In a story, the most powerful character is often quite different to the one who is most Lucky, and indeed, the sheer pluck of a weaker charater will often see them through, "audentis Fortuna iuvat" (Turnus, in Virgil's "Aeneid"), "fortune favours the bold", and in *Papers & Paychecks* the player has a mechanism to give a higher degree of truth to that statement than reality would otherwise grant. But of course, not just any player. It is those players that have earned Luck points. It is those who have contributed by their acting, by providing a pleasant venue, to those who arrive on time etc. A character who is powerful but is played by a person who is a disruptive person and is constantly out-of-character will find that fortune does not favour any of their characters.
+Make the players are actively seeking ways to gain Luck points. Encourage them to do so. Get them on their knees begging for a Luck point. Remember that Luck is a *player*  characteristic, not a characteristic. In a story, the most powerful character is often quite different to the one who is most Lucky, and indeed, the sheer pluck of a weaker charater will often see them through, "audentis Fortuna iuvat" (Turnus, in Virgil's "Aeneid"), "fortune favours the bold", and in *Papers & Paychecks* the player has a mechanism to give a higher degree of truth to that statement than reality would otherwise grant. But of course, not just any player. It is those players that have earned Luck points. It is those who have contributed by their acting, by providing a pleasant venue, to those who arrive on time etc. A character who is powerful but is played by a person who is a disruptive person and is constantly out-of-character will find that fortune does not favour any of their characters.
 
 **The Magical Realism of Monsters**
 
@@ -2610,6 +2612,28 @@ Under almost no circumstances however, will the monsters reveal themselves, and 
 
 The literary genre to apply, albeit often in a comic manner in *Papers & Paychecks*, is that of 'magical realism'. Whilst it is common among fictional genres for their to be some furious debate about such terms in this context it follows the expression found in writers like Gabriel García Márquez (_One Hundred Years of Solitude_) and Salman Rushdie (_Midnight's Children_). In these novels, from the protagonist's perspective, the world is certainly magical. But the expression of this magic is subtle, and subjective. From an objective viewer, various events may have a dramatic quality about them, but they are certainly realistic. Keep that spirit in *Papers & Paychecks*.
 
+**The Age of Cant**
+
+A great source of inspiring humour for any session of *Papers & Paychecks* is the use and mis-use of language. Some examples of mis-translations have already been provided in section 1.3 Skill Options and Elaborations. A sensitivity to absurdity, the ability to make insightful puns, and the discomfort of satire that borders the truth are all wonderful skills to develop in a game of *Papers & Paychecks*; not only should it be the norm, it ought to be thoroughly encouraged. In addition however, there is the issue of _cant_, which includes argot, jargon, and often the world of hidden meanings. Some examples follow:
+
+| What Academics Say	| What Academics Mean	|
+|-----------------------|-----------------------|
+| Various sources	| I forgot the name and author of that paper |
+| We are grateful to the two anonymous peer reviewers for their constructive comments| God help them if I ever find out who they are	|
+| A promising area for an initial study	| I have to do this to get funding	|
+| Widely discussed in the academic community	| I accidentally ended up in the middle of a heated Twitter argument	|
+| The notes were meticulously transcribed	| I was drunk and missed out on at least seven pages	|
+| An extensive literature review	| A quick Google search	|
+| A complex phenomenon	| I don't understand	|
+| Has long evaded the understanding of scientists	| I don't understand why I don't understand	|
+| Is impossible to summarise simpy	| I still don't understand	|
+| Approaching the traditional threshold for statistical significance	| Not significant	|
+| More research is required	| I need funding	|
+(From: `https://www.facebook.com/groups/sciencehumor/permalink/2492812304115144/`)
+
+
+
+
 **Mask Falls Off**
 
 Sometimes the 'Monsters' of the world of *Papers & Paychecks* aren't as careful as they should be, and there is a 'glitch in the matrix'. A very famous case occured in 1995, when Robert Matthews of Aston University, England, demonstrated that toast often falls on the buttered side, far beyond the expected laws of randomness (c.f., Matthews, Robert (1995) *Tumbling toast, Murphy's Law and the fundamental constants*, European Journal of Physics, vol.16, no.4, July 18, 1995, p. 172-6.). The author argues that it is the angular momentum of the toast (or "Murphodynamics") that causes it to land butter-side down. 
@@ -2618,11 +2642,11 @@ For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provi
 
 ## 4.4 Organisations
 
-
-
 **Ten Weird Organisations**
 
 Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Durectory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory.
+
+[EDIT]
 
 ## 4.5 Magic Realism Plot Seeds
 
