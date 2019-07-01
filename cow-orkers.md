@@ -1009,7 +1009,7 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 | Knowlege (General) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 | Knowlege (Philosophy) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 
-*A Demon story*. Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong, and *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
+*A Demon story*. Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong. *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
 
 **Devil**
 
@@ -1027,17 +1027,22 @@ Broadly speaking, a Devil is a bodily representation of various cultural and tem
 
 The Devil is a shapeshifter of course and can take the form of pretty much any creature in this book or the core rules. However in their preferred form they appear human (indeed in Tengrism, the shamanic religion of Central Asia, the Devil *is* the first human), albeit with a number of additional features to give themselves that supernatural aesthetic such as great height, goat legs, horns, firey red or black skin, a halo of flames, giant bat wings, and so forth. 
 
-Characteristic	Value	Bonus		
-Strength	1	-5	Profession	Wizard, Cleric
-Intelligence	1	-5	Level	10, 10
-Wisdom	1	-5	Movement (flight)	5
-Dexterity	9	-1	Wounds (Physical)	
-Perception	10-11	+0	Wounds (Mental)	
-Charisma	4	-3	Wounds (Social)	
-Skill	Char	Train	Other	Total
-Climb	-5	+1		-4
-Melee	-5	+0		-5
-Sense (Hearing)	+0	+1		-1
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-36	|  +4 to +8	| Profession	 | Wizard, Fighter, Bard |
+| Intelligence	    |  18-36    |  +4 to +8    	| Level	         | 10, 10, 10	 |
+| Wisdom 	    |  18-36	|  +4 to +8  	| Movement (running)| 12 |
+| Dexterity	    |  18-36    |  +4 to +8     | Wounds (Physical) |   |
+| Perception	    |  18-36    |  +4 to +8	| Wounds (Mental)   |   |
+| Charisma	    |  18-36	|  +4 to +8     | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Knowlege (General) | +4 to +8 | +30		| +0	    | +34 to +38 |
+| Knowlege (Philosophy) | +4 to +8 | +30	| +0	    | +34 to +38 |
+| Lie | +4 to +8 | +30	| +0	    | +34 to +38 |
+| Seduce | +4 to +8 | +30	| +0	    | +34 to +38 |
+| & etc | +4 to +8 | +30	| +0	    | +34 to +38 |
 
 *A Devil story*. The perpetual Faustian bargain! If you haven't played *kill puppies for satan* (2001) get yourself a copy of the perfect theme. The Devil will grant PC Adventurer's the supernatural and magical powers that they need. However he requires people to lose their faith; so go kill someone's favourite pet in a gruesome manner and they'll soon be thinking that God doesn't care. However, Satan's a smart guy and will just give the PC Adventurer's a less than enough to achieve what they need. So, like a strung-out junkie, they have to come crawling back to Satan begging for more power and an ever-demanding wish list of souls. After all, the Devil is just the tempter and someone who doesn't *quite* tell the truth. The PC Adventurers are the one's who've killed somebody's puppy.
 
@@ -3121,7 +3126,6 @@ The following are some example slang terms that the BMX Kids will use. A Knowled
 'Grok', i.e., "To deeply understand'
 'Bum trip', i.e., "A bad situation"
 'See you on the flipside', i.e., "See you tomorrow'
-
 
 ### 5.1.3 Nile, Ground Floor
 
