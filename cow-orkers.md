@@ -1132,7 +1132,6 @@ Elementals have physical form, often in a general humanoid shape, which also mea
 
 Elementals have personality types that correlate with their type. Earth elementals are melancholic and sombre, Water elementals are phlegmatic and sagacious, Air elementals are sanguine and socialable, and Fire elementals are choleric and ambitious. Interestingly, Plant elements have no dominant personality except the concept of personal growth. 
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  5-50     |  -3 to +30	| Profession	 | Ranger |
@@ -1182,7 +1181,7 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
@@ -2369,7 +2368,7 @@ Whilst *Fantasy Papers & Paychecks* encourages the most widespread use of zombie
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-*A Zombie story*. Isn'the worst sort of Zombie the cute little lost girl who an opportune moment rips your throat out? With famous appearances in *Night of the Living Dead* (1968) and annoyingly typical in the South African variant of the Zombie myth, this little Ishtar delights in the taste of human flesh, but it is very patient and will appear as a confused waif in dire need of rescuing from some terrible tragedy (often enough she's the actual cause of the tragedy). Naturally enough she likes to fight on her own terms and will direct the PC Adventurers into an environment where their weapons are next to useless and she can make best use of her size, such as the oubliette or latrines of old castle. Think of her as Newt but with the cunning of one of the hunting aliens.
+*A Zombie story*. Isn't the worst sort of Zombie the cute little lost girl who an opportune moment rips your throat out? With famous appearances in *Night of the Living Dead* (1968) and annoyingly typical in the South African variant of the Zombie myth, this little Ishtar delights in the taste of human flesh, but it is very patient and will appear as a confused waif in dire need of rescuing from some terrible tragedy (often enough she's the actual cause of the tragedy). Naturally enough she likes to fight on her own terms and will direct the PC Adventurers into an environment where their weapons are next to useless and she can make best use of her size, such as the oubliette or latrines of old castle. Think of her as Newt but with the cunning of one of the hunting aliens.
 
 ## 3.3 Monsters
 
