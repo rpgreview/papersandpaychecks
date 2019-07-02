@@ -1177,26 +1177,6 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 	
 *An Elf story* If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink!
 
-**Gargoyle**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Gargoyle story
 
 **Ghost**
 
@@ -2372,6 +2352,31 @@ Whilst *Fantasy Papers & Paychecks* encourages the most widespread use of zombie
 
 ## 3.3 Monsters
 
+**Gargoyles**
+
+Gargoyles, grotesque carvings of various real and fantastic beasts, have been used in architecture in Europe for over 1500 years as a protruding gutter, and prior to that in ancient Greece and Egypt. The medieval gargoyle, or so the story goes, was a fire-breathing draconic-like beast that was defeated by a bishop with a crucifix (of course). The tried to burn the remains, but the head would not burn because it had been tempered by the fire-breathing. So they stuck it on the city walls to ward off evil spirits and to spook anyone who thought the city would be easy to take. Fast-forward to the 20th century, and Clark Ashton Smith has a magnificent story (*Maker of Gargoyles*, 1932) where the unconscious thoughts of a medieval stonemason are infused into his creations. Now that's pure *Papers & Paychecks*! Summary version: Gargoyles are animated grotesque monsters that mix it up with unanimated sculptures.
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flying)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
+*Gargle* I+3 N+1 T+1 J+4. 
+
+
+
 **The Pizza Computer** 
 
 by Shaun Hately
@@ -2452,7 +2457,7 @@ Telstra: Please hold while I set this up.
 
 Telstra:Thank you for waiting. We are unable to provide a home phone to that address.
 Me: I am calling from my Telstra home phone at this address.
-Telstra: Please hold while I try again.h
+Telstra: Please hold while I try again.
 
 25 minutes later...
 
@@ -2636,13 +2641,11 @@ A great source of inspiring humour for any session of *Papers & Paychecks* is th
 (From: `https://www.facebook.com/groups/sciencehumor/permalink/2492812304115144/`)
 
 
-
-
 **Mask Falls Off**
 
 Sometimes the 'Monsters' of the world of *Papers & Paychecks* aren't as careful as they should be, and there is a 'glitch in the matrix'. A very famous case occured in 1995, when Robert Matthews of Aston University, England, demonstrated that toast often falls on the buttered side, far beyond the expected laws of randomness (c.f., Matthews, Robert (1995) *Tumbling toast, Murphy's Law and the fundamental constants*, European Journal of Physics, vol.16, no.4, July 18, 1995, p. 172-6.). The author argues that it is the angular momentum of the toast (or "Murphodynamics") that causes it to land butter-side down. 
 
-For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provide us a great deal of information about the subtle self-defense mechanisms of monsters in the resistentialist environment. They will subtley discredit or turn in to folk-comedy any possibility that they have been unmasked, effectively rendering serious investigation into such ephiphenomeno harmless.
+For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provide us a great deal of information about the subtle self-defense mechanisms of monsters in the resistentialist environment. They will subtley discredit or turn in to folk-comedy any possibility that they have been unmasked, effectively rendering serious investigation into such ephiphenomenon harmless.
 
 ## 4.4 Organisations
 
