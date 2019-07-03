@@ -1177,6 +1177,29 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 	
 *An Elf story* If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink!
 
+**Gargoyles**
+
+Gargoyles, grotesque carvings of various real and fantastic beasts, have been used in architecture in Europe for over 1500 years as a protruding gutter, and prior to that in ancient Greece and Egypt. The medieval gargoyle, or so the story goes, was a fire-breathing draconic-like beast that was defeated by a bishop with a crucifix (of course). The tried to burn the remains, but the head would not burn because it had been tempered by the fire-breathing. So they stuck it on the city walls to ward off evil spirits and to spook anyone who thought the city would be easy to take. Fast-forward to the 20th century, and Clark Ashton Smith has a magnificent story (*Maker of Gargoyles*, 1932) where the unconscious thoughts of a medieval stonemason are infused into his creations. Now that's pure *Papers & Paychecks*! Summary version: Gargoyles are animated grotesque monsters that mix it up with unanimated sculptures.
+
+Due to their stony body Gargoyles take a mere 1/4 damage from physical attacks and cause 2x damage with their club-like fists. They delight on dropping masonry on opponents as well. Also, true to the story, Gargoyles will actively protect an area "against evil spirits" i.e., monsters in the *Papers & Paychecks* vernacular. A gargoyles, if it encounters other monsters (anything other than gargoyles), will engage in successive psychic attacks to drive them away. If only they were good at psychic attacks. Gargoyles are also incurably shy and prefer not be recognised as any different to their animated brethren.
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flying)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (ESP) 	| -4 to +4 | +1       	|    +0     | -3 to +5   |
+| Melee 	| +4 to +8 | +1		|	    | +5 to +9   |
+| Intimidate	| +4 to +8 | +1		|	    | +5 to +9   |
+| Missile	| -4 to +4 | +1		|	    | -3 to +5	 |
+
+*A Gargoyle story*. Perhaps the worst thing for a gargoyle is getting its throat clogged up, and that's exactly what has happened to Gargle the Gargoyle. Gargle, being a typical gargoyle, doesn't want any direct contact with people but still wants to have its throat cleared. So it's come to the idea of stealing items and leaving a trail of evidence that leads to its gullet. The more expensive the better. The PC adventurers are brought to the sprawling gothic church to find out what has happened to their expensive relics which will lead to many incidents of honey-pots, hide-and-seek, and climbing spires.
 
 **Ghost**
 
@@ -2351,31 +2374,6 @@ Whilst *Fantasy Papers & Paychecks* encourages the most widespread use of zombie
 *A Zombie story*. Isn't the worst sort of Zombie the cute little lost girl who an opportune moment rips your throat out? With famous appearances in *Night of the Living Dead* (1968) and annoyingly typical in the South African variant of the Zombie myth, this little Ishtar delights in the taste of human flesh, but it is very patient and will appear as a confused waif in dire need of rescuing from some terrible tragedy (often enough she's the actual cause of the tragedy). Naturally enough she likes to fight on her own terms and will direct the PC Adventurers into an environment where their weapons are next to useless and she can make best use of her size, such as the oubliette or latrines of old castle. Think of her as Newt but with the cunning of one of the hunting aliens.
 
 ## 3.3 Monsters
-
-**Gargoyles**
-
-Gargoyles, grotesque carvings of various real and fantastic beasts, have been used in architecture in Europe for over 1500 years as a protruding gutter, and prior to that in ancient Greece and Egypt. The medieval gargoyle, or so the story goes, was a fire-breathing draconic-like beast that was defeated by a bishop with a crucifix (of course). The tried to burn the remains, but the head would not burn because it had been tempered by the fire-breathing. So they stuck it on the city walls to ward off evil spirits and to spook anyone who thought the city would be easy to take. Fast-forward to the 20th century, and Clark Ashton Smith has a magnificent story (*Maker of Gargoyles*, 1932) where the unconscious thoughts of a medieval stonemason are infused into his creations. Now that's pure *Papers & Paychecks*! Summary version: Gargoyles are animated grotesque monsters that mix it up with unanimated sculptures.
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flying)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-*Gargle* I+3 N+1 T+1 J+4. 
-
-
 
 **The Pizza Computer** 
 
