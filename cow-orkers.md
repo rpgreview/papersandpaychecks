@@ -1199,34 +1199,34 @@ Due to their stony body Gargoyles take a mere 1/4 damage from physical attacks a
 | Intimidate	| +4 to +8 | +1		|	    | +5 to +9   |
 | Missile	| -4 to +4 | +1		|	    | -3 to +5	 |
 
-*A Gargoyle story*. Perhaps the worst thing for a gargoyle is getting its throat clogged up, and that's exactly what has happened to Gargle the Gargoyle. Gargle, being a typical gargoyle, doesn't want any direct contact with people but still wants to have its throat cleared. So it's come to the idea of stealing items and leaving a trail of evidence that leads to its gullet. The more expensive the better. The PC adventurers are brought to the sprawling gothic church to find out what has happened to their expensive relics which will lead to many incidents of honey-pots, hide-and-seek, and climbing spires.
+*A Gargoyle story*. Perhaps the worst thing for a gargoyle is getting its throat clogged up, and that's exactly what has happened to Gargle the Gargoyle. Gargle, being a typical gargoyle, doesn't want any direct contact with people but still wants to have its throat cleared. So it's come to the idea of stealing items and leaving a trail of evidence that leads to its gullet. The more expensive the better. The PC adventurers are brought to the sprawling gothic church to find out what has happened to their expensive relics which will lead to many incidents of honey-pots, hide-and-seek, and climbing snow-covered medieval spires in the middle of the night. What could possibly go wrong?
 
 **Ghost**
 
+Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer obsessive stubborness, find that they can't quite leave the prime material plane. Most of the time they are entirely insubstantial (STR 0), but taking a Mental Bruise per round they can become substantial, whereby they raise themselves to the giddying heights of STR 1. Typically they do this to rattle a chain, touch someone on the shoulder, moaning, and other such nonsense spooky activities before letting themselves turn insubstial again. If struck in such a form they will also turn insubstantial again. Note that a Ghost retains whatever level and professions that they had in a past life.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  1    	|  -5		| Profession	 | Wizard |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| EDIT |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (ESP)   | -4 to +4 | +2         |           | -2 to +6   |
+| Intimidate	| -4 to +4 | +2		| +4	    | +0 to +10	 |
+| Melee		| -5	   | +0		| -5	    | -5	|
 
-A Ghost story
+*A Ghost story*. 
 
 **Ghoul**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  4-24     |  -3 to +7	| Profession	 | Fighter or Wizard |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
