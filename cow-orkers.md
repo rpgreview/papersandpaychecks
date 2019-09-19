@@ -1203,13 +1203,13 @@ Due to their stony body Gargoyles take a mere 1/4 damage from physical attacks a
 
 **Ghost**
 
-Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer obsessive stubborness, find that they can't quite leave the prime material plane. Most of the time they are entirely insubstantial (STR 0), but taking a Mental Bruise per round they can become substantial, whereby they raise themselves to the giddying heights of STR 1. Typically they do this to rattle a chain, touch someone on the shoulder, moaning, and other such nonsense spooky activities before letting themselves turn insubstantial again. If struck in such a form they will also turn insubstantial again. Note that a Ghost retains whatever level and professions that they had in a past life.
+Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer obsessive stubborness, find that they can't quite leave the prime material plane. Most of the time they are entirely insubstantial (STR 0), but taking a Mental Bruise per round they can become substantial, whereby they raise themselves to the giddying heights of STR 1. Typically they do this to rattle a chain, touch someone on the shoulder, moaning, and other such nonsense spooky activities before letting themselves turn insubstantial again. If struck in such a form they will also turn insubstantial again. Note that a Ghost retains whatever level and professions that they had in a past life. Rather than STR ghosts use the DEX to determine movement.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1    	|  -5		| Profession	 | Wizard |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| EDIT |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)|  |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1226,24 +1226,26 @@ Vaguely based on a true story: `http://empirenews.net/georgia-man-dies-after-tri
 
 **Ghoul**
 
+Ghouls, originate from Arabic folklore and in a fantasy Earth enviroment can be found throughout northern Africa, from Asia minor to Afghanistan, and the Arabian peninsula. The masculine word is ghul and the feminine ghulah. They are not undead, as commonly portrayed, but rather a magic-using culture of families that inhabit graveyards where they live on the flesh of the recent dead, or lure people to be eaten and robbed. Ghouls have the ability to shape-shift into hyenas, wolves, or other dogs (use *Papers & Paychecks* bestiary) and particularly skilled ghouls (that is, ghouls with wizard levels) also take on the form of their victim and continue the cycle of deception, cannibalism, and theft. In their natural form, ghouls are unattractive and smell of death, which they seek to cover up. 
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  4-24     |  -3 to +7	| Profession	 | Fighter or Wizard |
+| Strength	    |  3-18     |  -4 to +4	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)|  |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-10	|  -4 to +0     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (hearing) | -4 to +4  | +2      |           | -2 to +6   |
+| Athletics (stamina) | +4 to +4 | +2	|	    | -2 to +6 |
+| Melee 	| +4 to +4 | +2	|	    | -2 to +6 |
+| Intimidate	| +4 to +4 | +2	|	| -2 to +6 |
+| Missile	| -4 to +4	| +2	|	| --2 to +6 |
 
-A Ghoul story
+*A Ghoul story*. When your life is living with an small family whose behavour consists of eating the dead, robbing people, killing them, and eating people, you typically don't get invited to many social occassions. But in everyone's life there is a time when romance strike, as so it has to Persefoni The Ghoul. In such circumstances, what's a poor ghoul to do? Spying upon a particularly handsome male PC Adventurer (change as you see fit) at a recent funeral, Persefoni had decided that he is the one that needs to brought home and become part of the family. Using the splendit clothes of the wealthy that have been buried, Persefoni begins her tragic quest for what is *probably* going to be unrequited love.
 
 **Giant**
 
