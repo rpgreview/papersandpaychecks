@@ -1203,7 +1203,7 @@ Due to their stony body Gargoyles take a mere 1/4 damage from physical attacks a
 
 **Ghost**
 
-Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer obsessive stubborness, find that they can't quite leave the prime material plane. Most of the time they are entirely insubstantial (STR 0), but taking a Mental Bruise per round they can become substantial, whereby they raise themselves to the giddying heights of STR 1. Typically they do this to rattle a chain, touch someone on the shoulder, moaning, and other such nonsense spooky activities before letting themselves turn insubstantial again. If struck in such a form they will also turn insubstantial again. Note that a Ghost retains whatever level and professions that they had in a past life, which will suck if they were a warrior.
+Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer obsessive stubborness, find that they can't quite leave the prime material plane. Most of the time they are entirely insubstantial (STR 0), but taking a Mental Bruise per round they can become substantial, whereby they raise themselves to the giddying heights of STR 1. Typically they do this to rattle a chain, touch someone on the shoulder, moaning, and other such nonsense spooky activities before letting themselves turn insubstantial again. If struck in such a form they will also turn insubstantial again. Note that a Ghost retains whatever level and professions that they had in a past life.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1220,7 +1220,9 @@ Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer 
 | Intimidate	| -4 to +4 | +2		| +4	    | +0 to +10	 |
 | Melee		| -5	   | +0		| -5	    | -5	|
 
-*A Ghost story*. 
+*A Ghost story*. Everyone can become obsessive, and for the appropriately-named Ernest White, a wizard of sorts (he did wear all-white robes with a pointy hood). His increasingly paranoid concern was that too many Orcs were moving into the village. He would spend his days writing contacting local authorities about such incursions, spreading rumours and so forth. Certain that the orcs were planning some bizarre cult-ritual, Ernest decided to protect himself with various magical booby-traps. Sadly he fell victim to his one of his own traps. Now he haunts the abode trying to either promote his paranoid theories of impending Orc apocalypse or trying to drive any Orcs away. PC Adventurers can come to his dilapidated and rambling gothic mansion in search of treasure, but one is warned that the place is still trapped and a hostile Ernest will seek to protect his turf. As a delicious twist, one of the treasures is a family memoir which describes how Ernest is actually 1/8th Orc. If this is revealed to him, the bigoted ghost will sigh and vanish from the Earth.
+
+Vaguely based on a true story: `http://empirenews.net/georgia-man-dies-after-triggering-booby-trap-he-rigged-in-his-own-home/`
 
 **Ghoul**
 
