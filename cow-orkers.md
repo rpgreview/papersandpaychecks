@@ -561,6 +561,8 @@ Now I believe in yesterday
 
 **Passive-Agressive Attack**
 
+<img src="https://raw.githubusercontent.com/rpgreview/papersandpaychecks/master/images/passive-aggressive.jpg" />
+
 *"Fine. See if I care."*
 
 A passive-agrressive action is an indirect attack against another character which appeals to their own sense of intelligence and moral rightness rather than direct opposition. The attacker appears passive, or even wronged, evoking a sense of sympathy, when in reality they are the one's engaging in an attack. 
@@ -968,7 +970,7 @@ Any satisfactory answer (and the Chimera is hard to satisfy; a mental successful
 
 Daemons are part of the mythology of the ancient world; Greece, Egypt, Mesoptamia, and the Levant. In this form they are usually considered intermediary spirits that can inspire or advise mortals through possession. They are not full personalities but rather a mode of activity. One is possessed by a Muse, but that provides a creative energy, rather than the possession of a ghost (q.v.). Most famously Socrates was possessed by a daemon that demanded that he use his conscience! That of course led to all sorts of trouble. In *Fantasy Papers & Paychecks* daemons can exist for any variety of obessive behaviours that may be less than helpful, but rarely directly malevolent as such. Daemons are often formed from heroic personalities; whether or not the daemons possessed the hero or are a residual of their life is a matter for the priests to determine. 
 
-As they are spiritual creatures Daemons have no STR or DEX characteristics. Their movement is based on their INT. Their low WIS is a reflection of their single-mindedness, and the low CHA a lack of communicative reason. When attacking to possess a Daemon will use its INT to engage in a series of mental attacks causing bruises; if a character is reduced to 0 bruises the demon will possess the character, and they will gradually heal with the daemon within them. The daemon will typically continue ensure subject's mental bruises are kept at a level to retain functionality, but not high enough to break free of the daemon's control.
+As they are spiritual creatures Daemons have no STR or DEX characteristics. Their movement is based on their full INT value. Their low WIS is a reflection of their single-mindedness, and the low CHA a lack of communicative reason. When attacking to possess a Daemon will use its INT to engage in a series of mental attacks causing bruises; if a character is reduced to 0 bruises the demon will possess the character, and they will gradually heal with the daemon within them. The daemon will typically continue ensure subject's mental bruises are kept at a level to retain functionality, but not high enough to break free of the daemon's control.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -984,7 +986,9 @@ As they are spiritual creatures Daemons have no STR or DEX characteristics. Thei
 | Possess	| -4 to +4 | +1		| +0	    | -3 to +5	 |
 | Sense (ESP)	| -4 to +4 | +1		| +0	    | -3 to +5	 |
 
-*A Daemon story*. Nearly all people talk to themselves, from the rhetorical "where did I put my pants?" after a drunken night, to the 3am outward manifestation of one's inner conversation of the meaning of life (which may lead to the aforementioned comment the following morning). Some consider it a sign of great intelligence if there is no-one else to talk to. Modern science notes that replaying or rehearsing conversations is a early warning signs of potential schizophrenia. However the daemon of outward honesty is different to these versions. This daemons forces the character (roleplay it!) to express their judgemental thoughts about others aloud even, and especially, when they are present, e.g., "My goodness, that hat she's wearing is look's like a magpie's nest", "Does this bore ever shut up?", or "I'd love to get into your pants". As you can imagine having such a daemon could be awkward, but at worst those who know the character will never be in doubt of any possibilty of underhand dealing.  For examples of how such a daemon could play out see *The Whole Truth*, an episode of 'The Twilight Zone', or in a more contemporary form, the film *Liar Liar* starring Jim Carrey. 
+*A Daemon story*. 
+
+Nearly all people talk to themselves, from the rhetorical "where did I put my pants?" after a drunken night, to the 3am outward manifestation of one's inner conversation of the meaning of life (which may lead to the aforementioned comment the following morning). Some consider it a sign of great intelligence if there is no-one else to talk to. Modern science notes that replaying or rehearsing conversations is a early warning signs of potential schizophrenia. However the daemon of outward honesty is different to these versions. This daemons forces the character (roleplay it!) to express their judgemental thoughts about others aloud even, and especially, when they are present, e.g., "My goodness, that hat she's wearing is look's like a magpie's nest", "Does this bore ever shut up?", or "I'd love to get into your pants". As you can imagine having such a daemon could be awkward, but at worst those who know the character will never be in doubt of any possibilty of underhand dealing.  For examples of how such a daemon could play out see *The Whole Truth*, an episode of 'The Twilight Zone', or in a more contemporary form, the film *Liar Liar* starring Jim Carrey. 
 
 **Demon**
 
@@ -1009,7 +1013,9 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 | Knowlege (General) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 | Knowlege (Philosophy) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 
-*A Demon story*. Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong. *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
+*A Demon story*. 
+
+Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong. *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
 
 **Devil**
 
@@ -1044,7 +1050,9 @@ The Devil is a shapeshifter of course and can take the form of pretty much any c
 | Seduce | +4 to +8 | +30	| +0	    | +34 to +38 |
 | & etc | +4 to +8 | +30	| +0	    | +34 to +38 |
 
-*A Devil story*. The perpetual Faustian bargain! If you haven't played *kill puppies for satan* (2001) get yourself a copy of the perfect theme. The Devil will grant PC Adventurer's the supernatural and magical powers that they need. However he requires people to lose their faith; so go kill someone's favourite pet in a gruesome manner and they'll soon be thinking that God doesn't care. However, Satan's a smart guy and will just give the PC Adventurer's a less than enough to achieve what they need. So, like a strung-out junkie, they have to come crawling back to Satan begging for more power and an ever-demanding wish list of souls. After all, the Devil is just the tempter and someone who doesn't *quite* tell the truth. The PC Adventurers are the one's who've killed somebody's puppy.
+*A Devil story*. 
+
+The perpetual Faustian bargain! If you haven't played *kill puppies for satan* (2001) get yourself a copy of the perfect theme. The Devil will grant PC Adventurer's the supernatural and magical powers that they need. However he requires people to lose their faith; so go kill someone's favourite pet in a gruesome manner and they'll soon be thinking that God doesn't care. However, Satan's a smart guy and will just give the PC Adventurer's a less than enough to achieve what they need. So, like a strung-out junkie, they have to come crawling back to Satan begging for more power and an ever-demanding wish list of souls. After all, the Devil is just the tempter and someone who doesn't *quite* tell the truth. The PC Adventurers are the one's who've killed somebody's puppy.
 
 **Dragon**
 
@@ -1074,7 +1082,9 @@ In stark contrast the Indo-Asiatic dragons have innate transformation powers (us
 | Language	|  +4	   | +3		|    	    | +7         |
 | Investigate 	|  +4	   | +1		|    	    | +5         |
 
-*A Dragon story* With inspiration from Disney's 1941 film *The Reluctant Dragon*, a comedy of unexpected behaviour can be generated. Members of a remote village near a mountain range approach the PC Adventurers with the handful of coins that the entire village has scraped together pleading that a dragon has moved into the region. So far it has only taken a few sheep, but who can say how long it will before a child is consumed? Based on eye-witnesses the dragon is on the smaller scale of the usual range.
+*A Dragon story* 
+
+With inspiration from Disney's 1941 film *The Reluctant Dragon*, a comedy of unexpected behaviour can be generated. Members of a remote village near a mountain range approach the PC Adventurers with the handful of coins that the entire village has scraped together pleading that a dragon has moved into the region. So far it has only taken a few sheep, but who can say how long it will before a child is consumed? Based on eye-witnesses the dragon is on the smaller scale of the usual range.
 
 Eventually making their way to the dragon's lair, the PCs Adventurers will discover that Belchy The Dragon is a thoroughly kind creature who gently asphyxiates his captured sheep before consuming them. Opposed to violence as much as possible, Belchy is a very reluctant dragon, and with some negotiation a deal can be struck; he is willing to protect the shepherd's flocks from marauding wolves and find lost members of the flock for the payment of one sheep per week. The problem being is a local, albeit elderly, knight has also arrived at the village, Sir Giles, and Giles has sworn an oath to his King to slay the dragon. 
 
@@ -1100,7 +1110,9 @@ Different types of dryads are tied to different species of tree, whose traits ar
 | Sense (hearing) | +0     | +1         |   	    |  +1        |
 | Survival  	| +0     | +1         |   	    |  +1        |
 
-*A Dryad story*. "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
+*A Dryad story*. 
+
+"Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
 **Dwarf**
 
@@ -1122,7 +1134,9 @@ The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope
 | Survival 	| +0     | +1         |   	    |  +1        |
 | Stealth  	| +2     | +1         |   	    |  +3        |
 
-*A Dwarf story* As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see some of the edge cases of Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted.
+*A Dwarf story* 
+
+As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see some of the edge cases of Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted. Dwarves are *alien*.
 
 **Elemental**
 
@@ -1169,13 +1183,15 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 |---------------|----------|------------|-----------|------------|
 | Language (own)| +0       | +3        |    +0     | +3         |
 | Athletics (strenth) | -2       | +1        |    +0     | -1         |
-| Carousing  | +0       | +1        |    +0     | +1         |
-| Craft (art)  | +0       | +1        |    +0     | +1         |
+| Carousing  	| +0       | +1        |    +0     | +1         |
+| Craft (art)  	| +0       | +1        |    +0     | +1         |
 | Knowledge (general)  | +1       | +2        |    +0     | +3         |
 | Sense (hearing)  | +0       | +1        |    +0     | +1         |
 | Ride (horse)  | +0       | +1        |    +0     | +1         |
 	
-*An Elf story* If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink!
+*An Elf story* 
+
+If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink! Hopefully, all's well that end's well, as the leader of the troupe, in a thoroughly theatrical manner, throws the bottle into a well, to illustrate their embarrassment and commitment to ending a drunken scourge. The demon of course, still present in the last few drops of the drink cannot believe it's luck, as it homeopathically spreads itself out...
 
 **Gargoyles**
 
@@ -1230,7 +1246,7 @@ Ghouls, originate from Arabic folklore and in a fantasy Earth enviroment can be 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  3-18     |  -4 to +4	| Profession	 | Fighter |
+| Strength	    |  3-18     |  -4 to +4	| Profession	 | Ranger or Rogue |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)|  |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
@@ -1245,28 +1261,30 @@ Ghouls, originate from Arabic folklore and in a fantasy Earth enviroment can be 
 | Intimidate	| +4 to +4 | +2	|	| -2 to +6 |
 | Missile	| -4 to +4	| +2	|	| --2 to +6 |
 
-*A Ghoul story*. When your life is living with an small family whose behavour consists of eating the dead, robbing people, killing them, and eating people, you typically don't get invited to many social occassions. But in everyone's life there is a time when romance strike, as so it has to Persefoni The Ghoul. In such circumstances, what's a poor ghoul to do? Spying upon a particularly handsome male PC Adventurer (change as you see fit) at a recent funeral, Persefoni had decided that he is the one that needs to brought home and become part of the family. Using the splendit clothes of the wealthy that have been buried, Persefoni begins her tragic quest for what is *probably* going to be unrequited love.
+*A Ghoul story*. 
+
+When your life is living with an small family whose behavour consists of eating the dead, robbing people, killing them, and eating people, you typically don't get invited to many social occassions. But in everyone's life there is a time when romance strike, as so it has to Persefoni The Ghoul. In such circumstances, what's a poor ghoul to do? Spying upon a particularly handsome male PC Adventurer (change as you see fit) at a recent funeral, Persefoni had decided that he is the one that needs to brought home and become part of the family. Using the splendit clothes of the wealthy that have been buried, Persefoni begins her tragic quest for what is *probably* going to be unrequited love.
 
 **Giant**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (hearing) | -4 to +4  | +2    |    	    | -2 to +6   |
+| Athletics (stamina) | +4 to +8 | +2	|	    | +6 to +10	| 
+| Melee 	| +4 to +8 	| +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 	| +2	|	    | +6 to +10  |
+| Missile	| -4 to +4	| +2	|	    | -2 to +6	|
 
-A Giant story
+*A Giant story*
 
 **Gnoll**
 
