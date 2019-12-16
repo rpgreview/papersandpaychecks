@@ -1267,7 +1267,8 @@ When your life is living with an small family whose behavour consists of eating 
 
 **Giant**
 
-Giants, in various sizes, are found pretty much across all world mythologies. In *Papers & Paychecks* we've kept giants within an acceptable range from the maximum normal human size to about twice that figure. Please be aware that some mythologies have giants that are well exceeding these values.
+Giants, in various sizes, are found pretty much across all world mythologies. In *Papers & Paychecks* we've kept giants within an acceptable range from the maximum normal human size to about twice that figure. Please be aware that some mythologies have giants that are well exceeding these values, with the Jain wheel of time including a period where people were approximately 10km and lived for 20,000 quintillion years. It is up to the Boss to decide if and when such beings are included in their game.
+ 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1288,7 +1289,7 @@ Giants, in various sizes, are found pretty much across all world mythologies. In
 
 *A Giant story*
 
-
+Giants, of the European variety, are generally considered strong, lumbering, and not exactly quick of mind, "FBG" ("effin' big giant) is no exception to this norm. However, unlike his decidely more surly kin who like to eat people, and especially children. Unlikely the vague related story by Roald Dahl, in this giant story FBG needs some smaller people to help him catch "a sense of humour" in the dream-land of emotional states. Unsurprisingly, the PC adventurers are tasked with this, and have the tricky job of finding the "sense of humour" spirit among all the other various emotional states, including the unpleasant ones. Two characters that are necessary to include in this story are a human-sized couple, one of whom insists is a giant dwarf, and the other a dwarf giant (a hat-tip to Greg Stafford's *Pendragon*).
 
 **Gnoll**
 
