@@ -1267,9 +1267,11 @@ When your life is living with an small family whose behavour consists of eating 
 
 **Giant**
 
+Giants, in various sizes, are found pretty much across all world mythologies. In *Papers & Paychecks* we've kept giants within an acceptable range from the maximum normal human size to about twice that figure. Please be aware that some mythologies have giants that are well exceeding these values.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Ranger |
+| Strength	    |  18-36    |  +4 to +13	| Profession	 | Fighter or Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
@@ -1279,12 +1281,14 @@ When your life is living with an small family whose behavour consists of eating 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Sense (hearing) | -4 to +4  | +2    |    	    | -2 to +6   |
-| Athletics (stamina) | +4 to +8 | +2	|	    | +6 to +10	| 
-| Melee 	| +4 to +8 	| +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 	| +2	|	    | +6 to +10  |
-| Missile	| -4 to +4	| +2	|	    | -2 to +6	|
+| Athletics (stamina) | +4 to +9 | +2	|	    | +6 to +11	| 
+| Melee 	| +4 to +9 	| +2	|	    | +6 to +11 |
+| Intimidate	| +4 to +9 	| +2	|	    | +6 to +11  |
+| Missile	| -4 to +4	| +2	|	    | +0 to +6	|
 
 *A Giant story*
+
+
 
 **Gnoll**
 
