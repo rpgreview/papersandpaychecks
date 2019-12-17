@@ -1282,9 +1282,9 @@ Giants, in various sizes, are found pretty much across all world mythologies. In
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Sense (hearing) | -4 to +4  | +2    |    	    | -2 to +6   |
-| Athletics (stamina) | +4 to +9 | +2	|	    | +6 to +11	| 
-| Melee 	| +4 to +9 	| +2	|	    | +6 to +11 |
-| Intimidate	| +4 to +9 	| +2	|	    | +6 to +11  |
+| Athletics (stamina) | +4 to +13 | +2	|	    | +6 to +15	| 
+| Melee 	| +4 to +13 	| +2	|	    | +6 to +15 |
+| Intimidate	| +4 to +13 	| +2	|	    | +6 to +15  |
 | Missile	| -4 to +4	| +2	|	    | +0 to +6	|
 
 *A Giant story*
@@ -1293,24 +1293,30 @@ Giants, of the European variety, are generally considered strong, lumbering, and
 
 **Goblin**
 
+Goblins are small humanoids of an unattractive appearance, especially of the perceptual senses (oversized nose and eyes, large pointed ears) which are found across European medieval stories, and often have a number of magical abilities (levels in the Wizard profession is not unknown). Dominant personalty traits include an earthy mischievousness ranging to the point of delight in malicious harm, along with various levels of greed for wealthy high-value objects. In addition to the European goblin there are similar creatures in American mythology, the Indian sub-continent, China, Korea, and Japan. Whilst goblins are typically a nuissance in comparison to the mighty human (etc) socities due to their innately chaotic disposition (c.f., low Wisdom score) there are a few who manage to organise goblins into something resembling a kingdom. Among the most famous of these is Jareth, King of the Goblins and Master of the Labyrinth. 
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  3-12     |  +4 to +1	| Profession	 | Rogue or Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 10-15 |
+| Dexterity	    |  6-24     |  -2 to +7     | Wounds (Physical) |   |
+| Perception	    |  6-24     |  -2 to +7	| Wounds (Mental)   |   |
+| Charisma	    |  3-12	|  -4 to +1     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (hearing) | -2 to +7  | +2       |    +2     | +2 to +11 |
+| Gymanstics | -2 to +7 | +2	|	    | +0 to +9 |
+| Melee 	| -3 to +1 | +1	|	    | -2 to +0 |
+| Missile	| -2 to +7	| +2	|	| +0 to +9	|
 
-A Goblin story
+*A Goblin story*
+
+_`You came back... to a place like this? Why? A man like you? Why?"_
+
+Inevitably PC adventurers find themselves in a situation where they are tasked with "dealing with" goblins, with the solution typically being some combination of fire and sword. This may be in the form of protecting a village from the ravages of goblin bandits (_Magnificent Seven_/_Seven Samurai_ opportunities!) or engaging in what contemporary military experts call "forward defense" (i.e., invading somebody else). In such a situation pick on the most soft-hearted character (or player) and have a clearly defeated goblin plea for their life and make all the promises in the world to be their life-servant etc. If accepted (and this jape only works once), the goblins intentions are indeed true. However, whilst the intellect might be willing, their spirit is weak - very week indeed and where ever the PC goes, the goblin follows in invariably gets into trouble, whether it is stealing small items of value, exposing themselves to noblewomen, etc. Attempts to reform the recalcitrant will be met with ardent promises by the little chap and failure afterwards. For example, if the goblin is taught not to steal a situation can be contrived where the goblin must steal to get the PCs out of a situation. 
+
 
 **Golem**
 
@@ -4255,7 +4261,7 @@ Fresh meat! Such a fortuitous opportunity cannot be passed up. Kim Il-sung must 
 "Please, Your Honor," whined Pauper William Nodes, 27, in a London court last week, "don't part me and the rat." The judge looked appraisingly at Nodes' pet rat in a cage on the barristers' table, frowned severely at Nodes. Clearing his throat he then did British Justice: "I sentence you, William Nodes, to six months in prison as an incorrigible rogue. The rat will be sent to a good home."
 
 Time Magazine, Foreign News: Rogue's Rat, Monday, Jan. 22, 1934
-http://content.time.com/time/magazine/article/0,9171,746859,00.html
+`http://content.time.com/time/magazine/article/0,9171,746859,00.html`
 
 # 6.0 Appendicies
 
@@ -4263,10 +4269,10 @@ http://content.time.com/time/magazine/article/0,9171,746859,00.html
 
 Henry N. Beard, Douglas C. Kenney, Bored of the Rings, National Lampoon, 1969
 
-John M. Maxstadt Yet Even More (Gods Forbid) Outrages From the Mages
+John M. Maxstadt, Yet Even More (Gods Forbid) Outrages From the Mages, Dragon 156, April 1990
 
 Roger E. Moore, Tucker's Kobolds, Dragon 127
-https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf
+`https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf`
 
 Terry Pratchett and Phil Masters, GURPS Discworld, Steve Jackson Games, 1998
 
