@@ -1368,17 +1368,16 @@ When spring comes, one turns to love. In this story, the initially anonymous pat
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  18-36    |  +4 to +13	| Profession	 | Various |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  18-26    |  +4 to +8  	| Movement (fligh)| 18-36 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Perception	    |  18-26    |  +4 to +8	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Sense (sight) | +0       | +3       |    +2     | +5         |
 | Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
