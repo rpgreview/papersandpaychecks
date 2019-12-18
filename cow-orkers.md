@@ -1319,24 +1319,19 @@ Inevitably PC adventurers find themselves in a situation where they are tasked w
 
 **Golem**
 
+A golem is a humanoid, fashioned from raw clay, and through the use of an Enchantment ritual (see Wizard 1.1.2, Perks 1.4) can be made mobile as an automaton, with Strength, Dexterity, and Perception. In ancient and medieval times this particular enchantment ritual was seemingly passed down through a rabbinical line. A golem has no intelligence, no charisma, no ability to think or to speak. It has no profession, and does not acquire skills. It can however, follow instructions and the complexity of the instructions depend very much on the complexity and skill of the "programmer" who writes the program. A Boss may wish to encourage PC adventurers to write the code, and if they really want to get deeply involved they can do so in the Hebrew alphabet (the golem is fed by instructions being fed into its mouth like a punch card). As those in the IT profession know all too well, code = bugs and the more complex one's code the more bugs it will have. 
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | NA |
+| Dexterity	    |  3-12     |  -4 to +4     | Movement (running)| 10-15 |
+| Perception	    |  3-12     |  -4 to +4	| Wounds (Physical) |   |
 
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+A golem has two levels of damage reduction (that is, any and all damage is quartered)
 
-A Golem story
+*A Golem story*
+
+Goethe's _The Sorcerer's Apprentice_ is perhaps the most well-known of the golem-mishap stories, and the Disney rendition in _Fantasia_ does justice to the theme, and is a comic-enough example. One particular side of effect of treating golems as automatons in *Papers & Paychecks* is a golem does not stop carrying out its duties even when the enchanter that created and programmed the golem is gone. In fact, stopping a golem and reprogramming it is extremely difficult. Not only is the problem of accessing the machine (pulling the instructions of a golem's body through the mouth, whilst it is in motion), random attempts to do this will result in unpredictable and buggy behaviour. In this particular case, a patron will approach high-level PC adventurers with a very difficult task - there is an ever-growing army of golems, as the wizard got into their mind to create a golem that creates golems. The wizard, Yen Sid, unfortunately had a mishap before their plans for world domination came to fruition and the golems have been following the same instructions. Over time, the PCs will discover the following high-level programming: (1) Fashion golem out of clay (2) Copy program (3) Insert program into golem (4) If attacked, save state, defend and remove cause of opposition, return to state. 
 
 **Gorgon**
 
