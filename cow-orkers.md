@@ -1317,7 +1317,6 @@ _`You came back... to a place like this? Why? A man like you? Why?"_
 
 Inevitably PC adventurers find themselves in a situation where they are tasked with "dealing with" goblins, with the solution typically being some combination of fire and sword. This may be in the form of protecting a village from the ravages of goblin bandits (_Magnificent Seven_/_Seven Samurai_ opportunities!) or engaging in what contemporary military experts call "forward defense" (i.e., invading somebody else). In such a situation pick on the most soft-hearted character (or player) and have a clearly defeated goblin plea for their life and make all the promises in the world to be their life-servant etc. If accepted (and this jape only works once), the goblins intentions are indeed true. However, whilst the intellect might be willing, their spirit is weak - very week indeed and where ever the PC goes, the goblin follows in invariably gets into trouble, whether it is stealing small items of value, exposing themselves to noblewomen, etc. Attempts to reform the recalcitrant will be met with ardent promises by the little chap and failure afterwards. For example, if the goblin is taught not to steal a situation can be contrived where the goblin must steal to get the PCs out of a situation. 
 
-
 **Golem**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1340,6 +1339,8 @@ Inevitably PC adventurers find themselves in a situation where they are tasked w
 A Golem story
 
 **Gorgon**
+
+The most famous Gorgon was Medusa. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1721,27 +1722,6 @@ A Lizard-Man story
 
 A Manticore story
 
-**Medusa**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-
-A Medusa story
 
 **Mermaid**
 
