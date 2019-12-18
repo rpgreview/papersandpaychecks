@@ -1295,11 +1295,14 @@ Giants, of the European variety, are generally considered strong, lumbering, and
 
 Goblins are small humanoids of an unattractive appearance, especially of the perceptual senses (oversized nose and eyes, large pointed ears) which are found across European medieval stories, and often have a number of magical abilities (levels in the Wizard profession is not unknown). Dominant personalty traits include an earthy mischievousness ranging to the point of delight in malicious harm, along with various levels of greed for wealthy high-value objects. In addition to the European goblin there are similar creatures in American mythology, the Indian sub-continent, China, Korea, and Japan. Whilst goblins are typically a nuissance in comparison to the mighty human (etc) socities due to their innately chaotic disposition (c.f., low Wisdom score) there are a few who manage to organise goblins into something resembling a kingdom. Among the most famous of these is Jareth, King of the Goblins and Master of the Labyrinth. 
 
+Note that there is a subspecies of goblins which are particularly tall and strong, the hobgoblin, who have a Strength value of 3-18 and a bonus range of -4 to +4, but with a reduced Dexterity and Perception (also 3-18). Hobgolins often bully goblins into menial tasks, but goblins often return the favour through wicked pranks.
+
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  3-12     |  +4 to +1	| Profession	 | Rogue or Ranger |
+| Strength	    |  3-12     |  -4 to +1	| Profession	 | Rogue or Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 3-12 |
 | Dexterity	    |  6-24     |  -2 to +7     | Wounds (Physical) |   |
 | Perception	    |  6-24     |  -2 to +7	| Wounds (Mental)   |   |
 | Charisma	    |  3-12	|  -4 to +1     | Wounds (Social)   |   |
@@ -1324,7 +1327,7 @@ A golem is a humanoid, fashioned from raw clay, and through the use of an Enchan
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | NA |
-| Dexterity	    |  3-12     |  -4 to +4     | Movement (running)| 10-15 |
+| Dexterity	    |  3-12     |  -4 to +4     | Movement (running)| 18-26 |
 | Perception	    |  3-12     |  -4 to +4	| Wounds (Physical) |   |
 
 A golem has two levels of damage reduction (that is, any and all damage is quartered)
@@ -1335,26 +1338,31 @@ Goethe's _The Sorcerer's Apprentice_ is perhaps the most well-known of the golem
 
 **Gorgon**
 
-The most famous Gorgon was Medusa. 
+Ranging from the west India and throughout the Hellenised world, the Gorgon is a Naga-like being, with a serpentine body, wings (at half normal movement), a human torso, hairs of venomous snakes, and a dreadful direct gaze that can turn the recipient to stone. The victim must look directly into the eyes of the Gorgon for this effect to occur; one can look at the rear of a Gorgon, or look at it indirectly (e.g., via a mirror). Note that any direct gaze into the eyes of a Gorgon (even when dead) will result in petrification. 
+
+The most famous Gorgon in mythology is that of Medusa, who has two sisters of similar characteristics and disposition. Fortunately rare, the Gorgon is not exactly known for a rapid breeding cycle either. The most famous Gorgon was Medusa. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  12-18    |  +1 to +4	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (slither)| 12-18 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Sense (sight) | -4 to +4 | +3       |     | -1 to +3         |
+| Melee 	| +1 to +4 | +1	|	    | +2 to +5 |
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Gorgon story
+In combat a Gorgon attacks with its Sense (sight) skill, with the gaze causing petrification (NO SAVING THROW) and with an effective range of 25m, and contested against the Wisdom of the target if they are merely "averting their eyes" or some other poor excuse. The venom of a Gorgon's snakes attacks with a STR 15 against the target, using a net attack bonus of +5 (+4 DEX, +1) an a range of 1m. The attack has reduced penetration, but if there is any successful damage the character will be afflicted by a poison that does 3x damage over a ten minute period. A gorgon has 12 snakes on their skull, with three snakes capable of attacking a target per round, and with each snake capable of three poisonous bites a day.
+
+*A Gorgon story* 
+
+When spring comes, one turns to love. In this story, the initially anonymous patron for the PC Adventurers is none other than Little Hannah, who is getting on years and hears her biological clock ticking quite loudly. Little Hannah doesn't get invited to many parties, and as such she hires the PCs to find her a husband fitting of her noble status (or at least she thinks so). Of course there is a whole range of fiendish difficulties with Little Hannah, namely her gaze, her snakes, and the like. Finding a blind herpetophile with a natural immunity to snake poison ought to be challenging.  For what it is worth, Little Hannah fancies herself a Wizard (well, a Witch) and it is true she has a few levels in that profession. She has, however, more levels in Rogue.
 
 **Griffin**
 
