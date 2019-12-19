@@ -1362,27 +1362,30 @@ In combat a Gorgon attacks with its Sense (sight) skill, with the gaze causing p
 
 *A Gorgon story* 
 
-When spring comes, one turns to love. In this story, the initially anonymous patron for the PC Adventurers is none other than Little Hannah, who is getting on years and hears her biological clock ticking quite loudly. Little Hannah doesn't get invited to many parties, and as such she hires the PCs to find her a husband fitting of her noble status (or at least she thinks so). Of course there is a whole range of fiendish difficulties with Little Hannah, namely her gaze, her snakes, and the like. Finding a blind herpetophile with a natural immunity to snake poison ought to be challenging.  For what it is worth, Little Hannah fancies herself a Wizard (well, a Witch) and it is true she has a few levels in that profession. She has, however, more levels in Rogue.
+When spring comes, one turns to love. In this story, the initially anonymous patron for the PC Adventurers is none other than Little Hannah, who is getting on years and hears her biological clock ticking quite loudly. Little Hannah doesn't get invited to many parties, and as such she hires the PCs to find her a husband fitting of her noble status (or at least she thinks so). Of course there is a whole range of fiendish difficulties with Little Hannah, namely her gaze, her snakes, and the like. Finding a blind herpetophile with a natural immunity to snake poison ought to be challenging of course.  For what it is worth, Little Hannah fancies herself a Wizard (well, a witch) and it is true she has a few levels in that profession. She has, however, a few more levels in Rogue.
 
 **Griffin**
 
+The griffin is a creature of legend from ancient Egypt, the Hellenic and Roman worlds, medieval Europe, and Persia. The griffin has the head and forequarters of an eagle, giving it excellent perception, and the handquarters of a lion, providing excellent strength. The griffin also can fly, making it quite formidable. As intelligent creatures griffins are invariably of the ENTJ personality types, dedicated to the abstract protect of what is morally right, rather than getting their claws dirty in directly combatting the evil of the world, with the single exceptions of slander and libel, which offends the griffins sense of purity through truth. Griffins have mountain aeries which are connected to shallows burrows they have dug out; in the burrows they lay their golden eggs. Despite claims to be highly moral creatures, griffins are quite perverse; some breed with horses, resulting in the ill-temperered and malicious hippogriff, from the Hellenic world, which lacks the ability to lay golden eggs and is jealous and greedy as a result. There is a few curious examples from Assyria, where griffin mother - human father crossbreeds have occured, resulting in a lamassu, human torso on a lion's body. They often are in the role of protectors of human treasures.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-36    |  +4 to +13	| Profession	 | Various |
+| Strength	    |  18-36    |  +4 to +13	| Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  18-26    |  +4 to +8  	| Movement (fligh)| 18-36 |
+| Wisdom 	    |  18-26    |  +4 to +8  	| Movement (flight)| 18-36 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  18-26    |  +4 to +8	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (sight) | +0       | +3       |    +2     | +5         |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (sight) | +4 to +8   | +2       |        | +6 to +10     |
+| Melee 	| +4 to +13 | +2	|	    | +6 to +15 |
 
-A Griffin story
+A griffin's melee attack is either front eagle's bite (x2 damage) front claws (x2 damage) or rear claws (3x damage). A typical attack is to grapple with the front claws then rake with the rear the following action. A griffin can also dive-bomb, receiving a charge bonus to their Strength (c.f., 1.3 Skill Options and Elaborations). A griffin's feather and hide body protects for 2 points of damage.
+
+*A Griffin story*
+
 
 
 **Harpy**
