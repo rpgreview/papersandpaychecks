@@ -1386,7 +1386,7 @@ A griffin's melee attack is either front eagle's bite (x2 damage) front claws (x
 
 *A Griffin story*
 
-
+Harry and Hermoine, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
 
 **Harpy**
 
