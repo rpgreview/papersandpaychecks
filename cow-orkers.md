@@ -1385,27 +1385,33 @@ A griffin's melee attack is either front eagle's bite (x2 damage) front claws (x
 
 Harry and Hermoine, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
 
-**Harpy**
+**Harpy and Siren**
+
+Harpies beckon from Roman-Hellenic mythology and are found in that world and are usually found in small groups. They are a half-human, half-bird, and almost always female (male harpies are jealously guarded by the brood). Derived from the vulture, a harpies claws are quite impressive. Harpies are ravenously hungry.
+
+There is significant debate among observers whether harpies are ugly or beautiful, with a split among the scholars. In reality they are both, some appearing with a crone-like visage and a dreadful squawking whereas others with stunning youthful beauty and melodic voice. If one likes, the former can be described as *harpies* and the latter as *sirens*. Magically, there also seems to be a difference as the former associated with air magics and the latter with the sea, for those who have magic-using professions.
+
+Because of this divergence, the CHA value of a harpy uses an *inverse* bell-curve. Roll 3d6; if the result is 10 or less, add 8, and if it is 11 or more, subract 8.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  3-18    |  +4 to +8	| Profession	 | Ranger or Rogue |
+| Strength	    |  2-12     |  -4 to +1	| Profession	 | Ranger or Rogue |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (flight)| 1-6 |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (sight) | -4 to +4 | +3       |    +2     | +5         |
+| Melee 	| -1 to +1 | +2	|	    | +6 to +10 |
 
-A Harpy story
+A harpy does 2x damage with its claws and its feathered wings protect for 1 point.
 
+*A Harpy story*
+
+In the late Middle Ages the Hellenic isle of Milos became part of the Duchy of the Archipelago. In this story, the local lord of Milos is Yianno, a young man prone to all manner of fashions, and very interested in being very wealthy. The obsidian glass of which Milos is famous for is determined as his path to riches, as it can be fashioned into rather beautiful jewellery. Yianno's problem, for which the PC Adventurers are hired, is that a brood of harpies prevents the miners from quarrying and ideal quantity of the volcanic glass and as a result, his path to wealth is nowhere need as rapid as it could be. Whilst the PC Adventurers are tasked with the job of removing the harpy threat, it is soon discovered the villagers and even the miners are paying the harpies (with offerings of food, wine, oil etc) to create the threat, simply because their Lord is so thoroughly disliked on both their personality and their ideas. The harpies are all to willing to play along.
 
 **Homunculus**
 
