@@ -705,7 +705,7 @@ Charles The Tall serves are an illustrative example of how you can introduce exi
 Characteristic	Value	Bonus		
 Strength	75	+32	Profession	Scientist
 Intelligence	18	+4	Level		10
-Wisdom		11	+0	Movement 	13
+Wisdom		11	+0	Movement 	37
 Dexterity	8	-1	Wounds (Physical)	
 Perception	16	+3	Wounds (Mental)	
 Charisma	13	+1	Wounds (Social)	
@@ -737,7 +737,7 @@ Chiron is married to the nymph Chariclo; they had three daughters and a son. Fur
 Characteristic	Value	Bonus		
 Strength	3	-4	Profession	Labourer
 Intelligence	13	+1	Level		3
-Wisdom		15	+2	Movement 	1-3
+Wisdom		15	+2	Movement 	2
 Dexterity	4	-4	Wounds (Physical)	
 Perception	16	+3	Wounds (Mental)	
 Charisma	13	+1	Wounds (Social)	
@@ -761,7 +761,7 @@ Often Anglicised at Djinn, Genie and the like these are ancient demon-like creat
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-19    |  +4  	     | Profession	 | Wizard-Cleric |
 | Intelligence	    |  24-25    |  +7        | Level	         | 5-5	 |
-| Wisdom 	    |  24-25    |  +7        | Movement (run) | 13-16 |
+| Wisdom 	    |  24-25    |  +7        | Movement (flight) | 9-10 |
 | Dexterity	    |  18-19    |  +4        | Wounds (Physical) |   |
 | Perception	    |  24-25    |  +7        | Wounds (Mental)   |   |
 | Charisma	    |  18-19	|  +4        | Wounds (Social)   |   |
@@ -802,7 +802,7 @@ Apart the obvious uses from their fur and meat, in a fantasy environment one can
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  13-16    |  +1 to +3  | Profession	 | Giant Beaver |
 | Intelligence	    |  4-5      |  -3        | Level	         | 1	 |
-| Wisdom 	    |  5-10     |  -3 to +0  | Movement (run) | 6-8 |
+| Wisdom 	    |  5-10     |  -3 to +0  | Movement (swim) | 7-8 |
 | Dexterity	    |  6        |  -2        | Wounds (Physical) |   |
 | Perception	    |  13-15    |  +1 to +3  | Wounds (Mental)   |   |
 | Charisma	    |  4-5	|  -3        | Wounds (Social)   |   |
@@ -824,13 +824,13 @@ The Basilisk as a thoroughly mythological creature, with an early account from P
 
 Famously, the only natural enemy of the Basilisk is the weasel. The weasel is capable of rapid movement, dodging the gaze of the Basilisk, and is also immune the Basilisk's venom. Unfortunately for the Basilisk, it is not immune to the urine of the weasel, which acts as both antidote to the Basilisk venom and also as a poison to the Basilisk; "so true is it that it has pleased Nature that there should be nothing without its antidote".
 
-For various reasons the Basilisk is a solitary creature. Regrettably they are also intelligent and could theoretically gain levels in fantasy professions. There are known stories of Basilisks being capable of speech and one can only imagine the circumstances that lead to such a being acquiring such skill.
+For various reasons the Basilisk is a solitary creature. Regrettably, they are also intelligent and could theoretically gain levels in fantasy professions. There are known stories of Basilisks being capable of speech and one can only imagine the circumstances that lead to such a being acquiring such skill.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1        |  -5        | Profession	 | Basilisk |
 | Intelligence	    |  10-11    |  +0        | Level	         | 1	 |
-| Wisdom 	    |  8-9      |  -1        | Movement (run) | 3 |
+| Wisdom 	    |  8-9      |  -1        | Movement (run) | 1 |
 | Dexterity	    |  3-18     |  -4 to +4  | Wounds (Physical) |   |
 | Perception	    |  10-11    |  +0        | Wounds (Mental)   |   |
 | Charisma	    |  4	|  -3        | Wounds (Social)   |   |
@@ -857,7 +857,7 @@ In most other respects the Bonnacon is like other members of the *bovinae* subfa
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  30-60    |  +3 to +10 | Profession	 | Bonnacon |
 | Intelligence	    |  2        |  -4	     | Level	         | 1	 |
-| Wisdom 	    |  2        |  -4        | Movement          | 6 |
+| Wisdom 	    |  2        |  -4        | Movement (run)    | 15 |
 | Dexterity	    |  5        |  -3        | Wounds (Physical) |   |
 | Perception	    |  10-11    |  +0 	     | Wounds (Mental)   |   |
 | Charisma	    |  3	|  -4        | Wounds (Social)   |   |
@@ -887,7 +887,7 @@ Related to *goblins*, and *hobgoblins* (c.f.,) the Bugbear is a larger member of
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-24    |  +4 to +6  | Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4  | Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to +4  | Movement          | 9-12 |
+| Wisdom 	    |  3-18     |  -4 to +4  | Movement (run)    | 9-12 |
 | Dexterity	    |  3-18     |  -4 to +4  | Wounds (Physical) |   |
 | Perception	    |  8-18     |  -1 to +4  | Wounds (Mental)   |   |
 | Charisma	    |  3-12	|  -4 to +1  | Wounds (Social)   |   |
@@ -910,12 +910,11 @@ The centaur is a mythic half-human half-horse being described as being found in 
 
 As with horses, centaurs are foraging herbivore herd animals preferring open plains. 
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  50-100   |  +20 to +45	| Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-8      |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-8      |  -4 to -1  	| Movement (running)| 15-30 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
@@ -976,7 +975,7 @@ As they are spiritual creatures Daemons have no STR or DEX characteristics. Thei
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  0    	|  na		| Profession	 | Daemon |
 | Intelligence	    |  3-18     |  -4 to +4    	| Level	         | 1	 |
-| Wisdom 	    |  3-8     	|  -4 to -1  	| Movement (running)| 3-18 |
+| Wisdom 	    |  3-8     	|  -4 to -1  	| Movement (flight)| 10 |
 | Dexterity	    |  0     	|  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-8	|  -4 to -1     | Wounds (Social)   |   |
@@ -1002,7 +1001,7 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  3-18    	|  -4 to +4		| Profession	 | Wizard |
 | Intelligence	    |  3-18     |  -4 to +4    	| Level	         | 1	 |
-| Wisdom 	    |  3-18 	|  -4 to +4  	| Movement (running)| 6 |
+| Wisdom 	    |  3-18 	|  -4 to +4  	| Movement (running)| 2-9 |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1035,20 +1034,20 @@ The Devil is a shapeshifter of course and can take the form of pretty much any c
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-36	|  +4 to +8	| Profession	 | Wizard, Fighter, Bard |
-| Intelligence	    |  18-36    |  +4 to +8    	| Level	         | 10, 10, 10	 |
-| Wisdom 	    |  18-36	|  +4 to +8  	| Movement (running)| 12 |
-| Dexterity	    |  18-36    |  +4 to +8     | Wounds (Physical) |   |
-| Perception	    |  18-36    |  +4 to +8	| Wounds (Mental)   |   |
-| Charisma	    |  18-36	|  +4 to +8     | Wounds (Social)   |   |
+| Strength	    |  18-36	|  +4 to +13	| Profession	 | Wizard, Fighter, Bard |
+| Intelligence	    |  18-36    |  +4 to +13   	| Level	         | 10, 10, 10	 |
+| Wisdom 	    |  18-36	|  +4 to +13 	| Movement (running)| 9-18 |
+| Dexterity	    |  18-36    |  +4 to +13    | Wounds (Physical) |   |
+| Perception	    |  18-36    |  +4 to +13	| Wounds (Mental)   |   |
+| Charisma	    |  18-36	|  +4 to +13    | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Knowlege (General) | +4 to +8 | +30		| +0	    | +34 to +38 |
-| Knowlege (Philosophy) | +4 to +8 | +30	| +0	    | +34 to +38 |
-| Lie | +4 to +8 | +30	| +0	    | +34 to +38 |
-| Seduce | +4 to +8 | +30	| +0	    | +34 to +38 |
-| & etc | +4 to +8 | +30	| +0	    | +34 to +38 |
+| Knowlege (General) | +4 to +13 | +30		| +0	    | +39 to +43 |
+| Knowlege (Philosophy) | +4 to +13 | +30	| +0	    | +39 to +43 |
+| Lie | +4 to +13 | +30	| +0	    | +39 to +43 |
+| Seduce | +4 to +13 | +30	| +0	    | +39 to +43 |
+| & etc | +4 to +13 | +30	| +0	    | +39 to +43 |
 
 *A Devil story*. 
 
@@ -1066,7 +1065,7 @@ In stark contrast the Indo-Asiatic dragons have innate transformation powers (us
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  60-90    |  +25 to +40	| Profession	 | Fighter or Wizard |
 | Intelligence	    |  11-25    |  +0 to +7  	| Level	         | 1	 |
-| Wisdom 	    |  11-25    |  +0 to +7  	| Movement (running)| 30-45 |
+| Wisdom 	    |  11-25    |  +0 to +7  	| Movement (flight)| 30-45 |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  11-25    |  +0 to +7	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1098,7 +1097,7 @@ Different types of dryads are tied to different species of tree, whose traits ar
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  3-18     |  -4 to +4	| Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 5 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 2-9 |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1150,7 +1149,7 @@ Elementals have personality types that correlate with their type. Earth elementa
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  5-50     |  -3 to +30	| Profession	 | Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 5-6 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flight/run)| 2-25 |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1174,7 +1173,7 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  3-12     |  -4 to +1	| Profession	 | Ranger or Wizard |
 | Intelligence	    |  8-18     |  -1 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 5 |
+| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (run)| 2-6 |
 | Dexterity	    |  8-18     |  -1 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1203,7 +1202,7 @@ Due to their stony body Gargoyles take a mere 1/4 damage from physical attacks a
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flying)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flight)| 9-13 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
@@ -1225,7 +1224,7 @@ Ghosts are the ethereal remains of a sapient being who, due to a curse or sheer 
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1    	|  -5		| Profession	 | Wizard |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)|  |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (flight)| 10 |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
@@ -1248,7 +1247,7 @@ Ghouls, originate from Arabic folklore and in a fantasy Earth enviroment can be 
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  3-18     |  -4 to +4	| Profession	 | Ranger or Rogue |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)|  |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (run)| 2-9  |
 | Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
 | Charisma	    |  3-10	|  -4 to +0     | Wounds (Social)   |   |
@@ -1269,12 +1268,11 @@ When your life is living with an small family whose behavour consists of eating 
 
 Giants, in various sizes, are found pretty much across all world mythologies. In *Papers & Paychecks* we've kept giants within an acceptable range from the maximum normal human size to about twice that figure. Please be aware that some mythologies have giants that are well exceeding these values, with the Jain wheel of time including a period where people were approximately 10km and lived for 20,000 quintillion years. It is up to the Boss to decide if and when such beings are included in their game.
  
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-36    |  +4 to +13	| Profession	 | Fighter or Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 9-18 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
@@ -1297,12 +1295,11 @@ Goblins are small humanoids of an unattractive appearance, especially of the per
 
 Note that there is a subspecies of goblins which are particularly tall and strong, the hobgoblin, who have a Strength value of 3-18 and a bonus range of -4 to +4, but with a reduced Dexterity and Perception (also 3-18). Hobgolins often bully goblins into menial tasks, but goblins often return the favour through wicked pranks.
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  3-12     |  -4 to +1	| Profession	 | Rogue or Ranger |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 3-12 |
+| Wisdom 	    |  3-12     |  -4 to +1  	| Movement (running)| 2-6 |
 | Dexterity	    |  6-24     |  -2 to +7     | Wounds (Physical) |   |
 | Perception	    |  6-24     |  -2 to +7	| Wounds (Mental)   |   |
 | Charisma	    |  3-12	|  -4 to +1     | Wounds (Social)   |   |
@@ -1327,7 +1324,7 @@ A golem is a humanoid, fashioned from raw clay, and through the use of an Enchan
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  18-26    |  +4 to +8	| Profession	 | NA |
-| Dexterity	    |  3-12     |  -4 to +4     | Movement (running)| 18-26 |
+| Dexterity	    |  3-12     |  -4 to +4     | Movement (running)| 9-13 |
 | Perception	    |  3-12     |  -4 to +4	| Wounds (Physical) |   |
 
 A golem has two levels of damage reduction (that is, any and all damage is quartered)
@@ -1392,12 +1389,12 @@ Harry and Hermoine, perhaps not a very well-educated griffins, built their aerie
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  3-18    |  +4 to +8	| Profession	 | Ranger or Rogue |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
