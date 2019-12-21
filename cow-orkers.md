@@ -2499,21 +2499,37 @@ Organisations established by legislation and with their governance determined by
 A very common business entity for small enterprises, where the ownership of the company is tied to a small number of individuals, often with equal powers of authority. Liability in sole traders and partnerships is typically unlimited.
 7. Worker Cooperatives. A relatively rare enterprise model where ownership is held by worker-members of the enterprise, who either participate in management decisions or elect managers. Often subject their own legislation in some jurisidictions. 
 8. Charities, Non-Profits, etc 
-An organisation designed to provide a non-profit service. This may be as a recognised charitable organisation, which usually receives a tax-beneficiary status, or for the benefits of members (e.g., the RPG Review Cooperative), which has certain tax exemptions.
+An organisation designed to provide a non-profit service. This may be as a recognised charitable organisation, which usually receives a tax-beneficiary status, or for the benefits of members (e.g., the RPG Review Cooperative), which has certain tax exemptions. Sensible bodies are incorporated associations which provide themselves some legal benefit, such as the organisation being a legal person. In unincorporated associations the members carry liability and ownership. 
 
-Thirdly, there are the attributes of the organisation. These can be differentiated into the statements of movement (net revenue), statements of position (net assets), and human resources (total employees). Additional details may optionally be added, and are encouraged in the PC Workers (or Adventurers) are associated with an organisation for an extended period of time. For statements of movement this would include line items of revenue and expenditure to generate a profit and loss statement. For statements of position this would include line items of assets and liabilities, to generate a balance sheet. For human resources this would include an organisational chart of authorities and employees.
+The more complex the ownership structure, the more probable it is that the controlling interest has established various shell companies etc for the purpose of the less legal practises (e.g., bribery, child labour etc), which can then be wound up and divested when caught. Registering the ultimate controlling authority in tax havens is common among many large enterprises. In *Papers & Paychecks* it is quite possible that logically impossible ownership structures can exist, where company A owns company B, which owns company C, which owns company A. Such breaches of the law of transitivity could not possibly happen where there is different legal codes, right?
 
-**Corporate Behaviour**
+Finally, there are the attributes of the organisation. These can be differentiated into the statements of movement (net revenue), statements of position (net assets), and human resources (total employees). Additional details may optionally be added, and are encouraged in the PC Workers (or Adventurers) are associated with an organisation for an extended period of time. For statements of movement this would include line items of revenue and expenditure to generate a profit and loss statement. For statements of position this would include line items of assets and liabilities, to generate a balance sheet. For human resources this would include an organisational chart of authorities and employees.
 
-The more complex the ownership structure, the more probable it is that the controlling interest has established various shell companies etc for the purpose of the less legal practises (e.g., bribery, child labour etc), which can then be wound up and divested when caught. Registering the ultimate controlling authority in tax havens is common among many large enterprises. 
+**Weird Organisations**
 
-In *Papers & Paychecks* it is quite possible that logically impossible ownership structures can exist, where company A owns company B, which owns company C, which owns company A. Such breaches of the law of transitivity could not possibly happen where there is different legal codes, right?
+Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Directory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory. The following is a selection of ten example groups, updated as appropriate. Keep in mind that these are (or were) *real* organisations, although the organisational characteristics are entirely made up for game purposes and may not bare any semblance to what the organisations may actually have. They certainly do serve as sample groups that players in a *Papers & Paychecks* will have to encounter; after all, in this game *high weirdness* is *normal*.
+
+*International Flat Earth Research Society*
+Summary: Famous for having members all over the globe, the International Flat Earth Society is a biblical-literalist group that argues that the Earth is actually flat and that scientsists (especially NASA) and big government (especially the United Nations) have engaged in a massive deception against the public. In an act of sheer contempt, the United Nations actually displays a true map of the Earth in its logo; the "north pole" is the centre of the the flat earth and the outer extremes are walls of ice. In the age of the Internet, the Flat Eath Society, once virtually defunct, has had a brief rise in popularity, especially among celebrities some of whom might even be trolling.
+Type: Non-profit incorporated association
+Headquaters: Dover, United Kingdom. 
+Mission Statement: To expose the eternal and literal truth that the Earth is flat and to counter the globalist UN and NASA conspiracy that dupes the public into believing that the Earth is a spheroid.
+Revenue: $25,000 USD (membership fees, donations, publication sales)
+Expenses: $15,000 USD (publications, office expenses, honourium)
+Assets: $30,000 USD (bank account, library)
+Human Resources: Volunteer committee, one employed part-time. Approximately 500 paid members.
+
+*Joseph Newman Publishing Co.*
+Summary: Having identified the gyroscopic properties of sub-atomic particles, inventor Joseph Newman has been able to drive energy from them from a combination of magnetic coils and batteries, thus allowing for more energy to be derived from the machine that used in the input. Having made this discovery, a mechanical explanation for Einstein's unified field theory (or so he said), Newman filed for a patent which was rejected on the grounds that it was claiming to be a perpetual motion machine. Newman argued that this he was being persecuted (by the government, big oil, energy companies, etc) and lobbied members of Congress, several of whom put members bills to have patent accepted, despite tests indicating that it simply did not do what it claimed. In 1989, whilst already married, he received a message from God to marry his secretary and her eight-year old daughter; the daughter was removed from his home by the authorities, further evidence of a conspiracy. Afterwardds he was directed by God to run for U.S. President, to avert the extinction of humanity by 1999, as predicted by Nostradamus. The real Joseph Newman died in 2015, although in *Papers & Paychecks* that might just be a conspiracy.
+Type: Sole-trader
+Headquarters: Lucedale, Mississippi
+Mission Statement: To expose the conspiracy that prevents the patent of Newman's energy machine, and to lobby to allow the patent.
+Revenue: $55,000 USD (receipts from investments, book sales, lecture tours)
+Expenses: $60,000 USD (administrative costs, publication costs, travelling costs)
+Assets: $350,000 USD (personal property)
+Human Resources: 2 staff (Joseph Newman and personal secretary)
 
 
-
-**Ten Weird Organisations**
-
-Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Durectory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory. Keep in mind that these are *real* organisations. But they certainly do serve as sample groups that players in a *Papers & Paychecks* will have to encounter.
 
 
 
