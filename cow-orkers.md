@@ -2477,9 +2477,45 @@ For his endeavours Matthews received an Ig Nobel Prize in 1996, which does provi
 
 ## 4.4 Organisations
 
+**Organisational Statistics**
+
+Operating within the rules and behaviour of organisations is the most common environment in *Papers & Paychecks*, and whilst many a wonderful session of the game can be run without having to delve too deeply into the labyrinth of organisational and corporate law, there is some additional intrigue that can be added to the game when one does so. Thus, when dealing with organisations there are several factors to take into consideration, most of which are pretty simple empirical measures. 
+
+Firstly, there is basic information such as (a) the Name of the Organisation, (b) the location(s) or the organisation, especially the headquarters, (c) when the organisation was formed (and, optionally, by whom), (d) the mission statement of the organisation i.e., a one-line summary of what it actually does. The mission statement must mention the industry that the organisation is involved in.
+
+Secondly, there is the *type* of legal organisation, which will vary according to jurisidiction. In general, the following are common examples which can give an "at a glance" summary of legal status and liabiliy. Note that organisations can own organisations, so that a limited private company may have controlling shares of a limited public company. 
+
+1. The State
+The State is the ultimate sovereign decision making power of a geographical area that enforces a system of property rights against internal and external threats, using policing and armies, respectively. A state may, through bilateral and multilateral agreements, or international law, come to agreements with other States on regulating behaviours between them. Within a State, there may be multiple levels of sovereign rights, whether through cofederation, federation, or unitary governments. 
+2. Private Company Limited
+A very common business entity for small and medium enterprises, where the company does not seek the general public to invest and that the liability of shareholders is limited to the nominal value of the private shares (e.g., Vitol).
+3. Public Company Limited
+A common structure for large enterprises, where the company trades shares on the stock market, and that the liability of shareholders is limited to the nominal value of the shares (e.g, Citigroup, Shell, Microsoft, Apple, Facebook, Alphabet, etc).
+4. State-owned enterprise
+An organisation where the state has a controlling interest in the company, often coupled with public policy objectives as well as commercial interets (e.g., China Petrochemical Corporation, State Grid Corporation of China). They are often introduced to provide services where there is a natural monpoly. 
+5. Statutory Authority, Regulatory agency
+Organisations established by legislation and with their governance determined by legislation and which is authorised to enact legislation or regulations on behalf of the jurisidiction (e.g., the US Food and Drug Administration).
+6. Sole Trader, Partnership
+A very common business entity for small enterprises, where the ownership of the company is tied to a small number of individuals, often with equal powers of authority. Liability in sole traders and partnerships is typically unlimited.
+7. Worker Cooperatives. A relatively rare enterprise model where ownership is held by worker-members of the enterprise, who either participate in management decisions or elect managers. Often subject their own legislation in some jurisidictions. 
+8. Charities, Non-Profits, etc 
+An organisation designed to provide a non-profit service. This may be as a recognised charitable organisation, which usually receives a tax-beneficiary status, or for the benefits of members (e.g., the RPG Review Cooperative), which has certain tax exemptions.
+
+Thirdly, there are the attributes of the organisation. These can be differentiated into the statements of movement (net revenue), statements of position (net assets), and human resources (total employees). Additional details may optionally be added, and are encouraged in the PC Workers (or Adventurers) are associated with an organisation for an extended period of time. For statements of movement this would include line items of revenue and expenditure to generate a profit and loss statement. For statements of position this would include line items of assets and liabilities, to generate a balance sheet. For human resources this would include an organisational chart of authorities and employees.
+
+**Corporate Behaviour**
+
+The more complex the ownership structure, the more probable it is that the controlling interest has established various shell companies etc for the purpose of the less legal practises (e.g., bribery, child labour etc), which can then be wound up and divested when caught. Registering the ultimate controlling authority in tax havens is common among many large enterprises. 
+
+In *Papers & Paychecks* it is quite possible that logically impossible ownership structures can exist, where company A owns company B, which owns company C, which owns company A. Such breaches of the law of transitivity could not possibly happen where there is different legal codes, right?
+
+
+
 **Ten Weird Organisations**
 
-Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Durectory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory.
+Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Durectory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory. Keep in mind that these are *real* organisations. But they certainly do serve as sample groups that players in a *Papers & Paychecks* will have to encounter.
+
+
 
 [EDIT]
 
