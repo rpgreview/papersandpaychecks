@@ -2505,11 +2505,11 @@ An organisation designed to provide a non-profit service. This may be as a recog
 
 The more complex the ownership structure, the more probable it is that the controlling interest has established various shell companies etc for the purpose of the less legal practises (e.g., bribery, child labour etc), which can then be wound up and divested when caught. Registering the ultimate controlling authority in tax havens is common among many large enterprises. In *Papers & Paychecks* it is quite possible that logically impossible ownership structures can exist, where company A owns company B, which owns company C, which owns company A. Such breaches of the law of transitivity could not possibly happen where there is different legal codes, right?
 
-Finally, there are the attributes of the organisation. These can be differentiated into the statements of movement (net revenue), statements of position (net assets), and human resources (total employees). Additional details may optionally be added, and are encouraged in the PC Workers (or Adventurers) are associated with an organisation for an extended period of time. For statements of movement this would include line items of revenue and expenditure to generate a profit and loss statement. For statements of position this would include line items of assets and liabilities, to generate a balance sheet. For human resources this would include an organisational chart of authorities and employees.
+Finally, there are the attributes of the organisation. These can be differentiated into the statements of movement (net revenue), statements of position (net assets), and human resources (total employees). Additional details may optionally be added, and are encouraged in the PC Workers (or Adventurers) are associated with an organisation for an extended period of time. For statements of movement this would include line items of revenue and expenditure to generate a profit and loss statement. For statements of position this would include line items of assets and liabilities, to generate a balance sheet. For human resources this would include an organisational chart of authorities and employees, or volunteers. Measure in both quanity and effective full-time workers.
 
 **Weird Organisations**
 
-Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Directory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory. The following is a selection of ten example groups, updated as appropriate. Keep in mind that these are (or were) *real* organisations, although the organisational characteristics are entirely made up for game purposes and may not bare any semblance to what the organisations may actually have. They certainly do serve as sample groups that players in a *Papers & Paychecks* will have to encounter; after all, in this game *high weirdness* is *normal*.
+Just under thirty years ago I was at a friend's party in North Perth and they had just returned from an interstate haul to a fine place called "Polyester Books" (good people, now online shop here: `https://www.polyester.com.au/`). Part of their haul was *High Weirdness By Mail: A Directory of The Fringe: Mad Prophets, Crackpots, Kooks & True Visionaries*, by one Rev. Ivan Stang of the Church of the Sub-Genius, who at least had the humility to list his own group in the directory. The following is a selection of ten example groups, updated as appropriate. Keep in mind that these are (or were) *real* organisations, although the organisational characteristics are *entirely* made up for game purposes and may not have any semblance to what the organisations may actually have. They certainly do serve as sample groups that players in a *Papers & Paychecks* will have to encounter; after all, in this game *high weirdness* is *normal*. Also, remember was the good Rev. Ivan Stang pointed out; they might be right and we're the crazy ones.
 
 *International Flat Earth Research Society*
 Summary: Famous for having members all over the globe, the International Flat Earth Society is a biblical-literalist group that argues that the Earth is actually flat and that scientsists (especially NASA) and big government (especially the United Nations) have engaged in a massive deception against the public. In an act of sheer contempt, the United Nations actually displays a true map of the Earth in its logo; the "north pole" is the centre of the the flat earth and the outer extremes are walls of ice. In the age of the Internet, the Flat Eath Society, once virtually defunct, has had a brief rise in popularity, especially among celebrities some of whom might even be trolling.
@@ -2522,7 +2522,7 @@ Assets: $30,000 USD (bank account, library)
 Human Resources: Volunteer committee, one employed part-time. Approximately 500 paid members.
 
 *Joseph Newman Publishing Co.*
-Summary: Having identified the gyroscopic properties of sub-atomic particles, inventor Joseph Newman has been able to drive energy from them from a combination of magnetic coils and batteries, thus allowing for more energy to be derived from the machine that used in the input. Having made this discovery, a mechanical explanation for Einstein's unified field theory (or so he said), Newman filed for a patent which was rejected on the grounds that it was claiming to be a perpetual motion machine. Newman argued that this he was being persecuted (by the government, big oil, energy companies, etc) and lobbied members of Congress, several of whom put members bills to have patent accepted, despite tests indicating that it simply did not do what it claimed. In 1989, whilst already married, he received a message from God to marry his secretary and her eight-year old daughter; the daughter was removed from his home by the authorities, further evidence of a conspiracy. Afterwardds he was directed by God to run for U.S. President, to avert the extinction of humanity by 1999, as predicted by Nostradamus. The real Joseph Newman died in 2015, although in *Papers & Paychecks* that might just be a conspiracy.
+Summary: In receipt of some continuing patent payments for developing the first plastic dumbells, Joeseph Newman decided to become a great inventor which would, of course, generate more patent income. Having identified the gyroscopic properties of sub-atomic particles, inventor Joseph Newman has been able to drive energy from them from a combination of magnetic coils and batteries, thus allowing for more energy to be derived from the machine that used in the input. Having made this discovery, a mechanical explanation for Einstein's unified field theory (or so he said), Newman filed for a patent which was rejected on the grounds that it was claiming to be a perpetual motion machine. Newman argued that this he was being persecuted (by the government, big oil, energy companies, etc) and lobbied members of Congress, several of whom put members bills to have patent accepted, despite tests indicating that it simply did not do what it claimed. In 1989, whilst already married, he received a message from God to marry his secretary and her eight-year old daughter; the daughter was removed from his home by the authorities, further evidence of a conspiracy. Afterwardds he was directed by God to run for U.S. President, to avert the extinction of humanity by 1999, as predicted by Nostradamus. The real Joseph Newman died in 2015, although in *Papers & Paychecks* that might just be a conspiracy.
 Type: Sole-trader
 Headquarters: Lucedale, Mississippi
 Mission Statement: To expose the conspiracy that prevents the patent of Newman's energy machine, and to lobby to allow the patent.
@@ -2531,11 +2531,35 @@ Expenses: $60,000 USD (administrative costs, publication costs, travelling costs
 Assets: $350,000 USD (personal property)
 Human Resources: 2 staff (Joseph Newman and personal secretary)
 
+*New Changes Blue Rose Ministry*
+Summary: In 1953 Robert Short was contact by an alien, Jon-Al, to go into the Mojave Desert to find a "big rock" (aka Giant Rock), which would become the title of various conventions. From there it was his mission to teach others how to contact aliens, through short wave communications where the aliens would answer questions before they were even asked, a clear indication of telepathy. However the government closed their operation. Associated with Rev. Raymond Broshears, pastor of the sponsoring Church of God of Light, Short went on to form his own church with a holy message. Rev. Robert Short and his inner circle can provide you the secrets to astral travel to visit other planets; one of their regular columnists in their Solar Space Letter newsletter is Ankar22 from Jupiter! "You can learn the mystic connectsion between the Hopi's [sic], the Pope's [sic], and the UFO's [sic]!" Otherworldly space advisor Korton will provide advice on how you can travel to other planets and perhaps even the stars, although the latter requires a great deal of expensive training by Rev. Short.
+Type: Non-profit Church
+Headquarters: Cornville, Arizona
+Mission Statement: To help people get in contact with alien intelligences.
+Revenue: $75,000 USD (channelling services, book sales, lecture tours, church donations)
+Expenses: $75,000 USD (travelling costs, administrative costs, technical equipment, publication costs)
+Assets: $450,000 USD (church property)
+Human Resources: 2 staff, 50 church regulars (5 effective full-time workers)
 
+*Battle Cry of Aggressive Christianity, Free Love Ministry*
+Summary: A somewhat unsusal addition for *High Weirdness*, as this group is not just *weird* but downright dangerous. A combination of extreme "fire and brimestone" aggressive religious hatred combined with earnest declarations of Christian love. Example: "God does not want liberated women whose thighs twitch with their fornications whilst their wombs gush blood of their murdered children. God does not need painted harlots who smear their faces with with the blood of children". This is apparently about claims cosmetics contain placenta (true fact, kind of, see: `https://en.wikipedia.org/wiki/Alternative_uses_for_placenta`). This group is probably a little dangerous as they clearly want to die for Jesus and take out as many sinners as possible and have since become "Aggressive Christianity Missionary Training Corps", where they kept more than fifty people in cult-like conditions, developed international contacts, and radio shows. In 2017 the two leaders, Deborah Green and James Green, and their son, Peter Green, where arrested and eventually jailed for over a hundred counts of child abuse, which has put a dent in their operations.  Website still active! See: `http://www.aggressivechristianity.net/`
+Type: Non-profit Church
+Headquarters: Fence Lake, New Mexico
+Mission Statement: Taking Jesus to all the world. To die for Jesus fighting against sin 
+Revenue: $850,000 USD (church donations, book sales, radio advertising)
+Expenses: $850,000 USD (buildings and maintenance, administrative costs, radio station costs)
+Assets: $1,350,000 USD (church property)
+Human Resources: 75 cult members
 
-
-
-[EDIT]
+*Aquarian Center for Universology*
+Summary: Provides classes, lectures, and healing, including "etheric surgery". Deceased physicians contacted and brought back to perform psychic surgery. Plenty of numerology involved as well.
+Type: Private Company Limited, owned by Aquarian Church. Also Aquarian Educational Group, non-profit incorporated association
+Headquarters: Sarasota, Florida
+Mission Statement: To heal psychic damage through the skills of deceased physicians 
+Revenue: $1,850,000 USD (medical services, book sales)
+Expenses: $850,000 USD (buildings and maintenance, administrative costs)
+Assets: $4,350,000 USD (buildings)
+Human Resources: 25 staff
 
 ## 4.5 Magic Realism Plot Seeds
 
