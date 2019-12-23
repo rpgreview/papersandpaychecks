@@ -1627,6 +1627,29 @@ A Mermaid story
 
 A Minotaur story
 
+
+**Mogwai**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
+A Mogwai story
+
+
 **Mummy**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1859,6 +1882,8 @@ A chimera-like creature primarily from Chinese mythology and other East Asian cu
 Scaled armour and mane protects for 3 points of damage. Flame breath is a missile weapon with an effective range of 20m and a damage bonus of 3x.
 
 *A Qilin story*
+
+There is no good without some evil, and no evil without some good, at least that's what some sages say. In this case, a qilin with a positive reputation comes with a secret sin; it's not quite vegetarian as it would like to be and is wih a dash of vindictiveness, it greatly desires to feast upon the flesh of Mogwai (q.v.). It has located such a demon in the castle of a local warlord, and provides directions on how to get there. It obviously can't do itself, as it's too big to enter the Mogwai's chambers. Alas for the PC Adventurers, the Mogwai in question turns out to be an innocent little child, barely a toddler. However, it also turns out that it _is_ a Mogwai. Just don't give it water after dark.
 
 **Rakshasa**
 
