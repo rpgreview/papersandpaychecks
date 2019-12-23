@@ -1477,38 +1477,12 @@ Roughly the size of children Kobolds remain unseen to human sight in daylight ho
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 *A Kobold story*
 
 Bob and his fellow boggarts live in a workshop in the village of Mugsborough called "The Cave" by those who work there. It's a building-trades workshop, with carpenters, plumbers, plasterers, bricklayers, painters etc, working from dawn to dusk each day. Unlike other Kobold communities, Bob has issued a rule that the Kobolds will not interfere with their work - for Bob can see that their labours are not entirely their own, but rather great wealth is taken by the workshop owners, Lord Rushton. Instead, Bob directs the Kobolds to keep account on who is, and isn't present - and someone is missing they visit their house to do chores, as these industrious workers would have to be ill not to come to work.
 
 What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead.
-
-**Lich**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Lich story
 
 **Lizard-Man**
 
