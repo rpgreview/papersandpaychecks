@@ -1459,13 +1459,18 @@ Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African lege
 
 *An Ifreet story*. Almashay is an extremely unusual ifreet insofar the he wishes not only to help people, but he wants to be firefighter. His career in this direction started when he was attracted to a massive fire caused by a landlord who wished to claim insurance and was pretty indifferent in who was inhabiting the buildings at the time. Horrified by this lack of compunction, Almashay sword to put out fires whenever he could. However his own firey nature often gets the better of him and he more often *causes* fires in his attempts. The PC Adventurers are hired to find out why their are so many fires in the old town and Almashay is tasked with given them a tour, with potentially hilarious and tragic results. See episodes of the 1960s children's television series Grisù for example misadventures of Almashay.
 
-**Kobold**
+**Kobold, Boggart, Brownie, Tonttu**
+
+Kobolds are creatures from Germanic mythology who inhabit the same environs as common humans; either peasant homes, mines, or shipping, which they take on physical characteristics appropriate to their profession. They are called Boggarts in England, Brùnaidh (Brownies) in Scotland, and Nisse in Norse lands, or Tonttu in Finnish lands. They are related to Goblins.
+
+Roughly the size of children Kobolds remain unseen to human sight in daylight hours when they rest, but in the night they will come out and perform various chores, according the profession of the humans that they live with. Whilst an industrious worker, the Kobold will expect generous compensation in food and clothing and if insulted they will become quite a difficult house spirit. If a household, ship's crew, or mine workers become sufficiently well off, kobolds will depart to find a household in greater need. The most famous kobold story is "Die Wichtelmänner" from Brother's Grimm, translated as "The Elves and the Shoemaker" 
+
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  2-12     |  -4 to +1	| Profession	 | Rogue |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (run)| 1-6 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
@@ -1478,7 +1483,11 @@ Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African lege
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Kobold story
+*A Kobold story*
+
+Bob and his fellow boggarts live in a workshop in the village of Mugsborough called "The Cave" by those who work there. It's a building-trades workshop, with carpenters, plumbers, plasterers, bricklayers, painters etc, working from dawn to dusk each day. Unlike other Kobold communities, Bob has issued a rule that the Kobolds will not interfere with their work - for Bob can see that their labours are not entirely their own, but rather great wealth is taken by the workshop owners, Lord Rushton. Instead, Bob directs the Kobolds to keep account on who is, and isn't present - and someone is missing they visit their house to do chores, as these industrious workers would have to be ill not to come to work.
+
+What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead.
 
 **Lamia**
 
