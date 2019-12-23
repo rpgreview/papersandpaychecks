@@ -1839,25 +1839,26 @@ A Quasit story
 
 **Qilin**
 
+A chimera-like creature primarily from Chinese mythology and other East Asian cultures (e.g., Kirin in Japan. Girin in Korea, Gillen in Thai, Ky-lan in Vietnam), the qilin is a magical creature with horns, mane, cloven hooves, and a scaled body. As intelligent and astoudingly good creatures, they are vegetarian, sagacious, and of sound judgement. Despite an overwhelming preference for peaceful activities, they can defend themselves by spouting flaming breath, and often have a magical profession.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Wizard |
+| Intelligence	    |  12-24    |  +1 to +7  | Level	         | 1	 |
+| Wisdom 	    |  12-24    |  +1 to +7  | Movement (running)| 10-15 |
+| Dexterity	    |  8        |  -1        | Wounds (Physical) |   |
+| Perception	    |  12-18    |  +1 to +4  | Wounds (Mental)   |   |
+| Charisma	    |  12-18	|  +1 to +4  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Knowledge (Philosophy) | +1 to +7 | +2       |           | +3 to +9 |
+| Missile 	| +1 to +4  | +2       |           | +3 to +6         |
+| Insight | +1 to +4 | +1       |           | +2 to +5 |
 
-A Qilin story
+Scaled armour and mane protects for 3 points of damage. Flame breath is a missile weapon with an effective range of 20m and a damage bonus of 3x.
 
+*A Qilin story*
 
 **Rakshasa**
 
