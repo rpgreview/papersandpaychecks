@@ -1459,27 +1459,6 @@ Like their Jinni kinfolk, Ifreet appear in Middle-Eastern and North African lege
 
 *An Ifreet story*. Almashay is an extremely unusual ifreet insofar the he wishes not only to help people, but he wants to be firefighter. His career in this direction started when he was attracted to a massive fire caused by a landlord who wished to claim insurance and was pretty indifferent in who was inhabiting the buildings at the time. Horrified by this lack of compunction, Almashay sword to put out fires whenever he could. However his own firey nature often gets the better of him and he more often *causes* fires in his attempts. The PC Adventurers are hired to find out why their are so many fires in the old town and Almashay is tasked with given them a tour, with potentially hilarious and tragic results. See episodes of the 1960s children's television series Grisù for example misadventures of Almashay.
 
-**Ki-rin**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Ki-rin story
-
 **Kobold**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1857,6 +1836,28 @@ A Pixie story
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 A Quasit story
+
+**Qilin**
+
+| **Characteristic**| **Value**	| **Bonus**  | 	|	|
+|-------------------|-----------|------------|--|-------|	
+| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+
+| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
+|---------------|----------|------------|-----------|------------|
+| Sense (hearing) | +0       | +3       |    +2     | +5         |
+| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
+| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
+| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+
+A Qilin story
+
 
 **Rakshasa**
 
