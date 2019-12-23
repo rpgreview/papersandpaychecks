@@ -1489,27 +1489,6 @@ Bob and his fellow boggarts live in a workshop in the village of Mugsborough cal
 
 What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead.
 
-**Leprechaun**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Leprechaun story
-
 **Lich**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
