@@ -1612,6 +1612,8 @@ A Mummy story
 
 A Naga story
 
+https://en.wikipedia.org/wiki/List_of_reptilian_humanoids
+
 **Nixie**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
