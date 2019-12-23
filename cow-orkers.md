@@ -1417,6 +1417,8 @@ In the late Middle Ages the Hellenic isle of Milos became part of the Duchy of t
 
 **Homunculus**
 
+Found primarily in mythological writings the early European modern age, but also to a lesser degree as variants in Islamic world and Hellenic texts, the homunculus is an example of "preformationism", the suggestion that organisms come from miniature versions of themselves. This became an alchemical theory with the homunculus with the suggestion that miniature people could be created through the proper experiments on "precious bodily fluids". A homunculus is, essentially, a rat-sized person, and many are trained in the magical arts.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  1    	|  -5		| Profession	 | Wizard |
@@ -1429,12 +1431,10 @@ In the late Middle Ages the Hellenic isle of Milos became part of the Duchy of t
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
 | Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Homunculus story
+*A Homunculus story*
+
+Homunculi are usually kept as solitary creatures, at least in part to the difficulty of their creation. However, Count Johann Ferdinand von Kufstein and Abbé Geloni, an Italian cleric, reputedly made several of them. A problem comes up when the homunculi start talking to each other and learn about their shared interests. The homunculi are, however, dependent on the count and the priest, but would much rather live independently. They act as a patron to the PC adventurers, firstly, escape - the PCs must look like the homunculi have been stolen, although they are located in several disparate locations. Secondly, find a home for them. Apart from the homes of their masters, the homunculi have no knowledge of the outside world. Finally, and more difficult, the homunculi would like some *female* homunculi in their life. Being made from men, all the homunculi are also male. A wizard who can create femal homunculi needs to found; curiously, there is a character named Gargamel who might be able to help.
 
 **Imp**
 
