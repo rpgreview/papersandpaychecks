@@ -1289,11 +1289,11 @@ Giants, in various sizes, are found pretty much across all world mythologies. In
 
 Giants, of the European variety, are generally considered strong, lumbering, and not exactly quick of mind, "FBG" ("effin' big giant) is no exception to this norm. However, unlike his decidely more surly kin who like to eat people, and especially children. Unlikely the vague related story by Roald Dahl, in this giant story FBG needs some smaller people to help him catch "a sense of humour" in the dream-land of emotional states. Unsurprisingly, the PC adventurers are tasked with this, and have the tricky job of finding the "sense of humour" spirit among all the other various emotional states, including the unpleasant ones. Two characters that are necessary to include in this story are a human-sized couple, one of whom insists is a giant dwarf, and the other a dwarf giant (a hat-tip to Greg Stafford's *Pendragon*).
 
-**Goblin**
+**Goblin, Imp, Hobgoblin**
 
 Goblins are small humanoids of an unattractive appearance, especially of the perceptual senses (oversized nose and eyes, large pointed ears) which are found across European medieval stories, and often have a number of magical abilities (levels in the Wizard profession is not unknown). Dominant personalty traits include an earthy mischievousness ranging to the point of delight in malicious harm, along with various levels of greed for wealthy high-value objects. In addition to the European goblin there are similar creatures in American mythology, the Indian sub-continent, China, Korea, and Japan. Whilst goblins are typically a nuissance in comparison to the mighty human (etc) socities due to their innately chaotic disposition (c.f., low Wisdom score) there are a few who manage to organise goblins into something resembling a kingdom. Among the most famous of these is Jareth, King of the Goblins and Master of the Labyrinth. 
 
-Note that there is a subspecies of goblins which are particularly tall and strong, the hobgoblin, who have a Strength value of 3-18 and a bonus range of -4 to +4, but with a reduced Dexterity and Perception (also 3-18). Hobgolins often bully goblins into menial tasks, but goblins often return the favour through wicked pranks.
+Note that there is a subspecies of goblins which are particularly tall and strong, the hobgoblin, who have a Strength value of 3-18 and a bonus range of -4 to +4, but with a reduced Dexterity and Perception (also 3-18). Hobgolins often bully goblins into menial tasks, but goblins often return the favour through wicked pranks. Further, there is a _smaller_ subspecies of goblin, the imp, which as a Strength value of 1-6, but a Wisdom of 3-18.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1435,27 +1435,6 @@ Found primarily in mythological writings the early European modern age, but also
 *A Homunculus story*
 
 Homunculi are usually kept as solitary creatures, at least in part to the difficulty of their creation. However, Count Johann Ferdinand von Kufstein and Abbé Geloni, an Italian cleric, reputedly made several of them. A problem comes up when the homunculi start talking to each other and learn about their shared interests. The homunculi are, however, dependent on the count and the priest, but would much rather live independently. They act as a patron to the PC adventurers, firstly, escape - the PCs must look like the homunculi have been stolen, although they are located in several disparate locations. Secondly, find a home for them. Apart from the homes of their masters, the homunculi have no knowledge of the outside world. Finally, and more difficult, the homunculi would like some *female* homunculi in their life. Being made from men, all the homunculi are also male. A wizard who can create femal homunculi needs to found; curiously, there is a character named Gargamel who might be able to help.
-
-**Imp**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-An Imp story
 
 **Ifreet**
 
