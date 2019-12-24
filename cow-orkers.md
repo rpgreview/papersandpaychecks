@@ -47,6 +47,7 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 1.1 Sporting Professions
 1.2 Fantasy Professions
 1.3 Skill Options and Elaborations
+1.4 Additional Perks
 
 2.0 Additional Actions and the Environment
 2.1 More Action Rules
@@ -346,7 +347,7 @@ Description: Older and wiser than most other in General Fantasy the Wizard is a 
 |-------|----------|--------------------|
 | 1	| $700     | Cantrips  		|
 | 2	| $800     | Concoctions	|
-| 3	| $900     | Divinations	|
+| 3	| $900     | Divination		|
 | 4	| $1000    | Summonings  	|
 | 5	| $1100    | Elementalism	|
 | 6	| $1150    | Ambiguity      	|
@@ -532,6 +533,119 @@ c.f., `https://www.thelocal.es/20151102/galicia-celebrates-its-annual-clitoris-f
 4. Sometimes this can go the other way as well. The former Australian Prime Minister, Bob Hawke, was well-known for his use of the Australian dialect of English and at one particular ocassion during a speech to a business audience in Tokyo about Australian industrial relations, he remarked: "We're just not interested in playing silly buggers on this issue". This resulted in some shock among the audience as it was later revealed that the translator had converted the speech to "We're just not interested in acting as laughing homosexuals on this issue".
 
 c.f., `http://www.gevans.org/speeches/Speech605Cultural.html`
+
+## 1.4 Additional Perks
+
+**Absolute Direction**
+
+**Acolytes**
+
+**Adoring Fans**
+
+**Ambiguity**
+
+**Animal Friend**
+
+**Animal Companion**
+
+**Bardic Troupe**
+
+**Beserker Rage**
+
+**Bodyguards**
+
+**Body Spatial Awareness**
+
+**Bilingual**
+
+**Bishop**
+
+**Blessings**
+
+**Cantrips**
+
+**Ceremony**
+
+**Charm Being*
+
+**Church**
+
+**Combat Relexes**
+
+**Concoctions**
+
+**Council Membership**
+
+**Den of Thieves**
+
+**Divinations**
+
+**Doolittle**
+
+**Elementalism**
+
+**Enchantment**
+
+**Estorica**
+
+**Fast Talk**
+
+**Flock**
+
+**Get Out Of Jail**
+
+**Guild Member**
+
+**Henchmen**
+
+**Induce Stupor**
+
+**Intervention**
+
+**Killing Joke**
+
+**Long Distance Run**
+
+**Lord's Advisor**
+
+**Lead Cheer**
+
+**Martial Proficiency**
+
+**Miracle**
+
+**Mule Pack**
+
+**Noble Title**
+
+**Ordination**
+
+**Ovate Coven**
+
+**Landed Title**
+
+**Party Leader**
+
+**Poetic License**
+
+**Resist Elements**
+
+**Shapeshifter**
+
+**Special Contacts**
+
+**Summon Animal**
+
+**Summonings**
+
+**Team Captain**
+
+**Thieve's Cant**
+
+**Weapon Prowess**
+
+**Well-Travelled**
+
 
 
 # 2.0 Additional Actions and the Environment
@@ -1387,7 +1501,7 @@ A griffin's melee attack is either front eagle's bite (x2 damage) front claws (x
 
 Harry and Hermoine, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
 
-But wait, there's more. One of the issues that Harry and Hermoine Griffin have is that there is a Wyrm that lives nearby, named Lucius. Given that there is now a cave entrance open, he could just *slither in*. Also, following the earthquake an ancient chamber that contains much wisdom can be found, but it is behind a very old door with an interesting locl. It can only be opened by one with great strength who can maneuver the weights correctly; it's a dumbbell door.
+But wait, there's more. One of the issues that Harry and Hermoine Griffin have is that there is a Wyrm that lives nearby, named Lucius. Given that there is now a cave entrance open, he could just *slither in*. Also, following the earthquake an ancient chamber that contains much wisdom can be found, but it is behind a very old door with an interesting locl. It can only be opened by one with great strength who can maneuver the weights correctly; it's a *dumbbell door*.
 
 **Harpy and Siren**
 
@@ -1395,7 +1509,7 @@ Harpies beckon from Roman-Hellenic mythology and are found in that world and are
 
 There is significant debate among observers whether harpies are ugly or beautiful, with a split among the scholars. In reality they are both, some appearing with a crone-like visage and a dreadful squawking whereas others with stunning youthful beauty and melodic voice. If one likes, the former can be described as *harpies* and the latter as *sirens*. Magically, there also seems to be a difference as the former associated with air magics and the latter with the sea, for those who have magic-using professions.
 
-Because of this divergence, the CHA value of a harpy uses an *inverse* bell-curve. Roll 3d6; if the result is 10 or less, add 8, and if it is 11 or more, subract 8.
+Because of this divergence, the CHA value of a harpy uses an *inverse* bell-curve. Roll 3d6; if the result is 10 or less, add 8, and if it is 11 or more, subtract 8.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
