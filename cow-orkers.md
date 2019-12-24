@@ -538,6 +538,8 @@ c.f., `http://www.gevans.org/speeches/Speech605Cultural.html`
 
 **Absolute Direction**
 
+With the Absolute Direction perk a character knows their spatial-temporal location with a high degree of certainty (and even their velocity, Dr. Heisenberg). This applies even if the character has been blindfolded, asleep, rendered unconscious, or even teleported to another plane. Even the temporal shifts of fae lands will not affect the character's sense. Note that the character may not know where they are in terms of the territory, but they can map to places which they do know (e.g., "We are five hundred leagues north of The Shire. I don't know this place"). The character is also able to set their body clock in advance. for example, to sleep for exactly six hours twenty minutes, or to regulate any other bodily function within the boundaries of species capability. 
+
 **Acolytes**
 
 **Adoring Fans**
