@@ -649,7 +649,7 @@ https://web.archive.org/web/20040202035152/http://www.apa.org/releases/homophob.
 
 INT 13 (+1), WIS 18 (+4), CHA 13 (+1), I+3 N+2 F+4 J+2 (Counsellor)
 
-A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues. See also al-Jinn under section 3.2, Monsters.
+A bottle of gin from the Levant, made from juniper berries grown near the Sea of Galilee, truly a fruitful bush miracle. Apart from the usual effects of gin, this special bottle also contains a djinn, named Simon. Because the consumption of gin has a low-loathing of self, and a high-loathing of others, Simon makes themself appear as the character's conscience to reduce their loathing of others. Of course, Simon has a conscience of their own, and it is quite possible that the character is quite justified in their loathing of others; in which case Simon will counsel the character in a manner that can resolve any issues. See also al-Jinn under section 3.2, Bestiary.
 
 # 3.0 More Non-Player Characters
    
@@ -751,7 +751,9 @@ Emerson can be placed anyway in a tropical locale where use of a fan is encourag
 
 See: Korean Fan Death on Snopes `https://www.snopes.com/fact-check/fan-death/`
 
-## 3.2 Fantasy Bestiary
+## 3.2 Bestiary
+
+The following collection of fantastic beasts are derived from mythological sources with precious little in the way of modern fantasy inventions. For example there is no "minoataur" species listed, because they were not a species, because traditionally there was only one. In part this is because the author is stubborn conservative who has unreasonable demands of authenticity in such matters, and in part because the mythic stories are in many ways utterly hilarious compared to the rather sanitised modern variants. Where will you find giant beavers biting off their own balls in modern literature? Why don't fantasy RPGs list the bonnacon, a cow that fires acidic dung at its opponents? Clearly, modern fantasy has some catching up to do.
 
 **Al-Jinn**
 
@@ -1525,28 +1527,6 @@ A Manticore story
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 A Mermaid story
-
-**Minotaur**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Minotaur story
-
 
 **Mogwai**
 
