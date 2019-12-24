@@ -542,7 +542,11 @@ With the Absolute Direction perk a character knows their spatial-temporal locati
 
 **Acolytes**
 
+See "Team Leader", *Papers & Paychecks* main rulebook. 
+
 **Adoring Fans**
+
+With the Adoring Fans perk, the character will receive CHA*100 fans whom they can call upon to a public event, CHA*10 fans who are well-disposed to the character (effectively a +10 CHA for any interactions), and who will promote the virtues of the character to others, and a number of fans equal to their CHA who are a little obsessive about the character to the point where it is downright unhealthy. There is a reason why so many people with this perk seek solitary lives.
 
 **Ambiguity**
 
