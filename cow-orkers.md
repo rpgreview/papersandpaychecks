@@ -101,6 +101,8 @@ Intellect Fortress: Observant-management types may notice that this appears twic
 
 File system knowledge provides a +2 bonus for research and perception skill checks in their current place of employment and a +1 bonus in prior places of employment.
 
+Team Leader should be should be CHA bonus + Level - 3, rather than than CHA+Level-3.
+
 **2.2 The Resistentialist Environment**
 
 All references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
