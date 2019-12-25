@@ -554,13 +554,15 @@ With the Animal Friend perk, the character will attract the attention of one or 
 
 **Animal Companion**
 
-With the Animal Companion perk, the character will attract the attention of any one animal appropriate to the local local, regadless of size (yes, even a whale). The animal will be completely loyal to the character and will even understand instructions well above what their INT would indicate. 
+With the Animal Companion perk, the character will attract the attention of any one animal appropriate to the locale, regadless of size (yes, even a whale). The animal will be completely loyal to the character and will even understand instructions well above what their INT would indicate. 
 
 **Bardic Troupe**
 
 See "Team Leader", *Papers & Paychecks* main rulebook. 
 
 **Beserker Rage**
+
+With the Beserker Rage perk, a character may become *beserk* according to a player's declaration and The Boss's agreement that the situation can cause anger in the character. In an enraged state, the beserk character may temporaily increase their STR with proportional loss in INT and WIS. When the character wants to break out of the Beserk state they must make a WIS test with a Target Number of 7, based on their current WIS. Characters may go beserk once per six strategic turns.
 
 **Bodyguards**
 
