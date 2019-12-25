@@ -347,10 +347,10 @@ Description: Older and wiser than most other in General Fantasy the Wizard is a 
 |-------|----------|--------------------|
 | 1	| $700     | Cantrips  		|
 | 2	| $800     | Concoctions	|
-| 3	| $900     | Divination		|
-| 4	| $1000    | Summonings  	|
+| 3	| $900     | Illusions		|
+| 4	| $1000    | Divination  	|
 | 5	| $1100    | Elementalism	|
-| 6	| $1150    | Ambiguity      	|
+| 6	| $1150    | Summonings      	|
 | 7	| $1200    | Apprentice		|
 | 8	| $1250    | Council Membership |
 | 9	| $1300    | Enchantment	|
@@ -548,11 +548,13 @@ See "Team Leader", *Papers & Paychecks* main rulebook.
 
 With the Adoring Fans perk, the character will receive CHA*100 fans whom they can call upon to a public event, CHA*10 fans who are well-disposed to the character (effectively a +10 CHA for any interactions), and who will promote the virtues of the character to others, and a number of fans equal to their CHA who are a little obsessive about the character to the point where it is downright unhealthy. There is a reason why so many people with this perk seek solitary lives.
 
-**Ambiguity**
-
 **Animal Friend**
 
+With the Animal Friend perk, the character will attract the attention of one or more animals appropriate to the locale with total STR value of up to 10 as "friends". The animals will understand the rough intention of the character, limited by their intellect. Animal friends will certainly protect the character to the best of their ability and will recognise colleagues of their friends.
+
 **Animal Companion**
+
+With the Animal Companion perk, the character will attract the attention of any one animal appropriate to the local local, regadless of size (yes, even a whale). The animal will be completely loyal to the character and will even understand instructions well above what their INT would indicate. 
 
 **Bardic Troupe**
 
@@ -572,7 +574,7 @@ With the Adoring Fans perk, the character will receive CHA*100 fans whom they ca
 
 **Ceremony**
 
-**Charm Being*
+**Charm Being**
 
 **Church**
 
@@ -607,6 +609,8 @@ With the Adoring Fans perk, the character will receive CHA*100 fans whom they ca
 **Induce Stupor**
 
 **Intervention**
+
+**Illusions**
 
 **Killing Joke**
 
