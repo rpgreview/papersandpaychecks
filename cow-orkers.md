@@ -566,9 +566,13 @@ With the Beserker Rage perk, a character may become *beserk* according to a play
 
 **Bodyguards**
 
+See "Team Leader", *Papers & Paychecks* main rulebook.
+
 **Body Spatial Awareness**
 
 **Bilingual**
+
+With the Bilingual perk the character selects a second language which they will speak as if it was their native language and without an accent. If this perk is acquired later for anything other than their first level in any profession they will instead gain a +4 bonus across one or more languages instead. 
 
 **Bishop**
 
