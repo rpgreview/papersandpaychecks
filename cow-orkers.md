@@ -558,6 +558,8 @@ With the Animal Companion perk, the character will attract the attention of any 
 
 **Bardic Troupe**
 
+See "Team Leader", *Papers & Paychecks* main rulebook. 
+
 **Beserker Rage**
 
 **Bodyguards**
@@ -605,6 +607,8 @@ With the Animal Companion perk, the character will attract the attention of any 
 **Guild Member**
 
 **Henchmen**
+
+See "Team Leader", *Papers & Paychecks* main rulebook. 
 
 **Induce Stupor**
 
