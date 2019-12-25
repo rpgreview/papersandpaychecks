@@ -542,7 +542,7 @@ With the Absolute Direction perk a character knows their spatial-temporal locati
 
 **Acolytes**
 
-See "Team Leader", *Papers & Paychecks* main rulebook. 
+See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than CHA+Level-3 it should be CHA bonus + Level - 3.
 
 **Adoring Fans**
 
@@ -558,7 +558,7 @@ With the Animal Companion perk, the character will attract the attention of any 
 
 **Bardic Troupe**
 
-See "Team Leader", *Papers & Paychecks* main rulebook. 
+See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than CHA+Level-3 it should be CHA bonus + Level - 3.
 
 **Beserker Rage**
 
@@ -566,7 +566,7 @@ With the Beserker Rage perk, a character may become *beserk* according to a play
 
 **Bodyguards**
 
-See "Team Leader", *Papers & Paychecks* main rulebook.
+See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than CHA+Level-3 it should be CHA bonus + Level - 3.
 
 **Body Spatial Awareness**
 
@@ -575,6 +575,8 @@ See "Team Leader", *Papers & Paychecks* main rulebook.
 With the Bilingual perk the character selects a second language which they will speak as if it was their native language and without an accent. If this perk is acquired later for anything other than their first level in any profession they will instead gain a +4 bonus across one or more languages instead. 
 
 **Bishop**
+
+With the Bishop perk, the character has CHA bonus + Level -3 other church leader under their jurisidiction (see "Church"). In the most part they will operate independently, but a Bishop may direct them as they see fit. The church leaders of course remain of an independent disposition and if they do not like the orders, they will seek to undermine them.
 
 **Blessings**
 
