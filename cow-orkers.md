@@ -4358,6 +4358,12 @@ Bard Prime Requisite: Charisma Starting Age: 15+2d4 Profession Skills: Act., Car
 
 For example physical attacks apply a multiplier depending on the weapon: Fists = 1/2x, clubs, knives = 1x, swords = 2x, handguns = 3x, rifles = 4x. Attack with surprise = +1x. Determine whether the damage is *wounds* or *bruises*. For physical weapons, 'bashing' weapons cause *bruises*, whereas impaling, stabbing, explosive, shredding, burning, eviscerating, and basically anything that gets under the skin, causes wounds.
 
+* Physical damage is applied against STR-based physical hit points. If a character reaches zero physical hit points from bruises they are knocked unconscious. Any further physical damage is treated as wounds. If they are reduced to zero wounds the character is is dead and out-of-game. 
+
+* Mental damage is applied against WIS-based mental hit points. If a character reaches zero mental hit points in bruises they are in a state of mental shock and cannot react. Any further mental damage is treated as wounds. If they are reduced to zero mental wounds they are permanently mentally incapacitated and out-of-game. 
+
+* Social damage are applied against CHA-base social hit points; if a character is reduced to zero social hit points in bruises they suffer a serious loss of reputation and are out-of-project. Any further damage is treated as wounds. If they are reduced to zero social hit points in wounds they have suffered a "social death" and are out-of-game.
+
 # Publishing
 
 Three decades ago Will McLean brought us many laughs with the "Papers & Paychecks" illustration in the Dungeon Masters Guide for Advanced Dungeons & Dragons. A cursory search will reveal that on more than one occasion the thought has entered the heads of others that "Papers and Paychecks" would make a great roleplaying game.
