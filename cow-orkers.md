@@ -590,6 +590,8 @@ With the Cantrips perk, a character may perform a variety of sleight-of-hand "ma
 
 **Ceremony**
 
+With the Cantrips perk, a character may perform a variety of sacremental ceremonies, as appropriate for the religion in question (for example, Baptism, Confirmation, Marriage, Last Rites etc) which generates an effective +1 CHA bonus to the character in dealings with the recipients of the sacremental ceremony (Last Rites and Funeral are conferred by the next-of-kin). Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week). Note that the two effects of Ceremony can be combined (e.g., those who are married treat the character who conducted the Ceremony with a +1 CHA bonus for life (or until the the marriage is annulled), those who were present at the wedding treat the conductor with +1 for the next week).
+
 **Charm Being**
 
 **Church**
