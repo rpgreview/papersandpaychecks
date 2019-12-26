@@ -606,6 +606,8 @@ A character with the Combat Relexes perk gains +4 to their DEX for initiative pu
 
 **Concoctions**
 
+A character with the Concoations perk may make potions with various effects on attributes. For each strategic turn that they spend in a properly-stocked laboratory the character may make a concotion that increases a characteristic by +1 point, which lasts a period of six strategic turns, or produce a physical poison which causes 2 wounds, or an antidote to said poison. 
+
 **Council Membership**
 
 **Den of Thieves**
