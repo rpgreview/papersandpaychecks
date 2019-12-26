@@ -678,6 +678,7 @@ A character with the Ordination perk becomes a *priest* of a religion and may co
 
 **Resist Elements**
 
+
 **Shapeshifter**
 
 **Special Contacts**
