@@ -586,6 +586,8 @@ With the Blessings perk, a character may provide a +1 bonus to any and all skill
 
 **Cantrips**
 
+With the Cantrips perk, a character may perform a variety of sleight-of-hand "magic" tricks. This is effectively like a skill, with a perk bonus +4 with an additional bonus of +1 per level, plus the character's DEX bonus as a contest against an opponent's Sense (variable, according to the trick), plus PER bonus. 
+
 **Ceremony**
 
 **Charm Being**
@@ -620,7 +622,7 @@ With the Blessings perk, a character may provide a +1 bonus to any and all skill
 
 **Henchmen**
 
-See "Team Leader", *Papers & Paychecks* main rulebook. 
+See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than CHA+Level-3 it should be CHA bonus + Level - 3.
 
 **Induce Stupor**
 
@@ -671,7 +673,6 @@ See "Team Leader", *Papers & Paychecks* main rulebook.
 **Weapon Prowess**
 
 **Well-Travelled**
-
 
 
 # 2.0 Additional Actions and the Environment
