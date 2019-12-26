@@ -678,6 +678,7 @@ A character with the Ordination perk becomes a *priest* of a religion and may co
 
 **Resist Elements**
 
+A character with the Resist Elements perk receives an effective +10 STR (bruises and wounds) for the purposes of resisting damage from natural forces. This can include damage from extreme fire and cold, drowning and falling, radiation, and elemental attack damage from magical sources.  
 
 **Shapeshifter**
 
@@ -1547,7 +1548,7 @@ A griffin's melee attack is either front eagle's bite (x2 damage) front claws (x
 
 *A Griffin story*
 
-Harry and Hermoine, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
+Harry and Hermione, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
 
 But wait, there's more. One of the issues that Harry and Hermoine Griffin have is that there is a Wyrm that lives nearby, named Lucius. Given that there is now a cave entrance open, he could just *slither in*. Also, following the earthquake an ancient chamber that contains much wisdom can be found, but it is behind a very old door with an interesting locl. It can only be opened by one with great strength who can maneuver the weights correctly; it's a *dumbbell door*.
 
