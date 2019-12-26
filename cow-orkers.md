@@ -582,6 +582,8 @@ With the Bishop perk, the character has CHA bonus + Level -3 other church leader
 
 **Blessings**
 
+With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 1 mental bruise and takes a tactical round to carry out.
+
 **Cantrips**
 
 **Ceremony**
