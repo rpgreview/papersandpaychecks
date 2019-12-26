@@ -594,6 +594,8 @@ With the Cantrips perk, a character may perform a variety of sacremental ceremon
 
 **Charm Being**
 
+With the Charm Being perk, a character may, through a combination of interesting stories, general coolness, and just a hint of a foreign accent may attempt to charm a being. The charm is conducted over casual conversation of a duration of one strategic turn; it must be consistent but does not need to be continuous. For all intents and purposes the recipient is charmed, with the character having an effective +10 CHA in interactions with them, and will carry out their express desires and attempt to win their attention (and affections). Each charmed being believes that they are unique. If they discover there is another charmed being (and often this happens simultaneously) the charm will be broken. Future attempts to charm that being will result in a -5 CHA penalty when in the charmed state ("Maybe he'll change. Or maybe not. No, definitely not") 
+
 **Church**
 
 **Combat Relexes**
