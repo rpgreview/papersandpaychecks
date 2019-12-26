@@ -590,13 +590,15 @@ With the Cantrips perk, a character may perform a variety of sleight-of-hand "ma
 
 **Ceremony**
 
-With the Cantrips perk, a character may perform a variety of sacremental ceremonies, as appropriate for the religion in question (for example, Baptism, Confirmation, Marriage, Last Rites etc) which generates an effective +1 CHA bonus to the character in dealings with the recipients of the sacremental ceremony (Last Rites and Funeral are conferred by the next-of-kin). Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week). Note that the two effects of Ceremony can be combined (e.g., those who are married treat the character who conducted the Ceremony with a +1 CHA bonus for life (or until the the marriage is annulled), those who were present at the wedding treat the conductor with +1 for the next week).
+With the Cantrips perk, a character may perform a variety of worship ceremonies, as appropriate for the religion in question Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week).
 
 **Charm Being**
 
 With the Charm Being perk, a character may, through a combination of interesting stories, general coolness, and just a hint of a foreign accent may attempt to charm a being. The charm is conducted over casual conversation of a duration of one strategic turn; it must be consistent but does not need to be continuous. For all intents and purposes the recipient is charmed, with the character having an effective +10 CHA in interactions with them, and will carry out their express desires and attempt to win their attention (and affections). Each charmed being believes that they are unique. If they discover there is another charmed being (and often this happens simultaneously) the charm will be broken. Future attempts to charm that being will result in a -5 CHA penalty when in the charmed state ("Maybe he'll change. Or maybe not. No, definitely not") 
 
 **Church**
+
+With the Church perk, a character is in charge of a church or similar place of worship. This comes with a congregation who may be helpful, scolds who are both helpful and a problem, and a number of initiates to the flock who can help manage the affairs. In most church hierachies (because it is a hierachy) the person 
 
 **Combat Relexes**
 
@@ -651,6 +653,8 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 **Noble Title**
 
 **Ordination**
+
+A character with the Ordination perk becomes a *priest* of a religion and may conduct Sacremental Ceremonies (for example, Baptism, Confirmation, Marriage, Last Rites etc) which generates an effective +1 CHA bonus to the character in dealings with the recipients of the sacremental ceremony (Last Rites and Funeral are conferred by the next-of-kin). Note that the two effects of simple and Saremental Ceremony can be combined (e.g., those who are married treat the character who conducted the Ceremony with a +1 CHA bonus for life (or until the the marriage is annulled), those who were present at the wedding treat the conductor with +1 for the next week).
 
 **Ovate Coven**
 
