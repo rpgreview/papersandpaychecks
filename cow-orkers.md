@@ -598,7 +598,7 @@ With the Charm Being perk, a character may, through a combination of interesting
 
 **Church**
 
-With the Church perk, a character is in charge of a church or similar place of worship. This comes with a congregation who may be helpful, scolds who are both helpful and a problem, and a number of initiates to the flock who can help manage the affairs. In most church hierachies (because it is a hierachy) the person 
+With the Church perk, a character is in charge of a church or similar place of worship. This comes with a congregation who may be helpful, scolds who are both helpful and a problem, and a number of initiates to the flock who can help manage the affairs. In most church hierachies (because it is a hierachy) the person in charge of the church has all the responsibility and none of the power (i.e., they have to look after the congregation and buildings but can still be directed by a bishop). Managing a church is normally a full-time occupation. Initially a character with this perk will be assigned to a new frontier for the faith (i.e., out in the middle of nowhere), and they will have to wait for vacancies for better locations.
 
 **Combat Relexes**
 
