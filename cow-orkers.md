@@ -610,6 +610,8 @@ A character with the Concoations perk may make potions with various effects on a
 
 **Council Membership**
 
+A character with the Council Membership perk has been recognised the local council of wizards as being an equal and thus deserving of membership. Membership comes with benefits, such as access to the Council chambers, various shared secrets and intrigues among the Wizards, and access to a rather impressive library which provides an additional +4 bonus to research and other information gathering tasks. 
+
 **Den of Thieves**
 
 **Divinations**
