@@ -602,6 +602,8 @@ With the Church perk, a character is in charge of a church or similar place of w
 
 **Combat Relexes**
 
+A character with the Combat Relexes perk gains +4 to their DEX for initiative purposes, and a +4 bonus to their PER for the purpose of preventin surprise actions against them. They also seem a bit "on-edge", to those around them.
+
 **Concoctions**
 
 **Council Membership**
@@ -4369,3 +4371,6 @@ In 2017 this game became a reality, a 128 page book with artwork from Dan 'Smif'
 
 "The simulation office drudgery beneath overlords who in no way understand the jobs of those they command is complete and soul crushing."
 -- Loscha
+
+"This is bonkers-ly good!"
+-- Morgan Davie 
