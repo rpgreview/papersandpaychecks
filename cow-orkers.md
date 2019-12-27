@@ -413,7 +413,7 @@ Description: Eschewing the comforts of civilisation in favour of the rough and r
 |-------|----------|--------------------|
 | 1	| $700     | +1 PER  		|
 | 2	| $800     | Animal Friend      |
-| 3	| $900     | Long Distance Run 	|
+| 3	| $900     | Long Distance 	|
 | 4	| $1000    | Summon Animal  	|
 | 5	| $1100    | Absolute Direction	|
 | 6	| $1150    | Doolittle   	|
@@ -652,7 +652,9 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 A character with the Killing Joke perk may, once per six strategic turns, tell a joke that is so funny that it can literally kill those who hear it. It is an elaborate joks, taking sixty tactical turns to tell and will effect those within earshot who have the character's full attention for that time (10 meters). At the end of the joke, all those that have heard the entire story and punchline must make a check against their INT, with *reverse* modifiers applying, difficulty 11. If the recipient fails the roll, they will fall to the ground in uncontrollable laughter and suffer a physical wound for each point that they failed the roll by for the following ten tactical rounds. This joke can be used over loudspeakers if the attention of the recipients is ensured ("This is the Alpha Complex Computer. I have a joke for you today...")
 
-**Long Distance Run**
+**Long Distance**
+
+A character with the Long Distance perk gains a +4 bonus to Athletics (Stamina) skill when engaged in long-distance physical endurance checks whilst in natural surroundings only. 
 
 **Lord's Advisor**
 
