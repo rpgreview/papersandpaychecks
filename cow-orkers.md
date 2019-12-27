@@ -668,6 +668,8 @@ A character with the Long Distance perk gains a +4 bonus to Athletics (Stamina) 
 
 **Miracle**
 
+A character with the Miracle perk may, through a mental appeal to whatever higher force they subscribe to, may generate what appears to be a very lucky result that directly affects the character and their immediate surrounds and colleagues. This perk may be used once every six strategic turns. In game terms this is similar to the Luck mechanic; a player may determine the result of an otherwise random die roll to a value that they prefer.
+
 **Mule Pack**
 
 **Noble Title**
