@@ -582,7 +582,7 @@ With the Bishop perk, the character has CHA bonus + Level -3 other church leader
 
 **Blessings**
 
-With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 1 mental bruise and takes a tactical round to carry out.
+With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 2 Mental Bruises and takes a tactical round to carry out.
 
 **Cantrips**
 
@@ -590,7 +590,7 @@ With the Cantrips perk, a character may perform a variety of sleight-of-hand "ma
 
 **Ceremony**
 
-With the Cantrips perk, a character may perform a variety of worship ceremonies, as appropriate for the religion in question Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week).
+With the Cantrips perk, a character may perform a variety of worship ceremonies, as appropriate for the religion in question Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week). The conduct of a Ceremony costs 3 Mental Bruises.
 
 **Charm Being**
 
@@ -618,7 +618,7 @@ The Den of Thieves perk enables the character to establish a Thieves' Guild with
 
 **Divinations**
 
-See the "Augury" perk, *Papers & Paychecks* main rulebook. Instead of through careful planning and research the ability to predict critical issues is due to prayer and meditation. 
+See the "Augury" perk, *Papers & Paychecks* main rulebook. Instead of through careful planning and research the ability to predict critical issues is due to prayer and meditation. Each use of Diviniation costs 1 Mental Bruise.
 
 **Doolittle**
 
@@ -626,7 +626,11 @@ A character with the Doolittle perk can talk to the animals, and the animals can
 
 **Elementalism**
 
+A character with the Elementalism perk can manipulate the elements, as determined by their traditional culture (e.g., Earth, Wind, Fire, and Air), assuming the presence of the element in question according to the need of the caster. For each tactical round of preparation the character can increase the size of the elemental force for by 5 STR points. For each additional round the elemental force gains a capacity for movement equal to 2m per round, and each additional ten rounds the elemental force can remain in existence for one strategic turn. The caster must concentrate to move the elemental force. An example action is to spend three rounds building a STR 5 firebolt with a move of 4, which can be directed in a single tactical round with a Missile skill attack. The bolt would attack with an effective STR of 20 (STR * Move), and can be dodged or parried. Each casting of Elementalism costs the caster 2 physical bruises per round of activation.
+
 **Enchantment**
+
+A character with an Enchantment perk may make magical items. This requires six strategic turns per level of the magical effect required, and am additional six strategic turns for powering the item. The number of charges that the item has depends on the quantity of bruises and wounds that the enchanter is prepared to experience in empowering the item. Further, the caster experiences a permanent loss of 1 STR for each enchanted item.
 
 **Estorica**
 
@@ -638,9 +642,11 @@ A character with the Flock perk has the ability to, once a week, attract a group
 
 **Get Out Of Jail**
 
-A character with the Get Out Of Jail perk can literally avoid any jailable offense
+A character with the Get Out Of Jail perk can literally avoid any jailable offense, through a combination of implied threats and political connections. However, its use costs the character a point of CHA. Eventually all the favours catch up with them. 
 
 **Guild Member**
+
+A character with the Guild Member perk is a member of the local Thieves' Guild. This provides the benefits of protection in the racket, resulting in a 10% increase in the character's wage due to advance information along with lodgings, if necessary, and legal representation. Note that multiple Guilds often have demarcation disputes and the Guild may ask for assistance with an offer that one cannot refuse.
 
 **Henchmen**
 
@@ -650,11 +656,15 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 **Intervention**
 
+Similar to the Miracle perk, a character with the Intervention perk may, through a mental appeal to whatever higher force they subscribe to, may generate what would otherwise be an *impossible* result for the character and their immediate surrounds and colleagues. Each use of Intervention also costs the character 1 point of permanent Wisdom.
+
 **Illusions**
 
 **Killing Joke**
 
-A character with the Killing Joke perk may, once per six strategic turns, tell a joke that is so funny that it can literally kill those who hear it. It is an elaborate joks, taking sixty tactical turns to tell and will effect those within earshot who have the character's full attention for that time (10 meters). At the end of the joke, all those that have heard the entire story and punchline must make a check against their INT, with *reverse* modifiers applying, difficulty 11. If the recipient fails the roll, they will fall to the ground in uncontrollable laughter and suffer a physical wound for each point that they failed the roll by for the following ten tactical rounds. This joke can be used over loudspeakers if the attention of the recipients is ensured ("This is the Alpha Complex Computer. I have a joke for you today...")
+*"This is the Alpha Complex Computer. I have a joke for you today..."*
+
+A character with the Killing Joke perk may, once per six strategic turns, tell a joke that is so funny that it can literally kill those who hear it. It is an elaborate joks, taking sixty tactical turns to tell and will effect those within earshot who have the character's full attention for that time (10 meters). At the end of the joke, all those that have heard the entire story and punchline must make a check against their INT, with *reverse* modifiers applying, difficulty 11. If the recipient fails the roll, they will fall to the ground in uncontrollable laughter and suffer a physical wound for each point that they failed the roll by for the following ten tactical rounds. 
 
 **Long Distance**
 
@@ -668,7 +678,7 @@ A character with the Long Distance perk gains a +4 bonus to Athletics (Stamina) 
 
 **Miracle**
 
-A character with the Miracle perk may, through a mental appeal to whatever higher force they subscribe to, may generate what appears to be a very lucky result that directly affects the character and their immediate surrounds and colleagues. This perk may be used once every six strategic turns. In game terms this is similar to the Luck mechanic; a player may determine the result of an otherwise random die roll to a value that they prefer.
+A character with the Miracle perk may, through a mental appeal to whatever higher force they subscribe to, may generate what appears to be a very lucky result that directly affects the character and their immediate surrounds and colleagues. This perk may be used once every six strategic turns. In game terms this is similar to the Luck mechanic; a player may determine the result of an otherwise random die roll to a value that they prefer. Each use of a Miracle causes 1 Mental Wound.
 
 **Mule Pack**
 
