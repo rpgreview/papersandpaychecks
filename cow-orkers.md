@@ -654,11 +654,15 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 **Induce Stupor**
 
+A character with the Induce Stupor perk may, by use of certain bodily movements, cause onlookers to be stunned and be in an effective stupor. From the time that the character induces stupor among onlookers, they must make a Concentration check with a Difficulty of 17 in the first round, then 15, then 11, etc. The Difficulty is increased by the inducing character's CHA bonus. A further caveat is that the onlookers must be of an orientation that would find the stupifying movements pleasing to their eye.
+
 **Intervention**
 
 Similar to the Miracle perk, a character with the Intervention perk may, through a mental appeal to whatever higher force they subscribe to, may generate what would otherwise be an *impossible* result for the character and their immediate surrounds and colleagues. Each use of Intervention also costs the character 1 point of permanent Wisdom.
 
 **Illusions**
+
+A character with the Illusions perk may generate illusions which are convincing to the observer. For each tactical round that the illusion is cast a standard sense may be added (Sight, Hearing, Touch, Smell/Taste). For every two rounds that is added the illusion may include a non-standard sense (Heat Sense, Electromagnetic, Radio etc). For each additional tactical round the illusion has a volume of additional STR 5. Each round of casting will cost 2 physical bruises of weariness.
 
 **Killing Joke**
 
@@ -672,7 +676,11 @@ A character with the Long Distance perk gains a +4 bonus to Athletics (Stamina) 
 
 **Lord's Advisor**
 
+A character with this perk has attained the role of advisor to the local lord. Lords are of the opinion that the employ of a wizard will provide them benefits of foresighht, magical items and so forth. Whilst all this is true, it is a most desired position among wizards because lords are rather easy to manipulate and almost invariably the person who really runs the show is the wizard. All the power, and none of the responsibility, just as a wizard likes it.
+
 **Lead Cheer**
+
+
 
 **Martial Proficiency**
 
