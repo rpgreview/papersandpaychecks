@@ -696,6 +696,10 @@ A character with the mule pack advantage has attracted the attention of several 
 
 **Noble Title**
 
+"Arise, Sir Duc Sean of the Innocent!"
+
+A character with the Noble Title perk has been knighted! This means that they are on top of the pile when it comes to sumptuary laws, they can dispense low justice to those scoundrels who deserve, and so forth. It also means that the character has sworn fealty to someone more powerful than them and they'll probably be used in some military intrigue. In the meantime, this actually a perk rather than a punishment.
+
 **Ordination**
 
 A character with the Ordination perk becomes a *priest* of a religion and may conduct Sacremental Ceremonies (for example, Baptism, Confirmation, Marriage, Last Rites etc) which generates an effective +1 CHA bonus to the character in dealings with the recipients of the sacremental ceremony (Last Rites and Funeral are conferred by the next-of-kin). Note that the two effects of simple and Saremental Ceremony can be combined (e.g., those who are married treat the character who conducted the Ceremony with a +1 CHA bonus for life (or until the the marriage is annulled), those who were present at the wedding treat the conductor with +1 for the next week).
@@ -706,7 +710,11 @@ The Ovate Coven is equivalent to the Den of Thieves, except for the Ranger class
 
 **Landed Title**
 
+A character with the Landed Title perk is not only a noble, but also a lord, which means that they have an additional 50% to their income, and they may even have a manor or run-down castle in dire need of repairs. As all the good spots have been taken up by their predecessors, a character with landed title will probably be assigned land among rebellious peasants and local intrigues in the marches of a kingdom. Still, you have to start somewhere, right? What do you mean this is you've spent your entire life to reach this point? Well, why weren't you simply *born* into this position, like a proper Noble?
+
 **Party Leader**
+
+
 
 **Poetic License**
 
