@@ -634,6 +634,8 @@ A character with the Esoterica perk has a remarkable range of quirky knowledge o
 
 **Flock**
 
+A character with the Flock perk has the ability to, once a week, attract a group of individuals to listen to their moral message. The message can be carried out for one strategic turn and can be combined with other activities, as if the characters were on a short-term project together (see "Project Manager" perk, *Papers & Paychecks* main rulebook). The total pool of levels of the Flock is the character's (CHA+Level)*2. The Flock may eventually form the core of individuals who join the character's Church. 
+
 **Get Out Of Jail**
 
 A character with the Get Out Of Jail perk can literally avoid any jailable offense
