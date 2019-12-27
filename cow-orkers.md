@@ -392,7 +392,7 @@ Description: Quick of hand, foot, and mind, the Rogue is a profession that devel
 | 1	| $700     | +2 Run		|
 | 2	| $800     | Fast Talk		|
 | 3	| $900     | Guild Member	|
-| 4	| $1000    | Thieve's Cant	|
+| 4	| $1000    | Thieves' Cant	|
 | 5	| $1100    | Mule Pack		|
 | 6	| $1150    | Bodyguards		|
 | 7	| $1200    | Henchmen		|
@@ -694,12 +694,13 @@ A character with the Shapeshifter perk may transform themselves into another ani
 
 **Team Captain**
 
-**Thieve's Cant**
+**Thieves' Cant**
 
 **Weapon Prowess**
 
 **Well-Travelled**
 
+A character with the Well-Travelled perk has an extensive area knowledge and contacts of numerous places, including places that they haven't even been to. This effectively gives them a +2 bonus to any Knowledge (General) skill checks based on regions, and a +2 bonus to any language. 
 
 # 2.0 Additional Actions and the Environment
 
