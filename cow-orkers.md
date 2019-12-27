@@ -618,6 +618,8 @@ The Den of Thieves perk enables the character to establish a Thieves' Guild with
 
 **Divinations**
 
+See the "Augury" perk, *Papers & Paychecks* main rulebook. Instead of through careful planning and research the ability to predict critical issues is due to prayer and meditation. 
+
 **Doolittle**
 
 A character with the Doolittle perk can talk to the animals, and the animals can understand them. Further, the animals can talk to the character, and the character can understand them. In both cases the limit of the communication is limited by the lowest INT score, typically that of the animal. Further, this gives no capacity to direct the animal; any service required will require negotiation.
