@@ -714,7 +714,7 @@ A character with the Landed Title perk is not only a noble, but also a lord, whi
 
 **Party Leader**
 
-
+A character with the Party Leader perk will be assigned the leading role in a small group (read: "an adventuring party")
 
 **Poetic License**
 
