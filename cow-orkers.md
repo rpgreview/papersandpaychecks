@@ -678,7 +678,7 @@ The Ovate Coven is equivalent to the Den of Thieves, except for the Ranger class
 
 **Poetic License**
 
-A character with a Poetic License may, every six strategic turns, may invoke artistic excuses to gain access to high society places where they really shouldn't be or to escape the interdict of various sumptuary laws ("It's for personal and artistic use only, officer").
+A character with a Poetic License may, every six strategic turns, may invoke artistic excuses to gain access to high society places where they really shouldn't be or to escape the interdict of various sumptuary laws ("It's for personal and artistic use only, officer"), and even certain actions (e.g., trespass).
 
 
 **Resist Elements**
