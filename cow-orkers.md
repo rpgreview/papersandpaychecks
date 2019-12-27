@@ -650,6 +650,8 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 **Killing Joke**
 
+A character with the Killing Joke perk may, once per six strategic turns, tell a joke that is so funny that it can literally kill those who hear it. It is an elaborate joks, taking sixty tactical turns to tell and will effect those within earshot who have the character's full attention for that time (10 meters). At the end of the joke, all those that have heard the entire story and punchline must make a check against their INT, with *reverse* modifiers applying, difficulty 11. If the recipient fails the roll, they will fall to the ground in uncontrollable laughter and suffer a physical wound for each point that they failed the roll by for the following ten tactical rounds. This joke can be used over loudspeakers if the attention of the recipients is ensured ("This is the Alpha Complex Computer. I have a joke for you today...")
+
 **Long Distance Run**
 
 **Lord's Advisor**
@@ -679,7 +681,6 @@ The Ovate Coven is equivalent to the Den of Thieves, except for the Ranger class
 **Poetic License**
 
 A character with a Poetic License may, every six strategic turns, may invoke artistic excuses to gain access to high society places where they really shouldn't be or to escape the interdict of various sumptuary laws ("It's for personal and artistic use only, officer"), and even certain actions (e.g., trespass).
-
 
 **Resist Elements**
 
