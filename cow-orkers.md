@@ -572,6 +572,8 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 **Body Spatial Awareness**
 
+EDIT
+
 **Bilingual**
 
 With the Bilingual perk the character selects a second language which they will speak as if it was their native language and without an accent. If this perk is acquired later for anything other than their first level in any profession they will instead gain a +4 bonus across one or more languages instead. 
@@ -734,9 +736,11 @@ A character with the Special Contacts perk has a pool of reliable individuals wh
 
 **Summon Animal**
 
-
-
+A character with the Summon Animal perk may summon an animal that is appropriate to the locale through a variety of calls. The summoning process will take ten tactical rounds for the animal to hear the call and respond. Note that the animal, whilst not poorly disposed to the character who issued the summons, is not under their control or even their understanding. Other skills and perks are required to direct the animal in a favourable manner.
+ 
 **Summonings**
+
+A character with the Summonings perk has the knowledge of how to summon a magical creature (c.f., bestiary) from its environ to a specially prepared summoning circle. Naturally enough the magical being is less than impressed with being so rudely interrupted (often from very inappropriate situations) and will not be well disposed towards the wizard. Nevertheless, under the rules of magic the creature will perform a task for the wizard with appropriate compensation (a bargaining contest) that will bind it in a contractual manner. The task must be temporal in nature and when completed the creature will vanish and return to where it was summoned from. The Summoning ritual takes one strategic turn to perform and costs the caster a physical wound.
 
 **Team Captain**
 
