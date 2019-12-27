@@ -610,11 +610,11 @@ A character with the Concoations perk may make potions with various effects on a
 
 **Council Membership**
 
-A character with the Council Membership perk has been recognised the local council of wizards as being an equal and thus deserving of membership. Membership comes with benefits, such as access to the Council chambers, various shared secrets and intrigues among the Wizards, and access to a rather impressive library which provides an additional +4 bonus to research and other information gathering tasks. 
+A character with the Council Membership perk has been recognised the local council of wizards as being an equal and thus deserving of membership. Membership comes with benefits, such as access to the Council chambers, various shared secrets and intrigues among the Wizards, and access to a rather impressive library which provides an additional +4 bonus to research and other information gathering tasks.
 
 **Den of Thieves**
 
-See Project Manager perk, *Papers & Paychecks* main rulebook.
+The Den of Thieves perk enables the character to establish a Thieves' Guild with a total pool of levels equal to the CHA+Level of the character with the perk. Often there are competing Guilds within a location. 
 
 **Divinations**
 
@@ -670,6 +670,8 @@ A character with the Ordination perk becomes a *priest* of a religion and may co
 
 **Ovate Coven**
 
+The Ovate Coven is equivalent to the Den of Thieves, except for the Ranger class.
+
 **Landed Title**
 
 **Party Leader**
@@ -681,6 +683,8 @@ A character with the Ordination perk becomes a *priest* of a religion and may co
 A character with the Resist Elements perk receives an effective +10 STR (bruises and wounds) for the purposes of resisting damage from natural forces. This can include damage from extreme fire and cold, drowning and falling, radiation, and elemental attack damage from magical sources.  
 
 **Shapeshifter**
+
+A character with the Shapeshifter perk may transform themselves into another animal up to three time or one-third of the STR of the character's original form; a character may transform themselves into their original species, but with a different size (and importantly, different features). The time for transformation is one tactical round per multiple or divisor of the STR value. Whilst the character is transforming they are effectively at 0 physical brusies due to the pain of the bodily transformation, although witnessing such an event does generate a mental attack with an attack INT value of 25 for the first time, 15 for the second, and 5 for the third. A character may transform themselves back again with the same process.
 
 **Special Contacts**
 
