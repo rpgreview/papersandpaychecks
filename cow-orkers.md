@@ -390,7 +390,7 @@ Description: Quick of hand, foot, and mind, the Rogue is a profession that devel
 | Level | Wage     | Perks		|
 |-------|----------|--------------------|
 | 1	| $700     | +2 Run		|
-| 2	| $800     | Fast Talk		|
+| 2	| $800     | Spurious Logic	|
 | 3	| $900     | Guild Member	|
 | 4	| $1000    | Thieves' Cant	|
 | 5	| $1100    | Mule Pack		|
@@ -630,8 +630,6 @@ A character with the Doolittle perk can talk to the animals, and the animals can
 
 A character with the Esoterica perk has a remarkable range of quirky knowledge over a variety of subjects that is actually useful and interesting. In effect, it gives them a +2 bonus to all Knowledge skills (not cumultive with Well-Travelled), as long as the subject matter has an interesting story behind it. 
 
-**Fast Talk**
-
 **Flock**
 
 **Get Out Of Jail**
@@ -679,6 +677,9 @@ The Ovate Coven is equivalent to the Den of Thieves, except for the Ranger class
 **Party Leader**
 
 **Poetic License**
+
+A character with a Poetic License may, every six strategic turns, may invoke artistic excuses to gain access to high society places where they really shouldn't be or to escape the interdict of various sumptuary laws ("It's for personal and artistic use only, officer").
+
 
 **Resist Elements**
 
