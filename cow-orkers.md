@@ -714,7 +714,7 @@ A character with the Landed Title perk is not only a noble, but also a lord, whi
 
 **Party Leader**
 
-A character with the Party Leader perk will be assigned the leading role in a small group (read: "an adventuring party")
+A character with the Party Leader perk will be assigned the leading role in a small group (read: "an adventuring party") by a local Lord (Landed Title or above) who is acting as their patron for a specific mission. This will apply even if the other characters in the group are player-character adventurers. In the unsual case where the group has two characters with this advantage, the character with the highest level has priority, and if they are the same level then the characters may require a "full and frank discussion" about their relative abilities behind the smithy.
 
 **Poetic License**
 
@@ -730,7 +730,11 @@ A character with the Shapeshifter perk may transform themselves into another ani
 
 **Special Contacts**
 
+A character with the Special Contacts perk has a pool of reliable individuals who can manipulate the results of sporting events with a variety of skills at the disposal. The Contacts are always ready to serve with according to their payment schedule, and the ability of the contacts is determined as a pool from CHA + Level. 
+
 **Summon Animal**
+
+
 
 **Summonings**
 
