@@ -680,15 +680,19 @@ A character with this perk has attained the role of advisor to the local lord. L
 
 **Lead Cheer**
 
-
+A character with the Lead Cheer perk can encourage others to perform tasks as long as they are in eyeshot or hearing range. This effectively provides a +2 bonus to their Inspire skill.
 
 **Martial Proficiency**
+
+A character with the Martial Proficiency skill gains a +2 bonus to melee and missile skills. Boring, but useful.
 
 **Miracle**
 
 A character with the Miracle perk may, through a mental appeal to whatever higher force they subscribe to, may generate what appears to be a very lucky result that directly affects the character and their immediate surrounds and colleagues. This perk may be used once every six strategic turns. In game terms this is similar to the Luck mechanic; a player may determine the result of an otherwise random die roll to a value that they prefer. Each use of a Miracle causes 1 Mental Wound.
 
 **Mule Pack**
+
+A character with the mule pack advantage has attracted the attention of several youngsters (CHA bonus + Level - 3) who will carry out the requests of the rogue character. They are two young to be characters of level, but they are useful for errands, spotters, and the like. The Boss will determine whether the youngsters are as sharp as the Artful Dodger, or as naive as Oliver Twist who believed that the Fagin's mule pack were in the business of making wallets and handkerchiefs. 
 
 **Noble Title**
 
