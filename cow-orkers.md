@@ -744,9 +744,15 @@ A character with the Summonings perk has the knowledge of how to summon a magica
 
 **Team Captain**
 
+See "Project Manager", *Papers & Paychecks* main rulebook.
+
 **Thieves' Cant**
 
+A character with the Thieves' Cant perk has learned a special and secret dialect of their native language which allows them to fully communicate with others who also have this perk.
+
 **Weapon Prowess**
+
+A character with the Weapon Prowess perk gains an additional +2 to all melee, missile, and fire skill checks, and an additional +1 multiplier to damage. 
 
 **Well-Travelled**
 
