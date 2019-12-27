@@ -628,6 +628,8 @@ A character with the Doolittle perk can talk to the animals, and the animals can
 
 **Estorica**
 
+A character with the Esoterica perk has a remarkable range of quirky knowledge over a variety of subjects that is actually useful and interesting. In effect, it gives them a +2 bonus to all Knowledge skills (not cumultive with Well-Travelled), as long as the subject matter has an interesting story behind it. 
+
 **Fast Talk**
 
 **Flock**
