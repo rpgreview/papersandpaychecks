@@ -1313,32 +1313,6 @@ With inspiration from Disney's 1941 film *The Reluctant Dragon*, a comedy of une
 
 Eventually making their way to the dragon's lair, the PCs Adventurers will discover that Belchy The Dragon is a thoroughly kind creature who gently asphyxiates his captured sheep before consuming them. Opposed to violence as much as possible, Belchy is a very reluctant dragon, and with some negotiation a deal can be struck; he is willing to protect the shepherd's flocks from marauding wolves and find lost members of the flock for the payment of one sheep per week. The problem being is a local, albeit elderly, knight has also arrived at the village, Sir Giles, and Giles has sworn an oath to his King to slay the dragon. 
 
-**Dryad**
-
-Dryads are humanoid nymphs (female nature spirits) tied to a particular tree. Based in Hellenic mythology, they can be found throughout the Greek and Roman world. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Dryad, like other Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters. Human-Dryad children are known; if they are male they will follow the human path, and if female the dryad path. Dryads have the ability to step into a tree and step out of another one up to 20 metres a way, a form of teleportation, however they will never willingly move more than one hundred metres from their "home" tree. When their tree the dryad dies with it, which means that some are very long-lived indeed. In Japanese mythology a Kodama's tree bleeds if cut which is a nice aesthetic touch that can be ported to the rest of *Fantasy Papers & Paychecks*.
-
-Different types of dryads are tied to different species of tree, whose traits are associated with their personality, thus Daphnaie (laurel), Epimelides (fruit trees), Hamadryad (oak), Meliai (ash), Oreiades (pine), Shalabhanjika (asoka), Kodama (pagoda) etc.
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  3-18     |  -4 to +4	| Profession	 | Ranger |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 2-9 |
-| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Hobby (gardening) | +0     | +1         |   	    |  +1        |
-| Insight 	| +0     | +1         |   	    |  +1        |
-| Sense (hearing) | +0     | +1         |   	    |  +1        |
-| Survival  	| +0     | +1         |   	    |  +1        |
-
-*A Dryad story*. 
-
-"Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria (the port) are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
-
 **Dwarf**
 
 The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope across most of Scandinavia, the British Isles, central Europe and parts of eastern Europe. A humanoid folk, they live in various mountain locales (not many Belgian dwarfs), where they show enormous acumen at mining and smithing, and are especially well-known for creating crafting magical items to the point that a cloak of invisibility is almost standard in Dwarfen society. Physically considered somewhat unattractive by human standards, dwarfs are short and muscular. There is a notable gender disparity among Dwards with less than a third of population being female, and culturally they are the hearth-keepers, loremasters and bureaucrats. As a result they are rarely seen outside of Dwarfen society. Dwarfs have a half-normal movement on account of their height, relative to STR, but also half STR for the purpose of calculating Stealth characteristic bonuses.
@@ -1393,7 +1367,7 @@ A wizard hires the party in search for us much pure element as they can find. Th
 
 Elfs are sapient beings originating in Germanic folklore, but also by proximal contact through Celtic, Slavic, Romance, and Hellenic language regions. They are otherwordly beings but also creatures of the woodland, kinfolk of Dryads, magical, and seemingly invisible, and whilst unaging, often lacking in developed moral cognition. Elves, at least of the European variety, tend to want to protect the forests first, enjoy themselves, and worry about humanity a very distant third. Interestingly in the Malay archipelago there is an associated population, the Orang bunian. In both Euopean and Malay mythology, time passes differently in the parallel Elfen realm to human society - weeks can pass in the human world whilst years pass in the Elven world.
 
-Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are thoroughly unpleasant beings, at least from a human experience. As beings are "everyoung" (they stop aging in late adolescence) and with an unlimited lifespan their rulers tends to be extremely powerful, extremely haughty, extremely knowledgeable, and have little consideration for the lives of what they consider to be lesser beings ("they're going to die soon enough anyway"). The subjects of Elven rule tend to be utterly dangerous pranksters whose primary consideration is aesthetic distraction. If a mortal suffers grevious harm as a result that is just too bad. Of course, they are absolutely saddened if one their own kin is maimed or killed, spending months moping about the event. Elfs are amoral narcissists; you don't want anything to do with them.
+Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are thoroughly unpleasant beings, at least from a human experience. As beings are "everyoung" (they stop aging in late adolescence) and with an unlimited lifespan their rulers tends to be extremely powerful, extremely haughty, extremely knowledgeable, and have little consideration for the lives of what they consider to be lesser beings ("they're going to die soon enough anyway"). The subjects of Elven rule tend to be utterly dangerous pranksters whose primary consideration is aesthetic distraction. If a mortal suffers grevious harm as a result that is just too bad. Of course, they are absolutely saddened if one their own kin is maimed or killed, spending decades or centuries moping about the event, respectively. Elfs are amoral narcissists; you don't want anything to do with them.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1770,26 +1744,31 @@ The bite of a Naga does x2 damage and 2 wounds per tactical round for 4 rounds. 
 
 In an unfortunate case of false accusation, a scholar is investigating the underground Naga people, and has brought a party of adventurers with him. One panics at a point of transformation and kills the Naga, and their lover decides to track down and exact revenge against the entire party, rather than the single individual responsible. Ahh, the joys of collective punishment. The surviving members of the low-level adventuring party seek the help of the PC adventurers to protect them against this wily, vengeful, serpent. Recommended viewing *Nagin* (1976 film).
 
-**Nymph**
+**Nymph, Dryad**
+
+Originating in Hellenic mythology, Nymphs are nature spirits tied to a particular location (Dryads for trees, Naiads for rivers, Nereids for oceans, Oreads for mountains, etc) that take on the appearance of a humanoid of exceptional beauty. Their local area knowledge is, of course, exceptional. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters.
+Human-Nymph children are known; if they are male they will follow the human path, and if female the nymph path.
+
+Nymphs have a form of minor teleportation tied their natural loci. For example, a dryad has the ability to step into a tree and step out of another one up to 20 metres a way, however they will never willingly move more than one hundred metres from their loci. They remain alive as long as their loci is alive. In Japanese mythology a Kodama's tree bleeds if cut which is a nice aesthetic touch that can be ported to the rest of *Fantasy Papers & Paychecks*.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  2-12     |  +4 to +8	| Profession	 | Ranger or Wizard |
+| Intelligence	    |  12-18    |  -4 to +4   	| Level	         | 1	 |
+| Wisdom 	    |  12-18    |  -4 to -1  	| Movement (running)| 6 |
+| Dexterity	    |  12-18    |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  12-18    |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  18-24	|  +4 to +7     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (var.) | +1 to +4  | +2        |            | +3 to +6   |
+| Seduce	| +4 to +7 | +2	|	|  	    | +6 to +9  |
+| Knowledge (general, region) | +1 to +4 | +4 |     | +5 to +8   | 
 
-A Nymph story
+*A Dryad story*. 
+
+"Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
 **Ogre, Oni**
 
