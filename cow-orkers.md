@@ -1770,26 +1770,30 @@ Nymphs have a form of minor teleportation tied their natural loci. For example, 
 
 "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
-**Ogre, Oni**
+**Ogre, Cyclops, Oni**
+
+Appearing across world mythologies, Ogres (fem. ogress) are over-large humanoids with a penchant for human flesh, especially that of children. They sometimes appear with but a single eye (c.f., The Odyssey, Sinbad). The Japanese ogre, known as an oni, makes its way throughout Asian stories and even into India. They often sport horns from their head, or a third eye. They are also often competent magic-users.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  18-24    |  +4 to +7	| Profession	 | Any fantasy |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 9-12 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (hearing) | -4 to +4  | +2    |    	    | -2 to +6   |
+| Athletics (stamina) | +4 to +7 | +2	|	    | +6 to +9	| 
+| Melee 	| +4 to +7 	| +2	|	    | +6 to +9 |
+| Intimidate	| +4 to +7 	| +2	|	    | +6 to +9  |
+| Missile	| -4 to +4	| +2	|	    | +0 to +6	|
 
-An Ogre story
+*An Ogre story*
+
+As a minor diversion in a dark situational comedy, the PC adventurers find an ogre stuck in the knothole of a very large and hardy tree. To add some urgency to the situation, a snow storm is approaching. The ogre will be desperate enough to promise all its worldly possessions, a promise it has no intention of keeping. If the PC Adventurers do somehow rescue the ogre (a couple of days of fasting will do the trick), they will discover the remains of a local boy that the ogre had chased into the knothole and eaten.
 
 **Qilin**
 
