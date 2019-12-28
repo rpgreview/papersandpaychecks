@@ -584,7 +584,7 @@ With the Bishop perk, the character has CHA bonus + Level -3 other church leader
 
 **Blessings**
 
-With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 2 Mental Bruises and takes a tactical round to carry out.
+With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 2 Mental Bruises and takes a tactical round to carry out. The bonuses can be reversed, as a Curse.
 
 **Cantrips**
 
@@ -1714,7 +1714,7 @@ Roughly the size of children Kobolds remain unseen to human sight in daylight ho
 
 Bob and his fellow boggarts live in a workshop in the village of Mugsborough called "The Cave" by those who work there. It's a building-trades workshop, with carpenters, plumbers, plasterers, bricklayers, painters etc, working from dawn to dusk each day. Unlike other Kobold communities, Bob has issued a rule that the Kobolds will not interfere with their work - for Bob can see that their labours are not entirely their own, but rather great wealth is taken by the workshop owners, Lord Rushton. Instead, Bob directs the Kobolds to keep account on who is, and isn't present - and someone is missing they visit their house to do chores, as these industrious workers would have to be ill not to come to work.
 
-What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead.
+What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead. Recommended reading: *The Ragged-Trousered Philanthropists* (1914 novel, of sorts).
 
 **Manticore, Sphinx, Keibu-Keioiba etc**
 
@@ -1745,28 +1745,31 @@ The hide of a manticore et al., protects for 3 points of damage.
 
 As a common problem the Sphinx is often assigned a role (typically by a curse) to guard the entrance of somewhere important and devour those who fail a test of wits, and given how smart the sphinx is, most end up devoured. Pharoahmines however is rather tired of this job, when the PC Adventurers are assigned the job of gaining entrance to whatever said sphinx is guarding, they are likely to give an easier riddle, with the warning that if the PC Adventurer in question (the one with the highest CHA) succeeds that not only will they gain ingress, they will also gain the sphinx as a faithful companion. If anyone is so foolish to think that this is "companion", as in "animal companion", they are forgetting that the sphinx's head is human. This sphinx could do with some love, and it is not afraid to make their affections known. Prrrr!
 
-**Naga**
+**Naga, Nagi, Phaya Naga, Bakunawa**
+
+Featured in Hindu, Buddhist, and Malay mythology and known as the Phaya Naga in Thailand, Laos, Bakunawa in the Philippines, Naga (feminine, Nagi) are serpintine humanoids, the top half humanoid, the body half serpent. Wise, strong, perceptive, and sometimes malevolent, Naga are sometimes sufficiently powerful to be worshipped as gods, something that they do not disapprove of. They may appear as snake bodies with human heads, or half-human and half-snake. In some mythologies they will appear as multi-headed, and culturally they are sometimes depicted as multi-headed. They are often presented as an underground or underwater species. Naga are often shape-shifters as well, adopting human form.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  12-21    |  +1 to +5	| Profession	 | Any fantasy |
+| Intelligence	    |  12-21    |  +1 to +5   	| Level	         | 1	 |
+| Wisdom 	    |  12-21    |  +1 to +5  	| Movement (running)| 15 |
+| Dexterity	    |  12-21    |  +1 to +5     | Wounds (Physical) |   |
+| Perception	    |  12-21    |  +1 to +5	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
+| Sense (taste) | +1 to +5 | +3       |    +2     | +5         |
+| Melee 	| +1 to +5 | +2	|	    | +6 to +10 |
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
-A Naga story
+The bite of a Naga does x2 damage and 2 wounds per tactical round for 4 rounds.
 
-https://en.wikipedia.org/wiki/List_of_reptilian_humanoids
+*A Naga story*
+
+In an unfortunate case of false accusation, a scholar is investigating the underground Naga people, and has brought a party of adventurers with him. One panics at a point of transformation and kills the Naga, and their lover decides to track down and exact revenge against the entire party, rather than the single individual responsible. Ahh, the joys of collective punishment. The surviving members of the low-level adventuring party seek the help of the PC adventurers to protect them against this wily, vengeful, serpent. Recommended viewing *Nagin* (1976 film).
+
 
 **Nixie**
 
