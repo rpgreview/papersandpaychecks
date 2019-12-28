@@ -1764,33 +1764,11 @@ Featured in Hindu, Buddhist, and Malay mythology and known as the Phaya Naga in 
 | Melee 	| +1 to +5 | +2	|	    | +6 to +10 |
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 
-The bite of a Naga does x2 damage and 2 wounds per tactical round for 4 rounds.
+The bite of a Naga does x2 damage and 2 wounds per tactical round for 4 rounds. Naga are also naturally capable of fire-based Elementalism (c.f.).
 
 *A Naga story*
 
 In an unfortunate case of false accusation, a scholar is investigating the underground Naga people, and has brought a party of adventurers with him. One panics at a point of transformation and kills the Naga, and their lover decides to track down and exact revenge against the entire party, rather than the single individual responsible. Ahh, the joys of collective punishment. The surviving members of the low-level adventuring party seek the help of the PC adventurers to protect them against this wily, vengeful, serpent. Recommended viewing *Nagin* (1976 film).
-
-
-**Nixie**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Nixie story
 
 **Nymph**
 
