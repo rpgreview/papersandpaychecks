@@ -1616,13 +1616,13 @@ But wait, there's more. One of the issues that Harry and Hermoine Griffin have i
 "Everyone should have known something was up with Rowling when she made an incel middle aged man who bullies his students some kind of hero, framed as if his sadness from being friendzoned years ago was a valid excuse."
 `https://twitter.com/AshBCoffin/status/1207734849982935041`
 
-**Harpy, Siren**
+**Harpy, Siren, Mermaids**
 
-Harpies beckon from Roman-Hellenic mythology and are found in that world and are usually found in small groups. They are a half-human, half-bird, and almost always female (male harpies are jealously guarded by the brood). Derived from the vulture, a harpies claws are quite impressive. Harpies are ravenously hungry.
+Harpies beckon from Roman-Hellenic mythology and are found in that world and are usually found in small groups. They are a half-human, half-bird, and almost always female (male harpies are jealously guarded by the brood). Derived from the vulture, a harpies claws are quite impressive. Harpies are ravenously hungry. There is significant debate among observers whether harpies are ugly or beautiful, with a split among the scholars. In reality they are both, some appearing with a crone-like visage and a dreadful squawking whereas others with stunning youthful beauty and melodic voice. If one likes, the former can be described as *harpies* and the latter as *sirens*. Magically, there also seems to be a difference as the former associated with air magics and the latter with the sea, for those who have magic-using professions.
 
-There is significant debate among observers whether harpies are ugly or beautiful, with a split among the scholars. In reality they are both, some appearing with a crone-like visage and a dreadful squawking whereas others with stunning youthful beauty and melodic voice. If one likes, the former can be described as *harpies* and the latter as *sirens*. Magically, there also seems to be a difference as the former associated with air magics and the latter with the sea, for those who have magic-using professions.
+Sirens, or mermaids, have swim rather than flight as their prime movement ability. The mermaid is found throughout the mythology of the near-east, the Hellenic world, the Arabic world, the British mythologies, Slavic, Chinese, Japanese, Korean, and Indian mythologies, etc. 
 
-Because of this divergence, the CHA value of a harpy uses an *inverse* bell-curve. Roll 3d6; if the result is 10 or less, add 8, and if it is 11 or more, subtract 8.
+Because of this divergence, the CHA value of a harpy uses an *inverse* bell-curve when generating characters randomly. Roll 3d6; if the result is 10 or less, add 8, and if it is 11 or more, subtract 8. High-end characters are sirens and mermaids, low-end are harpies.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -1742,27 +1742,6 @@ The hide of a manticore et al., protects for 3 points of damage.
 *A Sphinx story*
 
 As a common problem the Sphinx is often assigned a role (typically by a curse) to guard the entrance of somewhere important and devour those who fail a test of wits, and given how smart the sphinx is, most end up devoured. Pharoahmines however is rather tired of this job, when the PC Adventurers are assigned the job of gaining entrance to whatever said sphinx is guarding, they are likely to give an easier riddle, with the warning that if the PC Adventurer in question (the one with the highest CHA) succeeds that not only will they gain ingress, they will also gain the sphinx as a faithful companion. If anyone is so foolish to think that this is "companion", as in "animal companion", they are forgetting that the sphinx's head is human. This sphinx could do with some love, and it is not afraid to make their affections known. Prrrr!
-
-**Mermaid**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Mermaid story
 
 **Mogwai**
 
