@@ -1745,27 +1745,6 @@ The hide of a manticore et al., protects for 3 points of damage.
 
 As a common problem the Sphinx is often assigned a role (typically by a curse) to guard the entrance of somewhere important and devour those who fail a test of wits, and given how smart the sphinx is, most end up devoured. Pharoahmines however is rather tired of this job, when the PC Adventurers are assigned the job of gaining entrance to whatever said sphinx is guarding, they are likely to give an easier riddle, with the warning that if the PC Adventurer in question (the one with the highest CHA) succeeds that not only will they gain ingress, they will also gain the sphinx as a faithful companion. If anyone is so foolish to think that this is "companion", as in "animal companion", they are forgetting that the sphinx's head is human. This sphinx could do with some love, and it is not afraid to make their affections known. Prrrr!
 
-**Mummy**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Mummy story
-
 **Naga**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
@@ -1851,6 +1830,7 @@ A Nymph story
 | Missile	| -4 to +4	| +1	|	| -3 to +5	|
 
 An Ogre story
+
 
 **Pixie**
 
