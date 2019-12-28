@@ -817,7 +817,7 @@ of giving us greater access to fashion.
 
 *Potion of Flying*: From a near-random sample of out-of-date medications a potion of flying is created, or at the very least, the consumer thinks so. A sensible person may think this is dangerous and there is a degree of truth to it. The consumer will have a great sense of euphoria for a strategic turn for characters of CON 06-15, twice that time for characters with CON 01-05, and half that time for characters of CON 16-25, etc. In addition to the euphoria the consumer will experience a high sense of lucidity, which will provide a bonus of +5 to any task that requires intellectual creativity. After the potion of flying wears off however, the character will feel depressed and will have a -5 penalty to such tasks, for twice as long as the original effect of the potion. What goes up, must come down. ENC 0, cost $100
 
-`https://xkcd.com/353/`
+<img src="https://imgs.xkcd.com/comics/python.png" />
 
 *Rod of Dowsing*: An otherwise L-shaped or Y-shaped stick can be used in to locate ground water, oil, precious metals or gems, and even old gravesites. When used by a person who believes in the superstition, they gain a +5 bonus in discovering what they are searching for. When it is subject to scientific observation, it will fail to operate. ENC 1, cost $5000.
 
@@ -1613,7 +1613,10 @@ Harry and Hermione, perhaps not a very well-educated griffins, built their aerie
 
 But wait, there's more. One of the issues that Harry and Hermoine Griffin have is that there is a Wyrm that lives nearby, named Lucius. Given that there is now a cave entrance open, he could just *slither in*. Also, following the earthquake an ancient chamber that contains much wisdom can be found, but it is behind a very old door with an interesting locl. It can only be opened by one with great strength who can maneuver the weights correctly; it's a *dumbbell door*.
 
-**Harpy and Siren**
+"Everyone should have known something was up with Rowling when she made an incel middle aged man who bullies his students some kind of hero, framed as if his sadness from being friendzoned years ago was a valid excuse."
+`https://twitter.com/AshBCoffin/status/1207734849982935041`
+
+**Harpy, Siren**
 
 Harpies beckon from Roman-Hellenic mythology and are found in that world and are usually found in small groups. They are a half-human, half-bird, and almost always female (male harpies are jealously guarded by the brood). Derived from the vulture, a harpies claws are quite impressive. Harpies are ravenously hungry.
 
@@ -1691,18 +1694,19 @@ Kobolds are creatures from Germanic mythology who inhabit the same environs as c
 
 Roughly the size of children Kobolds remain unseen to human sight in daylight hours when they rest, but in the night they will come out and perform various chores, according the profession of the humans that they live with. Whilst an industrious worker, the Kobold will expect generous compensation in food and clothing and if insulted they will become quite a difficult house spirit. If a household, ship's crew, or mine workers become sufficiently well off, kobolds will depart to find a household in greater need. The most famous kobold story is "Die Wichtelmänner" from Brother's Grimm, translated as "The Elves and the Shoemaker" 
 
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
 | Strength	    |  2-12     |  -4 to +1	| Profession	 | Rogue |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
 | Wisdom 	    |  3-18     |  -4 to +4  	| Movement (run)| 1-6 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
+| Dexterity	    |  12-18    |  +1 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
+| Craft		| +1 to +4 | +2		|	    | +3 to +6 |
+| Missile	| -4 to +4 | +2		|	    | -2 to +6	|
 
 *A Kobold story*
 
@@ -1710,26 +1714,34 @@ Bob and his fellow boggarts live in a workshop in the village of Mugsborough cal
 
 What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead.
 
-**Manticore**
+**Manticore, Sphinx, Keibu-Keioiba etc**
+
+The Manticore is a creature with a body of a lion (tiger for the Indian keibu-keioiba) and a human-like head, proportionate for size. Found in the European, Hellenic, Persian, and Indian world, a Hellenic-Egyptian sub-species, the Sphinx, is larger, even more intelligent, and has wings. Varieties are also found throughout Burma, Thailand, and China. Use the upper-end of the characteristics and provide flight as a movement for the Sphinx. For it's own part, the Manticore often has a tail of venomous spines that can be fired (provide Missile skill) or a poisoned tail like a scorpion. The manticore and all variants rather like the flesh of people, with the manticore known for a triple-row of teeth. 
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  20-30    |  +5 to +10 | Profession	 | Wizard, Fighter |
+| Intelligence	    |  12-24    |  +1 to +7  | Level	         | 1	 |
+| Wisdom 	    |  12-24    |  +1 to +7  | Movement          | 10 |
+| Dexterity	    |  2-12     |  -4 to +1  | Wounds (Physical) |   |
+| Perception	    |  12-24    |  +1 to +7  | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Intimidate    | +5 to +10| +1         |        | +6 to +11  |
+| Melee         | +5 to +10| +2         |        | +6 to +11  |
+| Sense (smell) | +1 to +7 | +2         |        | +3 to +9   |
+| Knowledge (philosophy) | +1 to + 7| +2 |	| +3 to 9     |
 
-A Manticore story
+Quills attack as per an arrow, x2 damage, STR 15, ongoing 2 wounds per strategic turn for 8 turns. Limited to 20 quills.
+Scorpion tail attacks with x2 damage, STR 10, ongoing 2 wounds per tactical round for 8 rounds.
+Claws do x2 damage, with STR 20-20. Bite does x3 damage.
+The hide of a manticore et al., protects for 3 points of damage.
+
+*A Sphinx story*
+
+As a common problem the Sphinx is often assigned a role (typically by a curse) to guard the entrance of somewhere important and devour those who fail a test of wits, and given how smart the sphinx is, most end up devoured. Pharoahmines however is rather tired of this job, when the PC Adventurers are assigned the job of gaining entrance to whatever said sphinx is guarding, they are likely to give an easier riddle, with the warning that if the PC Adventurer in question (the one with the highest CHA) succeeds that not only will they gain ingress, they will also gain the sphinx as a faithful companion. If anyone is so foolish to think that this is "companion", as in "animal companion", they are forgetting that the sphinx's head is human. This sphinx could do with some love, and it is not afraid to make their affections known. Prrrr!
 
 **Mermaid**
 
@@ -3537,7 +3549,7 @@ Amongst all this, this is one potential ally for the PC Workers, albeit a slight
 > **Posadism: A Summary**   
 >   
 > Homero Rómulo Cristalli Frasnelli was an Argentian socialist from the 1940s onwards who was referred to as 
-> Juan Posadas. Posadas was active in the trade union and Trotskyist socialist movements becoming a notable 
+> Juan Posadas. Posadas was active in the trade union and Trotskyist socialist movements becoming a 
 > leader of that group in Latin America with notable influence among Cuban railway workers, Bolivian tin 
 > miners, and Brazilian agricultural workers. When Trotsky's Fourth International split in 1953, Posadas 
 > joined with the "International Secretariat of the Fourth International", but left that organisation 
@@ -3545,16 +3557,20 @@ Amongst all this, this is one potential ally for the PC Workers, albeit a slight
 > the name "Revolutionary Workers Party", under the belief that other Trotskyist parties were not 
 > revolutionary enough.
 >   
-> Apart from being a fairly orthodox Trotskyist movement in other regards, the  Posadists were notable for   > two famously exceptional theories. Firstly, was their advocacy of nuclear war. The Posadists argued that a > nuclear war between the Stalinist regimes and capitalist regimes was inevitable and ought to be 
+> Apart from being a fairly orthodox Trotskyist movement in other regards, the  Posadists were notable for   
+> two famously exceptional theories. Firstly, was their advocacy of nuclear war. The Posadists argued that a 
+> nuclear war between the Stalinist regimes and capitalist regimes was inevitable and ought to be 
 > *encouraged*, as the surviving members of the species - primarily in the Third World - would build 
 > socialism out of it the remains. "Nuclear war equals revolutionary war" is a Posadist slogan.
 >  
 > The second notable component of the Posadists was their interest in UFOs. The Posadists argue that there 
-> must be alien civilizations in the universe and such societies, which are obviously highly advanced, must > also follow the trajectory of history. Such societies must have already reached an advanced stateless 
+> must be alien civilizations in the universe and such societies, which are obviously highly advanced, must 
+> also follow the trajectory of history. Such societies must have already reached an advanced stateless 
 > communist society. As a result, Posadasits call open aliens to directly intervene in Earth-world politics.
 >  
 > "We must call upon beings from other planets when they come to intervene, to collaborate with the 
->  inhabitants of the Earth to overcome misery. We must launch a call on them to use their resources to help > us."   
+>  inhabitants of the Earth to overcome misery. We must launch a call on them to use their resources to help 
+>  us."   
 > -- Juan Posadas 
 >
 > It is important to remember that with the exception of these more unusual political positions, the 
@@ -3562,7 +3578,6 @@ Amongst all this, this is one potential ally for the PC Workers, albeit a slight
 > a current webiste (yes, they are still with us) will reveal: `http://posadiststoday.com/`.
 >   
 > Long live Posadas!
-
 
 *John "Moose" Seddon*, Customer Relations Officer, Nile Corporation, I+2 N+2 F+2 J+2 (Counsellor)
 
