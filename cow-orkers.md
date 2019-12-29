@@ -1868,48 +1868,6 @@ The Rukh or Garuda is a giant eagle-like bird of prey most commonly expressed in
 
 Lapis, a brilliant blue-coloured pheonix, is reaching its 500th year of existence and feels the long and grim claw of death approaching. She acts as a patron to the PC Adventurers to establish nothing less than a cult in her honour, which will of course, include a funeral pyre from which she can be reborn, and promises appropriate compensation for such task. Unfortunately the last cult she established didn't last, courtesy of the short lifespans and fickle belies of the humans involved. The building of the temple can be difficult enough, but finding some worshippers is extremely difficult as everyone is already an initiate of other local cults. When the PC Adventurers finally make this through these problems, Lapis will descend into the flames, and, after dying, turning to ashes, and being revived will burst forth reformed, with a casacade of lapis stones tumbling from the pyre. "Rukh and roll", she will exclaim, before offering her parting line: "I've been burn again!"
 
-**Satyr**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Satyr story
-
-**Scorpion, Giant**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Giant Scorpion story
-
 **Skeleton**
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
