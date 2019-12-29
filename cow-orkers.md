@@ -1744,11 +1744,13 @@ The bite of a Naga does x2 damage and 2 wounds per tactical round for 4 rounds. 
 
 In an unfortunate case of false accusation, a scholar is investigating the underground Naga people, and has brought a party of adventurers with him. One panics at a point of transformation and kills the Naga, and their lover decides to track down and exact revenge against the entire party, rather than the single individual responsible. Ahh, the joys of collective punishment. The surviving members of the low-level adventuring party seek the help of the PC adventurers to protect them against this wily, vengeful, serpent. Recommended viewing *Nagin* (1976 film).
 
-**Nymph, Dryad**
+**Nymph, Dryad, Satyr**
 
-Originating in Hellenic mythology, Nymphs are nature spirits tied to a particular location, a genius loci, that take on the appearance of a humanoid of exceptional beauty. The literature says female, but *Fantasy Papers & Paychecks& is an equal opportunity employer. The specific term of for the nature spirit varies according to location; Dryads for trees, Naiads for rivers, Nereids for oceans, Oreads for mountains, etc Their local area knowledge is, of course, exceptional. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters. Human-Nymph children are known; if they are male they will follow the human path, and if female the nymph path.
+Originating in Hellenic mythology, Nymphs are nature spirits tied to a particular location, a genius loci, that take on the appearance of a humanoid of exceptional beauty. The literature says female, but *Fantasy Papers & Paychecks* is an equal opportunity employer. The specific term of for the nature spirit varies according to location; Dryads for trees, Naiads for rivers, Nereids for oceans, Oreads for mountains, etc Their local area knowledge is, of course, exceptional. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters. Human-Nymph children are known; if they are male they will follow the human path, and if female the nymph path.
 
 Nymphs have a form of minor teleportation tied their natural loci. For example, a dryad has the ability to step into a tree and step out of another one up to 20 metres a way, however they will never willingly move more than one hundred metres from their loci. They remain alive as long as their loci is alive. In Japanese mythology a Kodama's tree bleeds if cut which is a nice aesthetic touch that can be ported to the rest of *Fantasy Papers & Paychecks*.
+
+The Satyr is a culturally equivalent male nature spirit, but again *Fantasy Papers & Paychecks* allows for the female variety as well. Unlike Nymphs, Satyrs are comically unattractive with abnormally large sexual organs which they think displaying to all and sundry (especially when drunk) will win them favours, which they tend to take rather than ask. As a result of this appearance, reputation, and behaviour, their CHA is 2-12 (-4 to +1). Also unlike the nymphs, the satyr is not tied to a particular location, but roams the environment where they are located. Fortunately, they lack the teleportation ability.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
@@ -2331,7 +2333,6 @@ A great source of inspiring humour for any session of *Papers & Paychecks* is th
 | More research is required	| I need funding	|
 (From: `https://www.facebook.com/groups/sciencehumor/permalink/2492812304115144/`)
 
-
 **Mask Falls Off**
 
 Sometimes the 'Monsters' of the world of *Papers & Paychecks* aren't as careful as they should be, and there is a 'glitch in the matrix'. A very famous case occured in 1995, when Robert Matthews of Aston University, England, demonstrated that toast often falls on the buttered side, far beyond the expected laws of randomness (c.f., Matthews, Robert (1995) *Tumbling toast, Murphy's Law and the fundamental constants*, European Journal of Physics, vol.16, no.4, July 18, 1995, p. 172-6.). The author argues that it is the angular momentum of the toast (or "Murphodynamics") that causes it to land butter-side down. 
@@ -2528,7 +2529,6 @@ For your convenience, a small selection is provided here of some personal favour
 98	A mother hears a flute that sounds like insanity.
 99	On All Hallow's Eve a poem appears above a Turkish opera house. It reads: "Look for the sign of the crystal rabbit."
 100	Thirteen literary critics try to disprove the existence of the future.
-
 
 # 5.0 Alternate Settings and Scenarios
 
