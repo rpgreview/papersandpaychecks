@@ -507,17 +507,14 @@ Lahnda. Spoken as a first language by 119 million in Pakistan and India. Distant
 
 Persian. Spoken as a first language by 60 million in Iran, Afghanistan, Tajikstan, Uzbekistan, Iraq etc. Spoken as an addtional language by 50 million. Distantly related to all Indo-European languages, related to Iranian languages, sister language to Tajik and Dari. Dialects include Tat, Iranian, Judeo-Persian, Bukhori, etc
 
-The degree of complexity of the communication establishes the Target Number. Note how the sentence, technically identical all along, becomes more complex in terms of noun-specificity and conditional verbal expression, starting from a simple present-tense subject-verb-object, generic noun. Inspired by the language functions chart from *RuneQuest* (third edition, 1984)
-
-[EDIT]
+The degree of complexity of the communication establishes the Target Number. Note how the sentence, technically identical all along, becomes more complex in terms of noun-specificity, adjectives, and conditional verbal expression, starting from a simple present-tense subject-verb-object, generic noun. Inspired by the language functions chart from *RuneQuest* (third edition, 1984)
 
 | Difficulty		| Rating	| Example			|
 |-----------------------|---------------|-------------------------------|
 | Very easy		| 5		| "I want food."		|
-| Easy			| 7		| "I want lamb, please"		|
-| Average		| 9		| "I want some lamb with sweet potato, please" 	|
-| Tough			| 11		| "I would like some lamb shank casseole with sweet potatoes, please" |
-| Challenging		| 13		| "I would like some slow-cooked spring lamb shank casseole with sweet potatoes or rice if you don't have any, please" |
+| Easy			| 7		| "I want lamb with sweet potatoes, please" |
+| Average		| 9		| "I would like a medium-rare lamb shank casserole with sweet potatoes, quickly please" |
+| Tough			| 11		| "I would have liked some medium-rare lamb shank casserole with sweet potatoes, however I will have slow braised lamb-shanks with purple Okinawan sweet potatoes, instead." |
 
 > No one gets angry at a mathematician or a physicist whom he or she doesn't understand at all, or at someone who speaks a foreign language, but rather at someone who tampers with your own language, with this 'relation,' precisely, which is yours.  
 -- Jacques Derrida    
@@ -564,7 +561,7 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 **Beserker Rage**
 
-With the Beserker Rage perk, a character may become *beserk* according to a player's declaration and The Boss's agreement that the situation can cause anger in the character. In an enraged state, the beserk character may temporaily increase their STR with proportional loss in INT and WIS. When the character wants to break out of the Beserk state they must make a WIS test with a Target Number of 7, based on their current WIS. Characters may go beserk once per six strategic turns.
+A character with the Beserker Rage perk, may become *beserk* according to a player's declaration and The Boss's agreement that the situation can cause anger in the character. In an enraged state, the beserk character may temporaily increase their STR with proportional loss in INT and WIS. When the character wants to break out of the Beserk state they must make a WIS test with a Target Number of 7, based on their current WIS. Characters may go beserk once per six strategic turns.
 
 **Bodyguards**
 
@@ -572,7 +569,7 @@ See "Team Leader", *Papers & Paychecks* main rulebook. Note errata, rather than 
 
 **Body Spatial Awareness**
 
-EDIT
+A character with the Body Spatial Awareness perk has an uncanny ability to know which was is up, even when blindfolded, in a low-gravity environment etc, and also know where others are relative to their position. This provides a disparate set of skills, namely, +2 bonus to Gymnastics, Melee, Ride, and Carousing. 
 
 **Bilingual**
 
@@ -584,15 +581,15 @@ With the Bishop perk, the character has CHA bonus + Level -3 other church leader
 
 **Blessings**
 
-With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 2 Mental Bruises and takes a tactical round to carry out. The bonuses can be reversed, as a Curse.
+With the Blessings perk, a character may provide a +1 bonus to any and all skill and characteristic tests to another character for one strategic turn, as a divine favour. However the Bless also costs the caster 2 mental bruises and takes a tactical round to carry out. The bonuses can be reversed, as a Curse.
 
 **Cantrips**
 
-With the Cantrips perk, a character may perform a variety of sleight-of-hand "magic" tricks. This is effectively like a skill, with a perk bonus +4 with an additional bonus of +1 per level, plus the character's DEX bonus as a contest against an opponent's Sense (variable, according to the trick), plus PER bonus. 
+With the Cantrips perk, a character may perform a variety of sleight-of-hand magic tricks, enhanced with actual magical. This effectively provides a bonus +4 for the Sleight skill, and costs one physical bruise to cast. 
 
 **Ceremony**
 
-With the Cantrips perk, a character may perform a variety of worship ceremonies, as appropriate for the religion in question Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week). The conduct of a Ceremony costs 3 Mental Bruises.
+With the Cantrips perk, a character may perform a variety of worship ceremonies, as appropriate for the religion in question Ceremony also allows the character to perform a religious service over one strategic turn which provides a +1 CHA bonus to the character for all present for the next forty-two strategic turns (one week). The conduct of a Ceremony costs 3 mental bruises.
 
 **Charm Being**
 
@@ -608,7 +605,7 @@ A character with the Combat Relexes perk gains +4 to their DEX for initiative pu
 
 **Concoctions**
 
-A character with the Concoations perk may make potions with various effects on attributes. For each strategic turn that they spend in a properly-stocked laboratory the character may make a concotion that increases a characteristic by +1 point, which lasts a period of six strategic turns, or produce a physical poison which causes 2 wounds, or an antidote to said poison. 
+A character with the Concoations perk may make magical potions that provide a bonus of +2 to any Craft (chemical) or Craft (pharmaceutical) skill check. For each strategic turn that they spend in a properly-stocked laboratory the character may make a concotion that increases a characteristic by +1 point, which lasts a period of six strategic turns, or produce a physical poison which causes 2 wounds, or an antidote to said poison. The final touch of magic to the concotion costs the caster 2 mental bruises. 
 
 **Council Membership**
 
@@ -620,19 +617,19 @@ The Den of Thieves perk enables the character to establish a Thieves' Guild with
 
 **Divinations**
 
-See the "Augury" perk, *Papers & Paychecks* main rulebook. Instead of through careful planning and research the ability to predict critical issues is due to prayer and meditation. Each use of Diviniation costs 1 Mental Bruise.
+See the "Augury" perk, *Papers & Paychecks* main rulebook. Instead of through careful planning and research the ability to predict critical issues is due to prayer and meditation. Each use of Diviniation costs 3 mental bruises for clerics, and 3 physical bruises for wizards.
 
 **Doolittle**
 
-A character with the Doolittle perk can talk to the animals, and the animals can understand them. Further, the animals can talk to the character, and the character can understand them. In both cases the limit of the communication is limited by the lowest INT score, typically that of the animal. Further, this gives no capacity to direct the animal; any service required will require negotiation.
+A character with the Doolittle perk can talk to the animals, and the animals can understand them. Further, the animals can talk to the character, and the character can understand them. In both cases the limit of the communication is limited by the lowest INT score, typically that of the animal. Further, this gives no capacity to direct the animal; any service required will require negotiation. 
 
 **Elementalism**
 
-A character with the Elementalism perk can manipulate the elements, as determined by their traditional culture (e.g., Earth, Wind, Fire, and Air), assuming the presence of the element in question according to the need of the caster. For each tactical round of preparation the character can increase the size of the elemental force for by 5 STR points. For each additional round the elemental force gains a capacity for movement equal to 2m per round, and each additional ten rounds the elemental force can remain in existence for one strategic turn. The caster must concentrate to move the elemental force. An example action is to spend three rounds building a STR 5 firebolt with a move of 4, which can be directed in a single tactical round with a Missile skill attack. The bolt would attack with an effective STR of 20 (STR * Move), and can be dodged or parried. Each casting of Elementalism costs the caster 2 physical bruises per round of activation.
+A character with the Elementalism perk can manipulate the elements, as determined by their traditional culture (e.g., Earth, Wind, Fire, and Air), assuming the presence of the element in question according to the need of the caster. For each tactical round of preparation the character can increase the size of the elemental force for by 5 STR points. For each additional round the elemental force gains a capacity for movement equal to 2m per round, and each additional ten rounds the elemental force can remain in existence for one strategic turn. The caster must concentrate to move the elemental force. An example action is to spend three rounds building a STR 5 firebolt with a move of 4, which can be directed in a single tactical round with a Missile skill attack. The bolt would attack with an effective STR of 20 (STR * Move), and can be dodged or parried. Each casting of Elementalism costs the caster 1 physical bruises per round of casting.
 
 **Enchantment**
 
-A character with an Enchantment perk may make magical items. This requires six strategic turns per level of the magical effect required, and am additional six strategic turns for powering the item. The number of charges that the item has depends on the quantity of bruises and wounds that the enchanter is prepared to experience in empowering the item. Further, the caster experiences a permanent loss of 1 STR for each enchanted item.
+A character with an Enchantment perk may make magical items. This requires six strategic turns per level of the magical effect required, and am additional six strategic turns for powering the item. The number of charges that the item has depends on the quantity of bruises and wounds that the enchanter is prepared to experience in empowering the item. Further, the caster experiences a permanent loss of 1 STR for each enchanted item as well as costing ten physical bruises.
 
 **Estorica**
 
@@ -660,11 +657,11 @@ A character with the Induce Stupor perk may, by use of certain bodily movements,
 
 **Intervention**
 
-Similar to the Miracle perk, a character with the Intervention perk may, through a mental appeal to whatever higher force they subscribe to, may generate what would otherwise be an *impossible* result for the character and their immediate surrounds and colleagues. Each use of Intervention also costs the character 1 point of permanent Wisdom.
+Similar to the Miracle perk, a character with the Intervention perk may, through a mental appeal to whatever higher force they subscribe to, may generate what would otherwise be an *impossible* result for the character and their immediate surrounds and colleagues. Each use of Intervention also costs the character 1 point of permanent Wisdom as well as 10 mental bruises.
 
 **Illusions**
 
-A character with the Illusions perk may generate illusions which are convincing to the observer. For each tactical round that the illusion is cast a standard sense may be added (Sight, Hearing, Touch, Smell/Taste). For every two rounds that is added the illusion may include a non-standard sense (Heat Sense, Electromagnetic, Radio etc). For each additional tactical round the illusion has a volume of additional STR 5. Each round of casting will cost 2 physical bruises of weariness.
+A character with the Illusions perk may generate illusions which are convincing to the observer. For each tactical round that the illusion is cast a standard sense may be added (Sight, Hearing, Touch, Smell/Taste). For every two rounds that is added the illusion may include a non-standard sense (Heat Sense, Electromagnetic, Radio etc). For each additional tactical round the illusion has a volume of additional STR 5. Each round of casting will cost 1 physical bruises of weariness.
 
 **Killing Joke**
 
@@ -690,7 +687,7 @@ A character with the Martial Proficiency skill gains a +2 bonus to melee and mis
 
 **Miracle**
 
-A character with the Miracle perk may, through a mental appeal to whatever higher force they subscribe to, may generate what appears to be a very lucky result that directly affects the character and their immediate surrounds and colleagues. This perk may be used once every six strategic turns. In game terms this is similar to the Luck mechanic; a player may determine the result of an otherwise random die roll to a value that they prefer. Each use of a Miracle causes 1 Mental Wound.
+A character with the Miracle perk may, through a mental appeal to whatever higher force they subscribe to, may generate what appears to be a very lucky result that directly affects the character and their immediate surrounds and colleagues. This perk may be used once every six strategic turns. In game terms this is similar to the Luck mechanic; a player may determine the result of an otherwise random die roll to a value that they prefer. Each use of a Miracle causes 8 mental bruises.
 
 **Mule Pack**
 
@@ -740,7 +737,7 @@ A character with the Summon Animal perk may summon an animal that is appropriate
  
 **Summonings**
 
-A character with the Summonings perk has the knowledge of how to summon a magical creature (c.f., bestiary) from its environ to a specially prepared summoning circle. Naturally enough the magical being is less than impressed with being so rudely interrupted (often from very inappropriate situations) and will not be well disposed towards the wizard. Nevertheless, under the rules of magic the creature will perform a task for the wizard with appropriate compensation (a bargaining contest) that will bind it in a contractual manner. The task must be temporal in nature and when completed the creature will vanish and return to where it was summoned from. The Summoning ritual takes one strategic turn to perform and costs the caster a physical wound.
+A character with the Summonings perk has the knowledge of how to summon a creature (c.f., bestiary) from its environ to a specially prepared summoning circle. Naturally enough the magical being is less than impressed with being so rudely interrupted (often from very inappropriate situations) and will not be well-disposed towards the wizard. Nevertheless, under the rules of magic the creature will perform a task for the wizard with appropriate compensation (a bargaining contest) that will bind it in a contractual manner. The task must be temporal in nature and when completed the creature will vanish and return to where it was summoned from. Note that this ritual is also used to create undead from corpses, although they will be compliant to the caster's wishes. The Summoning ritual takes one strategic turn to perform and costs the caster four physical bruises.
 
 **Team Captain**
 
@@ -2099,8 +2096,6 @@ Korean is an agglutinative language; affixes are added ("glued") to words to cha
 
 North Korea is officially an atheist state where estimates suggest that approximately 2/3rds of the population are non-religious. Among those that do follow a religion (apart from Juche, of course) approximately 1 in 7 follow tradition Korean shaminism, 1 in 7 are part of the Chondoism faith ("Religion of the Heavenly Way"), a neo-Confucion religion established in the early 20th century, approximately 1 in 20 are Buddhists, and there is a small number of Christians. Korean shaminism, also known as Muism or Sinism, incorporates ancestor worship, spirits of various scope and power, holistic considerations, and mediation in rituals of sacrifices, dance, song, and prayers, between the gods, the mu (shaman), and worshippers. The mu are ascetics who seek purity of body and man. Chondoism developed from the Donghak ("Eastern Learning") Confucian movement which opposed the encroachement of Western ideas, and carried the secular ideas of poverty alleviation, especially amont the peasants, and political stability. It is recognised by the North Korean government as being revolutionary, anti-imperialist, and is represented in the government through its own political party. The North Korean constitition does include freedom of religion and even the construction of religious buildings, but all within the caveat of protecting the state from foreign powers and ensuring social order. In effect this means that any religious organisation is, at best, closely monitored.
 
-Religion also plays a role in the traditional crafts of North Korea, incorporating elements of historical shamanistic dance rituals, EDIT
-
 Whilst freedom of the press is technically allowed under the constitution, in reality it is strictly controlled. North Korea regularly rates near the bottom of the international assessments conducted by groups such as Reporters Without Borders. Propaganda is pervasive, and news content is heavily orientated (c95%) towards local issues, albeit including the issue of reunification. Foreign affairs or news is rarely mentioned. There are twelve newspapers and twenty periodicals, with the major newspapers being Rodong Sinmun ('Labour Daily', newspaper of the Central Committee of the Worker's Party of Kora), Joson Inmingun (newspaper of Korean People's Army), Minju Choson ('Democratic Korea', the government newspaper), Rodongja Sinmun ('Workers Newspaper', newspaper of the Central Committee of the General Federation of Trade Unions of Korea), and in English and French editions, 'The Pyongyang Times'.
 
 Radio is the most commonly used broadcast media in North Korea. The four North Korean radio networks, the Korean Central Broadcasting Station, which acts as the main domestic full service radio network, Pyongyang FM Broadcasting Statio, for domestic music, the Pyongyang Broadcasting Station, an "all-Korea" service primarily aimed at South Koreans and ethnic Koreans in China, and Voice of Korea, a multi-lingual shortwave broadcaster aimed at worldwide audiences. It is illegal for North Koreans to listen to anything other than state-run radio and all radios sold by state shops in North Korea are fix-tuned to government frequencies. Notably North Korea does not jam any commercial South Korean television or radio broadcasts, however some of South Korea'state-owned radio and television broadcasts are subject to jamming. Internet access and mobile phone use is highly restricted, usually available to members of the nomenklatura (party elite). From 2013, foreigners visiting North Korea have been able to use mobile phones with local coverage only.
@@ -3406,8 +3401,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Florence Novateló*, Distraught Hippie-Radical Mother 
 Characteristic	Value	Bonus		
@@ -3417,8 +3410,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 **Boss's Introduction**
 
@@ -3450,8 +3441,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Arnaud "Woody" Dubois*, Pumped-up Gym Instructor
 Characteristic	Value	Bonus		
@@ -3461,8 +3450,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Crystal Château*, Pumped-up Gym Instructor
 Characteristic	Value	Bonus		
@@ -3472,8 +3459,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 
 ### 5.2.3 Palace Cliveden
@@ -3496,8 +3481,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Major Grimes*, Retired Intelligence Agent
 Characteristic	Value	Bonus		
@@ -3507,8 +3490,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Jack and William Smith*, Prankster Groundskeepers
 Characteristic	Value	Bonus		
@@ -3518,8 +3499,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 ### 5.2.4 Palace Raffles
 
@@ -3539,8 +3518,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Hung Long*, fagin of the urchins, Karoake bar owner 
 Characteristic	Value	Bonus		
@@ -3550,8 +3527,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 ### 5.2.5 Palace Beverly Hills 
 
@@ -3571,8 +3546,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Jim Balaya*,  
 Characteristic	Value	Bonus		
@@ -3582,8 +3555,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Cheesecake*, A Monster
 Characteristic	Value	Bonus		
@@ -3593,8 +3564,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 ### 5.2.6 Homes' and Noveteló's Maison 
 
@@ -3612,8 +3581,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Venice Novateló*, Celebrity
 Characteristic	Value	Bonus		
@@ -3623,8 +3590,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 *Mr. Dreamy*, A Helpful Monster
 Characteristic	Value	Bonus		
@@ -3634,8 +3599,6 @@ Wisdom		14	+2	Movement (running)	5
 Dexterity	09	-1	Wounds (Physical)	
 Perception	18	+4	Wounds (Mental)	
 Charisma	14	+2	Wounds (Social)	
-Skill			Char	Train	Other	Total
-EDIT
 
 ## 5.3 The Administrator of Camp 22
 
