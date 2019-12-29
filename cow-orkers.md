@@ -38,10 +38,9 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 ## Table of Contents
 
 0.0 Introduction
-0.1 Foreword
-0.2 Preface
-0.3 Papers & Paychecks Errata
-0.4 2D6 Revisited
+0.1 Preface
+0.2 Papers & Paychecks Errata
+0.3 2D6 Revisited
 
 1.0 Additional Character Resources
 1.1 Sporting Professions
@@ -76,11 +75,30 @@ Trent Boyd, Nicolas Erdody, Anthony Hauck, William Talbott, Peter Lyons, Lorrrai
 
 # 0.0 Introduction
 
-## 0.1 Foreword
+## 0.1 Preface
 
-## 0.2 Preface
+0.1 Preface
 
-## 0.3 Papers & Paychecks Errata
+Welcome to Cow-Orkers in the Scary Devil Monastery, the first supplement for Papers and Paychecks: The Roleplaying Game of an Industrialized and Technological Society. This supplement includes various rules elaborations, setting elaborations, and scenarios. It is astoundingly late, but better a good book late than a bad book early. I hope this is a good book!
+
+I will admit a personal dislike for gaming books which are several hundred pages long. I’m an old man already and I don’t have time to read a gaming book like that. Nor do I want to shell out a hundred dollars for something that that I can’t run a session on the evening of purchase. Papers & Paychecks was quite deliberately designed with an aesthetic that hearkened back to a simpler time in the RPG industry, where one could get away with a single-column ragged right on non-gloss paper. Actually, that was more done to “simulate” the idea of a corporate report; apparently it worked.
+
+No, it was the content that I am referring to. Papers & Paychecks offered a complete roleplaying game in a 128 pages with an old-style aesthetic and some more contemporary design principles. It had professions, perks, characteristics, skills, It has a consistent  core mechanic, and even a dash of player-based narrativism with the Luck score. It had a task resolution system, and various types. It had plenty of sample characters across, a small selection of non-human animals, each of which was provided a plot seed. Add a couple of them together you had a scenario for the night. Plus it had a multi-session scenario, “Fear and Loathing in Wellington”. Simply put, for only a few dollars you had a gaming book that could easily last a few years at the very least with content straight out of the book. That’s an objective that I had for people who bought the book when I wrote it.
+
+But even as the initial game was being written it was clear that there would be a supplement, and not just because the crowd-funding appeal stated as such. There was express wishes from the enthusiastic supporters of Papers & Paychecks. “Will there be a fantasy setting?”, they inquired. “Can I make it darker? No really, even more than that”, they appealed.  As a result, there is now this hot little publication. It’s actually slightly bigger than the core rules, by about an additional 10%. It’s been squeezed in with slightly less art. On that note, gratitude is expressed, once again, to Dan ‘Smif’ Smith, for volunteering his artistic skills to the project.
+
+The book consists of five main chapters, this introduction, and an appendix. The introduction includes an errata section because apparently there are gremlins. The first main chapter includes new character professions, including fantasy professions, elaborations on skills, and new perks. The second chapter additional actions and more equipment, the third chapter a range of additional non-player characters, including an extensive fantasy bestiary, the fourth chapter more material for the Boss and advice on alternative settings. The fifth chapter includes two multi-session scenarios, “Keep our Borderlands”, and “Palaces of the Electrum Princess” (goodness, where did we get those names?), along with a solo adventure. 
+
+Mention must also be made of the title of this supplement. The term “cow-orker” has been traced back to the late 1980s apparently as a typing error which worked. The “scary devil monastery” is an anagram of the old usent group, alt.sysadmin.recovery, where there was often discussion about cow-orkers. So now you know. It works for this publication in particular, and it works for Papers & Paychecks in general.
+
+Once again, thank you for your support and enjoy the game!
+
+
+
+Lev Lafayette
+Melbourne, Australia, 2019
+
+## 0.2 Papers & Paychecks Errata
 
 > So if your air conditioner goes on the fritz, or your washing machine blows up, or your video recorder conks out, before you call the repairman, turn on all the lights, check all the closets and cupboards, look under all the beds, 'cause you never can tell. There just might be a gremlin in your house.   
 > -- Rand Peltzer, Gremlins (1984)
@@ -93,9 +111,9 @@ Whether crazy or sane, or most likely somewhere in between, here is the list of 
 
 Rolled Wealth: Under character class backgrounds where it reads "Perception", this should be "Sense (various)", which can be distributed as desired.
 
-Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is alread an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead. Hobbies can also be used to replace professionally acquired skills, i.e., they always costs 1 Skill Point.
+Hobby: The core rules say that a Hobby "... cannot be used as a replacement for an existing skill or knowledge, and by definition, represents an amateur activity." A character can, however, use an existing skill as replacement for Hobby acquired as part of their background. For example, whilst one cannot have Hobby (English) because there is already an English skill, a character can use of Hobby skill ranks acquired through childhood and adolescence in Language (English) instead. Hobbies can also be used to replace professionally acquired skills, i.e., they always costs 1 Skill Point.
 
-Intellect Fortress: Observant-management types may notice that this appears twice with two different descriptions. Surprisingly, both apply! A manager (or some other weird home-brew character profession) may have either activiated at a particular but not both. By default characters with an Intellect Fortress operating will use it to gain bonus the hit points. However, if a manager so chooses, they can make an inspiring speech, shedding those hit points and distributing the +2 bonus across all those that have heard it (*not* including the Manager themselves). The loss of their own bonus is because the speech was so inspiring, so heartfelt, that they've opened themselves up to an attack by others. Also, note that the Manager must still have bonus hit points left from the default version of the Intellect Fortress. 
+Intellect Fortress: Observant-management types may notice that this appears twice with two different descriptions. Surprisingly, both apply! A manager (or some other weird home-brew character profession) may have either activated at a particular but not both. By default characters with an Intellect Fortress operating will use it to gain bonus the hit points. However, if a manager so chooses, they can make an inspiring speech, shedding those hit points and distributing the +2 bonus across all those that have heard it (*not* including the Manager themselves). The loss of their own bonus is because the speech was so inspiring, so heartfelt, that they've opened themselves up to an attack by others. Also, note that the Manager must still have bonus hit points left from the default version of the Intellect Fortress. 
 
 **1.7 Perks**
 
@@ -105,13 +123,15 @@ Team Leader should be should be CHA bonus + Level - 3, rather than than CHA+Leve
 
 **2.2 The Resistentialist Environment**
 
-All references to the "Brawl" skill refer to the mellee skills and all specialisations, including Brawling.
+All references to the "Brawl" skill refer to the melee skills and all specialisations, including Brawling.
 
 The rules for a character holding their breath should be twice their Strength score, not twice their Constitution.
 
 **2.3 Tactical Conflict**
 
 Tactical conflict is initiated when a character (PC or NPC) declares it as such. Other characters present may make a Sense skill check with a target number of 11 in standard situations
+
+Whilst not stated explicitly, the extreme range for use of the firearms skill is four times the base range of the weapon.
 
 **3.7 Bestiary**
 
@@ -121,7 +141,7 @@ Dogs are listed as having 'Movement (flight)' 8-15. This should simply read 'Mov
 
 Who knew that 2D6 could be so interesting? When the chance of success table was included in the original rules (4.2 Episode and Season Design) one would think that would the end of it. The game uses 2d6, like the original cartoon, versus target number. What could be more simple? OK, 1d6 could be more simple, Or flip a coin. Or make it up as you go along. You get the point. But no, math nerds crawl out from behind non-Euclidean corners and demand further elaboration on the mighty 2d6. So here it is.
 
-A 1d6 roll provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested), which can be expected, based on rational elaboration, or . Each d6 has the numbers 1 to 6 with equal probability, which establishes its *range* as 6 and the *random variable* in each case as X_1, X2, X3 etc. The *mean* (which is often expressed as *average*) of the random variables from 1d6 is 3.5; not 3 which is commonly thought. The mean is determined by adding all probabilities and dividing, i.e., 1+2+3+4+5+6 = 21/6 = 3.50. A quick way of calculating the mean of die rolls is to add the highest and lowest expected values and divide by 2 i.e. 1 + 6 = 7 / 2 = 3.5. The *median* for 1d6 is the mid-point of the distribution of possible results i.e., 1, 2, 3, 4, 5, 6. In this case there is no rolled mid-point as it is a range from 3-4. The *mode* is the most commonly occuring value in a distribution. Whilst actual rolled results may generate such a distribution there is no mode from expected results, which would provide an equal distribution of all potential values.
+A 1d6 roll provides a discrete random variable (not 'discreet' as one post-graduate econometrics course suggested), which can be expected, based on rational elaboration, or . Each d6 has the numbers 1 to 6 with equal probability, which establishes its *range* as 6 and the *random variable* in each case as X_1, X2, X3 etc. The *mean* (which is often expressed as *average*) of the random variables from 1d6 is 3.5; not 3 which is commonly thought. The mean is determined by adding all probabilities and dividing, i.e., 1+2+3+4+5+6 = 21/6 = 3.50. A quick way of calculating the mean of die rolls is to add the highest and lowest expected values and divide by 2 i.e. 1 + 6 = 7 / 2 = 3.5. The *median* for 1d6 is the mid-point of the distribution of possible results i.e., 1, 2, 3, 4, 5, 6. In this case there is no rolled mid-point as it is a range from 3-4. The *mode* is the most commonly occurring value in a distribution. Whilst actual rolled results may generate such a distribution there is no mode from expected results, which would provide an equal distribution of all potential values.
 
 This is all easy so far? Just like *Fox in Socks*, right?
 
@@ -135,7 +155,7 @@ The opportunity is taken here to dispel one alarmingly common misconception whic
 > You can make a quick trick chick stack.   
 > You can make a quick trick clock stack.   
 
-Having established *range*, *mean*, *median*, and *mode*, the opportunity is taken to initially elaborate this to *variance*. Variance is a measure of distibution, specifically the expected (or actual, if want to generate a rolled, empirical result) of the squared deviation of a random variable from the mean. Or, if you wish to hear in another form, first calculate the mean of the square then subtract the square of the mean. If that sounds confusing is perhaps easier to illustrate by equation, initially using 1d6 as an example, and then elaborating to 2d6. Because each die is independent (dice don't have memory, remember) the variance of n-dice is n times 1d6.
+Having established range, mean, median, and mode, the opportunity is taken to initially elaborate this to *variance*. Variance is a measure of distribution, specifically the expected (or actual, if want to generate a rolled, empirical result) of the squared deviation of a random variable from the mean. Or, if you wish to hear in another form, first calculate the mean of the square then subtract the square of the mean. If that sounds confusing is perhaps easier to illustrate by equation, initially using 1d6 as an example, and then elaborating to 2d6. Because each die is independent (dice don't have memory, remember) the variance of n-dice is n times 1d6.
 
 Mean of the square =  (1^2 + 2^2 + 3^2 + 4^2 + 5^2 + 6^2)/6 = 91/6 = 15.17
 Variance = (91/6) - (7/2)^2 = 35/12
@@ -681,9 +701,17 @@ A character with this perk has attained the role of advisor to the local lord. L
 
 A character with the Lead Cheer perk can encourage others to perform tasks as long as they are in eyeshot or hearing range. This effectively provides a +2 bonus to their Inspire skill.
 
+**Longshot**
+
+A character with the longshot ability gains an additional range category, "longshot" which is a -6 penalty to hit and eight-times the base range of the missile weapon or firearm.
+
 **Martial Proficiency**
 
 A character with the Martial Proficiency skill gains a +2 bonus to melee and missile skills. Boring, but useful.
+
+**Multimissile**
+
+A character with the multimissile perk can fire twice as many missiles per action, due to their rapid ability to draw and load. It does not, however, applies to automatic or burst fire.
 
 **Miracle**
 
