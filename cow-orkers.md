@@ -1040,9 +1040,7 @@ Apart the obvious uses from their fur and meat, in a fantasy environment one can
 | Craft (structural) |  -3 | +1         | +3        | +1         |
 
 
-*A Giant Beaver story*
-
-A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married off to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required. To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time (1 week per point of Giant Beaver STR). The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who, apart from being nature-loving hippies, also realise its economic value.
+*A Giant Beaver story* A local lord has a rather promiscuous and headstrong daughter who is greatly loved by his subjects, in both senses of the term. Because of her popularity, the lord is unable to engage in the usual strategy of simply locking her up to retain her economic value in a potential future marriage and has resigned himself to the fact that his daughter likes to party (perhaps even one of the PCs has had such an encounter). According to the local spell-casters, the best means of ensuring some sense of lineage when she is finally married off to a neighbouring lord's progeny (and thus becomes *their* problem) is to make use of the mighty contraceptive power of Giant Beaver testicles. The problem being, of course, that there are no Giant Beavers nearby, ergo a Quest is required. To make the scenario even more difficult, the Giant Beaver has to be captured, as one pair of Giant Beaver balls will be effective for a limited time (1 week per point of Giant Beaver STR). The PCs may need to transport the entire Giant Beaver family. Needless to say, the Giant Beaver's family is well protected by local Elves who, apart from being nature-loving hippies, also realise its economic value.
 
 **Basilisk and Cockatrice**
 
@@ -1069,9 +1067,7 @@ For various reasons the Basilisk is a solitary creature. Regrettably, they are a
 
 In combat a Basilisk attacks with its Sense (sight) skill, with the gaze causing death (NO SAVING THROW) with an effective range of 25m. The gaze can be reflected back on the Basilisk. The venom of a Basilisk attacks with a STR 15 against the target, using the Basilisk's Missile skill and DEX as a characteristic bonus with a base range of 3m. The peck of a Basilisk also delivers venom. 
 
-*A Basilisk story*
-
-A Basilisk named Anguis has spent many years at the familiar of a wizard and has learned some skills in magic, as well as a degree of moral reasoning. Unfortunately the wizard has died and Anguis has become lonely, in a very un-Basilisk manner. Anguis craves human (or dwarven, or elven, or even halfling) company again, despite the fact that most people who prefer to destroy him. Further, Anguis wants to know exactly what sort of serpent and what sort of rooster is required to make more of his kin, as he has dreams of raising a family of good Basilisk. This could be hard for Anguis as he is still a venomous serpent with a death-gaze and if startled he may accidently look in the wrong direction. Will the brave PCs adopt Anguis and assist him on his dream? What could possibly go wrong?
+*A Basilisk story* A Basilisk named Anguis has spent many years at the familiar of a wizard and has learned some skills in magic, as well as a degree of moral reasoning. Unfortunately the wizard has died and Anguis has become lonely, in a very un-Basilisk manner. Anguis craves human (or dwarven, or elven, or even halfling) company again, despite the fact that most people who prefer to destroy him. Further, Anguis wants to know exactly what sort of serpent and what sort of rooster is required to make more of his kin, as he has dreams of raising a family of good Basilisk. This could be hard for Anguis as he is still a venomous serpent with a death-gaze and if startled he may accidently look in the wrong direction. Will the brave PCs adopt Anguis and assist him on his dream? What could possibly go wrong?
 
 **Bonnacon**
 
@@ -1097,9 +1093,7 @@ In most other respects the Bonnacon is like other members of the *bovinae* subfa
 		
 When attacking with its "Missile" the Bonnacon uses its PER as a characteristic bonus, rather the DEX. The weapon does x2 acidic damage after armour with a base range of 200m, and will burn armour reduing it at a rate of 1 point of damage to the armour points per 10 points caused.
 
-*A Bonnacon story*
-
-A local warlord offers a small fortune to the PCs to round up a herd of bonnacon and train them for a cavalry-artillery force, which for some reason he wants called "Tachanka". The task is indeed worth a small fortune, for the herd is almost impossible to catch. The bonnacon occupy a flat grassland with a medium-sized central lake in a field littered with the burnt and grizzled remains of other people, and part of a wolf-pack, who have attempted to capture them. The herd consists of some thirty cows and bulls and fifteen young of various ages.
+*A Bonnacon story* A local warlord offers a small fortune to the PCs to round up a herd of bonnacon and train them for a cavalry-artillery force, which for some reason he wants called "Tachanka". The task is indeed worth a small fortune, for the herd is almost impossible to catch. The bonnacon occupy a flat grassland with a medium-sized central lake in a field littered with the burnt and grizzled remains of other people, and part of a wolf-pack, who have attempted to capture them. The herd consists of some thirty cows and bulls and fifteen young of various ages.
 
 If by some good fortune the PC Adventurer'succeed in rounding up the herd, the warload gives them another offer. To train and command the Tachanka cavalry-artillery force. From such humble beginnings, a mighty campaign begins.
 
@@ -1124,9 +1118,7 @@ Related to *goblins*, and *hobgoblins* (c.f.,) the Bugbear is a larger member of
 | Melee         | +4 to +6 | +1         | +0        | +5 to +7   |
 | Sense (smell) | +1 to +4 | +1         | +0        | +0 to +5   |
 
-*A Bugbear story*
-
-Gerald fancies himself a well-educated Bugbear. He isn't, not that really matters given his attitude. Following a rather devastating regional war, a local Cleric has set up a school at the edge of a local town to cater for the growing orphan population. The fact that it was a religious war has not gone unnoticed by some of the brighter students. Gerald has taken up stalking residence nearby and has taken to leaving behind notes to the Cleric. These notes, apart from describing the taste of the most recent child victim, consist of annoying misspellings and malformed phrases - such as the confusion between "their", "there", and "they're", references to an "escape goat", eating "cold slaw", and being "curled up in the feeble position". The Cleric, who is desperate to teach the youngster the correct use of the language of the realm has had enough and has called in the PCs to deal with Gerald. 
+*A Bugbear story* Gerald fancies himself a well-educated Bugbear. He isn't, not that really matters given his attitude. Following a rather devastating regional war, a local Cleric has set up a school at the edge of a local town to cater for the growing orphan population. The fact that it was a religious war has not gone unnoticed by some of the brighter students. Gerald has taken up stalking residence nearby and has taken to leaving behind notes to the Cleric. These notes, apart from describing the taste of the most recent child victim, consist of annoying misspellings and malformed phrases - such as the confusion between "their", "there", and "they're", references to an "escape goat", eating "cold slaw", and being "curled up in the feeble position". The Cleric, who is desperate to teach the youngster the correct use of the language of the realm has had enough and has called in the PCs to deal with Gerald. 
 
 Typically Bugbears eat children. Gerald is no different in that regard. However, once ensconced in his well-trapped lair, he fires off a few quick questions, such as a math problem using order of operations, the capital of Assyria, the airspeed velocity of a laden swallow etc. If the answers of the are satisfactory, Gerald will take the clever child to a classroom oubliette where they will have the opportunity to educate *him*. Otherwise, it off to the cooking pot (Gerald does provide his teachers a delicious sweet pork stew). To make matters more annoying some of the children have grown quite fond of Gerald and his efforts to become educated (Stockholm Syndrome) and will resist any attempt to harm him, or even be rescued.
 
@@ -1151,9 +1143,7 @@ As with horses, centaurs are foraging herbivore herd animals preferring open pla
 | Athletics (stamina) | +20 to +45 | +1	|	    | +21 to +46 |
 | Melee 	| +20 to +45 | +1	|	    | +21 to +46 |
 
-*A Centuar story*
-
-It's time for the Olympus in the big city! The centaurs are present with their team, but their champion athlete the long-distance runner, Incitatus, has been kidnapped. Not only are PC workers are employed by the Centaurs to find out what has happened to their famous galloper, they are also given a very generous sum of gold solidi to purchase several barrels of wine for a victory celebration after Incitatus gallops to victory. There is the slight problem however that the city authority has expressely forbidden the sale of wine to centaurs on account of their atrocious behaviour when inebriated. How did the centaurs get the wine? With some appropriate investigation the PC Adventurers will discover that Agents and Coaches of the home team have arranged the provision of wine to the centaurs via the Thieves' Guild. The centaurs, being centaurs, had a couple of drinks on the sly, and the champion runner soon became incapacitated and has been dragged away into a Guild's holding cell (underground of course, you know what it's like for a centaur to climb a ladder?). This curious scenario allows for fantasy and sporting professions!
+*A Centuar story* It's time for the Olympus in the big city! The centaurs are present with their team, but their champion athlete the long-distance runner, Incitatus, has been kidnapped. Not only are PC workers are employed by the Centaurs to find out what has happened to their famous galloper, they are also given a very generous sum of gold solidi to purchase several barrels of wine for a victory celebration after Incitatus gallops to victory. There is the slight problem however that the city authority has expressely forbidden the sale of wine to centaurs on account of their atrocious behaviour when inebriated. How did the centaurs get the wine? With some appropriate investigation the PC Adventurers will discover that Agents and Coaches of the home team have arranged the provision of wine to the centaurs via the Thieves' Guild. The centaurs, being centaurs, had a couple of drinks on the sly, and the champion runner soon became incapacitated and has been dragged away into a Guild's holding cell (underground of course, you know what it's like for a centaur to climb a ladder?). This curious scenario allows for fantasy and sporting professions!
 
 **Chimera**
 
@@ -1180,9 +1170,7 @@ The Chimera is highly adaptable to mountains and plains. An omnivore, it is as s
 
 A Chimera's claws do x2 damage and does its bite. The Chimera'snake bite attacks with a venom of STR 15. The goat's fire breath is a bolt that has a base range of 10m and does x2 damage. 
 
-*A Chimera story*
-
-A particular variety of cannibis grows on top of a rugged hill that can cure the Caliph's young son of a the mental affliction of pica, where they eat pretty much anything but especially those things which have no nutritional content (e.g., clay). The PC Adventurers are charged with the task of recovering a sufficient quantity of the special herb. The unfortunate journey involves dealing with a band of fanatical assassins at the foot of the hill who are under the control of the Chimera, who is rather fond of its special stash. The Chimera, Nouapó Pétra, whilst a deadly opponent, has become quite philosophical due to its consumption of its favourite herb, and will offer a riddle game to each PC Adventurer for access to the plant - and if the PCs lose, it will eat them (of course). The riddles are those of a typical stoner, for example:
+*A Chimera story* A particular variety of cannabis grows on top of a rugged hill that can cure the Caliph's young son of a the mental affliction of pica, where they eat pretty much anything but especially those things which have no nutritional content (e.g., clay). The PC Adventurers are charged with the task of recovering a sufficient quantity of the special herb. The unfortunate journey involves dealing with a band of fanatical assassins at the foot of the hill who are under the control of the Chimera, who is rather fond of its special stash. The Chimera, Nouapó Pétra, whilst a deadly opponent, has become quite philosophical due to its consumption of its favourite herb, and will offer a riddle game to each PC Adventurer for access to the plant - and if the PCs lose, it will eat them (of course). The riddles are those of a typical stoner, for example:
 
 "If the universe is constantly expanding, what's it expanding into?"
 "Is the S or C silent in scent?"
@@ -1211,9 +1199,7 @@ As they are spiritual creatures Daemons have no STR or DEX characteristics. Thei
 | Possess	| -4 to +4 | +1		| +0	    | -3 to +5	 |
 | Sense (ESP)	| -4 to +4 | +1		| +0	    | -3 to +5	 |
 
-*A Daemon story*. 
-
-Nearly all people talk to themselves, from the rhetorical "where did I put my pants?" after a drunken night, to the 3am outward manifestation of one's inner conversation of the meaning of life (which may lead to the aforementioned comment the following morning). Some consider it a sign of great intelligence if there is no-one else to talk to. Modern science notes that replaying or rehearsing conversations is a early warning signs of potential schizophrenia. However the daemon of outward honesty is different to these versions. This daemons forces the character (roleplay it!) to express their judgemental thoughts about others aloud even, and especially, when they are present, e.g., "My goodness, that hat she's wearing is look's like a magpie's nest", "Does this bore ever shut up?", or "I'd love to get into your pants". As you can imagine having such a daemon could be awkward, but at worst those who know the character will never be in doubt of any possibilty of underhand dealing.  For examples of how such a daemon could play out see *The Whole Truth*, an episode of 'The Twilight Zone', or in a more contemporary form, the film *Liar Liar* starring Jim Carrey. 
+*A Daemon story* Nearly all people talk to themselves, from the rhetorical "where did I put my pants?" after a drunken night, to the 3am outward manifestation of one's inner conversation of the meaning of life (which may lead to the aforementioned comment the following morning). Some consider it a sign of great intelligence if there is no-one else to talk to. Modern science notes that replaying or rehearsing conversations is a early warning signs of potential schizophrenia. However the daemon of outward honesty is different to these versions. This daemons forces the character (roleplay it!) to express their judgemental thoughts about others aloud even, and especially, when they are present, e.g., "My goodness, that hat she's wearing is look's like a magpie's nest", "Does this bore ever shut up?", or "I'd love to get into your pants". As you can imagine having such a daemon could be awkward, but at worst those who know the character will never be in doubt of any possibilty of underhand dealing.  For examples of how such a daemon could play out see *The Whole Truth*, an episode of 'The Twilight Zone', or in a more contemporary form, the film *Liar Liar* starring Jim Carrey. 
 
 **Demon**
 
@@ -1238,9 +1224,7 @@ Demons in *Fantasy Papers & Paychecks* may possess a character whilst in a non-m
 | Knowlege (General) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 | Knowlege (Philosophy) | -4 to +4 | +1		| +0	    | -3 to +5	 |
 
-*A Demon story*. 
-
-Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong. *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
+*A Demon story*  Renove, "The Beautiful Earl", has been summoned by a merchant-wizard who has tired of what they perceive as onerous taxes on ports and shipping and has sent the demon to the kingdom's treasurer, who just so happens to be a high ranking cleric. Rightly recognising the cleric's intrest in such matters, the demon has taken the form of a very beautiful young man with a melodious voice that echoes wonderfully throughout the gothic arches of the local cathedral. The cleric has become quite obsessed with establishing a stronger acquaintance with this young man, who spoken voice is equally enticing and whose wise words bring hope and inspiration. The treasurer has become quite derelict in his duties, and tax bills are piling up. The PC Adventurers are hired to find out what has gone wrong. *Morte a Venezia* (1971) is recommended prior viewing for The Boss.
 
 **Devil**
 
@@ -1275,9 +1259,7 @@ The Devil is a shapeshifter of course and can take the form of pretty much any c
 | Seduce | +4 to +13 | +30	| +0	    | +39 to +43 |
 | & etc | +4 to +13 | +30	| +0	    | +39 to +43 |
 
-*A Devil story*. 
-
-The perpetual Faustian bargain! If you haven't played *kill puppies for satan* (2001) get yourself a copy of the perfect theme. The Devil will grant PC Adventurer's the supernatural and magical powers that they need. However he requires people to lose their faith; so go kill someone's favourite pet in a gruesome manner and they'll soon be thinking that God doesn't care. However, Satan's a smart guy and will just give the PC Adventurer's a less than enough to achieve what they need. So, like a strung-out junkie, they have to come crawling back to Satan begging for more power and an ever-demanding wish list of souls. After all, the Devil is just the tempter and someone who doesn't *quite* tell the truth. The PC Adventurers are the one's who've killed somebody's puppy.
+*A Devil story* The perpetual Faustian bargain! If you haven't played *kill puppies for satan* (2001) get yourself a copy of the perfect theme. The Devil will grant PC Adventurer's the supernatural and magical powers that they need. However he requires people to lose their faith; so go kill someone's favourite pet in a gruesome manner and they'll soon be thinking that God doesn't care. However, Satan's a smart guy and will just give the PC Adventurer's a less than enough to achieve what they need. So, like a strung-out junkie, they have to come crawling back to Satan begging for more power and an ever-demanding wish list of souls. After all, the Devil is just the tempter and someone who doesn't *quite* tell the truth. The PC Adventurers are the one's who've killed somebody's puppy.
 
 **Dragon**
 
@@ -1307,9 +1289,7 @@ In stark contrast the Indo-Asiatic dragons have innate transformation powers (us
 | Language	|  +4	   | +3		|    	    | +7         |
 | Investigate 	|  +4	   | +1		|    	    | +5         |
 
-*A Dragon story* 
-
-With inspiration from Disney's 1941 film *The Reluctant Dragon*, a comedy of unexpected behaviour can be generated. Members of a remote village near a mountain range approach the PC Adventurers with the handful of coins that the entire village has scraped together pleading that a dragon has moved into the region. So far it has only taken a few sheep, but who can say how long it will before a child is consumed? Based on eye-witnesses the dragon is on the smaller scale of the usual range.
+*A Dragon story*  With inspiration from Disney's 1941 film *The Reluctant Dragon*, a comedy of unexpected behaviour can be generated. Members of a remote village near a mountain range approach the PC Adventurers with the handful of coins that the entire village has scraped together pleading that a dragon has moved into the region. So far it has only taken a few sheep, but who can say how long it will before a child is consumed? Based on eye-witnesses the dragon is on the smaller scale of the usual range.
 
 Eventually making their way to the dragon's lair, the PCs Adventurers will discover that Belchy The Dragon is a thoroughly kind creature who gently asphyxiates his captured sheep before consuming them. Opposed to violence as much as possible, Belchy is a very reluctant dragon, and with some negotiation a deal can be struck; he is willing to protect the shepherd's flocks from marauding wolves and find lost members of the flock for the payment of one sheep per week. The problem being is a local, albeit elderly, knight has also arrived at the village, Sir Giles, and Giles has sworn an oath to his King to slay the dragon. 
 
@@ -1333,13 +1313,11 @@ The Dwarf is a sapient being of Germanic legend, which gives it a moderate scope
 | Survival 	| +0     | +1         |   	    |  +1        |
 | Stealth  	| +2     | +1         |   	    |  +3        |
 
-*A Dwarf story* 
-
-As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see some of the edge cases of Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted. Dwarves are *alien*.
+*A Dwarf story* As a continuing trope, the Dwarfs of the Iron Balls Hills "dug too deep", because they are greedy, and "unleashed ancient evil", which for all intents and purposes is an Ifreet (c.f.). A general call for help is released as this murder-fire demon is wrecking having through the Kingdom of the Iron Balls and, brave as they are, none can stand against this ancient evil. Except for the PC Adventurers of course, which must include an duty-bound Dwarf who will go out of their way to rescue the Kingdom. The scenario itself doesn't sound particularly comical, but interacting with Dwarfs should be - they fit every possible stereoptype you could imagine. Financially thrifty yet desiring great wealth, industrious, organised, heavy (but cheap) drinkers, with an interesting taste in food (see some of the edge cases of Icelandic cuisine for examples), the experience of doing any sort of business with a society of Dwarfes will leave most PC Adventurers flabbergasted. Dwarves are *alien*.
 
 **Elemental**
 
-Elementals are fundamental forces of nature made animate, which varies according to culture. Starting from the Hellenic world and expanding into Europe, the Middle-East and northen Africa, the elements are rather like phase states; Earth, Water, Wind, and Fire. In Jainism of India there are also beings that consist of only one substance (*kaya*) however they also the addition of the Plant element. One fairly common mistake is that the Chinese "elements" (wu xing) a representative of this type. Wu Xing is more about movement rather than being and as a result there are no corresponding elementals. Nevertheless, it is from this system of movement that *Fantasy Papers & Paychecks* derives a dominance and overcoming interaction; the Hellenic Water elemental will cause 3* (yes, triple) damage after armour to Fire, which will likewise do the same to Air, which will do the same to Earth, which will do the same to Water. If the Plant element is added, then it is Fire that does tripe damage to Plant, and Plant which does the same to Air. Don'think about it too much, it's doesn't make too much sense. 
+Elementals are fundamental forces of nature made animate, which varies according to culture. Starting from the Hellenic world and expanding into Europe, the Middle-East and northen Africa, the elements are rather like phase states; Earth, Water, Wind, and Fire. In Jainism of India there are also beings that consist of only one substance (*kaya*) however they also the addition of the Plant element. One fairly common mistake is that the Chinese "elements" (wu xing) a representative of this type. Wu Xing is more about movement rather than being and as a result there are no corresponding elementals. Nevertheless, it is from this system of movement that *Fantasy Papers & Paychecks* derives a dominance and overcoming interaction; the Hellenic Water elemental will cause 3* (yes, triple) damage after armour to Fire, which will likewise do the same to Air, which will do the same to Earth, which will do the same to Water. If the Plant element is added, then it is Fire that does triple damage to Plant, and Plant which does the same to Air. Don't think about it too much, it's doesn't make too much sense. 
 
 Elementals have physical form, often in a general humanoid shape, which also means that they are subject to physical destruction. They can move through their native element at normal speed (the sudden appearance of a burrowing Earth elemental is always an interesting encounter). The physical form of each does provide some advantages. The Wind elemental obviously has the ability to fly but also does so at double rate ("fly like the wind"), the Earth elemental has double the listed STR (but same size and volume) for the purposes of physical hit points, clobbering and lifting things etc. Fire elementals have the advantage of optionally setting combustible items on fire (STR 5 for dry wood, paper etc, 10 for logs, 20 for leather, 40 for iron etc). Water elementals, unlike others, are able to modify their shape and thus are almost impossible to contain. If Plant elementals are used they have the ability to Heal wounds (or bruises) on touch, equal to twice the points that they destructively transfer from their own STR. Note that this healing ability includes all types of damage, physical, social, or mental. 
 
@@ -1359,9 +1337,7 @@ Elementals have personality types that correlate with their type. Earth elementa
 | Sense (ESP)   | +0       | +2         |           | +2         |
 | Melee 	| -3 to +20| +2	        |	    | -1 to +22  |
 
-*An Elemental story*
-
-A wizard hires the party in search for us much pure element as they can find. This in itself is not unusual, wizards are often hiring adventurers do this. When the party is successful, they can go off any do other things - until one day almost a year later they will receive another request from the wizard's *former* apprentice - the wizard entrapped the elementals in various magics and subjected them to a breeding program to create elementals. The elementals now want rescuing from the eugenicist wizard, and also there is new elemental babies to save. A mud elemental, a steam elemental etc.
+*An Elemental story* A wizard hires the party in search for us much pure element as they can find. This in itself is not unusual, wizards are often hiring adventurers do this. When the party is successful, they can go off any do other things - until one day almost a year later they will receive another request from the wizard's *former* apprentice - the wizard entrapped the elementals in various magics and subjected them to a breeding program to create elementals. The elementals now want rescuing from the eugenicist wizard, and also there is new elemental babies to save. A mud elemental, a steam elemental etc.
 
 **Elf**
 
@@ -1388,9 +1364,7 @@ Unlike many other Fantasy RPGs, *Fantasy Papers & Paychecks* represents Elfs are
 | Sense (hearing)  | +0       | +1        |    +0     | +1         |
 | Ride (horse)  | +0       | +1        |    +0     | +1         |
 	
-*An Elf story* 
-
-If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink! Hopefully, all's well that end's well, as the leader of the troupe, in a thoroughly theatrical manner, throws the bottle into a well, to illustrate their embarrassment and commitment to ending a drunken scourge. The demon of course, still present in the last few drops of the drink cannot believe it's luck, as it homeopathically spreads itself out...
+*An Elf story*  If there's one thing that Elfs are known for it's for switching babies. That's *hilarious*, right? Well, this time they've gone a step too far, and have switched the child of a local lord and lady, who was able to determine the switch thanks to a scrying device of the court wizard. So the PC adventurers have to go to Elfland, a place of weird terrors - only to find out that they aren't responsible for the switch. Who did it then? A theatrical troupe *playing* Elfs fake pointy ears and all. Why on earth would they do such a dastardly and treasonous act? Possessed by the Muse they will claim (possessed by a bottle, more like it). But they actually do mean this - a daemon did possess them (via a bottle) which led them astray. The demon drink! Hopefully, all's well that end's well, as the leader of the troupe, in a thoroughly theatrical manner, throws the bottle into a well, to illustrate their embarrassment and commitment to ending a drunken scourge. The demon of course, still present in the last few drops of the drink cannot believe it's luck, as it homeopathically spreads itself out...
 
 **Gargoyles**
 
@@ -1460,9 +1434,7 @@ Ghouls, originate from Arabic folklore and in a fantasy Earth enviroment can be 
 | Intimidate	| +4 to +4 | +2	|	| -2 to +6 |
 | Missile	| -4 to +4	| +2	|	| --2 to +6 |
 
-*A Ghoul story*. 
-
-When your life is living with an small family whose behavour consists of eating the dead, robbing people, killing them, and eating people, you typically don't get invited to many social occassions. But in everyone's life there is a time when romance strike, as so it has to Persefoni The Ghoul. In such circumstances, what's a poor ghoul to do? Spying upon a particularly handsome male PC Adventurer (change as you see fit) at a recent funeral, Persefoni had decided that he is the one that needs to brought home and become part of the family. Using the splendit clothes of the wealthy that have been buried, Persefoni begins her tragic quest for what is *probably* going to be unrequited love.
+*A Ghoul story* When your life is living with an small family whose behavour consists of eating the dead, robbing people, killing them, and eating people, you typically don't get invited to many social occassions. But in everyone's life there is a time when romance strike, as so it has to Persefoni The Ghoul. In such circumstances, what's a poor ghoul to do? Spying upon a particularly handsome male PC Adventurer (change as you see fit) at a recent funeral, Persefoni had decided that he is the one that needs to brought home and become part of the family. Using the splendit clothes of the wealthy that have been buried, Persefoni begins her tragic quest for what is *probably* going to be unrequited love.
 
 **Giant**
 
@@ -1485,9 +1457,7 @@ Giants, in various sizes, are found pretty much across all world mythologies. In
 | Intimidate	| +4 to +13 	| +2	|	    | +6 to +15  |
 | Missile	| -4 to +4	| +2	|	    | +0 to +6	|
 
-*A Giant story*
-
-Giants, of the European variety, are generally considered strong, lumbering, and not exactly quick of mind, "FBG" ("effin' big giant) is no exception to this norm. However, unlike his decidely more surly kin who like to eat people, and especially children. Unlikely the vague related story by Roald Dahl, in this giant story FBG needs some smaller people to help him catch "a sense of humour" in the dream-land of emotional states. Unsurprisingly, the PC adventurers are tasked with this, and have the tricky job of finding the "sense of humour" spirit among all the other various emotional states, including the unpleasant ones. Two characters that are necessary to include in this story are a human-sized couple, one of whom insists is a giant dwarf, and the other a dwarf giant (a hat-tip to Greg Stafford's *Pendragon*).
+*A Giant story* Giants, of the European variety, are generally considered strong, lumbering, and not exactly quick of mind, "FBG" ("effin' big giant) is no exception to this norm. However, unlike his decidely more surly kin who like to eat people, and especially children. Unlikely the vague related story by Roald Dahl, in this giant story FBG needs some smaller people to help him catch "a sense of humour" in the dream-land of emotional states. Unsurprisingly, the PC adventurers are tasked with this, and have the tricky job of finding the "sense of humour" spirit among all the other various emotional states, including the unpleasant ones. Two characters that are necessary to include in this story are a human-sized couple, one of whom insists is a giant dwarf, and the other a dwarf giant (a hat-tip to Greg Stafford's *Pendragon*).
 
 **Goblin, Imp, Hobgoblin, Mogwai**
 
@@ -1513,11 +1483,9 @@ In Chinese and Indian mythology the Mogwai is present, with the same physical at
 | Melee 	| -3 to +1 | +1	|	    | -2 to +0 |
 | Missile	| -2 to +7	| +2	|	| +0 to +9	|
 
-*A Goblin story*
+*A Goblin story* Inevitably PC adventurers find themselves in a situation where they are tasked with "dealing with" goblins, with the solution typically being some combination of fire and sword. This may be in the form of protecting a village from the ravages of goblin bandits (_Magnificent Seven_/_Seven Samurai_ opportunities!) or engaging in what contemporary military experts call "forward defense" (i.e., invading somebody else). In such a situation pick on the most soft-hearted character (or player) and have a clearly defeated goblin plea for their life and make all the promises in the world to be their life-servant etc. If accepted (and this jape only works once), the goblins intentions are indeed true. However, whilst the intellect might be willing, their spirit is weak - very week indeed and where ever the PC goes, the goblin follows in invariably gets into trouble, whether it is stealing small items of value, exposing themselves to noblewomen, etc. Attempts to reform the recalcitrant will be met with ardent promises by the little chap and failure afterwards. For example, if the goblin is taught not to steal a situation can be contrived where the goblin must steal to get the PCs out of a situation. 
 
 _`You came back... to a place like this? Why? A man like you? Why?"_
-
-Inevitably PC adventurers find themselves in a situation where they are tasked with "dealing with" goblins, with the solution typically being some combination of fire and sword. This may be in the form of protecting a village from the ravages of goblin bandits (_Magnificent Seven_/_Seven Samurai_ opportunities!) or engaging in what contemporary military experts call "forward defense" (i.e., invading somebody else). In such a situation pick on the most soft-hearted character (or player) and have a clearly defeated goblin plea for their life and make all the promises in the world to be their life-servant etc. If accepted (and this jape only works once), the goblins intentions are indeed true. However, whilst the intellect might be willing, their spirit is weak - very week indeed and where ever the PC goes, the goblin follows in invariably gets into trouble, whether it is stealing small items of value, exposing themselves to noblewomen, etc. Attempts to reform the recalcitrant will be met with ardent promises by the little chap and failure afterwards. For example, if the goblin is taught not to steal a situation can be contrived where the goblin must steal to get the PCs out of a situation. 
 
 **Golem**
 
@@ -1531,9 +1499,7 @@ A golem is a humanoid, fashioned from raw clay, and through the use of an Enchan
 
 A golem has two levels of damage reduction (that is, any and all damage is quartered)
 
-*A Golem story*
-
-Goethe's _The Sorcerer's Apprentice_ is perhaps the most well-known of the golem-mishap stories, and the Disney rendition in _Fantasia_ does justice to the theme, and is a comic-enough example. One particular side of effect of treating golems as automatons in *Papers & Paychecks* is a golem does not stop carrying out its duties even when the enchanter that created and programmed the golem is gone. In fact, stopping a golem and reprogramming it is extremely difficult. Not only is the problem of accessing the machine (pulling the instructions of a golem's body through the mouth, whilst it is in motion), random attempts to do this will result in unpredictable and buggy behaviour. In this particular case, a patron will approach high-level PC adventurers with a very difficult task - there is an ever-growing army of golems, as the wizard got into their mind to create a golem that creates golems. The wizard, Yen Sid, unfortunately had a mishap before their plans for world domination came to fruition and the golems have been following the same instructions. Over time, the PCs will discover the following high-level programming: (1) Fashion golem out of clay (2) Copy program (3) Insert program into golem (4) If attacked, save state, defend and remove cause of opposition, return to state. 
+*A Golem story* Goethe's _The Sorcerer's Apprentice_ is perhaps the most well-known of the golem-mishap stories, and the Disney rendition in _Fantasia_ does justice to the theme, and is a comic-enough example. One particular side of effect of treating golems as automatons in *Papers & Paychecks* is a golem does not stop carrying out its duties even when the enchanter that created and programmed the golem is gone. In fact, stopping a golem and reprogramming it is extremely difficult. Not only is the problem of accessing the machine (pulling the instructions of a golem's body through the mouth, whilst it is in motion), random attempts to do this will result in unpredictable and buggy behaviour. In this particular case, a patron will approach high-level PC adventurers with a very difficult task - there is an ever-growing army of golems, as the wizard got into their mind to create a golem that creates golems. The wizard, Yen Sid, unfortunately had a mishap before their plans for world domination came to fruition and the golems have been following the same instructions. Over time, the PCs will discover the following high-level programming: (1) Fashion golem out of clay (2) Copy program (3) Insert program into golem (4) If attacked, save state, defend and remove cause of opposition, return to state. 
 
 **Gorgon**
 
@@ -1559,9 +1525,7 @@ The most famous Gorgon in mythology is that of Medusa, who has two sisters of si
 
 In combat a Gorgon attacks with its Sense (sight) skill, with the gaze causing petrification (NO SAVING THROW) and with an effective range of 25m, and contested against the Wisdom of the target if they are merely "averting their eyes" or some other poor excuse. The venom of a Gorgon's snakes attacks with a STR 15 against the target, using a net attack bonus of +5 (+4 DEX, +1) an a range of 1m. The attack has reduced penetration, but if there is any successful damage the character will be afflicted by a poison that does 3x damage over a ten minute period. A gorgon has 12 snakes on their skull, with three snakes capable of attacking a target per round, and with each snake capable of three poisonous bites a day.
 
-*A Gorgon story* 
-
-When spring comes, one turns to love. In this story, the initially anonymous patron for the PC Adventurers is none other than Little Hannah, who is getting on years and hears her biological clock ticking quite loudly. Little Hannah doesn't get invited to many parties, and as such she hires the PCs to find her a husband fitting of her noble status (or at least she thinks so). Of course there is a whole range of fiendish difficulties with Little Hannah, namely her gaze, her snakes, and the like. Finding a blind herpetophile with a natural immunity to snake poison ought to be challenging of course.  For what it is worth, Little Hannah fancies herself a Wizard (well, a witch) and it is true she has a few levels in that profession. She has, however, a few more levels in Rogue.
+*A Gorgon story*  When spring comes, one turns to love. In this story, the initially anonymous patron for the PC Adventurers is none other than Little Hannah, who is getting on years and hears her biological clock ticking quite loudly. Little Hannah doesn't get invited to many parties, and as such she hires the PCs to find her a husband fitting of her noble status (or at least she thinks so). Of course there is a whole range of fiendish difficulties with Little Hannah, namely her gaze, her snakes, and the like. Finding a blind herpetophile with a natural immunity to snake poison ought to be challenging of course.  For what it is worth, Little Hannah fancies herself a Wizard (well, a witch) and it is true she has a few levels in that profession. She has, however, a few more levels in Rogue.
 
 **Griffin**
 
@@ -1583,9 +1547,7 @@ The griffin is a creature of legend from ancient Egypt, the Hellenic and Roman w
 
 A griffin's melee attack is either front eagle's bite (x2 damage) front claws (x2 damage) or rear claws (3x damage). A typical attack is to grapple with the front claws then rake with the rear the following action. A griffin can also dive-bomb, receiving a charge bonus to their Strength (c.f., 1.3 Skill Options and Elaborations). A griffin's feather and hide body protects for 2 points of damage.
 
-*A Griffin story*
-
-Harry and Hermione, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
+*A Griffin story* Harry and Hermione, perhaps not a very well-educated griffins, built their aerie on a mountain on a fault line. This afforded some magnificent view views over the coastline, and provided some wonderful burrows for which they can lay their golden eggs. Unfortunately there was an earthquake in the night, which led to both Harry and Hermoine breaking their wings, and their golden eggs tumbled down the burrows. They are now earth-bound, and the mountain has taken such a beating that there are entrances to the burrow complex from the ground level. Harry and Hermoine will be patrons to the PC Adventurers to help find the golden eggs in the mountain complex (which, of course, will be filled with malevolent monsters), fashion a proper entrance, and build a portal to protect the egg-burrows. Yes, Harry and Hermoine require ...  a griffin door. 
 
 But wait, there's more. One of the issues that Harry and Hermoine Griffin have is that there is a Wyrm that lives nearby, named Lucius. Given that there is now a cave entrance open, he could just *slither in*. Also, following the earthquake an ancient chamber that contains much wisdom can be found, but it is behind a very old door with an interesting locl. It can only be opened by one with great strength who can maneuver the weights correctly; it's a *dumbbell door*.
 
@@ -1616,9 +1578,7 @@ Because of this divergence, the CHA value of a harpy uses an *inverse* bell-curv
 
 A harpy does 2x damage with its claws and its feathered wings protect for 1 point.
 
-*A Harpy story*
-
-In the late Middle Ages the Hellenic isle of Milos became part of the Duchy of the Archipelago. In this story, the local lord of Milos is Yianno, a young man prone to all manner of fashions, and very interested in being very wealthy. The obsidian glass of which Milos is famous for is determined as his path to riches, as it can be fashioned into rather beautiful jewellery. Yianno's problem, for which the PC Adventurers are hired, is that a brood of harpies prevents the miners from quarrying and ideal quantity of the volcanic glass and as a result, his path to wealth is nowhere need as rapid as it could be. Whilst the PC Adventurers are tasked with the job of removing the harpy threat, it is soon discovered the villagers and even the miners are paying the harpies (with offerings of food, wine, oil etc) to create the threat, simply because their Lord is so thoroughly disliked on both their personality and their ideas. The harpies are all to willing to play along.
+*A Harpy story* In the late Middle Ages the Hellenic isle of Milos became part of the Duchy of the Archipelago. In this story, the local lord of Milos is Yianno, a young man prone to all manner of fashions, and very interested in being very wealthy. The obsidian glass of which Milos is famous for is determined as his path to riches, as it can be fashioned into rather beautiful jewellery. Yianno's problem, for which the PC Adventurers are hired, is that a brood of harpies prevents the miners from quarrying and ideal quantity of the volcanic glass and as a result, his path to wealth is nowhere need as rapid as it could be. Whilst the PC Adventurers are tasked with the job of removing the harpy threat, it is soon discovered the villagers and even the miners are paying the harpies (with offerings of food, wine, oil etc) to create the threat, simply because their Lord is so thoroughly disliked on both their personality and their ideas. The harpies are all to willing to play along.
 
 **Homunculus**
 
@@ -1637,9 +1597,7 @@ Found primarily in mythological writings the early European modern age, but also
 |---------------|----------|------------|-----------|------------|
 | Sense (hearing) | +0       | +3       |    +2     | +5         |
 
-*A Homunculus story*
-
-Homunculi are usually kept as solitary creatures, at least in part to the difficulty of their creation. However, Count Johann Ferdinand von Kufstein and Abbé Geloni, an Italian cleric, reputedly made several of them. A problem comes up when the homunculi start talking to each other and learn about their shared interests. The homunculi are, however, dependent on the count and the priest, but would much rather live independently. They act as a patron to the PC adventurers, firstly, escape - the PCs must look like the homunculi have been stolen, although they are located in several disparate locations. Secondly, find a home for them. Apart from the homes of their masters, the homunculi have no knowledge of the outside world. Finally, and more difficult, the homunculi would like some *female* homunculi in their life. Being made from men, all the homunculi are also male. A wizard who can create femal homunculi needs to found; curiously, there is a character named Gargamel who might be able to help.
+*A Homunculus story* Homunculi are usually kept as solitary creatures, at least in part to the difficulty of their creation. However, Count Johann Ferdinand von Kufstein and Abbé Geloni, an Italian cleric, reputedly made several of them. A problem comes up when the homunculi start talking to each other and learn about their shared interests. The homunculi are, however, dependent on the count and the priest, but would much rather live independently. They act as a patron to the PC adventurers, firstly, escape - the PCs must look like the homunculi have been stolen, although they are located in several disparate locations. Secondly, find a home for them. Apart from the homes of their masters, the homunculi have no knowledge of the outside world. Finally, and more difficult, the homunculi would like some *female* homunculi in their life. Being made from men, all the homunculi are also male. A wizard who can create femal homunculi needs to found; curiously, there is a character named Gargamel who might be able to help.
 
 **Ifreet**
 
@@ -1684,9 +1642,7 @@ Roughly the size of children Kobolds remain unseen to human sight in daylight ho
 | Craft		| +1 to +4 | +2		|	    | +3 to +6 |
 | Missile	| -4 to +4 | +2		|	    | -2 to +6	|
 
-*A Kobold story*
-
-Bob and his fellow boggarts live in a workshop in the village of Mugsborough called "The Cave" by those who work there. It's a building-trades workshop, with carpenters, plumbers, plasterers, bricklayers, painters etc, working from dawn to dusk each day. Unlike other Kobold communities, Bob has issued a rule that the Kobolds will not interfere with their work - for Bob can see that their labours are not entirely their own, but rather great wealth is taken by the workshop owners, Lord Rushton. Instead, Bob directs the Kobolds to keep account on who is, and isn't present - and someone is missing they visit their house to do chores, as these industrious workers would have to be ill not to come to work.
+*A Kobold story* Bob and his fellow boggarts live in a workshop in the village of Mugsborough called "The Cave" by those who work there. It's a building-trades workshop, with carpenters, plumbers, plasterers, bricklayers, painters etc, working from dawn to dusk each day. Unlike other Kobold communities, Bob has issued a rule that the Kobolds will not interfere with their work - for Bob can see that their labours are not entirely their own, but rather great wealth is taken by the workshop owners, Lord Rushton. Instead, Bob directs the Kobolds to keep account on who is, and isn't present - and someone is missing they visit their house to do chores, as these industrious workers would have to be ill not to come to work.
 
 What the Kobolds could not expect is that Lord Rushton would close down The Cave. Enough buildings had been made for the petty nobles of the region and the workers would have to go work on the land as tenant farmers, despite the fact that they had no skills in farming. There is obviously many houses in Mugsborough that need repairs, and there are people who can do the work; but Lord Rushton is not interested. Bob is desperate; he sends Kobolds out to find good-hearted men of wealth who can perhaps put the men of The Cave into gainful employment again. That is when a boggart named Owen finds the PC Adventurers. But Owen has a different idea, he thinks that the cause of the problem is Lord Rushton. Given that the commoners won't rid themselves of this lord, perhaps he can convince the PC adventurers to do instead. Recommended reading: *The Ragged-Trousered Philanthropists* (1914 novel, of sorts).
 
@@ -1710,8 +1666,8 @@ The Manticore is a creature with a body of a lion (tiger for the Indian keibu-ke
 | Sense (smell) | +1 to +7 | +2         |        | +3 to +9   |
 | Knowledge (philosophy) | +1 to + 7| +2 |	| +3 to 9     |
 
-Quills attack as per an arrow, x2 damage, STR 15, ongoing 2 wounds per strategic turn for 8 turns. Limited to 20 quills.
-Scorpion tail attacks with x2 damage, STR 10, ongoing 2 wounds per tactical round for 8 rounds.
+Quills attack as per an arrow, x1 damage, STR 15, ongoing 2 wounds per strategic turn for 8 turns. Limited to 20 quills.
+Scorpion tail attacks with x1 damage, STR 10, ongoing 2 wounds per tactical round for 8 rounds.
 Claws do x2 damage, with STR 20-20. Bite does x3 damage.
 The hide of a manticore et al., protects for 3 points of damage.
 
@@ -1740,9 +1696,7 @@ Featured in Hindu, Buddhist, and Malay mythology and known as the Phaya Naga in 
 
 The bite of a Naga does x2 damage and 2 wounds per tactical round for 4 rounds. Naga are also naturally capable of fire-based Elementalism (c.f.).
 
-*A Naga story*
-
-In an unfortunate case of false accusation, a scholar is investigating the underground Naga people, and has brought a party of adventurers with him. One panics at a point of transformation and kills the Naga, and their lover decides to track down and exact revenge against the entire party, rather than the single individual responsible. Ahh, the joys of collective punishment. The surviving members of the low-level adventuring party seek the help of the PC adventurers to protect them against this wily, vengeful, serpent. Recommended viewing *Nagin* (1976 film).
+*A Naga story* In an unfortunate case of false accusation, a scholar is investigating the underground Naga people, and has brought a party of adventurers with him. One panics at a point of transformation and kills the Naga, and their lover decides to track down and exact revenge against the entire party, rather than the single individual responsible. Ahh, the joys of collective punishment. The surviving members of the low-level adventuring party seek the help of the PC adventurers to protect them against this wily, vengeful, serpent. Recommended viewing *Nagin* (1976 film).
 
 **Nymph, Dryad, Satyr**
 
@@ -1767,9 +1721,7 @@ The Satyr is a culturally equivalent male nature spirit, but again *Fantasy Pape
 | Seduce	| +4 to +7 | +2	|	|  	    | +6 to +9  |
 | Knowledge (general, region) | +1 to +4 | +4 |     | +5 to +8   | 
 
-*A Dryad story*. 
-
-"Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
+*A Dryad story*.  "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
 **Ogre, Troll, Cyclops, Oni**
 
@@ -1792,9 +1744,7 @@ Appearing across world mythologies, Ogres (fem. ogress) are over-large humanoids
 | Intimidate	| +4 to +7 	| +2	|	    | +6 to +9  |
 | Missile	| -4 to +4	| +2	|	    | +0 to +6	|
 
-*An Ogre story*
-
-As a minor diversion in a dark situational comedy, the PC adventurers find an ogre stuck in the knothole of a very large and hardy tree. To add some urgency to the situation, a snow storm is approaching. The ogre will be desperate enough to promise all its worldly possessions, a promise it has no intention of keeping. If the PC Adventurers do somehow rescue the ogre (a couple of days of fasting will do the trick), they will discover the remains of a local boy that the ogre had chased into the knothole and eaten.
+*An Ogre story* As a minor diversion in a dark situational comedy, the PC adventurers find an ogre stuck in the knothole of a very large and hardy tree. To add some urgency to the situation, a snow storm is approaching. The ogre will be desperate enough to promise all its worldly possessions, a promise it has no intention of keeping. If the PC Adventurers do somehow rescue the ogre (a couple of days of fasting will do the trick), they will discover the remains of a local boy that the ogre had chased into the knothole and eaten.
 
 **Qilin**
 
@@ -1817,9 +1767,7 @@ A chimera-like creature primarily from Chinese mythology and other East Asian cu
 
 Scaled armour and mane protects for 3 points of damage. Flame breath is a missile weapon with an effective range of 20m and a damage bonus of 3x.
 
-*A Qilin story*
-
-There is no good without some evil, and no evil without some good, at least that's what some sages say. In this case, a qilin with a positive reputation comes with a secret sin; it's not quite vegetarian as it would like to be and is wih a dash of vindictiveness, it greatly desires to feast upon the flesh of Mogwai (q.v.). It has located such a demon in the castle of a local warlord, and provides directions on how to get there. It obviously can't do itself, as it's too big to enter the Mogwai's chambers. Alas for the PC Adventurers, the Mogwai in question turns out to be an innocent little child, barely a toddler. However, it also turns out that it _is_ a Mogwai. Just don't give it water after dark.
+*A Qilin story* There is no good without some evil, and no evil without some good, at least that's what some sages say. In this case, a qilin with a positive reputation comes with a secret sin; it's not quite vegetarian as it would like to be and is wih a dash of vindictiveness, it greatly desires to feast upon the flesh of Mogwai (q.v.). It has located such a demon in the castle of a local warlord, and provides directions on how to get there. It obviously can't do itself, as it's too big to enter the Mogwai's chambers. Alas for the PC Adventurers, the Mogwai in question turns out to be an innocent little child, barely a toddler. However, it also turns out that it _is_ a Mogwai. Just don't give it water after dark.
 
 **Rakshasa**
 
@@ -1841,9 +1789,7 @@ Rakshasa appear in Hindu and later Buddhist mythology as large humanoid consumer
 | Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
 | Knowledge (General)	| -4 to +4	| +2	|	| -2 to +6	|
 
-*A Rakshasha story*
-
-Despite their huge and fierce appearance Savindi is one of the civilised and vegetarian versions of the Rakshasa, whose skills are mostly singing, reciting poetry, and making puns. Unfortunately for Savindi she has become rather attached to a human, Ajith, and a warlike and bloodthirsty Raksahasa, Vivaan, has captured Ajith and intends to eat him. Because eating their loved-ones is the way to win a girl's heart, apparently. In any case Savindi will hire the PC adventurers to rescue Ajith. Unfortunately they will have to put up with Savindi's singing, poetry, and sense of humour in the process. For his part Ajith would dearly love to convert "his princess" from the ways of civilisation in favour of killing and eating people, and after spending some time in her company, he may have a point.
+*A Rakshasha story* Despite their huge and fierce appearance Savindi is one of the civilised and vegetarian versions of the Rakshasa, whose skills are mostly singing, reciting poetry, and making puns. Unfortunately for Savindi she has become rather attached to a human, Ajith, and a warlike and bloodthirsty Raksahasa, Vivaan, has captured Ajith and intends to eat him. Because eating their loved-ones is the way to win a girl's heart, apparently. In any case Savindi will hire the PC adventurers to rescue Ajith. Unfortunately they will have to put up with Savindi's singing, poetry, and sense of humour in the process. For his part Ajith would dearly love to convert "his princess" from the ways of civilisation in favour of killing and eating people, and after spending some time in her company, he may have a point.
 
 **Rukh, Garuda, Pheonix**
 
@@ -1864,9 +1810,7 @@ The Rukh or Garuda is a giant eagle-like bird of prey most commonly expressed in
 | Melee 	| +20 to +45 | +2	|	    | +22 to +47 |
 | Intimidate	| +20 to +45 | +0	|	| +20 to +45 |
 
-*A Pheonix story*
-
-Lapis, a brilliant blue-coloured pheonix, is reaching its 500th year of existence and feels the long and grim claw of death approaching. She acts as a patron to the PC Adventurers to establish nothing less than a cult in her honour, which will of course, include a funeral pyre from which she can be reborn, and promises appropriate compensation for such task. Unfortunately the last cult she established didn't last, courtesy of the short lifespans and fickle belies of the humans involved. The building of the temple can be difficult enough, but finding some worshippers is extremely difficult as everyone is already an initiate of other local cults. When the PC Adventurers finally make this through these problems, Lapis will descend into the flames, and, after dying, turning to ashes, and being revived will burst forth reformed, with a casacade of lapis stones tumbling from the pyre. "Rukh and roll", she will exclaim, before offering her parting line: "I've been burn again!"
+*A Pheonix story* Lapis, a brilliant blue-coloured pheonix, is reaching its 500th year of existence and feels the long and grim claw of death approaching. She acts as a patron to the PC Adventurers to establish nothing less than a cult in her honour, which will of course, include a funeral pyre from which she can be reborn, and promises appropriate compensation for such task. Unfortunately the last cult she established didn't last, courtesy of the short lifespans and fickle belies of the humans involved. The building of the temple can be difficult enough, but finding some worshippers is extremely difficult as everyone is already an initiate of other local cults. When the PC Adventurers finally make this through these problems, Lapis will descend into the flames, and, after dying, turning to ashes, and being revived will burst forth reformed, with a casacade of lapis stones tumbling from the pyre. "Rukh and roll", she will exclaim, before offering her parting line: "I've been burn again!"
 
 **Skeleton**
 
@@ -1888,9 +1832,7 @@ The appearance of animated skeletons in mythology is fairly rare, but not unknow
 | Intimidate	| -4 to +4 | +7		|	    | +3 to +11  |
 | Missile	| -4 to +4 | +7		|	    | +3 to +11  |
 
-*A Skeleton story*
-
-The traditional means of contacting the deceased spirits has been blocked by some powerful magics. The PC Adventurers find themselves in need to making some sort of alternative arrangements. Through various investigations they find that there is a pathyway to the underworld through the a certain necropolis, which is, of course, inhabited by various beings of unpleasant dispositions towards the living. Nevertheless there is one who will do this task, if the compensation is right - and keeping in mind that not many earthly riches appeal to the unded. This is Emma the skeleton, also known as Boney M; she runs the Bony Express. 
+*A Skeleton story* The traditional means of contacting the deceased spirits has been blocked by some powerful magics. The PC Adventurers find themselves in need to making some sort of alternative arrangements. Through various investigations they find that there is a pathyway to the underworld through the a certain necropolis, which is, of course, inhabited by various beings of unpleasant dispositions towards the living. Nevertheless there is one who will do this task, if the compensation is right - and keeping in mind that not many earthly riches appeal to the unded. This is Emma the skeleton, also known as Boney M; she runs the Bony Express. 
 
 **Troglodyte**
 
@@ -1913,73 +1855,72 @@ As Troglydtes spend a great deal of their time in various cave systems and usual
 | Athletics (stamina) | -4 to +4 | +1	|	    | -3 to +5 |
 | Melee 	| -4 to +4 | +2	|	    | -2 to +6 |
 
-*A Troglodyte story*
-
-The PC Adventurers are enjoying time at their base when they are interrupted in the middle of the night by a wild man wearing animal skins and speaking in a halting, but desperate voice. Introducing himself as Zimran The Troglodyte he tells of a sorrowful tale of how he has travelled far and experienced many strange things (including two-story buildings) to plead with the adventurers to save his people. As per a common troupe, one of his people explored too deep and disturbed an ancient evil that probably should not have been disturbed. The people have fled to caves nearby, but they need some brave adventurers to help recover the very rare and powerful magical artifacts that belong to the tribe. Did he mention "very rare and powerful"? The adventurers will be rewarded of course with their choice of said artifacts. It will turn out that the artifacts are things that will make a trogoldytes home a lot more comfortable; a set of rocks which can illuminate a room and turn themselves off and on with a clap of the hands, a wooden box which records, plays, and ampflies music, a 40" flat-screen crystal that can display images and sounds from places far away. Who says these troglodytes aren't civilised? 
+*A Troglodyte story* The PC Adventurers are enjoying time at their base when they are interrupted in the middle of the night by a wild man wearing animal skins and speaking in a halting, but desperate voice. Introducing himself as Zimran The Troglodyte he tells of a sorrowful tale of how he has travelled far and experienced many strange things (including two-story buildings) to plead with the adventurers to save his people. As per a common troupe, one of his people explored too deep and disturbed an ancient evil that probably should not have been disturbed. The people have fled to caves nearby, but they need some brave adventurers to help recover the very rare and powerful magical artifacts that belong to the tribe. Did he mention "very rare and powerful"? The adventurers will be rewarded of course with their choice of said artifacts. It will turn out that the artifacts are things that will make a trogoldytes home a lot more comfortable; a set of rocks which can illuminate a room and turn themselves off and on with a clap of the hands, a wooden box which records, plays, and ampflies music, a 40" flat-screen crystal that can display images and sounds from places far away. Who says these troglodytes aren't civilised? 
 
 **Unicorn**
 
+Originating in Indian mythology and from there the Hellenic world and Europe, the unicorn is a horse-like being with a goat's beard and a single horn that is approximately 70cm in length. In ancient Persia at least one unicorn had wings as well, providing and additional flight movement to running. The unicorn, whilst of a gentle temperament, does not enjoy the company of those of an even slightly dubious intention or history (c.f., Sense ESP skill) and will only entertain the company of the most pure of heart. The horn of the unicorn has healing properties; it can render harmess poison and cure wounds, albeit the later does cost the unicorn one physical bruise per wound caused. The poison curative properties remain even after the unicorn's horn has been removed, which makes it a target for hunters, despite its sapience. The unicorn can understand some speech, but is mute.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  50-100   |  +20 to +45| Profession	 | Ranger |
+| Intelligence	    |  2-12     |  -4 to +1  | Level	         | 1	 |
+| Wisdom 	    |  2-12     |  -4 to +1  | Movement (running)| 10-15 |
+| Dexterity	    |  2-8      |  -4 to -1  | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4  | Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4  | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (ESP)   | -4 to +4 | +3       |      | -1 to +7         |
+| Sense (hearing) | -4 to +4  | +3       |       | -1 to +7        |
 
-A Unicorn story
+A unicorn can charge and stab with its horn for an impressive x2 damage, or from a standing position, stab for x1 damage, or kick for 0.5 damage.
+
+*A Unicorn story* A tearful maid acccosts the PC Adventurers with a terrible story. The throne of a local Kingdom is made with unicorn horns (c.f., the throne of Denmark) and has been that way for a very long time. The unicorn, being a special and magical beast, is unaging, but has recently been poisoned by a malicious hunter. The unicorn is slowly dying and requires its horn back to cure the poison. Problems are abound; (a) the maid is the only person in the land who is sufficiently pure of heart to approach the unicorn, (b) the King and Queen of the court are not going to hand over their priceless artifact to some peasant girl with a fanciful tale. How do the PC adventurers get the horn? Do they steal it? And is it all a very cunning ruse to attain a unicorn horn? 
 
 **Vampire**
 
-Whilst the term itself (originally vampyre) is relatively recent, dating from the eighteenth century, the *concept* of blood-sucking demons in human form that are shapeshifters seems to have a cultural resonance across Europe, Africa, Asia, and even to a lesser extent the Americas. There is a multitude of reasons that the dead rise as a vampires as are the solutions for preventing or destroying a vampire. Courtesy of *Vampire: The Masquerade* (1991), the roleplaying game, a dominant contemporary meme is the concept that vampires are *sired* by an existing vampire draining the blood of a mortal, setting up a generational hierarchy. This seems to a fairly good concept that is acceptable to other mythologies so it's worth keeping in *Papers & Paychecks*, not being at all adverse to copying good ideas from anywhere. Sincere imitation really is flattery.
+Whilst the term itself (originally vampyre) is relatively recent, dating from the eighteenth century, the *concept* of blood-sucking demons in human form that are shapeshifters seems to have a cultural resonance across Europe, Africa, Asia, and even to a lesser extent the Americas. There is a multitude of reasons that the dead rise as a vampires as are the solutions for preventing or destroying a vampire. Courtesy of *Vampire: The Masquerade* (1991), the roleplaying game, a dominant contemporary meme is the concept that vampires are *sired* by an existing vampire draining the blood of a mortal, setting up a generational hierarchy. This seems to a fairly good concept that is acceptable to other mythologies so it's worth keeping in *Fantasy Papers & Paychecks*, not being at all adverse to copying good ideas from anywhere. Sincere imitation really is flattery.
 
-As undead creatures Vampires do not need to breathe and sleep, although they do need to eat, although their diet is restricted to the species-specific blood that they once were (usually human). Vampires can be killed by a stake (wooden, iron, whatever) through the chest which destroys the heart, or decapitation. Apart from these methods and those which completely destroy the body in entirety, vampires regenerate pretty much any sort of wound [EDIT]. 
+As undead creatures Vampires do not need to breathe and sleep, although they do need to eat, although their diet is restricted to the species-specific blood that they once were, although a closely-related species is enough for survival. Vampires can be killed by a stake (wooden, iron) through the chest which destroys the heart, or decapitation. Apart from these methods and those which completely destroy the body in entirety, vampires regenerate pretty much any sort of wound at a rate of 1 wound per tactical round, which is quite unnerving to watch. The concept that vampires are damaged by sunlight is a modern invention.
 
 Vampires tend to come from the wealthy members of society, partially due to their heretical lifestyle and partially because they have access to ready supply of poor people at hand whose disappearance can number in the scores before suspicions are raised. The other advantage of being wealthy is that Vampires can make a killing (haha) on long-term investments. Some political theorists have recognised this: "Capital is dead labour, that, vampire-like, only lives by sucking living labour, and lives the more, the more labour it sucks" (Karl Marx, Capital, Volume One)
  
-
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  18-24    |  +4 to +6	| Profession	 | Fighter or Wizard |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)| 10-15 |
 | Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
 | Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
 | Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Melee 	| +4 to +6 | +2		|	    | +6 to +8 |
+| Intimidate	| +4 to +6 | +1		|	    | +5 to +7 |
+| Missile	| -4 to +4 | +1		|	    | -3 to +5	|
+| Knowledge (General) -4 to +4 | +1 	|	    | -3 to +5	|
 
-*A Vampire story*. 
+*A Vampire story*. A double-twist from the unicorn story! Vampires can be from any sapient species, and in this case the poisoned unicorn is, in fact, a very rare creature *a vampire unicorn*. Of course, this will not be evident until the creature is cured, whereupon it will make life very difficult for the PC adventurers by selecting the finest horses in the kingdom to dine upon. To up the difficulty level of dealing with such a creature, make the unicorn one of the flying variety. 
 
-**Zombie**
+**Zombie, Lich**
 
-The classic Zombi is a magically reanimated corpse from Haiti, the word first recorded in the 19th century, however it has become a very popular staple in science fiction with radiation, viruses, etc as being the source of zombification. There is good evidence that the Haitan zombie has its origins in central, west, and south African legend. Others locate expressions of zombification from Mesopotamia where there is threats of the dead rising to eat the living in the Descent of Ishtar and the Epic of Gilgamesh. As for Lazarus being raised from the dead...
+The classic Zombi is a magically reanimated corpse from Haiti, the word first recorded in the 19th century, however it has become a very popular staple in science fiction with radiation, viruses, etc as being the source of zombification. There is good evidence that the Haitan zombie has its origins in central, west, and south African legend. Others locate expressions of zombification from Mesopotamia where there is threats of the dead rising to eat the living in the Descent of Ishtar and the Epic of Gilgamesh. As for Lazarus being raised from the dead.
 
 Whilst *Fantasy Papers & Paychecks* encourages the most widespread use of zombies, because they are so much fun, there are some thematic considerations to include. Zombies should be strong, not too quick, and not too bright. They're a bit stiff having been dead for a while, and the brain is quite sluggish too. But they have a dead weight about them and can pack a hell of a punch. Whilst they don't have to breathe or sleep, they do need to eat and lacking in any sort of social mores, they don't mind eating people. They will follow, to the best of their ability, the orders given to them by their creator, and if their creator comes to an unfortunate end they'll try to continue whatever the last order was. If they don't have any orders they'll wander around aimlessley and occasionally eat someone. 
 
+Note that some clever wizards and clerics place the zombie ritual upon themselves before dying, ensuring that they are raised from the dead with their mental and perceptual faculties intact. Such a zombie is referred to as a *lich*, and will usual command a horde of zombies itself.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  12-18    |  +1 to +4	| Profession	 | Fighter or Wizard |
+| Intelligence	    |  3-8     |  -4 to -1   	| Level	         | 1	 |
+| Wisdom 	    |  3-8     |  -4 to -1  	| Movement (running)| 3-6 |
+| Dexterity	    |  3-8     |  -4 to -1      | Wounds (Physical) |   |
+| Perception	    |  3-8     |  -4 to -1	| Wounds (Mental)   |   |
+| Charisma	    |  3	|  -4         	| Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
