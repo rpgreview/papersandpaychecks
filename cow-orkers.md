@@ -1894,24 +1894,28 @@ The traditional means of contacting the deceased spirits has been blocked by som
 
 **Troglodyte**
 
+Appearing in Hellenic, Roman, and European mythologies, the troglodytes are a humanoid population that, as their name implies, lives in caves. According to various writers, the troglodytes lived in various communisties along the Red Sea, contemporary Yemen, the mountains of north and west Africa, and central and east Europe. In general, they look like humans, act like humans, and are, in fact, humans, but just have rejected the temptations of civilisation in favour of a neolithic lifestyle which is often nasty, brutish, and short. Some writers suggest that the troglodytes are an untrusty worthy and amoral population, barely above animals. Others argue that they are "noble savages". The truth is somewhat in-between; there are both good and bad troglodytes. 
+
+As Troglydtes spend a great deal of their time in various cave systems and usually only come out at night they have a +2 cultural bonus to their Sense (hearing) skill and -2 penalty to Sense (sight) in sunlight.
+
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  3-18     |  -4 to +4	| Profession	 | any |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)| 2-9 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (hearing) | -4 to +4      | +3       |    +2     | +1 to +9         |
+| Athletics (stamina) | -4 to +4 | +1	|	    | -3 to +5 |
+| Melee 	| -4 to +4 | +2	|	    | -2 to +6 |
 
-A Troglodyte story
+*A Troglodyte story*
+
+The PC Adventurers are enjoying time at their base when they are interrupted in the middle of the night by a wild man wearing animal skins and speaking in a halting, but desperate voice. Introducing himself as Zimran The Troglodyte he tells of a sorrowful tale of how he has travelled far and experienced many strange things (including two-story buildings) to plead with the adventurers to save his people. As per a common troupe, one of his people explored too deep and disturbed an ancient evil that probably should not have been disturbed. The people have fled to caves nearby, but they need some brave adventurers to help recover the very rare and powerful magical artifacts that belong to the tribe. Did he mention "very rare and powerful"? The adventurers will be rewarded of course with their choice of said artifacts. It will turn out that the artifacts are things that will make a trogoldytes home a lot more comfortable; a set of rocks which can illuminate a room and turn themselves off and on with a clap of the hands, a wooden box which records, plays, and ampflies music, a 40" flat-screen crystal that can display images and sounds from places far away. Who says these troglodytes aren't civilised? 
 
 **Troll**
 
