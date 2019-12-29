@@ -1771,7 +1771,7 @@ The Satyr is a culturally equivalent male nature spirit, but again *Fantasy Pape
 
 "Every Dryad gets a tree, but did I really have to be a baobab?". This is the tale of Alexandria, a tree nymph who was brought into being by Alexander The Great's Empire in Egypt, where a single plant transported by a merchant was the subject of revered curiosity and eventually worship. Thus fed by human worship the nymph formed and now is part of a Hellenic temple complex. It is hardly the greatest situation because there is very few other trees in the city and, being a baobab tree, Alexandria is a rather grotesque-looking dryad. Still, she does her best playing the part of a wise, if strange, woman, who offer cryptic prophecies which turn out to be true in hindsight, which is a good way to retain a business. A problem has arisen however that the temple authorities, who know little of her true nature, have decided that real-estate prices in Alexandria are too good to ignored and that the tree has to go. Alexandria (the Dryad) needs help, and the PC Adventurers are just the sort who could buy the land if only they could encouraged to steal sufficient funds from another source.
 
-**Ogre, Cyclops, Oni**
+**Ogre, Troll, Cyclops, Oni**
 
 Appearing across world mythologies, Ogres (fem. ogress) are over-large humanoids with a penchant for human flesh, especially that of children. They sometimes appear with but a single eye (c.f., The Odyssey, Sinbad). The Japanese ogre, known as an oni, makes its way throughout Asian stories and even into India. They often sport horns from their head, or a third eye. They are also often competent magic-users.
 
@@ -1916,27 +1916,6 @@ As Troglydtes spend a great deal of their time in various cave systems and usual
 *A Troglodyte story*
 
 The PC Adventurers are enjoying time at their base when they are interrupted in the middle of the night by a wild man wearing animal skins and speaking in a halting, but desperate voice. Introducing himself as Zimran The Troglodyte he tells of a sorrowful tale of how he has travelled far and experienced many strange things (including two-story buildings) to plead with the adventurers to save his people. As per a common troupe, one of his people explored too deep and disturbed an ancient evil that probably should not have been disturbed. The people have fled to caves nearby, but they need some brave adventurers to help recover the very rare and powerful magical artifacts that belong to the tribe. Did he mention "very rare and powerful"? The adventurers will be rewarded of course with their choice of said artifacts. It will turn out that the artifacts are things that will make a trogoldytes home a lot more comfortable; a set of rocks which can illuminate a room and turn themselves off and on with a clap of the hands, a wooden box which records, plays, and ampflies music, a 40" flat-screen crystal that can display images and sounds from places far away. Who says these troglodytes aren't civilised? 
-
-**Troll**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Troll story
 
 **Unicorn**
 
