@@ -1870,45 +1870,27 @@ Lapis, a brilliant blue-coloured pheonix, is reaching its 500th year of existenc
 
 **Skeleton**
 
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Skeleton story
-
-**Sylph**
+The appearance of animated skeletons in mythology is fairly rare, but not unknown. In modern fantasy it is more common, and often in that literature it is a relatively weak form of undead being. However in *Fantasy Papers & Paychecks* the skeleton is a lot tougher following a principle ("the Michael Cole rule") that a skeleton is a zombie that has survived and gained experience. Whilst all sapient monsters can gain experience and advance levels in *Papers & Paychecks*, the skeleton is the only creature that starts off at a higher level. Whilst the default profession for a skeleton is "Fighter", because that's what they are raised for, skeletons of other professions are not unknown. Note that skeletons perceive through sensing vibrations.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Strength	    |  3-18     |  -4 to +4	| Profession	 | Fighter |
+| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 5	 |
+| Wisdom 	    |  3-18     |  -4 to +4  	| Movement (running)| 2-9 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  3-18     |  -4 to +4	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (vibrations) | -4 to +4 | +7    |      	    | +3 to +11  |
+| Melee 	| -4 to +4 | +7		|	    | +3 to +11  |
+| Intimidate	| -4 to +4 | +7		|	    | +3 to +11  |
+| Missile	| -4 to +4 | +7		|	    | +3 to +11  |
 
-A Sylph story
+*A Skeleton story*
+
+The traditional means of contacting the deceased spirits has been blocked by some powerful magics. The PC Adventurers find themselves in need to making some sort of alternative arrangements. Through various investigations they find that there is a pathyway to the underworld through the a certain necropolis, which is, of course, inhabited by various beings of unpleasant dispositions towards the living. Nevertheless there is one who will do this task, if the compensation is right - and keeping in mind that not many earthly riches appeal to the unded. This is Emma the skeleton, also known as Boney M; she runs the Bony Express. 
 
 **Troglodyte**
 
