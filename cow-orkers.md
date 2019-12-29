@@ -1746,8 +1746,7 @@ In an unfortunate case of false accusation, a scholar is investigating the under
 
 **Nymph, Dryad**
 
-Originating in Hellenic mythology, Nymphs are nature spirits tied to a particular location (Dryads for trees, Naiads for rivers, Nereids for oceans, Oreads for mountains, etc) that take on the appearance of a humanoid of exceptional beauty. Their local area knowledge is, of course, exceptional. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters.
-Human-Nymph children are known; if they are male they will follow the human path, and if female the nymph path.
+Originating in Hellenic mythology, Nymphs are nature spirits tied to a particular location, a genius loci, that take on the appearance of a humanoid of exceptional beauty. The literature says female, but *Fantasy Papers & Paychecks& is an equal opportunity employer. The specific term of for the nature spirit varies according to location; Dryads for trees, Naiads for rivers, Nereids for oceans, Oreads for mountains, etc Their local area knowledge is, of course, exceptional. Cognate beings are in Japanese mythology (Kodama) and the Indian (Salabhanjika), although an important cultural difference is the whilst the Salabhanjika are meant to be chaste, the Nymphs, is free from the constraints of polis and as a result is exceedingly well-versed in country matters. Human-Nymph children are known; if they are male they will follow the human path, and if female the nymph path.
 
 Nymphs have a form of minor teleportation tied their natural loci. For example, a dryad has the ability to step into a tree and step out of another one up to 20 metres a way, however they will never willingly move more than one hundred metres from their loci. They remain alive as long as their loci is alive. In Japanese mythology a Kodama's tree bleeds if cut which is a nice aesthetic touch that can be ported to the rest of *Fantasy Papers & Paychecks*.
 
@@ -1844,47 +1843,28 @@ Rakshasa appear in Hindu and later Buddhist mythology as large humanoid consumer
 
 Despite their huge and fierce appearance Savindi is one of the civilised and vegetarian versions of the Rakshasa, whose skills are mostly singing, reciting poetry, and making puns. Unfortunately for Savindi she has become rather attached to a human, Ajith, and a warlike and bloodthirsty Raksahasa, Vivaan, has captured Ajith and intends to eat him. Because eating their loved-ones is the way to win a girl's heart, apparently. In any case Savindi will hire the PC adventurers to rescue Ajith. Unfortunately they will have to put up with Savindi's singing, poetry, and sense of humour in the process. For his part Ajith would dearly love to convert "his princess" from the ways of civilisation in favour of killing and eating people, and after spending some time in her company, he may have a point.
 
-**Roc**
+**Rukh, Garuda, Pheonix**
+
+The Rukh or Garuda is a giant eagle-like bird of prey most commonly expressed in Arabic, Middle-East, and Indian Ocean regions, but with equivalent beings in the Pacific islands (kanivatu), China (peng), and the Americas (thunderbird). The Garuda in the *Mahabharata* and the *Ramayana* are capable of carrying elephants, which gives some indication of their size and strength. In Chinese mythology, the Peng is a shapechanger that can transform from a giant fish into a giant bird, whereas the Hellenic-Egyptian pheonix regenerates from every five hundred years after its body is consumed by fire.
 
 | **Characteristic**| **Value**	| **Bonus**  | 	|	|
 |-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
+| Strength	    |  50-100   |  +20 to +45	| Profession	 | Fighter |
 | Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
+| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (fly)| 25-50 |
+| Dexterity	    |  3-18     |  -4 to +4     | Wounds (Physical) |   |
+| Perception	    |  12-24    |  +1 to +7	| Wounds (Mental)   |   |
+| Charisma	    |  3-18	|  -4 to +4     | Wounds (Social)   |   |
 
 | **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
 |---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
+| Sense (sight) | +1 to +7 | +3         |    +4     | +8 to +15  |
+| Melee 	| +20 to +45 | +2	|	    | +22 to +47 |
+| Intimidate	| +20 to +45 | +0	|	| +20 to +45 |
 
-A Roc story
+*A Pheonix story*
 
-**Salamader**
-
-| **Characteristic**| **Value**	| **Bonus**  | 	|	|
-|-------------------|-----------|------------|--|-------|	
-| Strength	    |  18-26    |  +4 to +8	| Profession	 | Fighter or Wizard |
-| Intelligence	    |  3-18     |  -4 to +4   	| Level	         | 1	 |
-| Wisdom 	    |  3-18     |  -4 to -1  	| Movement (running)| 10-15 |
-| Dexterity	    |  3-18     |  -4 to +4        | Wounds (Physical) |   |
-| Perception	    |  3-18     |  -4 to +4	      | Wounds (Mental)   |   |
-| Charisma	    |  3-18	|  -4 to +4        | Wounds (Social)   |   |
-
-| **Skill**     | **Char** | **Train**  | **Other** | **Total**  |
-|---------------|----------|------------|-----------|------------|
-| Sense (hearing) | +0       | +3       |    +2     | +5         |
-| Athletics (stamina) | +4 to +8 | +1	|	    | +5 to +9 |
-| Melee 	| +4 to +8 | +2	|	    | +6 to +10 |
-| Intimidate	| +4 to +8 | +1	|	| +5 to +9 |
-| Missile	| -4 to +4	| +1	|	| -3 to +5	|
-
-A Salamander story
+Lapis, a brilliant blue-coloured pheonix, is reaching its 500th year of existence and feels the long and grim claw of death approaching. She acts as a patron to the PC Adventurers to establish nothing less than a cult in her honour, which will of course, include a funeral pyre from which she can be reborn, and promises appropriate compensation for such task. Unfortunately the last cult she established didn't last, courtesy of the short lifespans and fickle belies of the humans involved. The building of the temple can be difficult enough, but finding some worshippers is extremely difficult as everyone is already an initiate of other local cults. When the PC Adventurers finally make this through these problems, Lapis will descend into the flames, and, after dying, turning to ashes, and being revived will burst forth reformed, with a casacade of lapis stones tumbling from the pyre. "Rukh and roll", she will exclaim, before offering her parting line: "I've been burn again!"
 
 **Satyr**
 
